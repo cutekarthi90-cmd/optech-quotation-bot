@@ -18,7 +18,14 @@ SQL_CONFIG = {
 ITEMS_CACHE_FILE = BASE_DIR / "items_cache.json"
 
 # Google Gemini API Key
-# Set via environment variable GEMINI_API_KEY or paste directly here
+# Set via environment variable GEMINI_API_KEY or .env file
+env_file = BASE_DIR / ".env"
+if env_file.exists():
+    for line in env_file.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if line.startswith("GEMINI_API_KEY=") and not os.getenv("GEMINI_API_KEY"):
+            os.environ["GEMINI_API_KEY"] = line.split("=", 1)[1].strip()
+
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
 
 # Server Settings
@@ -27,5 +34,5 @@ PORT = int(os.getenv("PORT", 8000))
 
 # Cloud Sync Settings
 SYNC_SECRET = os.getenv("SYNC_SECRET", "optech_sync_secret_key_2026")
-CLOUD_SERVER_URL = os.getenv("CLOUD_SERVER_URL", "")
+CLOUD_SERVER_URL = os.getenv("CLOUD_SERVER_URL", "https://optech-quotation-bot.onrender.com")
 

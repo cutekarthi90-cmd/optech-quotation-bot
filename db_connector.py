@@ -65,9 +65,11 @@ def fetch_items_from_sql() -> List[Dict[str, Any]]:
         ISNULL(G.ItemGroup_name, '') AS group_name,
         CAST(ISNULL(I.Item_Purcrate, 0) AS FLOAT) AS purchase_rate,
         CAST(ISNULL(I.Item_Salerate, 0) AS FLOAT) AS sale_rate,
-        ISNULL(I.ItemHSN_Code, '') AS hsn_code
+        ISNULL(I.ItemHSN_Code, '') AS hsn_code,
+        ISNULL(U.Unit_name, 'Nos') AS unit
     FROM Item_Master I
     LEFT JOIN ItemGroup_Master G ON I.ItemGroup_sno = G.ItemGroup_sno
+    LEFT JOIN Unit_Master U ON I.MainUnit_sno = U.Unit_sno
     WHERE ISNULL(I.Item_name, '') <> ''
     ORDER BY I.Item_name;
     """
@@ -84,6 +86,7 @@ def fetch_items_from_sql() -> List[Dict[str, Any]]:
                     item_dict["item_name"] = str(item_dict["item_name"]).strip()
                     item_dict["group_name"] = str(item_dict["group_name"]).strip()
                     item_dict["hsn_code"] = str(item_dict["hsn_code"]).strip()
+                    item_dict["unit"] = str(item_dict.get("unit") or "Nos").strip() or "Nos"
                     items.append(item_dict)
                 logger.info(f"Successfully fetched {len(items):,} items from SQL Server.")
                 return items

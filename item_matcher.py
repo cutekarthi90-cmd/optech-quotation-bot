@@ -361,12 +361,13 @@ class ItemMatcher:
             if matched:
                 sale_rate = float(matched.get("sale_rate", 0) or 0)
                 pur_rate = float(matched.get("purchase_rate", 0) or 0)
+                official_unit = matched.get("unit") or unit or "Nos"
                 results.append({
                     "requested_name": query,
                     "matched_item_name": matched["item_name"],
                     "group_name": matched.get("group_name", ""),
                     "quantity": qty,
-                    "unit": unit,
+                    "unit": official_unit,
                     "sale_rate": sale_rate,
                     "purchase_rate": pur_rate,
                     "amount": round(qty * sale_rate, 2),

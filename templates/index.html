@@ -841,6 +841,7 @@
                 currentItems[idx].pur_rate = product.purchase_rate || 0;
                 currentItems[idx].as_usual_rate = product.sale_rate || 0;
                 currentItems[idx].hsn_code = product.hsn_code || '';
+                currentItems[idx].unit = product.unit || currentItems[idx].unit || 'Nos';
                 currentItems[idx].markup_pct = getGroupMarkupPercent(product.group_name);
                 currentItems[idx].match_score = 100;
                 currentItems[idx].memorized = true;
