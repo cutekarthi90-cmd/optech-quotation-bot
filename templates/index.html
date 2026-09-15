@@ -529,12 +529,17 @@
                 });
                 const data = await res.json();
                 if (!res.ok) {
-                    alert('Error: ' + (data.detail || 'Failed to process quotation'));
+                    const detail = data.detail || 'Failed to process quotation';
+                    if (res.status === 503 || detail.includes('503') || detail.includes('high demand')) {
+                        alert('⚠️ Google AI servers are temporarily busy (503). Retrying with offline rule-based matcher...');
+                    } else {
+                        alert('⚠️ ' + detail);
+                    }
                     return;
                 }
                 loadDataIntoEditor(data);
             } catch (e) {
-                alert('Error: ' + e);
+                alert('Network error: ' + e);
             } finally {
                 showSpinner(false);
             }
@@ -552,16 +557,20 @@
                 });
                 const data = await res.json();
                 if (!res.ok) {
-                    if (data.detail && data.detail.includes('Gemini API key')) {
+                    const detail = data.detail || 'Failed to process image';
+                    if (detail.includes('Gemini API key') || detail.includes('API key')) {
+                        alert('🔑 Gemini API Key is required for Photo OCR. Please set it in the API Key settings.');
                         openApiKeyModal();
+                    } else if (res.status === 503 || detail.includes('503') || detail.includes('high demand')) {
+                        alert('⚠️ Google AI server is temporarily busy (503 High Demand).\n\nPlease wait 10-15 seconds and try again, or type the items directly into the text box on the left.');
                     } else {
-                        alert('Error: ' + (data.detail || 'Failed to process image'));
+                        alert('⚠️ ' + detail);
                     }
                     return;
                 }
                 loadDataIntoEditor(data);
             } catch (e) {
-                alert('Error: ' + e);
+                alert('Network error: ' + e);
             } finally {
                 showSpinner(false);
             }
@@ -598,6 +607,7 @@
             });
 
             renderEditorTable();
+            autoSaveCurrentQuotation();
         }
 
         function onGstChange() {
@@ -979,10 +989,26 @@
             window.print();
         }
 
-        async function saveQuotationToHistory() {
-            const btn = document.getElementById('saveQuoteBtn');
-            const custName = document.getElementById('custNameInput').value.trim();
-            const custPhone = document.getElementById('custPhoneInput').value.trim();
+        function getLocalHistory() {
+            try {
+                return JSON.parse(localStorage.getItem('optech_quotation_history') || '[]');
+            } catch (e) {
+                return [];
+            }
+        }
+
+        function saveLocalHistory(historyList) {
+            try {
+                localStorage.setItem('optech_quotation_history', JSON.stringify(historyList.slice(0, 100)));
+            } catch (e) {
+                console.warn('Failed to save to localStorage', e);
+            }
+        }
+
+        function autoSaveCurrentQuotation() {
+            if (!currentItems || currentItems.length === 0) return;
+            const custName = document.getElementById('custNameInput').value.trim() || 'Walk-in Customer';
+            const custPhone = document.getElementById('custPhoneInput').value.trim() || '-';
             const gstVal = document.getElementById('gstSelect').value;
             const msg = document.getElementById('whatsappPreview').innerText;
 
@@ -991,72 +1017,158 @@
             if (gstVal !== 'extra') {
                 total += total * ((parseFloat(gstVal) || 0) / 100);
             }
+            total = Math.round(total * 100) / 100;
 
+            const entry = {
+                id: 'local_' + Date.now(),
+                date: new Date().toLocaleString(),
+                customer_name: custName,
+                customer_phone: custPhone,
+                pricing_mode: currentPricingMode,
+                gst_rate: gstVal,
+                items: JSON.parse(JSON.stringify(currentItems)),
+                whatsapp_message: msg,
+                total_amount: total
+            };
+
+            // Save to localStorage
+            let history = getLocalHistory();
+            if (history.length > 0 && history[0].total_amount === total && history[0].items.length === currentItems.length) {
+                history[0] = entry;
+            } else {
+                history.unshift(entry);
+            }
+            saveLocalHistory(history);
+
+            // Silently sync with server
+            fetch('/api/save-quotation', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(entry)
+            }).catch(() => {});
+        }
+
+        async function saveQuotationToHistory() {
+            const btn = document.getElementById('saveQuoteBtn');
+            const custName = document.getElementById('custNameInput').value.trim() || 'Walk-in Customer';
+            const custPhone = document.getElementById('custPhoneInput').value.trim() || '-';
+            const gstVal = document.getElementById('gstSelect').value;
+            const msg = document.getElementById('whatsappPreview').innerText;
+
+            let total = 0;
+            currentItems.forEach(it => total += (it.quantity * it.applied_rate));
+            if (gstVal !== 'extra') {
+                total += total * ((parseFloat(gstVal) || 0) / 100);
+            }
+            total = Math.round(total * 100) / 100;
+
+            const entry = {
+                id: 'quote_' + Date.now(),
+                date: new Date().toLocaleString(),
+                customer_name: custName,
+                customer_phone: custPhone,
+                pricing_mode: currentPricingMode,
+                gst_rate: gstVal,
+                items: JSON.parse(JSON.stringify(currentItems)),
+                whatsapp_message: msg,
+                total_amount: total
+            };
+
+            // Save locally first
+            let history = getLocalHistory();
+            history.unshift(entry);
+            saveLocalHistory(history);
+
+            btn.innerText = '⏳ Saving...';
             try {
-                btn.innerText = '⏳ Saving...';
-                const res = await fetch('/api/save-quotation', {
+                await fetch('/api/save-quotation', {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({
-                        customer_name: custName,
-                        customer_phone: custPhone,
-                        pricing_mode: currentPricingMode,
-                        gst_rate: gstVal,
-                        items: currentItems,
-                        whatsapp_message: msg,
-                        total_amount: Math.round(total * 100) / 100
-                    })
+                    body: JSON.stringify(entry)
                 });
-                const data = await res.json();
-                if (data.status === 'success') {
-                    btn.innerText = '✅ Saved!';
-                    btn.style.background = '#16a34a';
-                    setTimeout(() => {
-                        btn.innerHTML = '💾 Save Quotation';
-                        btn.style.background = '#7c3aed';
-                    }, 2500);
-                }
+                btn.innerText = '✅ Saved in History!';
+                btn.style.background = '#16a34a';
             } catch (e) {
-                alert('Failed to save quotation: ' + e);
-                btn.innerHTML = '💾 Save Quotation';
+                btn.innerText = '✅ Saved Locally!';
+                btn.style.background = '#16a34a';
             }
+            setTimeout(() => {
+                btn.innerHTML = '💾 Save Quotation';
+                btn.style.background = '#7c3aed';
+            }, 2500);
         }
 
         async function openHistoryModal() {
             const modal = document.getElementById('historyModal');
             const container = document.getElementById('historyListContainer');
             modal.style.display = 'flex';
-            container.innerHTML = '<p style="color:#6b7280; font-size:13px; text-align:center; padding:20px;">Loading history...</p>';
+            container.innerHTML = '<p style="color:#6b7280; font-size:13px; text-align:center; padding:20px;">Loading saved quotations...</p>';
+
+            let combinedHistory = [];
+            const localList = getLocalHistory();
 
             try {
                 const res = await fetch('/api/quotation-history');
-                const history = await res.json();
-                if (!history || history.length === 0) {
-                    container.innerHTML = '<p style="color:#6b7280; font-size:13px; text-align:center; padding:20px;">No quotations saved yet. Click "💾 Save Quotation" after generating any quote!</p>';
-                    return;
-                }
-
-                let html = '<div style="display: flex; flex-direction: column; gap: 8px;">';
-                history.forEach((q, idx) => {
-                    html += `
-                        <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 10px 12px; background: #f8fafc; display: flex; justify-content: space-between; align-items: center;">
-                            <div>
-                                <div style="font-weight: bold; font-size: 13px; color: #1e293b;">${q.customer_name} <span style="font-weight: normal; color: #64748b; font-size: 12px;">(${q.customer_phone})</span></div>
-                                <div style="font-size: 11px; color: #64748b; margin-top: 2px;">📅 ${q.date} | 📦 ${q.items ? q.items.length : 0} items | GST: ${q.gst_rate}%</div>
-                            </div>
-                            <div style="display: flex; align-items: center; gap: 10px;">
-                                <b style="font-size: 14px; color: #16a34a;">₹${(q.total_amount || 0).toFixed(2)}</b>
-                                <button class="btn-small" style="background:#0284c7; color:white; padding:4px 8px; font-size:11px;" onclick="loadHistoryItem(${idx})">Load</button>
-                            </div>
-                        </div>
-                    `;
+                const serverList = await res.json();
+                const seen = new Set();
+                [...localList, ...(Array.isArray(serverList) ? serverList : [])].forEach(item => {
+                    const key = (item.customer_name || '') + '_' + (item.total_amount || 0) + '_' + (item.items ? item.items.length : 0);
+                    if (!seen.has(key)) {
+                        seen.add(key);
+                        combinedHistory.push(item);
+                    }
                 });
-                html += '</div>';
-                container.innerHTML = html;
-                window.savedHistoryCache = history;
             } catch (e) {
-                container.innerHTML = `<p style="color:red; font-size:13px;">Error loading history: ${e}</p>`;
+                console.warn('Could not fetch server history, using local', e);
+                combinedHistory = localList;
             }
+
+            if (!combinedHistory || combinedHistory.length === 0) {
+                container.innerHTML = `
+                    <div style="text-align:center; padding:30px 20px; color:#6b7280;">
+                        <div style="font-size:32px; margin-bottom:8px;">📂</div>
+                        <p style="font-weight:bold; color:#374151; margin-bottom:4px;">No Saved Quotations Found</p>
+                        <p style="font-size:12px;">Quotations are automatically saved when generated, or whenever you click "💾 Save Quotation".</p>
+                    </div>
+                `;
+                return;
+            }
+
+            window.savedHistoryCache = combinedHistory;
+            let html = '<div style="display: flex; flex-direction: column; gap: 8px;">';
+            combinedHistory.forEach((q, idx) => {
+                const itemsCount = q.items ? q.items.length : 0;
+                const sampleItems = q.items ? q.items.slice(0, 2).map(i => i.matched_item_name || i.requested_name).join(', ') : '';
+                html += `
+                    <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 12px; background: #ffffff; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
+                        <div style="flex: 1; min-width: 0; padding-right: 12px;">
+                            <div style="font-weight: bold; font-size: 14px; color: #1e293b;">
+                                ${q.customer_name || 'Walk-in Customer'} 
+                                <span style="font-weight: normal; color: #64748b; font-size: 12px;">(${q.customer_phone || 'No phone'})</span>
+                            </div>
+                            <div style="font-size: 11px; color: #64748b; margin-top: 3px;">
+                                📅 ${q.date || 'Recent'} | 📦 <b>${itemsCount} items</b> | GST: ${q.gst_rate}%
+                            </div>
+                            ${sampleItems ? `<div style="font-size: 11px; color: #94a3b8; margin-top: 2px; text-overflow: ellipsis; overflow: hidden; white-space: nowrap;">${sampleItems}...</div>` : ''}
+                        </div>
+                        <div style="display: flex; align-items: center; gap: 8px;">
+                            <b style="font-size: 15px; color: #16a34a; white-space: nowrap;">₹${(q.total_amount || 0).toFixed(2)}</b>
+                            <button class="btn-small" style="background:#0284c7; color:white; padding:6px 12px; font-weight:bold;" onclick="loadHistoryItem(${idx})">Load</button>
+                            <button class="btn-small" style="background:#ef4444; color:white; padding:6px 8px;" onclick="deleteHistoryItem(${idx})">🗑️</button>
+                        </div>
+                    </div>
+                `;
+            });
+            html += '</div>';
+            container.innerHTML = html;
+        }
+
+        function deleteHistoryItem(idx) {
+            if (!confirm('Are you sure you want to delete this saved quotation?')) return;
+            let list = window.savedHistoryCache || [];
+            list.splice(idx, 1);
+            saveLocalHistory(list);
+            openHistoryModal();
         }
 
         function closeHistoryModal() {

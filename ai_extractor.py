@@ -103,6 +103,17 @@ def parse_line_qty_and_item(line: str) -> Tuple[str, float, str]:
     return clean_line, qty, unit
 
 
+import time
+
+FALLBACK_MODELS = [
+    "gemini-3.6-flash",
+    "gemini-3.5-flash",
+    "gemini-3.5-flash-lite",
+    "gemini-flash-lite-latest",
+    "gemini-flash-latest",
+]
+
+
 class AIExtractor:
     def __init__(self, api_key: Optional[str] = None):
         self.api_key = api_key or GEMINI_API_KEY or os.getenv("GEMINI_API_KEY", "")
@@ -114,19 +125,32 @@ class AIExtractor:
             except Exception as e:
                 logger.warning(f"Could not initialize Gemini client: {e}")
 
+    def _generate_with_retry(self, model_name: str, contents: Any, max_retries: int = 2):
+        for attempt in range(max_retries):
+            try:
+                return self.client.models.generate_content(
+                    model=model_name,
+                    contents=contents,
+                )
+            except Exception as e:
+                err_str = str(e).lower()
+                is_transient = any(k in err_str for k in ["503", "unavailable", "high demand", "429", "resource_exhausted", "timeout"])
+                if is_transient and attempt < max_retries - 1:
+                    logger.warning(f"Model {model_name} transient error (attempt {attempt+1}/{max_retries}), retrying in 1.5s: {e}")
+                    time.sleep(1.5)
+                    continue
+                raise
+
     def extract_from_text(self, text: str) -> List[Dict[str, Any]]:
         """Extract item list from text message."""
         if not text or not text.strip():
             return []
 
         if self.client:
-            for model_name in ["gemini-3.6-flash", "gemini-3.5-flash", "gemini-flash-latest"]:
+            prompt = f"{EXTRACTION_PROMPT}\n\nCustomer Message:\n{text}"
+            for model_name in FALLBACK_MODELS:
                 try:
-                    prompt = f"{EXTRACTION_PROMPT}\n\nCustomer Message:\n{text}"
-                    response = self.client.models.generate_content(
-                        model=model_name,
-                        contents=prompt,
-                    )
+                    response = self._generate_with_retry(model_name, prompt)
                     items = self._parse_json_response(response.text)
                     if items:
                         return items
@@ -134,24 +158,24 @@ class AIExtractor:
                     logger.warning(f"Model {model_name} failed for text: {e}")
                     continue
 
-        # Robust rule-based line parser
+        # Robust rule-based line parser fallback
+        logger.info("Falling back to local regex rule-based parser for text input.")
         return self._fallback_text_parser(text)
 
     def extract_from_image(self, image_bytes: bytes, mime_type: str = "image/jpeg") -> List[Dict[str, Any]]:
         """Extract item list from image (photo of handwritten note/bill)."""
         if not self.client:
             raise RuntimeError(
-                "Gemini API key is required for image OCR. Please set GEMINI_API_KEY in config.py."
+                "Gemini API key is required for image OCR. Please set GEMINI_API_KEY in the API Key settings."
             )
 
         image_part = types.Part.from_bytes(data=image_bytes, mime_type=mime_type)
+        contents = [image_part, EXTRACTION_PROMPT]
         last_err = None
-        for model_name in ["gemini-3.6-flash", "gemini-3.5-flash", "gemini-flash-latest"]:
+
+        for model_name in FALLBACK_MODELS:
             try:
-                response = self.client.models.generate_content(
-                    model=model_name,
-                    contents=[image_part, EXTRACTION_PROMPT],
-                )
+                response = self._generate_with_retry(model_name, contents)
                 items = self._parse_json_response(response.text)
                 if items:
                     return items
@@ -162,6 +186,11 @@ class AIExtractor:
 
         logger.error(f"All Gemini models failed for image OCR: {last_err}")
         if last_err:
+            err_msg = str(last_err)
+            if any(k in err_msg.lower() for k in ["503", "unavailable", "high demand"]):
+                raise RuntimeError(
+                    "Google AI server is temporarily busy (High Demand 503). Please retry in 10 seconds or type the items into the text box."
+                )
             raise last_err
         return []
 

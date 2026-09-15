@@ -265,7 +265,11 @@ def api_sync_cache(req: SyncCacheRequest):
 def api_process_text(req: TextQuotationRequest):
     if not quotation_service:
         raise HTTPException(status_code=500, detail="Service not initialized")
-    return quotation_service.process_text_quotation(req.text, pricing_mode=req.pricing_mode)
+    try:
+        return quotation_service.process_text_quotation(req.text, pricing_mode=req.pricing_mode)
+    except Exception as e:
+        logger.error(f"Error processing text quotation: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
 
 
 @app.post("/api/quotation/image")
@@ -278,7 +282,17 @@ async def api_process_image(file: UploadFile = File(...), pricing_mode: str = Fo
         return quotation_service.process_image_quotation(image_bytes, mime_type=mime_type, pricing_mode=pricing_mode)
     except Exception as e:
         logger.error(f"Error processing image: {e}")
-        raise HTTPException(status_code=500, detail=str(e))
+        err_msg = str(e)
+        if any(k in err_msg.lower() for k in ["503", "unavailable", "high demand"]):
+            status_code = 503
+            detail_msg = "Google AI servers are temporarily experiencing high demand (503). Please retry in 10-15 seconds, or type the items in the text box."
+        elif "api key" in err_msg.lower():
+            status_code = 400
+            detail_msg = "Gemini API key is required. Please click 'Gemini API Key' at the top to save your key."
+        else:
+            status_code = 500
+            detail_msg = err_msg
+        raise HTTPException(status_code=status_code, detail=detail_msg)
 
 
 @app.post("/webhook/whatsapp")
