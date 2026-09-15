@@ -1,0 +1,1078 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Optech AI Quotation System</title>
+    <style>
+        :root {
+            --primary: #128C7E;
+            --primary-dark: #075E54;
+            --accent: #25D366;
+            --bg: #f0f2f5;
+            --card-bg: #ffffff;
+            --text: #1f2937;
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+        body { background-color: var(--bg); color: var(--text); padding: 20px; }
+        .container { max-width: 1240px; margin: 0 auto; }
+        .header { background: var(--primary-dark); color: white; padding: 18px 24px; border-radius: 12px; margin-bottom: 20px; display: flex; justify-content: space-between; align-items: center; }
+        .header h1 { font-size: 22px; }
+        .badges { display: flex; gap: 8px; align-items: center; }
+        .badge { background: var(--accent); color: #075E54; font-weight: bold; padding: 4px 10px; border-radius: 16px; font-size: 12px; }
+        .badge-purple { background: #e0e7ff; color: #4338ca; }
+
+        .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 20px; }
+        @media (max-width: 768px) { .grid { grid-template-columns: 1fr; } }
+        .card { background: var(--card-bg); padding: 20px; border-radius: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); }
+        .card h2 { font-size: 17px; margin-bottom: 12px; color: var(--primary-dark); }
+        textarea { width: 100%; height: 130px; padding: 12px; border: 1px solid #d1d5db; border-radius: 8px; resize: vertical; font-size: 14px; margin-bottom: 12px; }
+        input[type="file"] { width: 100%; padding: 10px; border: 1px dashed #9ca3af; border-radius: 8px; margin-bottom: 12px; }
+        button.main-btn { background: var(--primary); color: white; border: none; padding: 12px 20px; font-size: 15px; font-weight: 600; border-radius: 8px; cursor: pointer; width: 100%; transition: background 0.2s; }
+        button.main-btn:hover { background: var(--primary-dark); }
+        .btn-small { background: #e5e7eb; color: #374151; border: none; padding: 6px 12px; border-radius: 6px; cursor: pointer; font-size: 13px; font-weight: 600; }
+        .btn-small:hover { background: #d1d5db; }
+
+        .results-card { margin-top: 20px; background: var(--card-bg); padding: 24px; border-radius: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); display: none; }
+        .whatsapp-preview { background: #e5ddd5; padding: 16px; border-radius: 10px; white-space: pre-wrap; font-family: monospace; font-size: 13px; margin-top: 16px; border-left: 4px solid var(--primary); }
+        
+        table { width: 100%; border-collapse: collapse; margin-top: 16px; font-size: 13px; }
+        th, td { padding: 10px 8px; text-align: left; border-bottom: 1px solid #e5e7eb; vertical-align: middle; }
+        th { background-color: #f9fafb; color: #4b5563; }
+        
+        /* Table Inputs */
+        .tbl-input { width: 65px; padding: 6px 8px; border: 1px solid #d1d5db; border-radius: 4px; font-size: 13px; text-align: right; }
+        .tbl-input:focus, .tbl-input-pct:focus, .search-item-input:focus { outline: 2px solid var(--primary); border-color: transparent; }
+        .tbl-input-pct { width: 60px; padding: 6px 6px; border: 1px solid #d1d5db; border-radius: 4px; font-size: 13px; text-align: right; background: #f0fdf4; }
+        .btn-edit-item { background: #f3f4f6; color: #1f2937; border: 1px solid #d1d5db; padding: 3px 8px; border-radius: 4px; font-size: 11px; cursor: pointer; margin-left: 6px; }
+        .btn-edit-item:hover { background: #e5e7eb; }
+
+        .score-tag { display: inline-block; padding: 2px 6px; border-radius: 4px; font-size: 11px; font-weight: bold; }
+        .score-high { background: #dcfce7; color: #15803d; }
+        .score-warn { background: #fef3c7; color: #b45309; border: 1px solid #f59e0b; }
+        .score-low { background: #fee2e2; color: #b91c1c; }
+        .badge-memory { background: #ede9fe; color: #6d28d9; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: bold; }
+
+        .row-needs-review { background: #fffbeb !important; border-left: 4px solid #f59e0b; }
+
+        .search-item-box { display: none; margin-top: 6px; }
+        .search-item-input { width: 260px; padding: 6px 8px; font-size: 12px; border: 1px solid #6366f1; border-radius: 4px; }
+
+        /* Modal Styles */
+        .modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.55); justify-content: center; align-items: center; z-index: 1000; }
+        .modal-content { background: white; padding: 24px; border-radius: 14px; width: 460px; max-width: 92%; max-height: 85vh; overflow-y: auto; box-shadow: 0 10px 25px rgba(0,0,0,0.2); }
+        .modal-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; }
+        .pricing-card-choice { border: 2px solid #e5e7eb; border-radius: 10px; padding: 14px 16px; margin-bottom: 12px; cursor: pointer; transition: border-color 0.2s, background 0.2s; }
+        .pricing-card-choice:hover, .pricing-card-choice.active { border-color: var(--primary); background: #f0fdf4; }
+        
+        .modal-group-item { display: flex; justify-content: space-between; align-items: center; background: #f9fafb; padding: 8px 12px; border-radius: 6px; font-size: 13px; margin-bottom: 6px; }
+        .modal-group-item input { width: 65px; padding: 5px; text-align: right; font-weight: bold; border: 1px solid #d1d5db; border-radius: 4px; }
+
+        .spinner { display: none; text-align: center; margin-top: 16px; font-weight: bold; color: var(--primary); }
+
+        #printHeader, #printFooter { display: none; }
+
+        @media print {
+            body { background: white !important; color: black !important; font-family: sans-serif; font-size: 11pt; }
+            .header, .grid, .spinner, .modal, .badges, #loadingSpinner, .btn-small, .search-item-box,
+            .btn-edit-item, #btnSwitchStandard, #btnSwitchMarkup, #copyMsgBtn, #saveQuoteBtn,
+            .whatsapp-preview, h3, p[style*="Tip:"] { display: none !important; }
+            .container { width: 100% !important; max-width: 100% !important; padding: 0 !important; margin: 0 !important; }
+            .results-card { box-shadow: none !important; border: none !important; padding: 0 !important; }
+            /* Hide Pur Rate, As Usual Rate, Markup %, Confidence in customer printout */
+            #itemsTable th:nth-child(4), #itemsTable td:nth-child(4),
+            #itemsTable th:nth-child(6), #itemsTable td:nth-child(6),
+            #itemsTable th:nth-child(7), #itemsTable td:nth-child(7),
+            #itemsTable th:nth-child(8), #itemsTable td:nth-child(8),
+            #itemsTable th:nth-child(12), #itemsTable td:nth-child(12) { display: none !important; }
+            #itemsTable { border-collapse: collapse !important; width: 100% !important; margin-top: 10px; }
+            #itemsTable th, #itemsTable td { border: 1px solid #666 !important; padding: 6px 8px !important; color: black !important; }
+            #itemsTable th { background: #eee !important; }
+            .tbl-input, .tbl-input-pct { border: none !important; background: transparent !important; font-size: 11pt !important; width: auto !important; color: black !important; }
+            #printHeader { display: block !important; margin-bottom: 16px; border-bottom: 2px solid #000; padding-bottom: 8px; }
+            #printFooter { display: block !important; margin-top: 16px; border-top: 1px solid #000; padding-top: 8px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <div>
+                <h1>Optech AI Quotation System</h1>
+                <p style="font-size: 13px; opacity: 0.9;">Database: <b>Inv_15_002</b></p>
+            </div>
+            <div class="badges">
+                <span class="badge">{{TOTAL_ITEMS}} Items Loaded</span>
+                <button class="btn-small" onclick="openHistoryModal()" style="background: #f3e8ff; color: #6b21a8; font-weight: bold;">📁 Saved Quotes</button>
+                <button class="btn-small" onclick="openApiKeyModal()" style="background: white; color: var(--primary-dark);">🔑 Gemini API Key</button>
+            </div>
+        </div>
+
+        <!-- Input Grid -->
+        <div class="grid">
+            <!-- Text Input -->
+            <div class="card">
+                <h2>📝 WhatsApp Text Message</h2>
+                <textarea id="textInput" placeholder="SAFETY JACKET -10PS&#10;COTTON GLOVES -10SET"></textarea>
+                <button class="main-btn" onclick="openPricingPrompt('text')">Generate Quotation from Text</button>
+            </div>
+
+            <!-- Image Input -->
+            <div class="card">
+                <h2>📷 Photo / Image (Bill or Slip)</h2>
+                <p style="font-size: 13px; color: #6b7280; margin-bottom: 12px;">Upload photo of quotation slip or handwritten note:</p>
+                <input type="file" id="imageInput" accept="image/*">
+                <button class="main-btn" onclick="openPricingPrompt('image')">Extract & Match from Photo</button>
+            </div>
+        </div>
+
+        <div class="spinner" id="loadingSpinner">⏳ Processing & matching with Optech database... Please wait...</div>
+
+        <!-- Results Section -->
+        <div class="results-card" id="resultsSection">
+            <!-- Printable Quotation Slip Header (visible only on Print / PDF) -->
+            <div id="printHeader">
+                <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+                    <div>
+                        <h1 style="font-size: 20pt; margin: 0; color: #111;">QUOTATION ESTIMATE</h1>
+                        <p style="margin: 4px 0 0 0; font-size: 11pt; color: #444;">Hardware, Electrical & Plumbing Supplies</p>
+                    </div>
+                    <div style="text-align: right; font-size: 10pt;">
+                        <div><b>Date:</b> <span id="printDate"></span></div>
+                        <div style="margin-top: 3px;"><b>GST:</b> <span id="printGst">18%</span></div>
+                    </div>
+                </div>
+                <div style="margin-top: 12px; background: #f5f5f5; padding: 8px 12px; border: 1px solid #ccc; font-size: 11pt;">
+                    <div><b>Customer Name:</b> <span id="printCustName">Walk-in Customer</span></div>
+                    <div style="margin-top: 2px;"><b>Mobile / Contact:</b> <span id="printCustPhone">-</span></div>
+                </div>
+            </div>
+
+            <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px;">
+                <div>
+                    <h2>Quotation Preview</h2>
+                    <p style="font-size: 12px; color: #6b7280;">💡 Tip: Press <b>Enter</b> after changing item or quantity to move to the next field!</p>
+                </div>
+                
+                <!-- Pricing & Tax Switchers -->
+                <div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap;">
+                    <!-- Tax / GST Selector -->
+                    <div style="display: flex; align-items: center; gap: 6px; background: #f3f4f6; padding: 4px 10px; border-radius: 6px;">
+                        <span style="font-size: 12px; font-weight: bold; color: #374151;">📊 GST Rate:</span>
+                        <select id="gstSelect" onchange="onGstChange()" style="padding: 4px 8px; border-radius: 4px; border: 1px solid #d1d5db; font-weight: bold;">
+                            <option value="18" selected>18% GST (Standard)</option>
+                            <option value="12">12% GST</option>
+                            <option value="5">5% GST</option>
+                            <option value="28">28% GST</option>
+                            <option value="0">0% (Tax Exempted)</option>
+                            <option value="extra">Taxes Extra (+GST)</option>
+                        </select>
+                    </div>
+
+                    <!-- Pricing Switcher -->
+                    <div style="display: flex; gap: 6px; align-items: center;">
+                        <button id="btnSwitchStandard" class="btn-small" onclick="switchAllPricing('standard')">🏷️ As Usual</button>
+                        <button id="btnSwitchMarkup" class="btn-small" onclick="switchAllPricing('markup')">📈 Group Markup</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Customer Details Bar -->
+            <div style="display: flex; gap: 15px; margin: 14px 0 10px 0; background: #f8fafc; padding: 10px 14px; border-radius: 8px; border: 1px solid #e2e8f0; flex-wrap: wrap; align-items: center;">
+                <div style="display: flex; align-items: center; gap: 8px;">
+                    <label style="font-size: 13px; font-weight: 600; color: #334155;">👤 Customer Name:</label>
+                    <input type="text" id="custNameInput" placeholder="e.g. Kumar Traders" style="padding: 6px 10px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 13px; width: 190px;" oninput="rebuildWhatsAppMessage()">
+                </div>
+                <div style="display: flex; align-items: center; gap: 8px;">
+                    <label style="font-size: 13px; font-weight: 600; color: #334155;">📱 Mobile (WhatsApp):</label>
+                    <input type="text" id="custPhoneInput" placeholder="10-digit mobile" style="padding: 6px 10px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 13px; width: 150px;">
+                </div>
+            </div>
+            
+            <table id="itemsTable">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Customer Term</th>
+                        <th>Matched Optech Item</th>
+                        <th>Group</th>
+                        <th>Qty</th>
+                        <th>Pur Rate</th>
+                        <th>As Usual Rate</th>
+                        <th>Markup %</th>
+                        <th>Applied Rate</th>
+                        <th>Total</th>
+                        <th>HSN</th>
+                        <th>Confidence</th>
+                    </tr>
+                </thead>
+                <tbody id="itemsTbody"></tbody>
+            </table>
+
+            <!-- Printable Quotation Slip Footer (visible only on Print / PDF) -->
+            <div id="printFooter">
+                <div style="display: flex; justify-content: space-between; font-size: 11pt; margin-top: 15px;">
+                    <div>
+                        <p style="margin: 0; font-size: 9pt; color: #555;">
+                            * Rates quoted are valid for immediate purchase and subject to prevailing stock.<br>
+                            * Computerized Quotation Estimate generated via Optech System.
+                        </p>
+                    </div>
+                    <div style="text-align: right; min-width: 240px; font-size: 11pt;">
+                        <div style="display: flex; justify-content: space-between; margin-bottom: 4px;">
+                            <span>Subtotal:</span> <b id="printSubtotal">₹0.00</b>
+                        </div>
+                        <div style="display: flex; justify-content: space-between; margin-bottom: 4px;">
+                            <span id="printGstLabel">GST (18%):</span> <b id="printGstAmount">₹0.00</b>
+                        </div>
+                        <div style="display: flex; justify-content: space-between; border-top: 2px solid #000; padding-top: 4px; font-size: 13pt;">
+                            <span><b>Grand Total:</b></span> <b id="printGrandTotal">₹0.00</b>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <h3 style="margin-top: 24px; font-size: 15px;">WhatsApp Message Sent to Customer:</h3>
+            <div class="whatsapp-preview" id="whatsappPreview"></div>
+
+            <!-- Quotation Action Buttons -->
+            <div style="margin-top: 14px; display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+                <button class="btn-small" style="background: #25D366; color: white; display: flex; align-items: center; gap: 6px; padding: 9px 18px; font-size: 13px; font-weight: bold;" onclick="sendViaWhatsApp()">
+                    📱 Send to WhatsApp
+                </button>
+                <button class="btn-small" id="copyMsgBtn" style="background: #0284c7; color: white; display: flex; align-items: center; gap: 6px; padding: 9px 16px; font-size: 13px;" onclick="copyWhatsAppMessage()">
+                    📋 Copy Message
+                </button>
+                <button class="btn-small" style="background: #475569; color: white; display: flex; align-items: center; gap: 6px; padding: 9px 16px; font-size: 13px;" onclick="printQuotationSlip()">
+                    🖨️ Print / Save PDF
+                </button>
+                <button class="btn-small" id="saveQuoteBtn" style="background: #7c3aed; color: white; display: flex; align-items: center; gap: 6px; padding: 9px 16px; font-size: 13px;" onclick="saveQuotationToHistory()">
+                    💾 Save Quotation
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Pricing Choice Modal -->
+    <div class="modal" id="pricingChoiceModal" style="display: none;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 style="font-size: 18px; color: var(--primary-dark);">💰 Choose Quotation Pricing</h3>
+                <button onclick="closePricingChoiceModal()" style="border: none; background: none; font-size: 18px; cursor: pointer;">✕</button>
+            </div>
+            
+            <p style="font-size: 13px; color: #4b5563; margin-bottom: 14px;">
+                Indha quotation-ku entha rate podanum?
+            </p>
+
+            <!-- Option 1: As Usual Sale Rate -->
+            <div class="pricing-card-choice active" onclick="selectPricingOption('standard')" id="choiceCardStd">
+                <div style="display: flex; align-items: center; gap: 10px;">
+                    <input type="radio" name="modalRateChoice" id="optStd" value="standard" checked>
+                    <div>
+                        <b>🏷️ As Usual Sale Rate</b>
+                        <div style="font-size: 12px; color: #6b7280;">Optech software-la irukkira normal Sale Rate podum.</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Option 2: Group-wise Markup Rate with 5 Core Groups -->
+            <div class="pricing-card-choice" onclick="selectPricingOption('markup')" id="choiceCardMrk">
+                <div style="display: flex; align-items: flex-start; gap: 10px;">
+                    <input type="radio" name="modalRateChoice" id="optMrk" value="markup">
+                    <div style="flex: 1;">
+                        <b>📈 Group-wise Markup on Purchase Rate</b>
+                        <div style="font-size: 12px; color: #6b7280; margin-bottom: 10px;">Purchase Rate + Group Markup % add panni rate podum.</div>
+                        
+                        <div id="modalGroupsContainer" style="background: white; padding: 10px; border-radius: 8px; border: 1px solid #d1d5db;">
+                            <div style="font-size: 12px; font-weight: bold; color: #374151; margin-bottom: 6px;">
+                                Set Markup % for Core Groups:
+                            </div>
+                            
+                            <div class="modal-group-item">
+                                <span>⚡ <b>ELECTRICAL:</b></span>
+                                <div style="display: flex; align-items: center; gap: 2px;">
+                                    <input type="number" id="grp_ELECTRICAL" class="modal-grp-input" value="18" step="1"> <b>%</b>
+                                </div>
+                            </div>
+                            <div class="modal-group-item">
+                                <span>🚰 <b>PLUMBING:</b></span>
+                                <div style="display: flex; align-items: center; gap: 2px;">
+                                    <input type="number" id="grp_PLUMBING" class="modal-grp-input" value="20" step="1"> <b>%</b>
+                                </div>
+                            </div>
+                            <div class="modal-group-item">
+                                <span>🔧 <b>HARDWARE:</b></span>
+                                <div style="display: flex; align-items: center; gap: 2px;">
+                                    <input type="number" id="grp_HARDWARE" class="modal-grp-input" value="15" step="1"> <b>%</b>
+                                </div>
+                            </div>
+                            <div class="modal-group-item">
+                                <span>🎨 <b>PAINT:</b></span>
+                                <div style="display: flex; align-items: center; gap: 2px;">
+                                    <input type="number" id="grp_PAINT" class="modal-grp-input" value="12" step="1"> <b>%</b>
+                                </div>
+                            </div>
+                            <div class="modal-group-item">
+                                <span>🖌️ <b>PAINT ACCESSORIES:</b></span>
+                                <div style="display: flex; align-items: center; gap: 2px;">
+                                    <input type="number" id="grp_PAINT_ACCESSORIES" class="modal-grp-input" value="15" step="1"> <b>%</b>
+                                </div>
+                            </div>
+                            <div class="modal-group-item" style="background: #e0f2fe;">
+                                <span>📦 <b>All Other Groups (Default):</b></span>
+                                <div style="display: flex; align-items: center; gap: 2px;">
+                                    <input type="number" id="grp_DEFAULT" class="modal-grp-input" value="15" step="1"> <b>%</b>
+                                </div>
+                            </div>
+
+                            <div style="font-size: 11px; color: #6b7280; margin-top: 6px;">
+                                💡 Neenga inga maathum %-ai system <b>memorize pannikkum</b>, next time adhuve auto-va eduthudum!
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div style="margin-top: 18px; display: flex; justify-content: flex-end; gap: 10px;">
+                <button class="btn-small" onclick="closePricingChoiceModal()">Cancel</button>
+                <button class="btn-small" style="background: var(--primary); color: white; padding: 8px 18px; font-size: 14px;" onclick="confirmPricingExecution()">Apply & Generate</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Gemini API Key Modal -->
+    <div class="modal" id="apiKeyModal" style="display: none;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 style="font-size: 18px; color: var(--primary-dark);">🔑 Google Gemini API Key</h3>
+                <button onclick="closeApiKeyModal()" style="border: none; background: none; font-size: 18px; cursor: pointer;">✕</button>
+            </div>
+            
+            <p style="font-size: 13px; color: #4b5563; margin-bottom: 12px;">
+                Photo / Image-la irukkira kaiyeluthu & printed bill-ai padikka <b>Google Gemini AI Key</b> thevai. Idhu <b>100% Free!</b>
+            </p>
+
+            <div style="background: #f0fdf4; padding: 10px; border-radius: 8px; border: 1px solid #86efac; margin-bottom: 14px; font-size: 12px;">
+                👉 Free API Key edukkira link: <a href="https://aistudio.google.com/app/apikey" target="_blank" style="color: #15803d; font-weight: bold;">Google AI Studio API Key</a><br>
+                (Login panni "Create API Key" click panni copy pannunga).
+            </div>
+
+            <label style="font-size: 13px; font-weight: 500; display: block; margin-bottom: 6px;">Paste Your Gemini API Key:</label>
+            <input type="password" id="apiKeyInput" placeholder="AIzaSy..." style="width: 100%; padding: 10px; border: 1px solid #d1d5db; border-radius: 6px; font-family: monospace; font-size: 13px; margin-bottom: 16px;">
+
+            <div style="display: flex; justify-content: flex-end; gap: 10px;">
+                <button class="btn-small" onclick="closeApiKeyModal()">Cancel</button>
+                <button class="btn-small" style="background: var(--primary); color: white; padding: 8px 18px; font-size: 14px;" onclick="saveApiKey()">Save & Activate</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Quotation History Modal -->
+    <div class="modal" id="historyModal" style="display: none;">
+        <div class="modal-content" style="width: 650px; max-width: 95%;">
+            <div class="modal-header">
+                <h3 style="font-size: 18px; color: var(--primary-dark);">📁 Saved Quotation History</h3>
+                <button onclick="closeHistoryModal()" style="border: none; background: none; font-size: 18px; cursor: pointer;">✕</button>
+            </div>
+            <p style="font-size: 12px; color: #64748b; margin-bottom: 12px;">Previously generated quotations in this system:</p>
+            <div id="historyListContainer" style="max-height: 400px; overflow-y: auto;">
+                <p style="color: #6b7280; font-size: 13px; text-align: center; padding: 20px;">Loading history...</p>
+            </div>
+            <div style="margin-top: 14px; text-align: right;">
+                <button class="btn-small" onclick="closeHistoryModal()">Close</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let pendingAction = null;
+        let currentItems = [];
+        let currentPricingMode = 'standard';
+        let currentGstRate = 18; // Default 18%
+        let cachedGroupRules = {};
+
+        function showSpinner(show) {
+            document.getElementById('loadingSpinner').style.display = show ? 'block' : 'none';
+        }
+
+        function openApiKeyModal() {
+            document.getElementById('apiKeyModal').style.display = 'flex';
+            document.getElementById('apiKeyInput').focus();
+        }
+
+        function closeApiKeyModal() {
+            document.getElementById('apiKeyModal').style.display = 'none';
+        }
+
+        async function saveApiKey() {
+            const key = document.getElementById('apiKeyInput').value.trim();
+            if (!key) { alert('Please paste your Gemini API key.'); return; }
+            try {
+                const res = await fetch('/api/set-api-key', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ api_key: key })
+                });
+                const data = await res.json();
+                if (data.status === 'success') {
+                    alert('✅ Gemini API Key successfully saved and activated!');
+                    closeApiKeyModal();
+                    // If image was pending, re-try!
+                    if (pendingAction && pendingAction.type === 'image') {
+                        fetchQuotationImage(pendingAction.file);
+                    }
+                } else {
+                    alert('Could not save API key.');
+                }
+            } catch (e) {
+                alert('Error saving API key: ' + e);
+            }
+        }
+
+        async function loadGroupRulesIntoModal() {
+            try {
+                const res = await fetch('/api/markup-rules');
+                cachedGroupRules = await res.json();
+                const groups = cachedGroupRules.groups || {};
+
+                if (groups['ELECTRICAL']) document.getElementById('grp_ELECTRICAL').value = groups['ELECTRICAL'];
+                if (groups['PLUMBING']) document.getElementById('grp_PLUMBING').value = groups['PLUMBING'];
+                if (groups['HARDWARE']) document.getElementById('grp_HARDWARE').value = groups['HARDWARE'];
+                if (groups['PAINT']) document.getElementById('grp_PAINT').value = groups['PAINT'];
+                if (groups['PAINT ACCESSORIES']) document.getElementById('grp_PAINT_ACCESSORIES').value = groups['PAINT ACCESSORIES'];
+                if (cachedGroupRules.default_markup_percent) document.getElementById('grp_DEFAULT').value = cachedGroupRules.default_markup_percent;
+            } catch (e) {
+                console.error('Failed to load markup rules:', e);
+            }
+        }
+
+        async function openPricingPrompt(actionType) {
+            if (actionType === 'text') {
+                const text = document.getElementById('textInput').value.trim();
+                if (!text) { alert('Please enter quotation text.'); return; }
+                pendingAction = { type: 'text', text };
+            } else {
+                const fileInput = document.getElementById('imageInput');
+                if (!fileInput.files.length) { alert('Please select an image file.'); return; }
+                pendingAction = { type: 'image', file: fileInput.files[0] };
+            }
+            await loadGroupRulesIntoModal();
+            document.getElementById('pricingChoiceModal').style.display = 'flex';
+        }
+
+        function closePricingChoiceModal() {
+            document.getElementById('pricingChoiceModal').style.display = 'none';
+            pendingAction = null;
+        }
+
+        function selectPricingOption(mode) {
+            document.getElementById('optStd').checked = (mode === 'standard');
+            document.getElementById('optMrk').checked = (mode === 'markup');
+            document.getElementById('choiceCardStd').classList.toggle('active', mode === 'standard');
+            document.getElementById('choiceCardMrk').classList.toggle('active', mode === 'markup');
+        }
+
+        async function confirmPricingExecution() {
+            const isMarkup = document.getElementById('optMrk').checked;
+            currentPricingMode = isMarkup ? 'markup' : 'standard';
+
+            if (isMarkup) {
+                const newGroups = {
+                    'ELECTRICAL': parseFloat(document.getElementById('grp_ELECTRICAL').value) || 18,
+                    'PLUMBING': parseFloat(document.getElementById('grp_PLUMBING').value) || 20,
+                    'HARDWARE': parseFloat(document.getElementById('grp_HARDWARE').value) || 15,
+                    'PAINT': parseFloat(document.getElementById('grp_PAINT').value) || 12,
+                    'PAINT ACCESSORIES': parseFloat(document.getElementById('grp_PAINT_ACCESSORIES').value) || 15
+                };
+                const defaultPct = parseFloat(document.getElementById('grp_DEFAULT').value) || 15;
+                try {
+                    await fetch('/api/markup-rules', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({ default_markup_percent: defaultPct, groups: newGroups })
+                    });
+                    cachedGroupRules = { default_markup_percent: defaultPct, groups: newGroups };
+                } catch (e) {}
+            }
+
+            const action = pendingAction;
+            closePricingChoiceModal();
+            if (!action) return;
+
+            if (action.type === 'text') {
+                fetchQuotationText(action.text);
+            } else {
+                fetchQuotationImage(action.file);
+            }
+        }
+
+        function getGroupMarkupPercent(grpName) {
+            const g = (grpName || '').trim().toUpperCase();
+            const groups = cachedGroupRules.groups || {};
+            if (g.includes('PAINT ACCESS')) return groups['PAINT ACCESSORIES'] || 15;
+            if (g.includes('PAINT')) return groups['PAINT'] || 12;
+            if (g.includes('ELECT')) return groups['ELECTRICAL'] || 18;
+            if (g.includes('HARDWARE') || g.includes('ACCESSORIES')) return groups['HARDWARE'] || 15;
+            if (g.includes('PLUMB')) return groups['PLUMBING'] || 20;
+            return cachedGroupRules.default_markup_percent || 15;
+        }
+
+        async function fetchQuotationText(text) {
+            showSpinner(true);
+            try {
+                const res = await fetch('/api/quotation/text', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ text, pricing_mode: currentPricingMode })
+                });
+                const data = await res.json();
+                if (!res.ok) {
+                    alert('Error: ' + (data.detail || 'Failed to process quotation'));
+                    return;
+                }
+                loadDataIntoEditor(data);
+            } catch (e) {
+                alert('Error: ' + e);
+            } finally {
+                showSpinner(false);
+            }
+        }
+
+        async function fetchQuotationImage(file) {
+            showSpinner(true);
+            try {
+                const formData = new FormData();
+                formData.append('file', file);
+                formData.append('pricing_mode', currentPricingMode);
+                const res = await fetch('/api/quotation/image', {
+                    method: 'POST',
+                    body: formData
+                });
+                const data = await res.json();
+                if (!res.ok) {
+                    if (data.detail && data.detail.includes('Gemini API key')) {
+                        openApiKeyModal();
+                    } else {
+                        alert('Error: ' + (data.detail || 'Failed to process image'));
+                    }
+                    return;
+                }
+                loadDataIntoEditor(data);
+            } catch (e) {
+                alert('Error: ' + e);
+            } finally {
+                showSpinner(false);
+            }
+        }
+
+        function loadDataIntoEditor(data) {
+            if (!data.items) return;
+            currentItems = data.items.map(it => {
+                const purRate = it.base_purchase_rate || 0;
+                const asUsual = it.sale_rate || 0;
+                const markupPct = getGroupMarkupPercent(it.group_name);
+                const markupRate = purRate > 0 ? (purRate * (1 + markupPct / 100)) : asUsual;
+                const appliedRate = (currentPricingMode === 'markup') ? markupRate : asUsual;
+
+                const score = it.match_score || 0;
+                const needsUserConfirmation = (!it.memorized && score < 90.0);
+
+                return {
+                    requested_name: it.requested_name,
+                    matched_item_name: it.matched_item_name,
+                    group_name: it.group_name || '',
+                    quantity: it.quantity || 1,
+                    unit: it.unit || 'Nos',
+                    pur_rate: purRate,
+                    as_usual_rate: asUsual,
+                    markup_pct: markupPct,
+                    applied_rate: appliedRate,
+                    hsn_code: it.hsn_code || '',
+                    match_score: score,
+                    memorized: it.memorized || false,
+                    needs_user_confirmation: needsUserConfirmation,
+                    search_open: needsUserConfirmation
+                };
+            });
+
+            renderEditorTable();
+        }
+
+        function onGstChange() {
+            rebuildWhatsAppMessage();
+        }
+
+        function updateSwitcherUI() {
+            const btnStd = document.getElementById('btnSwitchStandard');
+            const btnMrk = document.getElementById('btnSwitchMarkup');
+            if (currentPricingMode === 'markup') {
+                btnMrk.style.background = '#16a34a';
+                btnMrk.style.color = 'white';
+                btnStd.style.background = '#e5e7eb';
+                btnStd.style.color = '#374151';
+            } else {
+                btnStd.style.background = '#0284c7';
+                btnStd.style.color = 'white';
+                btnMrk.style.background = '#e5e7eb';
+                btnMrk.style.color = '#374151';
+            }
+        }
+
+        function switchAllPricing(mode) {
+            currentPricingMode = mode;
+            currentItems.forEach(it => {
+                if (mode === 'standard') {
+                    it.applied_rate = it.as_usual_rate;
+                } else {
+                    it.applied_rate = it.pur_rate > 0 ? (it.pur_rate * (1 + it.markup_pct / 100)) : it.as_usual_rate;
+                }
+            });
+            renderEditorTable();
+        }
+
+        function renderEditorTable() {
+            const section = document.getElementById('resultsSection');
+            const tbody = document.getElementById('itemsTbody');
+            tbody.innerHTML = '';
+
+            updateSwitcherUI();
+
+            currentItems.forEach((it, idx) => {
+                const total = it.quantity * it.applied_rate;
+
+                let scoreHtml = '';
+                if (it.memorized) {
+                    scoreHtml = `<span class="badge-memory">🧠 Memorized</span>`;
+                } else if (it.match_score >= 90) {
+                    scoreHtml = `<span class="score-tag score-high">${it.match_score}%</span>`;
+                } else {
+                    scoreHtml = `<span class="score-tag score-warn">⚠️ ${it.match_score}% (Check)</span>`;
+                }
+
+                const isNeedsReview = it.needs_user_confirmation;
+                const rowClass = isNeedsReview ? 'class="row-needs-review"' : '';
+                const searchStyle = it.search_open ? 'style="display:block;"' : 'style="display:none;"';
+
+                const row = `
+                    <tr id="row_${idx}" ${rowClass}>
+                        <td>${idx + 1}</td>
+                        <td>
+                            <b>${it.requested_name}</b>
+                            ${isNeedsReview ? '<div style="font-size:11px; color:#b45309; font-weight:bold; margin-top:2px;">⚠️ Direct-a confirm pannunga</div>' : ''}
+                        </td>
+                        <td>
+                            <div>
+                                <span id="item_label_${idx}" style="font-weight: 500;">${it.matched_item_name}</span>
+                                <button class="btn-edit-item" onclick="toggleEditItem(${idx})">✏️ Change</button>
+                            </div>
+                            <div class="search-item-box" id="search_box_${idx}" ${searchStyle}>
+                                <div style="display: flex; gap: 4px; margin-top: 4px;">
+                                    <input type="text" class="search-item-input" id="search_input_${idx}" 
+                                           placeholder="Type Optech item & press Enter..." 
+                                           list="optechList_${idx}" 
+                                           value="${isNeedsReview ? it.matched_item_name : ''}"
+                                           oninput="searchOptech(this.value, ${idx})"
+                                           onkeydown="handleSearchInputKey(event, ${idx})">
+                                    <datalist id="optechList_${idx}"></datalist>
+                                    <button class="btn-small" style="background:#128C7E; color:white; padding:4px 8px; font-size:11px;" onclick="applyItemChange(${idx})">Select</button>
+                                    <button class="btn-small" style="padding:4px 6px; font-size:11px;" onclick="toggleEditItem(${idx})">✕</button>
+                                </div>
+                            </div>
+                        </td>
+                        <td><span id="grp_label_${idx}">${it.group_name || '-'}</span></td>
+                        <td>
+                            <div style="display: flex; align-items: center; gap: 4px;">
+                                <input type="number" class="tbl-input" id="qty_input_${idx}" style="width: 55px;" 
+                                       value="${it.quantity}" min="1" step="1" 
+                                       onchange="onQtyChange(${idx}, this.value)"
+                                       onkeydown="handleQtyKey(event, ${idx})">
+                                <span style="font-size:11px; color:#6b7280;">${it.unit}</span>
+                            </div>
+                        </td>
+                        <td>₹${it.pur_rate.toFixed(2)}</td>
+                        <td style="color:#0284c7;">₹${it.as_usual_rate.toFixed(2)}</td>
+                        <td>
+                            <div style="display: flex; align-items: center; gap: 2px;">
+                                <input type="number" class="tbl-input-pct" id="markup_input_${idx}" 
+                                       value="${it.markup_pct.toFixed(1)}" step="0.5" 
+                                       onchange="onMarkupPctChange(${idx}, this.value)"
+                                       onkeydown="handleMarkupKey(event, ${idx})">
+                                <b>%</b>
+                            </div>
+                        </td>
+                        <td>
+                            <div style="display: flex; align-items: center; gap: 2px;">
+                                ₹<input type="number" class="tbl-input" id="rate_input_${idx}" 
+                                       style="width: 75px; font-weight:bold; color:#15803d;" 
+                                       value="${it.applied_rate.toFixed(2)}" step="0.5" 
+                                       onchange="onAppliedRateChange(${idx}, this.value)"
+                                       onkeydown="handleRateKey(event, ${idx})">
+                            </div>
+                        </td>
+                        <td><b id="total_label_${idx}">₹${total.toFixed(2)}</b></td>
+                        <td><span id="hsn_label_${idx}">${it.hsn_code || '-'}</span></td>
+                        <td>${scoreHtml}</td>
+                    </tr>
+                `;
+                tbody.innerHTML += row;
+            });
+
+            rebuildWhatsAppMessage();
+            section.style.display = 'block';
+            section.scrollIntoView({ behavior: 'smooth' });
+        }
+
+        function handleSearchInputKey(event, idx) {
+            if (event.key === 'Enter') {
+                event.preventDefault();
+                applyItemChange(idx);
+            }
+        }
+
+        function handleQtyKey(event, idx) {
+            if (event.key === 'Enter') {
+                event.preventDefault();
+                const nextInput = document.getElementById(`markup_input_${idx}`);
+                if (nextInput) { nextInput.focus(); nextInput.select(); }
+            }
+        }
+
+        function handleMarkupKey(event, idx) {
+            if (event.key === 'Enter') {
+                event.preventDefault();
+                const nextInput = document.getElementById(`rate_input_${idx}`);
+                if (nextInput) { nextInput.focus(); nextInput.select(); }
+            }
+        }
+
+        function handleRateKey(event, idx) {
+            if (event.key === 'Enter') {
+                event.preventDefault();
+                const nextRowQty = document.getElementById(`qty_input_${idx + 1}`);
+                if (nextRowQty) {
+                    nextRowQty.focus();
+                    nextRowQty.select();
+                }
+            }
+        }
+
+        function onQtyChange(idx, val) {
+            currentItems[idx].quantity = parseFloat(val) || 1;
+            recalculateRowAndTotal(idx);
+        }
+
+        function onMarkupPctChange(idx, val) {
+            const pct = parseFloat(val) || 0;
+            currentItems[idx].markup_pct = pct;
+            if (currentItems[idx].pur_rate > 0) {
+                currentItems[idx].applied_rate = currentItems[idx].pur_rate * (1 + pct / 100);
+            }
+            recalculateRowAndTotal(idx);
+        }
+
+        function onAppliedRateChange(idx, val) {
+            currentItems[idx].applied_rate = parseFloat(val) || 0;
+            recalculateRowAndTotal(idx);
+        }
+
+        function recalculateRowAndTotal(idx) {
+            const it = currentItems[idx];
+            const total = it.quantity * it.applied_rate;
+            const rateInput = document.getElementById(`rate_input_${idx}`);
+            const totalLabel = document.getElementById(`total_label_${idx}`);
+            if (rateInput) rateInput.value = it.applied_rate.toFixed(2);
+            if (totalLabel) totalLabel.innerText = `₹${total.toFixed(2)}`;
+            rebuildWhatsAppMessage();
+        }
+
+        function toggleEditItem(idx) {
+            const box = document.getElementById('search_box_' + idx);
+            currentItems[idx].search_open = (box.style.display !== 'block');
+            box.style.display = currentItems[idx].search_open ? 'block' : 'none';
+            if (currentItems[idx].search_open) {
+                const input = document.getElementById('search_input_' + idx);
+                input.focus();
+                input.select();
+            }
+        }
+
+        let searchTimeout = null;
+        let candidateCache = {};
+        let lastSearchResults = [];
+
+        async function searchOptech(val, idx) {
+            if (val.length < 2) return;
+            clearTimeout(searchTimeout);
+            searchTimeout = setTimeout(async () => {
+                try {
+                    const res = await fetch('/api/search-items?q=' + encodeURIComponent(val));
+                    lastSearchResults = await res.json();
+                    const datalist = document.getElementById('optechList_' + idx);
+                    datalist.innerHTML = '';
+                    lastSearchResults.forEach(it => {
+                        candidateCache[it.item_name] = it;
+                        const opt = document.createElement('option');
+                        opt.value = it.item_name;
+                        opt.label = `[${it.group_name}] Pur: ₹${it.purchase_rate} | Sale: ₹${it.sale_rate}`;
+                        datalist.appendChild(opt);
+                    });
+                } catch (e) {}
+            }, 180);
+        }
+
+        async function applyItemChange(idx) {
+            const input = document.getElementById('search_input_' + idx);
+            let selectedName = input.value.trim();
+            if (!selectedName && lastSearchResults.length > 0) {
+                selectedName = lastSearchResults[0].item_name;
+            }
+            if (!selectedName) { alert('Please enter or select an Optech item name.'); return; }
+
+            let product = candidateCache[selectedName];
+            if (!product && lastSearchResults.length > 0) {
+                product = lastSearchResults.find(p => p.item_name.toLowerCase().includes(selectedName.toLowerCase())) || lastSearchResults[0];
+            }
+
+            if (product) {
+                currentItems[idx].matched_item_name = product.item_name;
+                currentItems[idx].group_name = product.group_name;
+                currentItems[idx].pur_rate = product.purchase_rate || 0;
+                currentItems[idx].as_usual_rate = product.sale_rate || 0;
+                currentItems[idx].hsn_code = product.hsn_code || '';
+                currentItems[idx].markup_pct = getGroupMarkupPercent(product.group_name);
+                currentItems[idx].match_score = 100;
+                currentItems[idx].memorized = true;
+                currentItems[idx].needs_user_confirmation = false;
+                currentItems[idx].search_open = false;
+
+                if (currentPricingMode === 'markup' && currentItems[idx].pur_rate > 0) {
+                    currentItems[idx].applied_rate = currentItems[idx].pur_rate * (1 + currentItems[idx].markup_pct / 100);
+                } else {
+                    currentItems[idx].applied_rate = currentItems[idx].as_usual_rate;
+                }
+
+                try {
+                    await fetch('/api/learn-item', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({ alias: currentItems[idx].requested_name, optech_item_name: product.item_name })
+                    });
+                    document.getElementById('learnedBadge').innerText = `🧠 Memorized`;
+                } catch (e) {}
+
+                renderEditorTable();
+
+                setTimeout(() => {
+                    const qtyInput = document.getElementById(`qty_input_${idx}`);
+                    if (qtyInput) {
+                        qtyInput.focus();
+                        qtyInput.select();
+                    }
+                }, 50);
+            } else {
+                alert('Could not find Optech item matching: ' + selectedName);
+            }
+        }
+
+        // WhatsApp message WITHOUT GROUP, with GST / Taxation calculated
+        function rebuildWhatsAppMessage() {
+            let subtotal = 0;
+            const custName = document.getElementById('custNameInput') ? document.getElementById('custNameInput').value.trim() : '';
+            const custPhone = document.getElementById('custPhoneInput') ? document.getElementById('custPhoneInput').value.trim() : '';
+
+            const lines = [
+                "━━━━━━━━━━━━━━━━━━━━━━",
+                "📋 *QUOTATION ESTIMATE*"
+            ];
+            if (custName) {
+                lines.push(`👤 Customer: *${custName}*`);
+            }
+            lines.push(`⚙️ Pricing: ${currentPricingMode === 'markup' ? 'Markup Applied' : 'Standard Rates'}`);
+            lines.push("━━━━━━━━━━━━━━━━━━━━━━\n");
+
+            currentItems.forEach((it, i) => {
+                const amount = it.quantity * it.applied_rate;
+                subtotal += amount;
+                const hsnStr = it.hsn_code ? ` [HSN: ${it.hsn_code}]` : "";
+                lines.push(`*${i + 1}. ${it.matched_item_name}*${hsnStr}`);
+                lines.push(`   🔢 Qty: ${it.quantity} ${it.unit} × ₹${it.applied_rate.toFixed(2)} = *₹${amount.toFixed(2)}*\n`);
+            });
+
+            lines.push("━━━━━━━━━━━━━━━━━━━━━━");
+
+            // Taxation / GST Calculation
+            const gstVal = document.getElementById('gstSelect') ? document.getElementById('gstSelect').value : '18';
+            let grandTotal = subtotal;
+            if (gstVal === 'extra') {
+                lines.push(`💰 *SUBTOTAL: ₹${subtotal.toFixed(2)}*`);
+                lines.push("━━━━━━━━━━━━━━━━━━━━━━");
+                lines.push("\n_Note: GST / taxes extra as applicable. Rates subject to final confirmation._");
+
+                if (document.getElementById('printSubtotal')) document.getElementById('printSubtotal').innerText = `₹${subtotal.toFixed(2)}`;
+                if (document.getElementById('printGstLabel')) document.getElementById('printGstLabel').innerText = `Taxes Extra`;
+                if (document.getElementById('printGstAmount')) document.getElementById('printGstAmount').innerText = `+ Taxes`;
+                if (document.getElementById('printGrandTotal')) document.getElementById('printGrandTotal').innerText = `₹${subtotal.toFixed(2)} (+GST)`;
+            } else {
+                const gstPct = parseFloat(gstVal) || 0;
+                const gstAmount = subtotal * (gstPct / 100);
+                grandTotal = subtotal + gstAmount;
+
+                lines.push(`Subtotal: ₹${subtotal.toFixed(2)}`);
+                if (gstPct > 0) {
+                    lines.push(`GST (${gstPct}%): ₹${gstAmount.toFixed(2)}`);
+                }
+                lines.push("━━━━━━━━━━━━━━━━━━━━━━");
+                lines.push(`💰 *GRAND TOTAL (Incl. GST): ₹${grandTotal.toFixed(2)}*`);
+                lines.push("━━━━━━━━━━━━━━━━━━━━━━");
+                lines.push("\n_Note: Rates subject to final confirmation._");
+
+                if (document.getElementById('printSubtotal')) document.getElementById('printSubtotal').innerText = `₹${subtotal.toFixed(2)}`;
+                if (document.getElementById('printGstLabel')) document.getElementById('printGstLabel').innerText = `GST (${gstPct}%):`;
+                if (document.getElementById('printGstAmount')) document.getElementById('printGstAmount').innerText = `₹${gstAmount.toFixed(2)}`;
+                if (document.getElementById('printGrandTotal')) document.getElementById('printGrandTotal').innerText = `₹${grandTotal.toFixed(2)}`;
+            }
+
+            document.getElementById('whatsappPreview').innerText = lines.join('\n');
+
+            if (document.getElementById('printDate')) document.getElementById('printDate').innerText = new Date().toLocaleDateString('en-IN', { day: '2-digit', month: 'short', year: 'numeric', hour: '2-digit', minute: '2-digit' });
+            if (document.getElementById('printGst')) document.getElementById('printGst').innerText = gstVal === 'extra' ? 'Taxes Extra' : `${gstVal}%`;
+            if (document.getElementById('printCustName')) document.getElementById('printCustName').innerText = custName || 'Walk-in Customer';
+            if (document.getElementById('printCustPhone')) document.getElementById('printCustPhone').innerText = custPhone || '-';
+        }
+
+        function sendViaWhatsApp() {
+            const msg = document.getElementById('whatsappPreview').innerText;
+            const phone = document.getElementById('custPhoneInput').value.trim().replace(/\D/g, '');
+            if (!msg) { alert('No quotation generated yet.'); return; }
+            let url = '';
+            if (phone && phone.length >= 10) {
+                const cleanPhone = phone.length === 10 ? '91' + phone : phone;
+                url = `https://wa.me/${cleanPhone}?text=${encodeURIComponent(msg)}`;
+            } else {
+                url = `https://wa.me/?text=${encodeURIComponent(msg)}`;
+            }
+            window.open(url, '_blank');
+        }
+
+        async function copyWhatsAppMessage() {
+            const msg = document.getElementById('whatsappPreview').innerText;
+            if (!msg) return;
+            try {
+                await navigator.clipboard.writeText(msg);
+                const btn = document.getElementById('copyMsgBtn');
+                btn.innerText = '✅ Copied!';
+                btn.style.background = '#16a34a';
+                setTimeout(() => {
+                    btn.innerHTML = '📋 Copy Message';
+                    btn.style.background = '#0284c7';
+                }, 2000);
+            } catch (e) {
+                alert('Could not copy automatically. Please select and copy.');
+            }
+        }
+
+        function printQuotationSlip() {
+            rebuildWhatsAppMessage();
+            window.print();
+        }
+
+        async function saveQuotationToHistory() {
+            const btn = document.getElementById('saveQuoteBtn');
+            const custName = document.getElementById('custNameInput').value.trim();
+            const custPhone = document.getElementById('custPhoneInput').value.trim();
+            const gstVal = document.getElementById('gstSelect').value;
+            const msg = document.getElementById('whatsappPreview').innerText;
+
+            let total = 0;
+            currentItems.forEach(it => total += (it.quantity * it.applied_rate));
+            if (gstVal !== 'extra') {
+                total += total * ((parseFloat(gstVal) || 0) / 100);
+            }
+
+            try {
+                btn.innerText = '⏳ Saving...';
+                const res = await fetch('/api/save-quotation', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        customer_name: custName,
+                        customer_phone: custPhone,
+                        pricing_mode: currentPricingMode,
+                        gst_rate: gstVal,
+                        items: currentItems,
+                        whatsapp_message: msg,
+                        total_amount: Math.round(total * 100) / 100
+                    })
+                });
+                const data = await res.json();
+                if (data.status === 'success') {
+                    btn.innerText = '✅ Saved!';
+                    btn.style.background = '#16a34a';
+                    setTimeout(() => {
+                        btn.innerHTML = '💾 Save Quotation';
+                        btn.style.background = '#7c3aed';
+                    }, 2500);
+                }
+            } catch (e) {
+                alert('Failed to save quotation: ' + e);
+                btn.innerHTML = '💾 Save Quotation';
+            }
+        }
+
+        async function openHistoryModal() {
+            const modal = document.getElementById('historyModal');
+            const container = document.getElementById('historyListContainer');
+            modal.style.display = 'flex';
+            container.innerHTML = '<p style="color:#6b7280; font-size:13px; text-align:center; padding:20px;">Loading history...</p>';
+
+            try {
+                const res = await fetch('/api/quotation-history');
+                const history = await res.json();
+                if (!history || history.length === 0) {
+                    container.innerHTML = '<p style="color:#6b7280; font-size:13px; text-align:center; padding:20px;">No quotations saved yet. Click "💾 Save Quotation" after generating any quote!</p>';
+                    return;
+                }
+
+                let html = '<div style="display: flex; flex-direction: column; gap: 8px;">';
+                history.forEach((q, idx) => {
+                    html += `
+                        <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 10px 12px; background: #f8fafc; display: flex; justify-content: space-between; align-items: center;">
+                            <div>
+                                <div style="font-weight: bold; font-size: 13px; color: #1e293b;">${q.customer_name} <span style="font-weight: normal; color: #64748b; font-size: 12px;">(${q.customer_phone})</span></div>
+                                <div style="font-size: 11px; color: #64748b; margin-top: 2px;">📅 ${q.date} | 📦 ${q.items ? q.items.length : 0} items | GST: ${q.gst_rate}%</div>
+                            </div>
+                            <div style="display: flex; align-items: center; gap: 10px;">
+                                <b style="font-size: 14px; color: #16a34a;">₹${(q.total_amount || 0).toFixed(2)}</b>
+                                <button class="btn-small" style="background:#0284c7; color:white; padding:4px 8px; font-size:11px;" onclick="loadHistoryItem(${idx})">Load</button>
+                            </div>
+                        </div>
+                    `;
+                });
+                html += '</div>';
+                container.innerHTML = html;
+                window.savedHistoryCache = history;
+            } catch (e) {
+                container.innerHTML = `<p style="color:red; font-size:13px;">Error loading history: ${e}</p>`;
+            }
+        }
+
+        function closeHistoryModal() {
+            document.getElementById('historyModal').style.display = 'none';
+        }
+
+        function loadHistoryItem(idx) {
+            if (!window.savedHistoryCache || !window.savedHistoryCache[idx]) return;
+            const q = window.savedHistoryCache[idx];
+            document.getElementById('custNameInput').value = q.customer_name || '';
+            document.getElementById('custPhoneInput').value = q.customer_phone || '';
+            if (q.gst_rate) document.getElementById('gstSelect').value = q.gst_rate;
+            currentPricingMode = q.pricing_mode || 'standard';
+            currentItems = q.items || [];
+            closeHistoryModal();
+            renderEditorTable();
+        }
+    </script>
+</body>
+</html>

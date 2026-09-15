@@ -1,0 +1,10 @@
+{
+  "default_markup_percent": 15.0,
+  "groups": {
+    "ELECTRICAL": 18.0,
+    "PLUMBING": 20.0,
+    "HARDWARE": 15.0,
+    "PAINT": 12.0,
+    "PAINT ACCESSORIES": 15.0
+  }
+}
