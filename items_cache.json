@@ -6002,8 +6002,8 @@
   {
     "item_name": "AS 4LT ALUMI PAINT (HIGH HEAT 250 C) 0300+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 1780.384033203125,
-    "sale_rate": 1940.0,
+    "purchase_rate": 1845.52001953125,
+    "sale_rate": 2000.0,
     "hsn_code": "32089090",
     "unit": "Nos"
   },
@@ -24075,7 +24075,7 @@
     "item_name": "BLACK POWDER (GORILLA)-GM",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 0.0,
-    "sale_rate": 200.0,
+    "sale_rate": 700.0,
     "hsn_code": "25309070",
     "unit": "Kg"
   },
@@ -29370,8 +29370,8 @@
   {
     "item_name": "BR EN 20LT D-ORANGE (GLSY-ENAMEL) BERGER-BUTTERFLY",
     "group_name": "PAINTS",
-    "purchase_rate": 3624.550048828125,
-    "sale_rate": 4150.0,
+    "purchase_rate": 4153.60009765625,
+    "sale_rate": 4570.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -29394,8 +29394,8 @@
   {
     "item_name": "BR EN 20LT GO.YELLOW (GLSY-ENAMEL) BERGER-BUTTERFLY",
     "group_name": "PAINTS",
-    "purchase_rate": 3800.0,
-    "sale_rate": 4200.0,
+    "purchase_rate": 4153.60009765625,
+    "sale_rate": 4570.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -29506,8 +29506,8 @@
   {
     "item_name": "BR EN 20LT SM GREY (GLSY-ENAMEL) BERGER-BUTTERFLY",
     "group_name": "PAINTS",
-    "purchase_rate": 3528.739990234375,
-    "sale_rate": 3880.0,
+    "purchase_rate": 3989.0,
+    "sale_rate": 4400.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -29852,6 +29852,14 @@
     "group_name": "PAINTS",
     "purchase_rate": 280.489990234375,
     "sale_rate": 310.0,
+    "hsn_code": "32089021",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "BR PO-20LT (PU-GLSY-ENAMEL) BERGER",
+    "group_name": "PAINTS",
+    "purchase_rate": 5583.5,
+    "sale_rate": 6600.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -55794,8 +55802,8 @@
   {
     "item_name": "EPOXY RAL7022(ASIAN) 5LT+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 2273.24609375,
-    "sale_rate": 2500.0,
+    "purchase_rate": 2383.97802734375,
+    "sale_rate": 2590.0,
     "hsn_code": "32089090",
     "unit": "Nos"
   },
@@ -56106,8 +56114,8 @@
   {
     "item_name": "EPOXY THINNER 20LTR (ASIAN-141)",
     "group_name": "PAINTS",
-    "purchase_rate": 4146.9921875,
-    "sale_rate": 4510.0,
+    "purchase_rate": 4472.671875,
+    "sale_rate": 4860.0,
     "hsn_code": "38140010",
     "unit": "Nos"
   },
