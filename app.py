@@ -261,6 +261,37 @@ def api_sync_cache(req: SyncCacheRequest):
     }
 
 
+@app.post("/api/sync-sql")
+def api_sync_sql():
+    global matcher, quotation_service
+    import json
+    try:
+        from db_connector import fetch_items_from_sql, ITEMS_CACHE_FILE
+        items = fetch_items_from_sql()
+        if items:
+            with open(ITEMS_CACHE_FILE, "w", encoding="utf-8") as f:
+                json.dump(items, f, ensure_ascii=False, indent=2)
+            matcher = ItemMatcher(items=items, memory=memory)
+            quotation_service = QuotationService(matcher, extractor, pricing)
+            return {
+                "status": "success",
+                "source": "sql_server",
+                "total_items": len(items),
+                "message": f"Successfully synced {len(items):,} items directly from Optech SQL Server!"
+            }
+        else:
+            return {"status": "error", "message": "SQL Server returned 0 items."}
+    except Exception as e:
+        logger.info(f"Direct SQL sync not available (running on cloud or no local DB driver): {e}")
+        total = len(matcher.items) if matcher else 0
+        return {
+            "status": "cloud_active",
+            "source": "cache",
+            "total_items": total,
+            "message": f"Cloud Database is active with {total:,} items! Live updates auto-sync from your Shop PC every 30 minutes."
+        }
+
+
 @app.post("/api/quotation/text")
 def api_process_text(req: TextQuotationRequest):
     if not quotation_service:

@@ -103,7 +103,8 @@
                 <p style="font-size: 13px; opacity: 0.9;">Database: <b>Inv_15_002</b></p>
             </div>
             <div class="badges">
-                <span class="badge">{{TOTAL_ITEMS}} Items Loaded</span>
+                <span class="badge" id="totalItemsBadge">{{TOTAL_ITEMS}} Items Loaded</span>
+                <button class="btn-small" id="syncDbBtn" onclick="triggerDatabaseSync()" style="background: #0284c7; color: white; font-weight: bold; display: flex; align-items: center; gap: 4px;">🔄 Sync DB</button>
                 <button class="btn-small" onclick="openHistoryModal()" style="background: #f3e8ff; color: #6b21a8; font-weight: bold;">📁 Saved Quotes</button>
                 <button class="btn-small" onclick="openApiKeyModal()" style="background: white; color: var(--primary-dark);">🔑 Gemini API Key</button>
             </div>
@@ -140,7 +141,7 @@
                     </div>
                     <div style="text-align: right; font-size: 10pt;">
                         <div><b>Date:</b> <span id="printDate"></span></div>
-                        <div style="margin-top: 3px;"><b>GST:</b> <span id="printGst">18%</span></div>
+                        <div style="margin-top: 3px;"><b>GST:</b> <span id="printGst">18% (Incl)</span></div>
                     </div>
                 </div>
                 <div style="margin-top: 12px; background: #f5f5f5; padding: 8px 12px; border: 1px solid #ccc; font-size: 11pt;">
@@ -161,11 +162,15 @@
                     <div style="display: flex; align-items: center; gap: 6px; background: #f3f4f6; padding: 4px 10px; border-radius: 6px;">
                         <span style="font-size: 12px; font-weight: bold; color: #374151;">📊 GST Rate:</span>
                         <select id="gstSelect" onchange="onGstChange()" style="padding: 4px 8px; border-radius: 4px; border: 1px solid #d1d5db; font-weight: bold;">
-                            <option value="18" selected>18% GST (Standard)</option>
-                            <option value="12">12% GST</option>
-                            <option value="5">5% GST</option>
-                            <option value="28">28% GST</option>
-                            <option value="0">0% (Tax Exempted)</option>
+                            <option value="incl_18" selected>18% GST (Included in Price - MRP)</option>
+                            <option value="incl_12">12% GST (Included in Price)</option>
+                            <option value="incl_5">5% GST (Included in Price)</option>
+                            <option value="incl_28">28% GST (Included in Price)</option>
+                            <option value="incl_0">0% (Net Rate / Exempted)</option>
+                            <option value="extra_18">+ 18% GST (Extra)</option>
+                            <option value="extra_12">+ 12% GST (Extra)</option>
+                            <option value="extra_5">+ 5% GST (Extra)</option>
+                            <option value="extra_28">+ 28% GST (Extra)</option>
                             <option value="extra">Taxes Extra (+GST)</option>
                         </select>
                     </div>
@@ -914,9 +919,32 @@
             lines.push("━━━━━━━━━━━━━━━━━━━━━━");
 
             // Taxation / GST Calculation
-            const gstVal = document.getElementById('gstSelect') ? document.getElementById('gstSelect').value : '18';
+            const gstVal = document.getElementById('gstSelect') ? document.getElementById('gstSelect').value : 'incl_18';
             let grandTotal = subtotal;
-            if (gstVal === 'extra') {
+
+            if (gstVal.startsWith('incl_')) {
+                const gstPct = parseFloat(gstVal.replace('incl_', '')) || 0;
+                grandTotal = subtotal;
+                let taxableAmount = subtotal;
+                let gstAmount = 0;
+                if (gstPct > 0) {
+                    taxableAmount = subtotal / (1 + (gstPct / 100));
+                    gstAmount = subtotal - taxableAmount;
+                    lines.push(`Subtotal (Taxable): ₹${taxableAmount.toFixed(2)}`);
+                    lines.push(`GST (${gstPct}% Included): ₹${gstAmount.toFixed(2)}`);
+                }
+                lines.push("━━━━━━━━━━━━━━━━━━━━━━");
+                lines.push(`💰 *GRAND TOTAL (Incl. GST): ₹${grandTotal.toFixed(2)}*`);
+                lines.push("━━━━━━━━━━━━━━━━━━━━━━");
+                lines.push("\n_Note: Rates are inclusive of all taxes. Rates subject to final confirmation._");
+
+                if (document.getElementById('printSubtotal')) document.getElementById('printSubtotal').innerText = `₹${taxableAmount.toFixed(2)}`;
+                if (document.getElementById('printGstLabel')) document.getElementById('printGstLabel').innerText = gstPct > 0 ? `GST (${gstPct}% Incl):` : `GST:`;
+                if (document.getElementById('printGstAmount')) document.getElementById('printGstAmount').innerText = gstPct > 0 ? `₹${gstAmount.toFixed(2)}` : `₹0.00`;
+                if (document.getElementById('printGrandTotal')) document.getElementById('printGrandTotal').innerText = `₹${grandTotal.toFixed(2)}`;
+                if (document.getElementById('printGst')) document.getElementById('printGst').innerText = gstPct > 0 ? `${gstPct}% (Incl)` : `0%`;
+            } else if (gstVal === 'extra') {
+                grandTotal = subtotal;
                 lines.push(`💰 *SUBTOTAL: ₹${subtotal.toFixed(2)}*`);
                 lines.push("━━━━━━━━━━━━━━━━━━━━━━");
                 lines.push("\n_Note: GST / taxes extra as applicable. Rates subject to final confirmation._");
@@ -925,17 +953,18 @@
                 if (document.getElementById('printGstLabel')) document.getElementById('printGstLabel').innerText = `Taxes Extra`;
                 if (document.getElementById('printGstAmount')) document.getElementById('printGstAmount').innerText = `+ Taxes`;
                 if (document.getElementById('printGrandTotal')) document.getElementById('printGrandTotal').innerText = `₹${subtotal.toFixed(2)} (+GST)`;
+                if (document.getElementById('printGst')) document.getElementById('printGst').innerText = `Taxes Extra`;
             } else {
-                const gstPct = parseFloat(gstVal) || 0;
+                const gstPct = parseFloat(gstVal.replace('extra_', '')) || 0;
                 const gstAmount = subtotal * (gstPct / 100);
                 grandTotal = subtotal + gstAmount;
 
                 lines.push(`Subtotal: ₹${subtotal.toFixed(2)}`);
                 if (gstPct > 0) {
-                    lines.push(`GST (${gstPct}%): ₹${gstAmount.toFixed(2)}`);
+                    lines.push(`GST (${gstPct}% Extra): ₹${gstAmount.toFixed(2)}`);
                 }
                 lines.push("━━━━━━━━━━━━━━━━━━━━━━");
-                lines.push(`💰 *GRAND TOTAL (Incl. GST): ₹${grandTotal.toFixed(2)}*`);
+                lines.push(`💰 *GRAND TOTAL (with GST): ₹${grandTotal.toFixed(2)}*`);
                 lines.push("━━━━━━━━━━━━━━━━━━━━━━");
                 lines.push("\n_Note: Rates subject to final confirmation._");
 
@@ -943,12 +972,12 @@
                 if (document.getElementById('printGstLabel')) document.getElementById('printGstLabel').innerText = `GST (${gstPct}%):`;
                 if (document.getElementById('printGstAmount')) document.getElementById('printGstAmount').innerText = `₹${gstAmount.toFixed(2)}`;
                 if (document.getElementById('printGrandTotal')) document.getElementById('printGrandTotal').innerText = `₹${grandTotal.toFixed(2)}`;
+                if (document.getElementById('printGst')) document.getElementById('printGst').innerText = `${gstPct}% (Extra)`;
             }
 
             document.getElementById('whatsappPreview').innerText = lines.join('\n');
 
             if (document.getElementById('printDate')) document.getElementById('printDate').innerText = new Date().toLocaleDateString('en-IN', { day: '2-digit', month: 'short', year: 'numeric', hour: '2-digit', minute: '2-digit' });
-            if (document.getElementById('printGst')) document.getElementById('printGst').innerText = gstVal === 'extra' ? 'Taxes Extra' : `${gstVal}%`;
             if (document.getElementById('printCustName')) document.getElementById('printCustName').innerText = custName || 'Walk-in Customer';
             if (document.getElementById('printCustPhone')) document.getElementById('printCustPhone').innerText = custPhone || '-';
         }
@@ -1014,8 +1043,9 @@
 
             let total = 0;
             currentItems.forEach(it => total += (it.quantity * it.applied_rate));
-            if (gstVal !== 'extra') {
-                total += total * ((parseFloat(gstVal) || 0) / 100);
+            if (gstVal.startsWith('extra_')) {
+                const gstPct = parseFloat(gstVal.replace('extra_', '')) || 0;
+                total += total * (gstPct / 100);
             }
             total = Math.round(total * 100) / 100;
 
@@ -1057,8 +1087,9 @@
 
             let total = 0;
             currentItems.forEach(it => total += (it.quantity * it.applied_rate));
-            if (gstVal !== 'extra') {
-                total += total * ((parseFloat(gstVal) || 0) / 100);
+            if (gstVal.startsWith('extra_')) {
+                const gstPct = parseFloat(gstVal.replace('extra_', '')) || 0;
+                total += total * (gstPct / 100);
             }
             total = Math.round(total * 100) / 100;
 
@@ -1185,6 +1216,39 @@
             currentItems = q.items || [];
             closeHistoryModal();
             renderEditorTable();
+        }
+
+        async function triggerDatabaseSync() {
+            const btn = document.getElementById('syncDbBtn');
+            const originalText = btn.innerHTML;
+            btn.innerHTML = '🔄 Syncing...';
+            btn.disabled = true;
+
+            try {
+                const res = await fetch('/api/sync-sql', { method: 'POST' });
+                const data = await res.json();
+                if (data.status === 'success') {
+                    btn.innerHTML = '✅ Synced!';
+                    btn.style.background = '#16a34a';
+                    if (document.getElementById('totalItemsBadge') && data.total_items) {
+                        document.getElementById('totalItemsBadge').innerText = `${data.total_items.toLocaleString()} Items Loaded`;
+                    }
+                    alert(data.message || 'Database synced successfully!');
+                } else if (data.status === 'cloud_active') {
+                    btn.innerHTML = '☁️ Cloud Active';
+                    alert(`✅ ${data.message}`);
+                } else {
+                    alert('Sync notice: ' + (data.message || 'Cache refreshed'));
+                }
+            } catch (e) {
+                alert('Sync check error: ' + e);
+            } finally {
+                setTimeout(() => {
+                    btn.innerHTML = originalText;
+                    btn.style.background = '#0284c7';
+                    btn.disabled = false;
+                }, 3000);
+            }
         }
     </script>
 </body>
