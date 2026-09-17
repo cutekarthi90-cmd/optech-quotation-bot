@@ -7226,8 +7226,8 @@
   {
     "item_name": "AS APEX 20LT WHITE (ASIAN) ADVANCED",
     "group_name": "PAINTS",
-    "purchase_rate": 6221.5498046875,
-    "sale_rate": 6550.0,
+    "purchase_rate": 1.0,
+    "sale_rate": 6690.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
