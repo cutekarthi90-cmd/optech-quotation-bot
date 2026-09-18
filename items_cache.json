@@ -78283,7 +78283,7 @@
     "item_name": "INDIGO TERACOTTA 4LTR (FLOOR COAT)",
     "group_name": "PAINTS",
     "purchase_rate": 1952.989990234375,
-    "sale_rate": 2500.0,
+    "sale_rate": 2200.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -101477,6 +101477,14 @@
     "purchase_rate": 4140.0,
     "sale_rate": 5350.0,
     "hsn_code": "9405",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "MULTIFAB SOLAR FLOOD LIGHT 100W",
+    "group_name": "ELECTRICALS",
+    "purchase_rate": 2130.0,
+    "sale_rate": 2800.0,
+    "hsn_code": "",
     "unit": "Nos"
   },
   {
@@ -137044,14 +137052,6 @@
     "group_name": "Acessoires",
     "purchase_rate": 0.0,
     "sale_rate": 0.0,
-    "hsn_code": "",
-    "unit": "Nos"
-  },
-  {
-    "item_name": "SOLAR FLOOD LIGHT 100W",
-    "group_name": "ELECTRICALS",
-    "purchase_rate": 2130.0,
-    "sale_rate": 2800.0,
     "hsn_code": "",
     "unit": "Nos"
   },
