@@ -61074,8 +61074,8 @@
   {
     "item_name": "FINOLEX 1.5 SQ MM FLEX (100-MTR) GREY CLOUR",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 2624.0,
-    "sale_rate": 2900.0,
+    "purchase_rate": 2970.0,
+    "sale_rate": 3200.0,
     "hsn_code": "85446020",
     "unit": "COIL"
   },
@@ -61118,6 +61118,14 @@
     "sale_rate": 0.0,
     "hsn_code": "85446020",
     "unit": "COIL"
+  },
+  {
+    "item_name": "FINOLEX 1.5SQX4C ROUND( MTR)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 122.91999816894531,
+    "sale_rate": 140.0,
+    "hsn_code": "85446020",
+    "unit": "Meter"
   },
   {
     "item_name": "FINOLEX 16SQ WIRE",
@@ -61282,8 +61290,8 @@
   {
     "item_name": "FINOLEX 4 SQ MM FRLS (90-MTR)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 6456.0,
-    "sale_rate": 6700.0,
+    "purchase_rate": 6806.0,
+    "sale_rate": 7050.0,
     "hsn_code": "85446020",
     "unit": "COIL"
   },
@@ -134571,7 +134579,7 @@
     "item_name": "SH BLACK WOOD STAIN 100ML-SHEENLAC",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 45.77000045776367,
-    "sale_rate": 55.0,
+    "sale_rate": 60.0,
     "hsn_code": "34052000",
     "unit": "Nos"
   },
@@ -176578,8 +176586,8 @@
   {
     "item_name": "WP KANNAL 10LT (WALL PACE)",
     "group_name": "PAINTS",
-    "purchase_rate": 1416.0,
-    "sale_rate": 1560.0,
+    "purchase_rate": 1669.699951171875,
+    "sale_rate": 1840.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -176594,8 +176602,16 @@
   {
     "item_name": "WP KANNAL 20LT (WALL PACE)",
     "group_name": "PAINTS",
-    "purchase_rate": 2750.0,
-    "sale_rate": 3000.0,
+    "purchase_rate": 3104.580078125,
+    "sale_rate": 3420.0,
+    "hsn_code": "32091010",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "WP KANNAL 20LT (WALL PACE) - DARK",
+    "group_name": "PAINTS",
+    "purchase_rate": 2791.8798828125,
+    "sale_rate": 3070.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
