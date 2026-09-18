@@ -7592,6 +7592,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "AS BLACK BOARD PAINT 200ML (ASIAN)",
+    "group_name": "PAINTS",
+    "purchase_rate": 71.74400329589844,
+    "sale_rate": 80.0,
+    "hsn_code": "32089021",
+    "unit": "Nos"
+  },
+  {
     "item_name": "AS BLACK BOARD PAINT 4LT (ASIAN)",
     "group_name": "PAINTS",
     "purchase_rate": 1200.5909423828125,
@@ -8746,8 +8754,8 @@
   {
     "item_name": "AS EN 100ML BR WHITE (GLSY-ENAMEL)-ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 41.47999954223633,
-    "sale_rate": 45.0,
+    "purchase_rate": 44.84000015258789,
+    "sale_rate": 50.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -13178,8 +13186,8 @@
   {
     "item_name": "AS RB3-10LT ROYAL EML (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 4091.64990234375,
-    "sale_rate": 4300.0,
+    "purchase_rate": 5880.76611328125,
+    "sale_rate": 6190.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -13778,8 +13786,8 @@
   {
     "item_name": "AS RS 500ML BROWN (GLSY-ENAMEL)-ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 135.63999938964844,
-    "sale_rate": 160.0,
+    "purchase_rate": 155.25900268554688,
+    "sale_rate": 165.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -14138,8 +14146,8 @@
   {
     "item_name": "AS SE-2-1LT (SATIN-ENAMEL) ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 303.7900085449219,
-    "sale_rate": 320.0,
+    "purchase_rate": 339.6629943847656,
+    "sale_rate": 360.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -14674,8 +14682,8 @@
   {
     "item_name": "AS TE15-1LT TRAC EML (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 201.77999877929688,
-    "sale_rate": 215.0,
+    "purchase_rate": 224.1999969482422,
+    "sale_rate": 235.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -116088,6 +116096,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "PPR 3\" FLANGE",
+    "group_name": "PLUMBING",
+    "purchase_rate": 412.114990234375,
+    "sale_rate": 480.0,
+    "hsn_code": "39174000",
+    "unit": "Nos"
+  },
+  {
     "item_name": "PPR 3\" FLANGE CORE",
     "group_name": "PLUMBING",
     "purchase_rate": 80.83000183105469,
@@ -116109,6 +116125,14 @@
     "purchase_rate": 641.0,
     "sale_rate": 740.0,
     "hsn_code": "39172390",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "PPR 3\" X 2\" REDUCER",
+    "group_name": "PLUMBING",
+    "purchase_rate": 88.91300201416016,
+    "sale_rate": 110.0,
+    "hsn_code": "39174000",
     "unit": "Nos"
   },
   {
@@ -116277,6 +116301,22 @@
     "purchase_rate": 724.0,
     "sale_rate": 832.0,
     "hsn_code": "39172390",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "PPR 4\" FLANGE",
+    "group_name": "PLUMBING",
+    "purchase_rate": 590.5900268554688,
+    "sale_rate": 680.0,
+    "hsn_code": "39174000",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "PPR 4\" FLANGE CORE",
+    "group_name": "PLUMBING",
+    "purchase_rate": 138.88999938964844,
+    "sale_rate": 160.0,
+    "hsn_code": "39174000",
     "unit": "Nos"
   },
   {
