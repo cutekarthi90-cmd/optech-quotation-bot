@@ -9882,8 +9882,8 @@
   {
     "item_name": "AS EN 4LT DEEP MAHAGONY (GLSY-ENAMEL)-ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 1069.4300537109375,
-    "sale_rate": 1125.0,
+    "purchase_rate": 1.0,
+    "sale_rate": 1260.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -115954,8 +115954,8 @@
   {
     "item_name": "PPR 2 \" COUPLING",
     "group_name": "PLUMBING",
-    "purchase_rate": 79.91000366210938,
-    "sale_rate": 110.0,
+    "purchase_rate": 87.61000061035156,
+    "sale_rate": 120.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -115986,32 +115986,32 @@
   {
     "item_name": "PPR 2\" ELBOW",
     "group_name": "PLUMBING",
-    "purchase_rate": 146.72000122070312,
-    "sale_rate": 180.0,
+    "purchase_rate": 171.97999572753906,
+    "sale_rate": 210.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
   {
     "item_name": "PPR 2\" FLANGE",
     "group_name": "PLUMBING",
-    "purchase_rate": 218.7100067138672,
-    "sale_rate": 290.0,
+    "purchase_rate": 255.7100067138672,
+    "sale_rate": 330.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
   {
     "item_name": "PPR 2\" FLANGE CORE",
     "group_name": "PLUMBING",
-    "purchase_rate": 40.72999954223633,
-    "sale_rate": 60.0,
+    "purchase_rate": 47.380001068115234,
+    "sale_rate": 70.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
   {
     "item_name": "PPR 2\" PIPE PN16 (PRINCE)",
     "group_name": "PLUMBING",
-    "purchase_rate": 1189.3599853515625,
-    "sale_rate": 1280.0,
+    "purchase_rate": 1392.0999755859375,
+    "sale_rate": 1600.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
@@ -116026,8 +116026,8 @@
   {
     "item_name": "PPR 2\" TEE",
     "group_name": "PLUMBING",
-    "purchase_rate": 212.9600067138672,
-    "sale_rate": 290.0,
+    "purchase_rate": 249.21600341796875,
+    "sale_rate": 330.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -116106,10 +116106,18 @@
   {
     "item_name": "PPR 3\" FLANGE CORE",
     "group_name": "PLUMBING",
-    "purchase_rate": 80.83000183105469,
-    "sale_rate": 100.0,
+    "purchase_rate": 88.91000366210938,
+    "sale_rate": 110.0,
     "hsn_code": "39172390",
     "unit": "Nos"
+  },
+  {
+    "item_name": "PPR 3\" PIPE PN 10",
+    "group_name": "PLUMBING",
+    "purchase_rate": 589.2899780273438,
+    "sale_rate": 680.0,
+    "hsn_code": "39172390",
+    "unit": "Meter"
   },
   {
     "item_name": "PPR 3\" PIPE PN 16",
@@ -116130,8 +116138,8 @@
   {
     "item_name": "PPR 3\" X 2\" REDUCER",
     "group_name": "PLUMBING",
-    "purchase_rate": 88.91300201416016,
-    "sale_rate": 110.0,
+    "purchase_rate": 466.6300048828125,
+    "sale_rate": 540.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -116288,6 +116296,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "PPR 4 \" X   2\" REDUCER",
+    "group_name": "PLUMBING",
+    "purchase_rate": 667.1719970703125,
+    "sale_rate": 770.0,
+    "hsn_code": "39174000",
+    "unit": "Nos"
+  },
+  {
     "item_name": "PPR 4\" COUPLING",
     "group_name": "PLUMBING",
     "purchase_rate": 499.0,
@@ -116318,6 +116334,14 @@
     "sale_rate": 160.0,
     "hsn_code": "39174000",
     "unit": "Nos"
+  },
+  {
+    "item_name": "PPR 4\" PIPE PN 10",
+    "group_name": "PLUMBING",
+    "purchase_rate": 873.5499877929688,
+    "sale_rate": 1010.0,
+    "hsn_code": "39172390",
+    "unit": "Meter"
   },
   {
     "item_name": "PPR 4\" PIPE PN 16",
