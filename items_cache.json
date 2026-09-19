@@ -53752,6 +53752,14 @@
     "unit": "Roll"
   },
   {
+    "item_name": "EMR 36NO EMERY ROLL (50MTR-ROLL) BOSCH",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 1760.0,
+    "sale_rate": 2000.0,
+    "hsn_code": "68052010",
+    "unit": "Roll"
+  },
+  {
     "item_name": "EMR 36NO EMERY ROLL (50MTR-ROLL) NORTON",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 2430.0,
