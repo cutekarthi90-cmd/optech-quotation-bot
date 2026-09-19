@@ -922,7 +922,7 @@
   {
     "item_name": "3TON X 2 METRE LIFTING BELT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 376.9599914550781,
+    "purchase_rate": 450.4700012207031,
     "sale_rate": 650.0,
     "hsn_code": "59113190",
     "unit": "Nos"
@@ -15930,7 +15930,7 @@
   {
     "item_name": "ASBESTOS ROPE 6MM (BULLET)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 254.8800048828125,
+    "purchase_rate": 275.69000244140625,
     "sale_rate": 390.0,
     "hsn_code": "68129990",
     "unit": "Kg"
@@ -19170,8 +19170,8 @@
   {
     "item_name": "BA 1\" BALL VALVE (MATRIX)",
     "group_name": "PLUMBING",
-    "purchase_rate": 690.1199951171875,
-    "sale_rate": 760.0,
+    "purchase_rate": 785.969970703125,
+    "sale_rate": 870.0,
     "hsn_code": "84818090",
     "unit": "Nos"
   },
@@ -19842,8 +19842,8 @@
   {
     "item_name": "BA 3/4\" BALL VALVE (MATRIX)",
     "group_name": "PLUMBING",
-    "purchase_rate": 454.3900146484375,
-    "sale_rate": 510.0,
+    "purchase_rate": 517.5900268554688,
+    "sale_rate": 580.0,
     "hsn_code": "84818090",
     "unit": "Nos"
   },
@@ -22794,7 +22794,7 @@
   {
     "item_name": "BL 4\" BULLET CUT OFF (GREEN)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 11.380000114440918,
+    "purchase_rate": 9.793999671936035,
     "sale_rate": 15.0,
     "hsn_code": "68042290",
     "unit": "Nos"
@@ -25242,8 +25242,8 @@
   {
     "item_name": "BO 3 1/2 X 3/4 BOLT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 97.0,
-    "sale_rate": 118.0,
+    "purchase_rate": 111.0,
+    "sale_rate": 120.0,
     "hsn_code": "73181500",
     "unit": "Kg"
   },
@@ -25658,7 +25658,7 @@
   {
     "item_name": "BO 5\" X 1/2\" BOLT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 105.0,
+    "purchase_rate": 111.0,
     "sale_rate": 125.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -34586,7 +34586,7 @@
   {
     "item_name": "CHAIN 5/8\" X 16\"",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 218.6999969482422,
+    "purchase_rate": 226.3300018310547,
     "sale_rate": 340.0,
     "hsn_code": "84839000",
     "unit": "Nos"
@@ -39506,8 +39506,8 @@
   {
     "item_name": "CPVC 1\" CLAMP (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 10.630000114440918,
-    "sale_rate": 13.0,
+    "purchase_rate": 14.75,
+    "sale_rate": 17.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -41850,8 +41850,8 @@
   {
     "item_name": "CRI 2.5 SQ FLEX WIRE (90-MTR COIL)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 4153.490234375,
-    "sale_rate": 4365.0,
+    "purchase_rate": 4427.97998046875,
+    "sale_rate": 4660.0,
     "hsn_code": "85446020",
     "unit": "COIL"
   },
@@ -43706,7 +43706,7 @@
   {
     "item_name": "DIE A11 GRINDING WHEEL (BLACK-ROUGH)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 23.780000686645508,
+    "purchase_rate": 17.700000762939453,
     "sale_rate": 40.0,
     "hsn_code": "68042190",
     "unit": "Nos"
@@ -43762,7 +43762,7 @@
   {
     "item_name": "DIE A3 GRINDING WHEEL (BLACK-ROUGH)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 23.600000381469727,
+    "purchase_rate": 28.31999969482422,
     "sale_rate": 40.0,
     "hsn_code": "68042390",
     "unit": "Nos"
@@ -43890,8 +43890,8 @@
   {
     "item_name": "DIE SET (1/2\", 3/4\", 1\") FULL SET (METRO)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1312.239990234375,
-    "sale_rate": 1510.0,
+    "purchase_rate": 1548.699951171875,
+    "sale_rate": 1700.0,
     "hsn_code": "82074090",
     "unit": "Nos"
   },
@@ -44146,7 +44146,7 @@
   {
     "item_name": "DIGITAL MULTI METER (MASTECH 830)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 718.2000122070312,
+    "purchase_rate": 763.510009765625,
     "sale_rate": 900.0,
     "hsn_code": "90308990",
     "unit": "Nos"
@@ -47874,8 +47874,8 @@
   {
     "item_name": "DR 310 X 22 DRILL BIT (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 424.4800109863281,
-    "sale_rate": 520.0,
+    "purchase_rate": 551.5999755859375,
+    "sale_rate": 650.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -63170,7 +63170,7 @@
   {
     "item_name": "FOOT VALVE 2\" GK (PVC)",
     "group_name": "PLUMBING",
-    "purchase_rate": 56.084999084472656,
+    "purchase_rate": 63.88999938964844,
     "sale_rate": 80.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -84058,7 +84058,7 @@
   {
     "item_name": "L & J BOLT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 102.0,
+    "purchase_rate": 104.0,
     "sale_rate": 120.0,
     "hsn_code": "73181900",
     "unit": "Kg"
@@ -92246,6 +92246,14 @@
     "sale_rate": 160.0,
     "hsn_code": "32081010",
     "unit": "Nos"
+  },
+  {
+    "item_name": "MA JAPAN BLACK 20LT (MAXBEN)",
+    "group_name": "PAINTS",
+    "purchase_rate": 2610.0,
+    "sale_rate": 3000.0,
+    "hsn_code": "32081010",
+    "unit": "Drum"
   },
   {
     "item_name": "MA JAPAN BLACK 4LT (MAXBEN)",
@@ -102120,6 +102128,14 @@
     "unit": "Set"
   },
   {
+    "item_name": "MYK LATAPOXY 450G FAST & CLEAR",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 751.6119995117188,
+    "sale_rate": 830.0,
+    "hsn_code": "32141000",
+    "unit": "Nos"
+  },
+  {
     "item_name": "MYK LATAPOXY STANDRAD EPOXY 1.8KG",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 1000.0,
@@ -106722,7 +106738,7 @@
   {
     "item_name": "NU 3/8\" C.F NUT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 112.01000213623047,
+    "purchase_rate": 117.0,
     "sale_rate": 130.0,
     "hsn_code": "73181600",
     "unit": "Kg"
@@ -109738,7 +109754,7 @@
   {
     "item_name": "PI 21/2\" PIPE CLIP (SS) BOLT TYPE  TB58",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 75.5199966430664,
+    "purchase_rate": 79.6500015258789,
     "sale_rate": 130.0,
     "hsn_code": "73079990",
     "unit": "Nos"
@@ -127666,7 +127682,7 @@
   {
     "item_name": "RU 5MM RUBBER SHEET",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 77.87999725341797,
+    "purchase_rate": 82.5999984741211,
     "sale_rate": 110.0,
     "hsn_code": "40082190",
     "unit": "Kg"
@@ -134394,7 +134410,7 @@
   {
     "item_name": "SERVICE PIPE 1\" 8 FEET",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 443.0400085449219,
+    "purchase_rate": 496.2799987792969,
     "sale_rate": 600.0,
     "hsn_code": "73063090",
     "unit": "Nos"
@@ -135290,8 +135306,8 @@
   {
     "item_name": "SHADE NET 50% (5FEET) 4.5KG=1ROLL (25F=1KG)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 180.0,
-    "sale_rate": 260.0,
+    "purchase_rate": 220.0,
+    "sale_rate": 280.0,
     "hsn_code": "60059000",
     "unit": "Kg"
   },
@@ -135714,8 +135730,8 @@
   {
     "item_name": "SHOWEL PYTHON PRO",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 412.0159912109375,
-    "sale_rate": 600.0,
+    "purchase_rate": 549.35498046875,
+    "sale_rate": 700.0,
     "hsn_code": "82011000",
     "unit": "Nos"
   },
@@ -136442,7 +136458,7 @@
   {
     "item_name": "SILICON GUN (JB) HVY",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 175.9969940185547,
+    "purchase_rate": 182.0,
     "sale_rate": 300.0,
     "hsn_code": "82055910",
     "unit": "Nos"
@@ -142162,8 +142178,8 @@
   {
     "item_name": "SS 25MM HOLESAW (BIPCO)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 277.95001220703125,
-    "sale_rate": 340.0,
+    "purchase_rate": 321.0299987792969,
+    "sale_rate": 400.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -142458,8 +142474,8 @@
   {
     "item_name": "SS 32MM HOLESAW (BIPCO)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 494.1300048828125,
-    "sale_rate": 550.0,
+    "purchase_rate": 405.3399963378906,
+    "sale_rate": 500.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -142474,7 +142490,7 @@
   {
     "item_name": "SS 38MM HOLESAW (BIPICO)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 573.198974609375,
+    "purchase_rate": 517.2100219726562,
     "sale_rate": 660.0,
     "hsn_code": "82075000",
     "unit": "Nos"
@@ -145562,8 +145578,8 @@
   {
     "item_name": "STEEL WOOL (200GM) VICKY",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 61.36000061035156,
-    "sale_rate": 80.0,
+    "purchase_rate": 64.9000015258789,
+    "sale_rate": 85.0,
     "hsn_code": "73231000",
     "unit": "Pocket"
   },
@@ -147059,7 +147075,7 @@
     "item_name": "SUPER JAPAN BLACK 20LTR",
     "group_name": "PAINTS",
     "purchase_rate": 1959.0009765625,
-    "sale_rate": 2500.0,
+    "sale_rate": 3000.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -148418,7 +148434,7 @@
   {
     "item_name": "TANK 1000LTR 4 LAYER WHITE (VECTUS SILK)",
     "group_name": "PLUMBING",
-    "purchase_rate": 6100.0,
+    "purchase_rate": 5599.97998046875,
     "sale_rate": 6800.0,
     "hsn_code": "39251000",
     "unit": "Nos"
@@ -164650,7 +164666,7 @@
   {
     "item_name": "UPVC TO PVC 1 1/2\" CONVERTOR",
     "group_name": "PLUMBING",
-    "purchase_rate": 42.04999923706055,
+    "purchase_rate": 52.880001068115234,
     "sale_rate": 70.0,
     "hsn_code": "39172390",
     "unit": "Nos"
@@ -169218,8 +169234,8 @@
   {
     "item_name": "VI 4\" 4KG PVC PIPE (VIJAY)",
     "group_name": "PLUMBING",
-    "purchase_rate": 756.0,
-    "sale_rate": 832.0,
+    "purchase_rate": 803.25,
+    "sale_rate": 885.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
@@ -172154,8 +172170,8 @@
   {
     "item_name": "WD 40 (420ML)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 333.2699890136719,
-    "sale_rate": 380.0,
+    "purchase_rate": 367.3299865722656,
+    "sale_rate": 405.0,
     "hsn_code": "34039900",
     "unit": "Nos"
   },
@@ -175538,8 +175554,8 @@
   {
     "item_name": "WI 1\" 1.5MM PIPE (VIJAY)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 61.715999603271484,
-    "sale_rate": 68.0,
+    "purchase_rate": 64.76000213623047,
+    "sale_rate": 72.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
@@ -177698,8 +177714,8 @@
   {
     "item_name": "YELLOW ROPE 20MM (13F/KG)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 192.24000549316406,
-    "sale_rate": 270.0,
+    "purchase_rate": 220.0,
+    "sale_rate": 250.0,
     "hsn_code": "56071010",
     "unit": "Kg"
   },
