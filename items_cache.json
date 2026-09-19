@@ -5970,8 +5970,8 @@
   {
     "item_name": "AS 40KG PATTI POWDER (ASIAN) XY",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 838.5079956054688,
-    "sale_rate": 880.0,
+    "purchase_rate": 928.18798828125,
+    "sale_rate": 700.0,
     "hsn_code": "32141000",
     "unit": "Bags"
   },
@@ -14264,10 +14264,10 @@
     "unit": "Nos"
   },
   {
-    "item_name": "AS SH-1 TRAC SHYNE 20LT (ASIAN) - K",
+    "item_name": "AS SH-1 TRAC SHYNE 20LT (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 3801.31103515625,
-    "sale_rate": 4000.0,
+    "purchase_rate": 3980.6708984375,
+    "sale_rate": 4190.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
