@@ -102138,10 +102138,26 @@
   {
     "item_name": "MYK LATAPOXY STANDRAD EPOXY 1.8KG",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 1000.0,
-    "sale_rate": 1100.0,
+    "purchase_rate": 1360.988037109375,
+    "sale_rate": 1500.0,
     "hsn_code": "32141000",
     "unit": "Set"
+  },
+  {
+    "item_name": "MYK LATAPOXY STANDRAD EPOXY 180G",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 257.0039978027344,
+    "sale_rate": 280.0,
+    "hsn_code": "32141000",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "MYK LATAPOXY STANDRAD EPOXY 450G",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 394.00201416015625,
+    "sale_rate": 440.0,
+    "hsn_code": "32141000",
+    "unit": "Nos"
   },
   {
     "item_name": "MYK LATICRETE SP-100 (RESIN+POWDER)",
@@ -147148,7 +147164,7 @@
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 2398.0,
     "sale_rate": 2950.0,
-    "hsn_code": "39211900",
+    "hsn_code": "39201019",
     "unit": "Roll"
   },
   {
