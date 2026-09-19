@@ -5472,14 +5472,6 @@
     "unit": "Nos"
   },
   {
-    "item_name": "AS 1LT BRIGHT  YELLOW (MACHINE COLOURANT)+",
-    "group_name": "PAINTS",
-    "purchase_rate": 641.2119750976562,
-    "sale_rate": 675.0,
-    "hsn_code": "32139000",
-    "unit": "Litre"
-  },
-  {
     "item_name": "AS 1LT BRIGHT BLUE (MACHINE COLOURANT+",
     "group_name": "PAINTS",
     "purchase_rate": 541.4429931640625,
@@ -5508,6 +5500,14 @@
     "group_name": "PAINTS",
     "purchase_rate": 566.10498046875,
     "sale_rate": 600.0,
+    "hsn_code": "32139000",
+    "unit": "Litre"
+  },
+  {
+    "item_name": "AS 1LT BRIGHT YELLOW (MACHINE COLOURANT)",
+    "group_name": "PAINTS",
+    "purchase_rate": 641.2119750976562,
+    "sale_rate": 675.0,
     "hsn_code": "32139000",
     "unit": "Litre"
   },
