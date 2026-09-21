@@ -39674,8 +39674,8 @@
   {
     "item_name": "CPVC 1\" SHOE (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 46.61000061035156,
-    "sale_rate": 52.0,
+    "purchase_rate": 48.970001220703125,
+    "sale_rate": 54.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -39714,7 +39714,7 @@
   {
     "item_name": "CPVC 1\" TEE (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 46.61000061035156,
+    "purchase_rate": 46.02000045776367,
     "sale_rate": 50.0,
     "hsn_code": "39172390",
     "unit": "Nos"
@@ -65002,8 +65002,8 @@
   {
     "item_name": "G HOSE 1 1/2\" SONA FLEX",
     "group_name": "PLUMBING",
-    "purchase_rate": 2856.326904296875,
-    "sale_rate": 3200.0,
+    "purchase_rate": 2933.010986328125,
+    "sale_rate": 3250.0,
     "hsn_code": "39172390",
     "unit": "Roll"
   },
@@ -65242,7 +65242,7 @@
   {
     "item_name": "G HOSE 3/4\" TRANSPERENT HOSE (100FT-ROLL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 1163.47998046875,
+    "purchase_rate": 1106.1800537109375,
     "sale_rate": 1300.0,
     "hsn_code": "39172390",
     "unit": "Roll"
@@ -70586,8 +70586,8 @@
   {
     "item_name": "GR 1 1/2\" SONA FLEX (FEET)",
     "group_name": "PLUMBING",
-    "purchase_rate": 28.559999465942383,
-    "sale_rate": 35.0,
+    "purchase_rate": 29.329999923706055,
+    "sale_rate": 36.0,
     "hsn_code": "39174000",
     "unit": "Feet"
   },
@@ -82938,16 +82938,16 @@
   {
     "item_name": "KU 1SQ X 3CORE (KUNDAN) MTR",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 61.20000076293945,
-    "sale_rate": 68.0,
+    "purchase_rate": 65.0199966430664,
+    "sale_rate": 72.0,
     "hsn_code": "85446020",
     "unit": "Meter"
   },
   {
     "item_name": "KU 1SQ X 3CORE (KUNDAN) ROLL-100MTR",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 6120.830078125,
-    "sale_rate": 6500.0,
+    "purchase_rate": 6502.6201171875,
+    "sale_rate": 6830.0,
     "hsn_code": "85446020",
     "unit": "COIL"
   },
@@ -83314,8 +83314,8 @@
   {
     "item_name": "KU 7/20 VIR (FYBROS)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 96.44000244140625,
-    "sale_rate": 106.0,
+    "purchase_rate": 102.45500183105469,
+    "sale_rate": 113.0,
     "hsn_code": "85446020",
     "unit": "Meter"
   },
@@ -118136,6 +118136,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "PR 3\" X11/2\" R BUSH",
+    "group_name": "PLUMBING",
+    "purchase_rate": 66.73999786376953,
+    "sale_rate": 75.0,
+    "hsn_code": "39174000",
+    "unit": "Nos"
+  },
+  {
     "item_name": "PR 3/4\" DUMMY (PLAIN-PRINCE)",
     "group_name": "PLUMBING",
     "purchase_rate": 6.5,
@@ -118562,8 +118570,8 @@
   {
     "item_name": "PR 4\" X 3\" R.BUSH",
     "group_name": "PLUMBING",
-    "purchase_rate": 52.529998779296875,
-    "sale_rate": 70.0,
+    "purchase_rate": 64.7699966430664,
+    "sale_rate": 75.0,
     "hsn_code": "3917",
     "unit": "Nos"
   },
@@ -162130,7 +162138,7 @@
   {
     "item_name": "UPVC 1 1/2\" X 1 1/4\" R.BUSH (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 12.329999923706055,
+    "purchase_rate": 15.289999961853027,
     "sale_rate": 20.0,
     "hsn_code": "39172390",
     "unit": "Nos"
