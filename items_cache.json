@@ -16578,7 +16578,7 @@
   {
     "item_name": "AST 1 1/4\" TEE (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 26.6299991607666,
+    "purchase_rate": 26.989999771118164,
     "sale_rate": 35.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -16970,7 +16970,7 @@
   {
     "item_name": "AST 2 1/2\" X 1 1/2\" R BUSH (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 31.489999771118164,
+    "purchase_rate": 33.75,
     "sale_rate": 50.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -17074,7 +17074,7 @@
   {
     "item_name": "AST 2\" ELBOW ISI (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 46.20000076293945,
+    "purchase_rate": 49.4900016784668,
     "sale_rate": 65.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -17938,7 +17938,7 @@
   {
     "item_name": "AST 6\" DUMMY (PLAIN-ASTRAL) HVY",
     "group_name": "PLUMBING",
-    "purchase_rate": 149.10000610351562,
+    "purchase_rate": 159.75,
     "sale_rate": 210.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -18058,8 +18058,8 @@
   {
     "item_name": "AST 7\" DUMMY (PLAIN-ASTRAL) HVY",
     "group_name": "PLUMBING",
-    "purchase_rate": 213.60000610351562,
-    "sale_rate": 260.0,
+    "purchase_rate": 266.989990234375,
+    "sale_rate": 300.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -22682,8 +22682,8 @@
   {
     "item_name": "BL 16\" MARBLE CUTTER (JB)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1960.198974609375,
-    "sale_rate": 2500.0,
+    "purchase_rate": 1900.0,
+    "sale_rate": 2400.0,
     "hsn_code": "82023100",
     "unit": "Nos"
   },
@@ -83315,7 +83315,7 @@
     "item_name": "KU 7/20 VIR (FYBROS)",
     "group_name": "ELECTRICALS",
     "purchase_rate": 102.45500183105469,
-    "sale_rate": 113.0,
+    "sale_rate": 108.0,
     "hsn_code": "85446020",
     "unit": "Meter"
   },
@@ -92290,7 +92290,7 @@
   {
     "item_name": "MA JAPAN BLACK 20LT (MAXBEN)",
     "group_name": "PAINTS",
-    "purchase_rate": 2610.0,
+    "purchase_rate": 2610.19189453125,
     "sale_rate": 3000.0,
     "hsn_code": "32081010",
     "unit": "Drum"
@@ -102434,7 +102434,7 @@
   {
     "item_name": "NA 1\" STEEL NAIL",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 139.99000549316406,
+    "purchase_rate": 148.0,
     "sale_rate": 200.0,
     "hsn_code": "73170099",
     "unit": "Kg"
@@ -143146,16 +143146,16 @@
   {
     "item_name": "SS BO 12 X 25MM (BOLT)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 13.649999618530273,
-    "sale_rate": 18.0,
+    "purchase_rate": 16.719999313354492,
+    "sale_rate": 19.0,
     "hsn_code": "73181500",
     "unit": "Nos"
   },
   {
     "item_name": "SS BO 12 X 40MM (BOLT)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 17.65999984741211,
-    "sale_rate": 25.0,
+    "purchase_rate": 21.25,
+    "sale_rate": 26.0,
     "hsn_code": "73181500",
     "unit": "Nos"
   },
@@ -143546,7 +143546,7 @@
   {
     "item_name": "SS BO 21/2 X 1/2 BOLT 304",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 34.9900016784668,
+    "purchase_rate": 35.25,
     "sale_rate": 42.0,
     "hsn_code": "73181500",
     "unit": "Nos"
@@ -143874,7 +143874,7 @@
   {
     "item_name": "SS BO 4 X 1/2 BOLT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 40.650001525878906,
+    "purchase_rate": 48.630001068115234,
     "sale_rate": 55.0,
     "hsn_code": "73181500",
     "unit": "Nos"
@@ -144434,7 +144434,7 @@
   {
     "item_name": "SS NU 1/2 NUT (304)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 12.3100004196167,
+    "purchase_rate": 11.699999809265137,
     "sale_rate": 15.0,
     "hsn_code": "73181600",
     "unit": "Nos"
@@ -149522,7 +149522,7 @@
   {
     "item_name": "TAP CUTTING PLIER (BIG) 1621/8 (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 225.25,
+    "purchase_rate": 221.6699981689453,
     "sale_rate": 250.0,
     "hsn_code": "82032000",
     "unit": "Nos"
