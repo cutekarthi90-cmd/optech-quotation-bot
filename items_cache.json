@@ -22314,8 +22314,8 @@
   {
     "item_name": "BL 10\" WOOD CUTTER (100 TEETH) JB",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 935.0,
-    "sale_rate": 1050.0,
+    "purchase_rate": 700.8499755859375,
+    "sale_rate": 1000.0,
     "hsn_code": "82023100",
     "unit": "Nos"
   },
@@ -22362,16 +22362,16 @@
   {
     "item_name": "BL 12\" WOOD CUTTER (40 TEETH) JB",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 815.0,
-    "sale_rate": 950.0,
+    "purchase_rate": 888.2999877929688,
+    "sale_rate": 980.0,
     "hsn_code": "82023100",
     "unit": "Nos"
   },
   {
     "item_name": "BL 12\" WOOD CUTTER (60 TEETH) JB",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 874.8599853515625,
-    "sale_rate": 950.0,
+    "purchase_rate": 889.0800170898438,
+    "sale_rate": 990.0,
     "hsn_code": "82023100",
     "unit": "Nos"
   },
@@ -23026,7 +23026,7 @@
   {
     "item_name": "BL 4\" JB CUTT OFF (3MM)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 16.0,
+    "purchase_rate": 18.329999923706055,
     "sale_rate": 22.0,
     "hsn_code": "68042220",
     "unit": "Nos"
@@ -37466,7 +37466,7 @@
   {
     "item_name": "COMPRESSOR AIR COCK 1/4 (HVY)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 75.88999938964844,
+    "purchase_rate": 110.44000244140625,
     "sale_rate": 220.0,
     "hsn_code": "84811000",
     "unit": "Nos"
@@ -91730,7 +91730,7 @@
   {
     "item_name": "MA DRILLING MACHINE 2-26 BLUE (BULLET )",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 3373.969970703125,
+    "purchase_rate": 2938.8701171875,
     "sale_rate": 4000.0,
     "hsn_code": "84671110",
     "unit": "Nos"
@@ -126288,10 +126288,10 @@
     "unit": "Nos"
   },
   {
-    "item_name": "RO 9095 (ROUTER BIT) JB",
+    "item_name": "RO 9095 (ROUTER BIT) BULLET",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 139.24000549316406,
-    "sale_rate": 180.0,
+    "purchase_rate": 173.75999450683594,
+    "sale_rate": 210.0,
     "hsn_code": "820790",
     "unit": "Nos"
   },
@@ -141138,8 +141138,8 @@
   {
     "item_name": "SS 1 1/2\" BALLVALVE (LINTAS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1591.8199462890625,
-    "sale_rate": 1880.0,
+    "purchase_rate": 2259.39990234375,
+    "sale_rate": 2490.0,
     "hsn_code": "84818030",
     "unit": "Nos"
   },
@@ -141618,8 +141618,8 @@
   {
     "item_name": "SS 1/4\" DUMMY (6MM)(SQUARE)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 43.77000045776367,
-    "sale_rate": 60.0,
+    "purchase_rate": 49.560001373291016,
+    "sale_rate": 65.0,
     "hsn_code": "73072900",
     "unit": "Nos"
   },
@@ -141970,7 +141970,7 @@
   {
     "item_name": "SS 16MM HOLESAW (BIPCO)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 196.76499938964844,
+    "purchase_rate": 177.57000732421875,
     "sale_rate": 250.0,
     "hsn_code": "82075000",
     "unit": "Nos"
@@ -142090,8 +142090,8 @@
   {
     "item_name": "SS 2\" FLANGE CLASS 150",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 935.739990234375,
-    "sale_rate": 1100.0,
+    "purchase_rate": 736.3200073242188,
+    "sale_rate": 1050.0,
     "hsn_code": "73072100",
     "unit": "Nos"
   },
@@ -142522,7 +142522,7 @@
   {
     "item_name": "SS 3/8\" DUMMY (SQUARE)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 55.75,
+    "purchase_rate": 59.290000915527344,
     "sale_rate": 70.0,
     "hsn_code": "73072900",
     "unit": "Nos"
@@ -152914,7 +152914,7 @@
   {
     "item_name": "TOOLS BOX V3T (VENUS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 875.5599975585938,
+    "purchase_rate": 945.77001953125,
     "sale_rate": 1100.0,
     "hsn_code": "73102910",
     "unit": "Nos"
@@ -152922,7 +152922,7 @@
   {
     "item_name": "TOOLS BOX V5T (VENUS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1051.3800048828125,
+    "purchase_rate": 1135.75,
     "sale_rate": 1350.0,
     "hsn_code": "73011000",
     "unit": "Nos"
@@ -169202,8 +169202,8 @@
   {
     "item_name": "VI 1\" 10KG PVC PIPE (VIJAY)",
     "group_name": "PLUMBING",
-    "purchase_rate": 135.75,
-    "sale_rate": 150.0,
+    "purchase_rate": 153.83999633789062,
+    "sale_rate": 170.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
@@ -169250,8 +169250,8 @@
   {
     "item_name": "VI 2 1/2\" 6KG PVC PIPE (VIJAY)",
     "group_name": "PLUMBING",
-    "purchase_rate": 522.4000244140625,
-    "sale_rate": 575.0,
+    "purchase_rate": 555.0499877929688,
+    "sale_rate": 610.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
@@ -171970,7 +171970,7 @@
   {
     "item_name": "WATER FILTER 2\" (SS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1931.1800537109375,
+    "purchase_rate": 1985.050048828125,
     "sale_rate": 2350.0,
     "hsn_code": "84818030",
     "unit": "Nos"
