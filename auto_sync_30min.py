@@ -25,11 +25,11 @@ CLEAN_REMOTE = "https://github.com/cutekarthi90-cmd/optech-quotation-bot.git"
 def run_git_sync():
     try:
         now_str = datetime.datetime.now().strftime("%Y-%m-%d %I:%M %p")
-        subprocess.run(["git", "add", "items_cache.json"], cwd=BASE_DIR, check=True, capture_output=True)
+        subprocess.run(["git", "add", "items_cache.json", "item_memory.json"], cwd=BASE_DIR, check=True, capture_output=True)
         # Check if there are changes to commit
         status = subprocess.run(["git", "status", "--porcelain"], cwd=BASE_DIR, capture_output=True, text=True)
-        if "items_cache.json" in status.stdout:
-            subprocess.run(["git", "commit", "-m", f"Auto-sync items from Optech SQL Server at {now_str}"], cwd=BASE_DIR, check=True, capture_output=True)
+        if "items_cache.json" in status.stdout or "item_memory.json" in status.stdout:
+            subprocess.run(["git", "commit", "-m", f"Auto-sync items and memory at {now_str}"], cwd=BASE_DIR, check=True, capture_output=True)
             print(f"[{now_str}] Pushing updated items to GitHub Cloud...")
             token = get_github_token()
             repo_url = f"https://cutekarthi90-cmd:{token}@github.com/cutekarthi90-cmd/optech-quotation-bot.git" if token else CLEAN_REMOTE

@@ -245,6 +245,12 @@ class ItemMatcher:
         memorized_name = self.memory.get_mapping(query)
         if memorized_name:
             exact_item = self.items_by_name.get(memorized_name.strip().lower())
+            if not exact_item:
+                # Fallback search by normalized name
+                for it in self.items:
+                    if normalize_text(it["item_name"]) == normalize_text(memorized_name):
+                        exact_item = it
+                        break
             if exact_item:
                 res = dict(exact_item)
                 res["match_score"] = 100.0
@@ -271,7 +277,6 @@ class ItemMatcher:
                         continue
 
             # ----------------------------------------------------
-            # ----------------------------------------------------
             # 3. MATERIAL CONFLICT FILTER:
             # ----------------------------------------------------
             cand_tokens = set(norm_cand.split())
@@ -295,6 +300,16 @@ class ItemMatcher:
             if query_is_fitting and cand_is_pipe:
                 continue
             if query_is_pipe and cand_is_fitting:
+                continue
+
+            # ----------------------------------------------------
+            # 5. MESH / NET vs PIPE / FITTING MUTUAL EXCLUSION:
+            # ----------------------------------------------------
+            query_is_mesh = any(k in query_tokens for k in ["mesh", "weldmesh", "netting", "net", "fence"])
+            cand_is_mesh = any(k in cand_tokens for k in ["mesh", "weldmesh", "netting", "fence"])
+            if query_is_mesh and (cand_is_pipe or cand_is_fitting):
+                continue
+            if cand_is_mesh and not query_is_mesh:
                 continue
 
             # Fitting Type Specificity

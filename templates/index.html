@@ -55,8 +55,32 @@
 
         .row-needs-review { background: #fffbeb !important; border-left: 4px solid #f59e0b; }
 
-        .search-item-box { display: none; margin-top: 6px; }
-        .search-item-input { width: 260px; padding: 6px 8px; font-size: 12px; border: 1px solid #6366f1; border-radius: 4px; }
+        .search-item-box { display: none; margin-top: 6px; position: relative; }
+        .search-item-input { width: 280px; padding: 6px 8px; font-size: 12px; border: 1px solid #6366f1; border-radius: 4px; }
+        .live-search-dropdown {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            width: 380px;
+            max-width: 90vw;
+            max-height: 240px;
+            overflow-y: auto;
+            background: white;
+            border: 1px solid #6366f1;
+            border-radius: 6px;
+            box-shadow: 0 4px 14px rgba(0,0,0,0.18);
+            z-index: 1000;
+            margin-top: 4px;
+        }
+        .search-result-row {
+            padding: 8px 10px;
+            border-bottom: 1px solid #f1f5f9;
+            cursor: pointer;
+            text-align: left;
+            transition: background 0.15s;
+        }
+        .search-result-row:hover { background: #e0e7ff; }
+        .search-result-row:last-child { border-bottom: none; }
 
         /* Modal Styles */
         .modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.55); justify-content: center; align-items: center; z-index: 1000; }
@@ -71,26 +95,58 @@
         .spinner { display: none; text-align: center; margin-top: 16px; font-weight: bold; color: var(--primary); }
 
         #printHeader, #printFooter { display: none; }
+        .print-only { display: none; }
 
         @media print {
-            body { background: white !important; color: black !important; font-family: sans-serif; font-size: 11pt; }
+            body { 
+                background: white !important; 
+                color: #000000 !important; 
+                font-family: 'Segoe UI', -apple-system, Roboto, Arial, sans-serif !important; 
+                font-size: 10pt !important;
+                padding: 0 !important;
+                margin: 0 !important;
+            }
             .header, .grid, .spinner, .modal, .badges, #loadingSpinner, .btn-small, .search-item-box,
             .btn-edit-item, #btnSwitchStandard, #btnSwitchMarkup, #copyMsgBtn, #saveQuoteBtn,
-            .whatsapp-preview, h3, p[style*="Tip:"] { display: none !important; }
+            .whatsapp-preview, h3, p[style*="Tip:"], .no-print, #itemsTable .no-print { 
+                display: none !important; 
+            }
             .container { width: 100% !important; max-width: 100% !important; padding: 0 !important; margin: 0 !important; }
-            .results-card { box-shadow: none !important; border: none !important; padding: 0 !important; }
-            /* Hide Pur Rate, As Usual Rate, Markup %, Confidence in customer printout */
-            #itemsTable th:nth-child(4), #itemsTable td:nth-child(4),
-            #itemsTable th:nth-child(6), #itemsTable td:nth-child(6),
-            #itemsTable th:nth-child(7), #itemsTable td:nth-child(7),
-            #itemsTable th:nth-child(8), #itemsTable td:nth-child(8),
-            #itemsTable th:nth-child(12), #itemsTable td:nth-child(12) { display: none !important; }
-            #itemsTable { border-collapse: collapse !important; width: 100% !important; margin-top: 10px; }
-            #itemsTable th, #itemsTable td { border: 1px solid #666 !important; padding: 6px 8px !important; color: black !important; }
-            #itemsTable th { background: #eee !important; }
-            .tbl-input, .tbl-input-pct { border: none !important; background: transparent !important; font-size: 11pt !important; width: auto !important; color: black !important; }
-            #printHeader { display: block !important; margin-bottom: 16px; border-bottom: 2px solid #000; padding-bottom: 8px; }
-            #printFooter { display: block !important; margin-top: 16px; border-top: 1px solid #000; padding-top: 8px; }
+            .results-card { box-shadow: none !important; border: none !important; padding: 0 !important; margin: 0 !important; }
+            
+            /* Clean Print Table */
+            #itemsTable { 
+                border-collapse: collapse !important; 
+                width: 100% !important; 
+                margin-top: 8px !important; 
+                margin-bottom: 8px !important; 
+            }
+            #itemsTable th, #itemsTable td { 
+                border: 1px solid #334155 !important; 
+                padding: 5px 7px !important; 
+                color: #000000 !important; 
+                font-size: 9.5pt !important; 
+            }
+            #itemsTable th { 
+                background-color: #f1f5f9 !important; 
+                font-weight: bold !important; 
+                text-transform: uppercase;
+                font-size: 9pt !important;
+            }
+            .tbl-input, .tbl-input-pct { 
+                display: none !important; 
+            }
+            .print-only { 
+                display: inline-block !important; 
+                font-weight: 500 !important;
+            }
+            #printHeader { 
+                display: block !important; 
+            }
+            #printFooter { 
+                display: block !important; 
+                page-break-inside: avoid;
+            }
         }
     </style>
 </head>
@@ -105,6 +161,7 @@
             <div class="badges">
                 <span class="badge" id="totalItemsBadge">{{TOTAL_ITEMS}} Items Loaded</span>
                 <button class="btn-small" id="syncDbBtn" onclick="triggerDatabaseSync()" style="background: #0284c7; color: white; font-weight: bold; display: flex; align-items: center; gap: 4px;">🔄 Sync DB</button>
+                <button class="btn-small" onclick="openMemoryModal()" style="background: #fef3c7; color: #92400e; font-weight: bold; display: flex; align-items: center; gap: 4px;">🧠 Memorized (<span id="memoryCountBadge">0</span>)</button>
                 <button class="btn-small" onclick="openHistoryModal()" style="background: #f3e8ff; color: #6b21a8; font-weight: bold;">📁 Saved Quotes</button>
                 <button class="btn-small" onclick="openApiKeyModal()" style="background: white; color: var(--primary-dark);">🔑 Gemini API Key</button>
             </div>
@@ -134,23 +191,46 @@
         <div class="results-card" id="resultsSection">
             <!-- Printable Quotation Slip Header (visible only on Print / PDF) -->
             <div id="printHeader">
-                <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-                    <div>
-                        <h1 style="font-size: 20pt; margin: 0; color: #111;">QUOTATION ESTIMATE</h1>
-                        <p style="margin: 4px 0 0 0; font-size: 11pt; color: #444;">Hardware, Electrical & Plumbing Supplies</p>
-                    </div>
-                    <div style="text-align: right; font-size: 10pt;">
-                        <div><b>Date:</b> <span id="printDate"></span></div>
-                        <div style="margin-top: 3px;"><b>GST:</b> <span id="printGst">18% (Incl)</span></div>
+                <div style="border-bottom: 2px solid #0f172a; padding-bottom: 10px; margin-bottom: 10px;">
+                    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+                        <div>
+                            <h1 style="font-size: 22px; font-weight: 800; color: #0f172a; margin: 0; text-transform: uppercase; letter-spacing: 0.5px;">UDHAYAM AGENCIES</h1>
+                            <p style="margin: 4px 0 0 0; font-size: 11px; color: #1e293b; line-height: 1.45;">
+                                41/10 M.R. COMPLEX, OLD BUS STAND ROAD,<br>
+                                PERUNDURAI - 638052, TAMIL NADU.<br>
+                                <b>Mobile:</b> 9715422499 &nbsp;|&nbsp; <b>Email:</b> udhayamagency2013@gmail.com
+                            </p>
+                        </div>
+                        <div style="text-align: right;">
+                            <div style="display: inline-block; background: #0f172a; color: #ffffff; padding: 4px 12px; font-weight: bold; font-size: 13px; border-radius: 4px; text-transform: uppercase; letter-spacing: 0.5px;">
+                                ESTIMATE / QUOTATION
+                            </div>
+                            <div style="margin-top: 5px; font-size: 11px; font-weight: bold; color: #0f172a;">
+                                GST NO: 33AADFU6496M1ZJ
+                            </div>
+                            <div style="margin-top: 2px; font-size: 11px; color: #334155;">
+                                <b>Date:</b> <span id="printDate"></span>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div style="margin-top: 12px; background: #f5f5f5; padding: 8px 12px; border: 1px solid #ccc; font-size: 11pt;">
-                    <div><b>Customer Name:</b> <span id="printCustName">Walk-in Customer</span></div>
-                    <div style="margin-top: 2px;"><b>Mobile / Contact:</b> <span id="printCustPhone">-</span></div>
+
+                <!-- Customer Details & Tax Meta Box -->
+                <div style="display: flex; justify-content: space-between; background: #f8fafc; border: 1px solid #cbd5e1; border-radius: 6px; padding: 8px 12px; margin-bottom: 10px; font-size: 11px;">
+                    <div>
+                        <div style="font-size: 10px; text-transform: uppercase; font-weight: bold; color: #64748b;">Quotation For (Customer):</div>
+                        <div style="font-size: 13px; font-weight: bold; color: #0f172a; margin-top: 2px;" id="printCustName">Walk-in Customer</div>
+                        <div style="font-size: 11px; color: #475569; margin-top: 2px;"><b>Contact:</b> <span id="printCustPhone">-</span></div>
+                    </div>
+                    <div style="text-align: right;">
+                        <div style="font-size: 10px; text-transform: uppercase; font-weight: bold; color: #64748b;">Pricing & Tax:</div>
+                        <div style="font-size: 12px; font-weight: bold; color: #0f172a; margin-top: 2px;" id="printGst">18% GST (Included in Price)</div>
+                    </div>
                 </div>
             </div>
 
-            <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px;">
+            <!-- Screen Controls Bar (Hidden on Print / PDF) -->
+            <div class="no-print" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px;">
                 <div>
                     <h2>Quotation Preview</h2>
                     <p style="font-size: 12px; color: #6b7280;">💡 Tip: Press <b>Enter</b> after changing item or quantity to move to the next field!</p>
@@ -183,33 +263,33 @@
                 </div>
             </div>
 
-            <!-- Customer Details Bar -->
-            <div style="display: flex; gap: 15px; margin: 14px 0 10px 0; background: #f8fafc; padding: 10px 14px; border-radius: 8px; border: 1px solid #e2e8f0; flex-wrap: wrap; align-items: center;">
+            <!-- Customer Details Bar (Hidden on Print / PDF) -->
+            <div class="no-print" style="display: flex; gap: 15px; margin: 14px 0 10px 0; background: #f8fafc; padding: 10px 14px; border-radius: 8px; border: 1px solid #e2e8f0; flex-wrap: wrap; align-items: center;">
                 <div style="display: flex; align-items: center; gap: 8px;">
                     <label style="font-size: 13px; font-weight: 600; color: #334155;">👤 Customer Name:</label>
                     <input type="text" id="custNameInput" placeholder="e.g. Kumar Traders" style="padding: 6px 10px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 13px; width: 190px;" oninput="rebuildWhatsAppMessage()">
                 </div>
                 <div style="display: flex; align-items: center; gap: 8px;">
                     <label style="font-size: 13px; font-weight: 600; color: #334155;">📱 Mobile (WhatsApp):</label>
-                    <input type="text" id="custPhoneInput" placeholder="10-digit mobile" style="padding: 6px 10px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 13px; width: 150px;">
+                    <input type="text" id="custPhoneInput" placeholder="10-digit mobile" style="padding: 6px 10px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 13px; width: 150px;" oninput="rebuildWhatsAppMessage()">
                 </div>
             </div>
             
             <table id="itemsTable">
                 <thead>
                     <tr>
-                        <th>#</th>
-                        <th>Customer Term</th>
-                        <th>Matched Optech Item</th>
-                        <th>Group</th>
-                        <th>Qty</th>
-                        <th>Pur Rate</th>
-                        <th>As Usual Rate</th>
-                        <th>Markup %</th>
-                        <th>Applied Rate</th>
-                        <th>Total</th>
-                        <th>HSN</th>
-                        <th>Confidence</th>
+                        <th style="width: 35px; text-align: center;">#</th>
+                        <th class="no-print">Customer Term</th>
+                        <th>Description of Goods / Item Name</th>
+                        <th style="width: 80px; text-align: center;">HSN Code</th>
+                        <th style="width: 70px; text-align: center;">Qty</th>
+                        <th class="no-print">Group</th>
+                        <th class="no-print">Pur Rate</th>
+                        <th class="no-print">As Usual Rate</th>
+                        <th class="no-print">Markup %</th>
+                        <th style="width: 85px; text-align: right;">Rate (₹)</th>
+                        <th style="width: 95px; text-align: right;">Amount (₹)</th>
+                        <th class="no-print">Confidence</th>
                     </tr>
                 </thead>
                 <tbody id="itemsTbody"></tbody>
@@ -217,44 +297,76 @@
 
             <!-- Printable Quotation Slip Footer (visible only on Print / PDF) -->
             <div id="printFooter">
-                <div style="display: flex; justify-content: space-between; font-size: 11pt; margin-top: 15px;">
-                    <div>
-                        <p style="margin: 0; font-size: 9pt; color: #555;">
-                            * Rates quoted are valid for immediate purchase and subject to prevailing stock.<br>
-                            * Computerized Quotation Estimate generated via Optech System.
-                        </p>
+                <div style="margin-top: 12px; border-top: 2px solid #0f172a; padding-top: 10px;">
+                    <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
+                        <!-- Bank & GPay Details -->
+                        <div style="flex: 1; background: #f8fafc; border: 1px solid #cbd5e1; border-radius: 6px; padding: 8px 12px; font-size: 11px; line-height: 1.45;">
+                            <div style="font-weight: bold; color: #0f172a; font-size: 11.5px; margin-bottom: 4px; border-bottom: 1px solid #cbd5e1; padding-bottom: 3px;">
+                                🏦 BANK PAYMENT DETAILS
+                            </div>
+                            <div><b>Bank Name:</b> SOUTH INDIAN BANK</div>
+                            <div><b>Branch:</b> PERUNDURAI BRANCH</div>
+                            <div><b>Account Name:</b> UDHAYAM AGENCIES</div>
+                            <div><b>Account No:</b> <span style="font-weight: bold; font-family: monospace; font-size: 11.5px;">045 807 300 00 00505</span></div>
+                            <div><b>IFSC Code:</b> <span style="font-weight: bold; font-family: monospace;">SIBL0000458</span></div>
+                            <div style="margin-top: 5px; padding-top: 4px; border-top: 1px dashed #cbd5e1; color: #15803d; font-weight: bold; font-size: 11px;">
+                                📱 GPAY NUMBER: 9715722499
+                            </div>
+                        </div>
+
+                        <!-- Amount Totals -->
+                        <div style="min-width: 250px; font-size: 11.5px; line-height: 1.6;">
+                            <div style="display: flex; justify-content: space-between; margin-bottom: 2px;">
+                                <span style="color: #475569;">Taxable Subtotal:</span>
+                                <b id="printSubtotal" style="font-family: monospace; font-size: 12.5px;">₹0.00</b>
+                            </div>
+                            <div style="display: flex; justify-content: space-between; margin-bottom: 2px;">
+                                <span id="printGstLabel" style="color: #475569;">GST (18% Incl):</span>
+                                <b id="printGstAmount" style="font-family: monospace; font-size: 12.5px;">₹0.00</b>
+                            </div>
+                            <div style="display: flex; justify-content: space-between; border-top: 2px solid #0f172a; padding-top: 5px; margin-top: 5px; font-size: 14px;">
+                                <span style="font-weight: 800; color: #0f172a;">Grand Total:</span>
+                                <b id="printGrandTotal" style="font-weight: 800; color: #0f172a; font-family: monospace;">₹0.00</b>
+                            </div>
+                        </div>
                     </div>
-                    <div style="text-align: right; min-width: 240px; font-size: 11pt;">
-                        <div style="display: flex; justify-content: space-between; margin-bottom: 4px;">
-                            <span>Subtotal:</span> <b id="printSubtotal">₹0.00</b>
+
+                    <!-- Terms & Signature -->
+                    <div style="display: flex; justify-content: space-between; align-items: flex-end; margin-top: 20px; padding-top: 8px;">
+                        <div style="font-size: 9.5px; color: #64748b; line-height: 1.4;">
+                            * Rates quoted are valid for 7 days and subject to prevailing stock.<br>
+                            * Computerized quotation estimate issued by Udhayam Agencies.
                         </div>
-                        <div style="display: flex; justify-content: space-between; margin-bottom: 4px;">
-                            <span id="printGstLabel">GST (18%):</span> <b id="printGstAmount">₹0.00</b>
-                        </div>
-                        <div style="display: flex; justify-content: space-between; border-top: 2px solid #000; padding-top: 4px; font-size: 13pt;">
-                            <span><b>Grand Total:</b></span> <b id="printGrandTotal">₹0.00</b>
+                        <div style="text-align: right; min-width: 180px;">
+                            <div style="font-size: 11px; font-weight: bold; color: #0f172a;">For UDHAYAM AGENCIES</div>
+                            <div style="margin-top: 35px; border-top: 1px solid #475569; padding-top: 3px; font-size: 10px; color: #475569;">
+                                Authorised Signatory
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
 
-            <h3 style="margin-top: 24px; font-size: 15px;">WhatsApp Message Sent to Customer:</h3>
-            <div class="whatsapp-preview" id="whatsappPreview"></div>
+            <!-- WhatsApp Message & Actions (Hidden on Print / PDF) -->
+            <div class="no-print">
+                <h3 style="margin-top: 24px; font-size: 15px;">WhatsApp Message Sent to Customer:</h3>
+                <div class="whatsapp-preview" id="whatsappPreview"></div>
 
-            <!-- Quotation Action Buttons -->
-            <div style="margin-top: 14px; display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-                <button class="btn-small" style="background: #25D366; color: white; display: flex; align-items: center; gap: 6px; padding: 9px 18px; font-size: 13px; font-weight: bold;" onclick="sendViaWhatsApp()">
-                    📱 Send to WhatsApp
-                </button>
-                <button class="btn-small" id="copyMsgBtn" style="background: #0284c7; color: white; display: flex; align-items: center; gap: 6px; padding: 9px 16px; font-size: 13px;" onclick="copyWhatsAppMessage()">
-                    📋 Copy Message
-                </button>
-                <button class="btn-small" style="background: #475569; color: white; display: flex; align-items: center; gap: 6px; padding: 9px 16px; font-size: 13px;" onclick="printQuotationSlip()">
-                    🖨️ Print / Save PDF
-                </button>
-                <button class="btn-small" id="saveQuoteBtn" style="background: #7c3aed; color: white; display: flex; align-items: center; gap: 6px; padding: 9px 16px; font-size: 13px;" onclick="saveQuotationToHistory()">
-                    💾 Save Quotation
-                </button>
+                <!-- Quotation Action Buttons -->
+                <div style="margin-top: 14px; display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+                    <button class="btn-small" style="background: #25D366; color: white; display: flex; align-items: center; gap: 6px; padding: 9px 18px; font-size: 13px; font-weight: bold;" onclick="sendViaWhatsApp()">
+                        📱 Send to WhatsApp
+                    </button>
+                    <button class="btn-small" id="copyMsgBtn" style="background: #0284c7; color: white; display: flex; align-items: center; gap: 6px; padding: 9px 16px; font-size: 13px;" onclick="copyWhatsAppMessage()">
+                        📋 Copy Message
+                    </button>
+                    <button class="btn-small" style="background: #475569; color: white; display: flex; align-items: center; gap: 6px; padding: 9px 16px; font-size: 13px;" onclick="printQuotationSlip()">
+                        🖨️ Print / Save PDF
+                    </button>
+                    <button class="btn-small" id="saveQuoteBtn" style="background: #7c3aed; color: white; display: flex; align-items: center; gap: 6px; padding: 9px 16px; font-size: 13px;" onclick="saveQuotationToHistory()">
+                        💾 Save Quotation
+                    </button>
+                </div>
             </div>
         </div>
     </div>
@@ -387,6 +499,40 @@
             </div>
             <div style="margin-top: 14px; text-align: right;">
                 <button class="btn-small" onclick="closeHistoryModal()">Close</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Memorized Items Modal -->
+    <div class="modal" id="memoryModal" style="display: none;">
+        <div class="modal-content" style="width: 720px; max-width: 95%;">
+            <div class="modal-header">
+                <h3 style="font-size: 18px; color: var(--primary-dark);">🧠 Memorized Items (Smart Learning)</h3>
+                <button onclick="closeMemoryModal()" style="border: none; background: none; font-size: 18px; cursor: pointer;">✕</button>
+            </div>
+            <p style="font-size: 12px; color: #64748b; margin-bottom: 12px;">
+                Customer terms and their mapped Optech products. Any customer asking for these items (or similar keywords) will be auto-matched with 100% confidence!
+            </p>
+            <div style="margin-bottom: 10px;">
+                <input type="text" id="memoryFilterInput" placeholder="Type to filter memorized items..." oninput="filterMemoryTable(this.value)" style="width: 100%; padding: 8px 12px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 13px;">
+            </div>
+            <div id="memoryTableContainer" style="max-height: 380px; overflow-y: auto; border: 1px solid #e2e8f0; border-radius: 6px;">
+                <table style="width: 100%; border-collapse: collapse; font-size: 12px; margin-top: 0;">
+                    <thead>
+                        <tr style="background: #f8fafc; text-align: left; position: sticky; top: 0; border-bottom: 1px solid #cbd5e1;">
+                            <th style="padding: 8px 10px;">Customer Query / Alias</th>
+                            <th style="padding: 8px 10px;">Mapped Optech Item</th>
+                            <th style="padding: 8px 10px; width: 65px; text-align: center;">Action</th>
+                        </tr>
+                    </thead>
+                    <tbody id="memoryTbody">
+                        <tr><td colspan="3" style="text-align: center; padding: 20px; color: #888;">Loading memorized items...</td></tr>
+                    </tbody>
+                </table>
+            </div>
+            <div style="margin-top: 14px; display: flex; justify-content: space-between; align-items: center;">
+                <span id="memoryStatusCount" style="font-size: 12px; color: #475569; font-weight: 500;"></span>
+                <button class="btn-small" onclick="closeMemoryModal()">Close</button>
             </div>
         </div>
     </div>
@@ -672,33 +818,32 @@
 
                 const row = `
                     <tr id="row_${idx}" ${rowClass}>
-                        <td>${idx + 1}</td>
-                        <td>
+                        <td style="text-align: center;">${idx + 1}</td>
+                        <td class="no-print">
                             <b>${it.requested_name}</b>
                             ${isNeedsReview ? '<div style="font-size:11px; color:#b45309; font-weight:bold; margin-top:2px;">⚠️ Direct-a confirm pannunga</div>' : ''}
                         </td>
                         <td>
                             <div>
-                                <span id="item_label_${idx}" style="font-weight: 500;">${it.matched_item_name}</span>
-                                <button class="btn-edit-item" onclick="toggleEditItem(${idx})">✏️ Change</button>
+                                <span id="item_label_${idx}" style="font-weight: 600; color: #0f172a;">${it.matched_item_name}</span>
+                                <button class="btn-edit-item no-print" onclick="toggleEditItem(${idx})">✏️ Change</button>
                             </div>
-                            <div class="search-item-box" id="search_box_${idx}" ${searchStyle}>
-                                <div style="display: flex; gap: 4px; margin-top: 4px;">
+                            <div class="search-item-box no-print" id="search_box_${idx}" ${searchStyle}>
+                                <div style="display: flex; gap: 4px; margin-top: 4px; position: relative;">
                                     <input type="text" class="search-item-input" id="search_input_${idx}" 
-                                           placeholder="Type Optech item & press Enter..." 
-                                           list="optechList_${idx}" 
-                                           value="${isNeedsReview ? it.matched_item_name : ''}"
+                                           placeholder="Type Optech item (e.g. MESH, PVC)..." 
+                                           autocomplete="off"
                                            oninput="searchOptech(this.value, ${idx})"
                                            onkeydown="handleSearchInputKey(event, ${idx})">
-                                    <datalist id="optechList_${idx}"></datalist>
-                                    <button class="btn-small" style="background:#128C7E; color:white; padding:4px 8px; font-size:11px;" onclick="applyItemChange(${idx})">Select</button>
                                     <button class="btn-small" style="padding:4px 6px; font-size:11px;" onclick="toggleEditItem(${idx})">✕</button>
                                 </div>
+                                <div id="searchResults_${idx}" class="live-search-dropdown" style="display:none;"></div>
                             </div>
                         </td>
-                        <td><span id="grp_label_${idx}">${it.group_name || '-'}</span></td>
-                        <td>
-                            <div style="display: flex; align-items: center; gap: 4px;">
+                        <td style="text-align: center;"><span id="hsn_label_${idx}">${it.hsn_code || '-'}</span></td>
+                        <td style="text-align: center;">
+                            <span class="print-only" id="qty_print_${idx}">${it.quantity} ${it.unit}</span>
+                            <div class="no-print" style="display: flex; align-items: center; justify-content: center; gap: 4px;">
                                 <input type="number" class="tbl-input" id="qty_input_${idx}" style="width: 55px;" 
                                        value="${it.quantity}" min="1" step="1" 
                                        onchange="onQtyChange(${idx}, this.value)"
@@ -706,9 +851,10 @@
                                 <span style="font-size:11px; color:#6b7280;">${it.unit}</span>
                             </div>
                         </td>
-                        <td>₹${it.pur_rate.toFixed(2)}</td>
-                        <td style="color:#0284c7;">₹${it.as_usual_rate.toFixed(2)}</td>
-                        <td>
+                        <td class="no-print"><span id="grp_label_${idx}">${it.group_name || '-'}</span></td>
+                        <td class="no-print">₹${it.pur_rate.toFixed(2)}</td>
+                        <td class="no-print" style="color:#0284c7;">₹${it.as_usual_rate.toFixed(2)}</td>
+                        <td class="no-print">
                             <div style="display: flex; align-items: center; gap: 2px;">
                                 <input type="number" class="tbl-input-pct" id="markup_input_${idx}" 
                                        value="${it.markup_pct.toFixed(1)}" step="0.5" 
@@ -717,8 +863,9 @@
                                 <b>%</b>
                             </div>
                         </td>
-                        <td>
-                            <div style="display: flex; align-items: center; gap: 2px;">
+                        <td style="text-align: right;">
+                            <span class="print-only" id="rate_print_${idx}">₹${it.applied_rate.toFixed(2)}</span>
+                            <div class="no-print" style="display: inline-flex; align-items: center; gap: 2px;">
                                 ₹<input type="number" class="tbl-input" id="rate_input_${idx}" 
                                        style="width: 75px; font-weight:bold; color:#15803d;" 
                                        value="${it.applied_rate.toFixed(2)}" step="0.5" 
@@ -726,9 +873,8 @@
                                        onkeydown="handleRateKey(event, ${idx})">
                             </div>
                         </td>
-                        <td><b id="total_label_${idx}">₹${total.toFixed(2)}</b></td>
-                        <td><span id="hsn_label_${idx}">${it.hsn_code || '-'}</span></td>
-                        <td>${scoreHtml}</td>
+                        <td style="text-align: right;"><b id="total_label_${idx}">₹${total.toFixed(2)}</b></td>
+                        <td class="no-print">${scoreHtml}</td>
                     </tr>
                 `;
                 tbody.innerHTML += row;
@@ -796,20 +942,26 @@
             const it = currentItems[idx];
             const total = it.quantity * it.applied_rate;
             const rateInput = document.getElementById(`rate_input_${idx}`);
+            const ratePrint = document.getElementById(`rate_print_${idx}`);
+            const qtyPrint = document.getElementById(`qty_print_${idx}`);
             const totalLabel = document.getElementById(`total_label_${idx}`);
             if (rateInput) rateInput.value = it.applied_rate.toFixed(2);
+            if (ratePrint) ratePrint.innerText = `₹${it.applied_rate.toFixed(2)}`;
+            if (qtyPrint) qtyPrint.innerText = `${it.quantity} ${it.unit}`;
             if (totalLabel) totalLabel.innerText = `₹${total.toFixed(2)}`;
             rebuildWhatsAppMessage();
         }
 
         function toggleEditItem(idx) {
             const box = document.getElementById('search_box_' + idx);
+            const dropdown = document.getElementById('searchResults_' + idx);
             currentItems[idx].search_open = (box.style.display !== 'block');
             box.style.display = currentItems[idx].search_open ? 'block' : 'none';
+            if (dropdown && !currentItems[idx].search_open) dropdown.style.display = 'none';
             if (currentItems[idx].search_open) {
                 const input = document.getElementById('search_input_' + idx);
+                input.value = '';
                 input.focus();
-                input.select();
             }
         }
 
@@ -818,77 +970,108 @@
         let lastSearchResults = [];
 
         async function searchOptech(val, idx) {
-            if (val.length < 2) return;
+            const dropdown = document.getElementById('searchResults_' + idx);
+            if (!val || val.trim().length < 2) {
+                if (dropdown) dropdown.style.display = 'none';
+                return;
+            }
             clearTimeout(searchTimeout);
             searchTimeout = setTimeout(async () => {
                 try {
-                    const res = await fetch('/api/search-items?q=' + encodeURIComponent(val));
+                    const res = await fetch('/api/search-items?q=' + encodeURIComponent(val.trim()));
                     lastSearchResults = await res.json();
-                    const datalist = document.getElementById('optechList_' + idx);
-                    datalist.innerHTML = '';
-                    lastSearchResults.forEach(it => {
-                        candidateCache[it.item_name] = it;
-                        const opt = document.createElement('option');
-                        opt.value = it.item_name;
-                        opt.label = `[${it.group_name}] Pur: ₹${it.purchase_rate} | Sale: ₹${it.sale_rate}`;
-                        datalist.appendChild(opt);
+                    if (!dropdown) return;
+                    if (!lastSearchResults || lastSearchResults.length === 0) {
+                        dropdown.innerHTML = '<div style="padding:10px; color:#888; font-size:12px; text-align:center;">No matching Optech items found</div>';
+                        dropdown.style.display = 'block';
+                        return;
+                    }
+                    dropdown.innerHTML = '';
+                    lastSearchResults.slice(0, 25).forEach((p) => {
+                        candidateCache[p.item_name] = p;
+                        const row = document.createElement('div');
+                        row.className = 'search-result-row';
+                        row.innerHTML = `
+                            <div style="font-weight:600; color:#0f172a; font-size:12px;">${p.item_name}</div>
+                            <div style="font-size:11px; color:#64748b; margin-top:2px;">
+                                📁 ${p.group_name || 'GENERAL'} | 🛒 Pur: ₹${p.purchase_rate} | 🏷️ Sale: ₹${p.sale_rate} | 📦 ${p.unit || 'Nos'}
+                            </div>
+                        `;
+                        row.onmousedown = (e) => {
+                            e.preventDefault();
+                            selectSearchedProduct(idx, p);
+                        };
+                        dropdown.appendChild(row);
                     });
-                } catch (e) {}
-            }, 180);
+                    dropdown.style.display = 'block';
+                } catch (e) {
+                    console.error(e);
+                }
+            }, 150);
+        }
+
+        async function selectSearchedProduct(idx, product) {
+            if (!product) return;
+            currentItems[idx].matched_item_name = product.item_name;
+            currentItems[idx].group_name = product.group_name;
+            currentItems[idx].pur_rate = product.purchase_rate || 0;
+            currentItems[idx].as_usual_rate = product.sale_rate || 0;
+            currentItems[idx].hsn_code = product.hsn_code || '';
+            currentItems[idx].unit = product.unit || currentItems[idx].unit || 'Nos';
+            currentItems[idx].markup_pct = getGroupMarkupPercent(product.group_name);
+            currentItems[idx].match_score = 100;
+            currentItems[idx].memorized = true;
+            currentItems[idx].needs_user_confirmation = false;
+            currentItems[idx].search_open = false;
+
+            if (currentPricingMode === 'markup' && currentItems[idx].pur_rate > 0) {
+                currentItems[idx].applied_rate = currentItems[idx].pur_rate * (1 + currentItems[idx].markup_pct / 100);
+            } else {
+                currentItems[idx].applied_rate = currentItems[idx].as_usual_rate;
+            }
+
+            // Save to Backend and LocalStorage
+            try {
+                const aliasKey = currentItems[idx].requested_name;
+                await fetch('/api/learn-item', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ alias: aliasKey, optech_item_name: product.item_name })
+                });
+                saveLearnedItemLocally(aliasKey, product.item_name);
+                updateMemoryCountBadge();
+            } catch (e) {}
+
+            renderEditorTable();
+
+            setTimeout(() => {
+                const qtyInput = document.getElementById(`qty_input_${idx}`);
+                if (qtyInput) {
+                    qtyInput.focus();
+                    qtyInput.select();
+                }
+            }, 50);
         }
 
         async function applyItemChange(idx) {
             const input = document.getElementById('search_input_' + idx);
-            let selectedName = input.value.trim();
-            if (!selectedName && lastSearchResults.length > 0) {
-                selectedName = lastSearchResults[0].item_name;
-            }
-            if (!selectedName) { alert('Please enter or select an Optech item name.'); return; }
-
-            let product = candidateCache[selectedName];
-            if (!product && lastSearchResults.length > 0) {
-                product = lastSearchResults.find(p => p.item_name.toLowerCase().includes(selectedName.toLowerCase())) || lastSearchResults[0];
-            }
-
-            if (product) {
-                currentItems[idx].matched_item_name = product.item_name;
-                currentItems[idx].group_name = product.group_name;
-                currentItems[idx].pur_rate = product.purchase_rate || 0;
-                currentItems[idx].as_usual_rate = product.sale_rate || 0;
-                currentItems[idx].hsn_code = product.hsn_code || '';
-                currentItems[idx].unit = product.unit || currentItems[idx].unit || 'Nos';
-                currentItems[idx].markup_pct = getGroupMarkupPercent(product.group_name);
-                currentItems[idx].match_score = 100;
-                currentItems[idx].memorized = true;
-                currentItems[idx].needs_user_confirmation = false;
-                currentItems[idx].search_open = false;
-
-                if (currentPricingMode === 'markup' && currentItems[idx].pur_rate > 0) {
-                    currentItems[idx].applied_rate = currentItems[idx].pur_rate * (1 + currentItems[idx].markup_pct / 100);
+            let selectedName = input ? input.value.trim() : '';
+            let product = null;
+            if (lastSearchResults.length > 0) {
+                if (selectedName) {
+                    product = lastSearchResults.find(p => p.item_name.toLowerCase() === selectedName.toLowerCase())
+                           || lastSearchResults.find(p => p.item_name.toLowerCase().includes(selectedName.toLowerCase()))
+                           || lastSearchResults[0];
                 } else {
-                    currentItems[idx].applied_rate = currentItems[idx].as_usual_rate;
+                    product = lastSearchResults[0];
                 }
-
-                try {
-                    await fetch('/api/learn-item', {
-                        method: 'POST',
-                        headers: { 'Content-Type': 'application/json' },
-                        body: JSON.stringify({ alias: currentItems[idx].requested_name, optech_item_name: product.item_name })
-                    });
-                    document.getElementById('learnedBadge').innerText = `🧠 Memorized`;
-                } catch (e) {}
-
-                renderEditorTable();
-
-                setTimeout(() => {
-                    const qtyInput = document.getElementById(`qty_input_${idx}`);
-                    if (qtyInput) {
-                        qtyInput.focus();
-                        qtyInput.select();
-                    }
-                }, 50);
-            } else {
-                alert('Could not find Optech item matching: ' + selectedName);
+            } else if (selectedName && candidateCache[selectedName]) {
+                product = candidateCache[selectedName];
+            }
+            if (product) {
+                selectSearchedProduct(idx, product);
+            } else if (selectedName) {
+                alert('Please pick a matching item from the dropdown list.');
             }
         }
 
@@ -1250,6 +1433,154 @@
                 }, 3000);
             }
         }
+
+        function getLearnedMemoryLocally() {
+            try {
+                return JSON.parse(localStorage.getItem('optech_learned_memory') || '{}');
+            } catch (e) {
+                return {};
+            }
+        }
+
+        function saveLearnedItemLocally(alias, itemName) {
+            try {
+                const mem = getLearnedMemoryLocally();
+                mem[alias] = itemName;
+                localStorage.setItem('optech_learned_memory', JSON.stringify(mem));
+            } catch (e) {}
+        }
+
+        async function syncMemoryWithServer() {
+            try {
+                const res = await fetch('/api/get-memory');
+                const serverMem = await res.json();
+                const localMem = getLearnedMemoryLocally();
+                let needsSync = false;
+                for (const [k, v] of Object.entries(localMem)) {
+                    if (!serverMem[k]) {
+                        serverMem[k] = v;
+                        needsSync = true;
+                    }
+                }
+                if (needsSync) {
+                    await fetch('/api/sync-memory', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({ memory: serverMem })
+                    });
+                }
+                localStorage.setItem('optech_learned_memory', JSON.stringify(serverMem));
+                updateMemoryCountBadge(Object.keys(serverMem).length);
+            } catch (e) {
+                console.warn('Memory sync failed:', e);
+            }
+        }
+
+        function updateMemoryCountBadge(count) {
+            const badge = document.getElementById('memoryCountBadge');
+            if (badge) {
+                if (count !== undefined) {
+                    badge.innerText = count;
+                } else {
+                    const localMem = getLearnedMemoryLocally();
+                    badge.innerText = Object.keys(localMem).length;
+                }
+            }
+        }
+
+        let memoryCache = {};
+        async function openMemoryModal() {
+            const modal = document.getElementById('memoryModal');
+            const tbody = document.getElementById('memoryTbody');
+            const countLabel = document.getElementById('memoryStatusCount');
+            modal.style.display = 'flex';
+            tbody.innerHTML = '<tr><td colspan="3" style="text-align: center; padding: 20px; color: #888;">Loading memory...</td></tr>';
+            
+            try {
+                const res = await fetch('/api/get-memory');
+                memoryCache = await res.json();
+                renderMemoryRows(memoryCache);
+            } catch (e) {
+                memoryCache = getLearnedMemoryLocally();
+                renderMemoryRows(memoryCache);
+            }
+        }
+
+        function renderMemoryRows(mem) {
+            const tbody = document.getElementById('memoryTbody');
+            const countLabel = document.getElementById('memoryStatusCount');
+            const keys = Object.keys(mem || {});
+            countLabel.innerText = `Total Learned Terms: ${keys.length}`;
+            updateMemoryCountBadge(keys.length);
+
+            if (keys.length === 0) {
+                tbody.innerHTML = '<tr><td colspan="3" style="text-align: center; padding: 25px; color: #64748b;">No memorized items yet. When you change/select an item, it is memorized here automatically!</td></tr>';
+                return;
+            }
+
+            let html = '';
+            keys.sort().forEach(alias => {
+                const target = mem[alias];
+                html += `
+                    <tr style="border-bottom: 1px solid #f1f5f9;">
+                        <td style="padding: 8px 10px; font-weight: 600; color: #1e293b;">${alias}</td>
+                        <td style="padding: 8px 10px; color: #15803d; font-weight: 500;">➔ ${target}</td>
+                        <td style="padding: 8px 10px; text-align: center;">
+                            <button class="btn-small" style="background: #fee2e2; color: #dc2626; padding: 3px 8px; font-size: 11px;" onclick="deleteMemoryItem('${alias.replace(/'/g, "\\'")}')">🗑️</button>
+                        </td>
+                    </tr>
+                `;
+            });
+            tbody.innerHTML = html;
+        }
+
+        function filterMemoryTable(val) {
+            const query = (val || '').toLowerCase().trim();
+            if (!query) {
+                renderMemoryRows(memoryCache);
+                return;
+            }
+            const filtered = {};
+            for (const [k, v] of Object.entries(memoryCache)) {
+                if (k.toLowerCase().includes(query) || v.toLowerCase().includes(query)) {
+                    filtered[k] = v;
+                }
+            }
+            renderMemoryRows(filtered);
+        }
+
+        async function deleteMemoryItem(alias) {
+            if (!confirm(`Delete learned mapping for "${alias}"?`)) return;
+            try {
+                await fetch('/api/delete-memory', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ alias })
+                });
+                delete memoryCache[alias];
+                const local = getLearnedMemoryLocally();
+                delete local[alias];
+                localStorage.setItem('optech_learned_memory', JSON.stringify(local));
+                renderMemoryRows(memoryCache);
+            } catch (e) {
+                alert('Error deleting memory item: ' + e);
+            }
+        }
+
+        function closeMemoryModal() {
+            document.getElementById('memoryModal').style.display = 'none';
+        }
+
+        // On page load, initialize memory sync
+        window.addEventListener('DOMContentLoaded', () => {
+            syncMemoryWithServer();
+            // Close dropdowns on outside click
+            document.addEventListener('click', (e) => {
+                if (!e.target.closest('.search-item-box')) {
+                    document.querySelectorAll('.live-search-dropdown').forEach(d => d.style.display = 'none');
+                }
+            });
+        });
     </script>
 </body>
 </html>

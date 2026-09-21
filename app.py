@@ -165,6 +165,14 @@ def search_items(q: str = Query(..., min_length=2)):
     return matcher.search_candidates(q, limit=15)
 
 
+class DeleteMemoryRequest(BaseModel):
+    alias: str
+
+
+class SyncMemoryRequest(BaseModel):
+    memory: Dict[str, str]
+
+
 @app.post("/api/learn-item")
 def learn_item(req: LearnItemRequest):
     global matcher
@@ -173,6 +181,35 @@ def learn_item(req: LearnItemRequest):
     memory.learn(req.alias, req.optech_item_name)
     matcher.memory = memory
     return {"status": "success", "total_learned": len(memory.memory)}
+
+
+@app.get("/api/get-memory")
+def api_get_memory():
+    return memory.get_all() if memory else {}
+
+
+@app.post("/api/delete-memory")
+def api_delete_memory(req: DeleteMemoryRequest):
+    global matcher
+    if not memory:
+        raise HTTPException(status_code=500, detail="Memory not initialized")
+    deleted = memory.forget(req.alias)
+    matcher.memory = memory
+    return {"status": "success", "deleted": deleted, "total_learned": len(memory.memory)}
+
+
+@app.post("/api/sync-memory")
+def api_sync_memory(req: SyncMemoryRequest):
+    global matcher
+    from memory import normalize_alias_key
+    if not memory:
+        raise HTTPException(status_code=500, detail="Memory not initialized")
+    for alias, item_name in req.memory.items():
+        if alias and item_name:
+            memory.memory[normalize_alias_key(alias)] = str(item_name).strip()
+    memory.save_memory()
+    matcher.memory = memory
+    return {"status": "success", "total_learned": len(memory.memory), "memory": memory.get_all()}
 
 
 HISTORY_FILE = BASE_DIR / "quotations_history.json"
