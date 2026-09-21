@@ -43890,8 +43890,8 @@
   {
     "item_name": "DIE SET (1/2\", 3/4\", 1\") FULL SET (METRO)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1548.699951171875,
-    "sale_rate": 1700.0,
+    "purchase_rate": 1349.0400390625,
+    "sale_rate": 1600.0,
     "hsn_code": "82074090",
     "unit": "Nos"
   },
@@ -71626,7 +71626,7 @@
   {
     "item_name": "GREESE 1KG HIGH TEMPERATURE 200 MAXX",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 891.9000244140625,
+    "purchase_rate": 831.9500122070312,
     "sale_rate": 1000.0,
     "hsn_code": "27101990",
     "unit": "Nos"
@@ -91731,7 +91731,7 @@
     "item_name": "MA DRILLING MACHINE 2-26 BLUE (BULLET )",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 2938.8701171875,
-    "sale_rate": 4000.0,
+    "sale_rate": 3600.0,
     "hsn_code": "84671110",
     "unit": "Nos"
   },
@@ -171122,7 +171122,7 @@
   {
     "item_name": "WA 3/4\" WASER (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 118.0,
+    "purchase_rate": 114.0,
     "sale_rate": 130.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -173490,7 +173490,7 @@
   {
     "item_name": "WE MALE CONNECTOR (BIG 35-50) SET",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 84.61000061035156,
+    "purchase_rate": 87.43000030517578,
     "sale_rate": 200.0,
     "hsn_code": "85151900",
     "unit": "Set"
