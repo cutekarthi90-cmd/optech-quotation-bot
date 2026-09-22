@@ -31658,7 +31658,7 @@
   {
     "item_name": "CA 25MM-CASING PIPE BLUE( 3/4\") BOX",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 44.0,
+    "purchase_rate": 44.63999938964844,
     "sale_rate": 55.0,
     "hsn_code": "39162019",
     "unit": "Nos"
@@ -31690,8 +31690,8 @@
   {
     "item_name": "CA 32MM-BOX CASING PIPE (1\")",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 38.0,
-    "sale_rate": 60.0,
+    "purchase_rate": 57.0,
+    "sale_rate": 65.0,
     "hsn_code": "39162019",
     "unit": "Nos"
   },
@@ -32282,8 +32282,8 @@
   {
     "item_name": "CABLE TRAY 60X60(1MTR)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 137.2899932861328,
-    "sale_rate": 200.0,
+    "purchase_rate": 161.07000732421875,
+    "sale_rate": 210.0,
     "hsn_code": "85351010",
     "unit": "Nos"
   },
@@ -32338,7 +32338,7 @@
   {
     "item_name": "CAMERA BOX 4\" X 4\" X 2\" (ANCHOR)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 24.14900016784668,
+    "purchase_rate": 28.489999771118164,
     "sale_rate": 50.0,
     "hsn_code": "853810",
     "unit": "Nos"
@@ -37554,8 +37554,8 @@
   {
     "item_name": "CON 10A PVC CONNECTOR",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 29.5,
-    "sale_rate": 50.0,
+    "purchase_rate": 38.939998626708984,
+    "sale_rate": 60.0,
     "hsn_code": "85389000",
     "unit": "Nos"
   },
@@ -68546,8 +68546,8 @@
   {
     "item_name": "GL 11/8\" 28MM GLAND (16 X 4C)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 54.5099983215332,
-    "sale_rate": 80.0,
+    "purchase_rate": 92.51200103759766,
+    "sale_rate": 125.0,
     "hsn_code": "85389000",
     "unit": "Nos"
   },
@@ -81466,7 +81466,7 @@
   {
     "item_name": "KA 2 NO KARANDI (SS-TIGER-PARNAMI SPL)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 91.0,
+    "purchase_rate": 92.0,
     "sale_rate": 110.0,
     "hsn_code": "82055990",
     "unit": "Nos"
@@ -110306,8 +110306,8 @@
   {
     "item_name": "PIN BOLT 12 X 100 (4\") AF",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 12.859999656677246,
-    "sale_rate": 24.0,
+    "purchase_rate": 13.109999656677246,
+    "sale_rate": 25.0,
     "hsn_code": "73181900",
     "unit": "Nos"
   },
@@ -110362,8 +110362,8 @@
   {
     "item_name": "PIN BOLT 12 X 75 (3\") AF",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 10.619999885559082,
-    "sale_rate": 15.0,
+    "purchase_rate": 11.15999984741211,
+    "sale_rate": 20.0,
     "hsn_code": "73181500",
     "unit": "Nos"
   },
@@ -124026,7 +124026,7 @@
   {
     "item_name": "RE 16A Y CONNECTOR",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 358.239990234375,
+    "purchase_rate": 354.0,
     "sale_rate": 600.0,
     "hsn_code": "85369090",
     "unit": "Nos"
@@ -140498,7 +140498,7 @@
   {
     "item_name": "SPIRAL HOSE  9MM",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 123.9000015258789,
+    "purchase_rate": 147.5,
     "sale_rate": 260.0,
     "hsn_code": "85389000",
     "unit": "Roll"
@@ -151938,7 +151938,7 @@
   {
     "item_name": "THREAD ROD 12MM 1MTR (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 118.0,
+    "purchase_rate": 76.69999694824219,
     "sale_rate": 140.0,
     "hsn_code": "73181900",
     "unit": "Kg"
@@ -151986,7 +151986,7 @@
   {
     "item_name": "THREAD ROD 16MM 1MTR (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 123.9000015258789,
+    "purchase_rate": 79.05999755859375,
     "sale_rate": 145.0,
     "hsn_code": "73181900",
     "unit": "Kg"
@@ -175706,7 +175706,7 @@
   {
     "item_name": "WI 13.5 PG-13.5 WIRING GLAND PVC",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 4.96999979019165,
+    "purchase_rate": 5.559999942779541,
     "sale_rate": 25.0,
     "hsn_code": "39173100",
     "unit": "Nos"
