@@ -55418,8 +55418,8 @@
   {
     "item_name": "EPOXY PRIMER GREY-20LT (ASIAN) 1713",
     "group_name": "PAINTS",
-    "purchase_rate": 5200.02392578125,
-    "sale_rate": 5650.0,
+    "purchase_rate": 5308.583984375,
+    "sale_rate": 5770.0,
     "hsn_code": "32089090",
     "unit": "Nos"
   },
@@ -56362,8 +56362,8 @@
   {
     "item_name": "EPOXY WHITE 4LTR (ASIAN)+",
     "group_name": "PAINTS",
-    "purchase_rate": 1693.5360107421875,
-    "sale_rate": 1840.0,
+    "purchase_rate": 1758.6719970703125,
+    "sale_rate": 1910.0,
     "hsn_code": "32089090",
     "unit": "Nos"
   },
@@ -93738,23 +93738,23 @@
   {
     "item_name": "MANJA GOPI 1KG (BAG=20NOS)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 94.0,
-    "sale_rate": 100.0,
+    "purchase_rate": 98.0,
+    "sale_rate": 110.0,
     "hsn_code": "28211010",
     "unit": "Pocket"
   },
   {
     "item_name": "MANJA GOPI 250GM (BAG=80NOS)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 24.75,
-    "sale_rate": 30.0,
+    "purchase_rate": 25.5,
+    "sale_rate": 35.0,
     "hsn_code": "28211010",
     "unit": "Pocket"
   },
   {
     "item_name": "MANJA GOPI 500GM (BAG=40NOS)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 47.5,
+    "purchase_rate": 49.75,
     "sale_rate": 60.0,
     "hsn_code": "28211010",
     "unit": "Pocket"
