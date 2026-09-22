@@ -8082,7 +8082,7 @@
   {
     "item_name": "AS DAM SHEATH-EXT 20LT (ADV) ASIAN- K",
     "group_name": "PAINTS",
-    "purchase_rate": 1.0,
+    "purchase_rate": 3971.800048828125,
     "sale_rate": 4000.0,
     "hsn_code": "32091010",
     "unit": "Nos"
@@ -15456,6 +15456,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "AS ULTIMA 200ML SILVER (ASIAN+",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 191.6909942626953,
+    "sale_rate": 220.0,
+    "hsn_code": "32091010",
+    "unit": "Nos"
+  },
+  {
     "item_name": "AS ULTIMA 20LT SUPREMA (ASIAN)",
     "group_name": "PAINTS",
     "purchase_rate": 1.0,
@@ -15492,6 +15500,14 @@
     "group_name": "PAINTS",
     "purchase_rate": 501.0870056152344,
     "sale_rate": 530.0,
+    "hsn_code": "32091010",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "AS ULTIMA 500ML SILVER (ASIAN+",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 454.0050048828125,
+    "sale_rate": 480.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
