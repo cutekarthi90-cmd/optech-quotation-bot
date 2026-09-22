@@ -8128,10 +8128,10 @@
     "unit": "Nos"
   },
   {
-    "item_name": "AS DAMP PROOF 10LT (ASIAN) NRML-K",
+    "item_name": "AS DAMP PROOF 10LT (ASIAN) - XTREME",
     "group_name": "PAINTS",
-    "purchase_rate": 3026.699951171875,
-    "sale_rate": 3190.0,
+    "purchase_rate": 3060.330078125,
+    "sale_rate": 3220.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -14082,8 +14082,8 @@
   {
     "item_name": "AS SE-13-1LT (SATIN-ENAMEL) ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 312.760009765625,
-    "sale_rate": 330.0,
+    "purchase_rate": 309.39599609375,
+    "sale_rate": 325.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -135610,8 +135610,8 @@
   {
     "item_name": "SHEET METAL (0.25MM) (170GM/SQFEET)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 21.729999542236328,
-    "sale_rate": 26.0,
+    "purchase_rate": 22.5,
+    "sale_rate": 27.0,
     "hsn_code": "72104100",
     "unit": "SqrFeet"
   },
