@@ -922,7 +922,7 @@
   {
     "item_name": "3TON X 2 METRE LIFTING BELT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 450.4700012207031,
+    "purchase_rate": 457.45001220703125,
     "sale_rate": 650.0,
     "hsn_code": "59113190",
     "unit": "Nos"
@@ -32338,7 +32338,7 @@
   {
     "item_name": "CAMERA BOX 4\" X 4\" X 2\" (ANCHOR)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 40.0,
+    "purchase_rate": 24.14900016784668,
     "sale_rate": 50.0,
     "hsn_code": "853810",
     "unit": "Nos"
@@ -34997,6 +34997,14 @@
     "purchase_rate": 652.5399780273438,
     "sale_rate": 780.0,
     "hsn_code": "8204",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "CHAIN PULLY BLOCK AND GEAR TROLLEY",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 37217.0,
+    "sale_rate": 42000.0,
+    "hsn_code": "84251920",
     "unit": "Nos"
   },
   {
@@ -37986,8 +37994,8 @@
   {
     "item_name": "COPPER 12SWG",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 1595.3599853515625,
-    "sale_rate": 1760.0,
+    "purchase_rate": 1711.0,
+    "sale_rate": 1890.0,
     "hsn_code": "74081990",
     "unit": "Kg"
   },
@@ -57244,7 +57252,7 @@
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 670.0,
     "sale_rate": 850.0,
-    "hsn_code": "",
+    "hsn_code": "69101000",
     "unit": "Nos"
   },
   {
@@ -61282,8 +61290,8 @@
   {
     "item_name": "FINOLEX 2.5SQ FR GREY (100MTR)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 4262.990234375,
-    "sale_rate": 4412.0,
+    "purchase_rate": 4883.990234375,
+    "sale_rate": 5150.0,
     "hsn_code": "85446020",
     "unit": "COIL"
   },
@@ -78058,7 +78066,7 @@
   {
     "item_name": "INDICATOR (ROUND TYPE) GREEN",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 47.20000076293945,
+    "purchase_rate": 41.29999923706055,
     "sale_rate": 60.0,
     "hsn_code": "85369090",
     "unit": "Nos"
@@ -81458,7 +81466,7 @@
   {
     "item_name": "KA 2 NO KARANDI (SS-TIGER-PARNAMI SPL)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 91.66000366210938,
+    "purchase_rate": 91.0,
     "sale_rate": 110.0,
     "hsn_code": "82055990",
     "unit": "Nos"
@@ -121410,8 +121418,8 @@
   {
     "item_name": "PYE 513 SCREW DRIVER",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 70.73999786376953,
-    "sale_rate": 85.0,
+    "purchase_rate": 81.125,
+    "sale_rate": 90.0,
     "hsn_code": "82054000",
     "unit": "Nos"
   },
@@ -136010,8 +136018,8 @@
   {
     "item_name": "SI 34A 3TF CONTACTOR (32A)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 5293.35986328125,
-    "sale_rate": 5850.0,
+    "purchase_rate": 5014.759765625,
+    "sale_rate": 5750.0,
     "hsn_code": "85365010",
     "unit": "Nos"
   },
@@ -147034,7 +147042,7 @@
   {
     "item_name": "SUCTION CUP THREE HEAD  JB",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 665.5,
+    "purchase_rate": 676.4600219726562,
     "sale_rate": 800.0,
     "hsn_code": "82055910",
     "unit": "Nos"
@@ -147042,7 +147050,7 @@
   {
     "item_name": "SUCTION CUP TWO  HEAD  JB",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 497.4800109863281,
+    "purchase_rate": 505.5710144042969,
     "sale_rate": 600.0,
     "hsn_code": "82055910",
     "unit": "Nos"
@@ -150018,7 +150026,7 @@
   {
     "item_name": "TAP TESTER 816 (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 51.290000915527344,
+    "purchase_rate": 50.47999954223633,
     "sale_rate": 60.0,
     "hsn_code": "82054000",
     "unit": "Nos"
@@ -155194,7 +155202,7 @@
   {
     "item_name": "TVS 24MM X 100MM HEX BOLT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 113.19999694824219,
+    "purchase_rate": 120.13999938964844,
     "sale_rate": 160.0,
     "hsn_code": "73181500",
     "unit": "Nos"
@@ -155274,7 +155282,7 @@
   {
     "item_name": "TVS 3\" X 5/8\"  BOLT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 36.0099983215332,
+    "purchase_rate": 37.119998931884766,
     "sale_rate": 50.0,
     "hsn_code": "73181500",
     "unit": "Nos"
@@ -172016,6 +172024,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "WATER METER 1 1/2\" (KARANTI) THREADED",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 14781.8603515625,
+    "sale_rate": 16200.0,
+    "hsn_code": "90282000",
+    "unit": "Nos"
+  },
+  {
     "item_name": "WATER METER 1\" (DASMESH-ISI-A CLASS)",
     "group_name": "PLUMBING",
     "purchase_rate": 1680.0,
@@ -172042,8 +172058,8 @@
   {
     "item_name": "WATER METER 11/2\" (KARANTI) FLANGE END",
     "group_name": "PLUMBING",
-    "purchase_rate": 5612.080078125,
-    "sale_rate": 6500.0,
+    "purchase_rate": 7220.89208984375,
+    "sale_rate": 7950.0,
     "hsn_code": "90261090",
     "unit": "Nos"
   },
