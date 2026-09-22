@@ -39210,8 +39210,8 @@
   {
     "item_name": "CPVC 1 1/2\"UNION",
     "group_name": "PLUMBING",
-    "purchase_rate": 280.79998779296875,
-    "sale_rate": 310.0,
+    "purchase_rate": 291.4599914550781,
+    "sale_rate": 320.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -39778,7 +39778,7 @@
   {
     "item_name": "CPVC 1\" X 1/2\" BRASS FTA (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 115.05000305175781,
+    "purchase_rate": 113.27999877929688,
     "sale_rate": 130.0,
     "hsn_code": "39172390",
     "unit": "Nos"
@@ -42018,8 +42018,8 @@
   {
     "item_name": "CRI 4 SQMM FLEX WIRE (45MTR-COIL)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 3089.64990234375,
-    "sale_rate": 3300.0,
+    "purchase_rate": 3359.8798828125,
+    "sale_rate": 3530.0,
     "hsn_code": "85442010",
     "unit": "COIL"
   },
@@ -162018,8 +162018,8 @@
   {
     "item_name": "UPVC 1 1/2\" BEND (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 128.24000549316406,
-    "sale_rate": 145.0,
+    "purchase_rate": 133.1739959716797,
+    "sale_rate": 146.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -163474,8 +163474,8 @@
   {
     "item_name": "UPVC 2\" X 1 1/2\" REDUCER",
     "group_name": "PLUMBING",
-    "purchase_rate": 66.87999725341797,
-    "sale_rate": 73.0,
+    "purchase_rate": 69.44999694824219,
+    "sale_rate": 76.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
