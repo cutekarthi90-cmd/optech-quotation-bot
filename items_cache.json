@@ -16770,8 +16770,8 @@
   {
     "item_name": "AST 1/2\" MTA (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 3.9100000858306885,
-    "sale_rate": 7.0,
+    "purchase_rate": 5.25,
+    "sale_rate": 8.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -17482,7 +17482,7 @@
   {
     "item_name": "AST 3/4\" ELBOW-HVY (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 8.739999771118164,
+    "purchase_rate": 9.369999885559082,
     "sale_rate": 15.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -17514,7 +17514,7 @@
   {
     "item_name": "AST 3/4\" TEE-HVY (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 11.539999961853027,
+    "purchase_rate": 12.369999885559082,
     "sale_rate": 20.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -45298,7 +45298,7 @@
   {
     "item_name": "DR (M-35) 2MM TOTEM DRILL BIT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 28.459999084472656,
+    "purchase_rate": 31.34000015258789,
     "sale_rate": 45.0,
     "hsn_code": "82075000",
     "unit": "Nos"
@@ -45362,8 +45362,8 @@
   {
     "item_name": "DR (M-35) 5MM TOTEM DRILL BIT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 99.68000030517578,
-    "sale_rate": 130.0,
+    "purchase_rate": 109.6500015258789,
+    "sale_rate": 135.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -59810,8 +59810,8 @@
   {
     "item_name": "FI 1\" 2MM FINOLEX PIPE",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 97.12999725341797,
-    "sale_rate": 107.0,
+    "purchase_rate": 107.26000213623047,
+    "sale_rate": 118.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
@@ -60114,8 +60114,8 @@
   {
     "item_name": "FI 3/4\" 2MM FINOLEX PIPE",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 65.1500015258789,
-    "sale_rate": 73.0,
+    "purchase_rate": 71.83000183105469,
+    "sale_rate": 80.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -62058,7 +62058,7 @@
   {
     "item_name": "FL 5\" X 60 GRIT FLAP DISC (BULLET)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 46.400001525878906,
+    "purchase_rate": 45.5,
     "sale_rate": 75.0,
     "hsn_code": "68051010",
     "unit": "Nos"
@@ -89842,7 +89842,7 @@
   {
     "item_name": "LU EXHAUST 150MM FAN",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1024.0,
+    "purchase_rate": 998.989990234375,
     "sale_rate": 1170.0,
     "hsn_code": "84145190",
     "unit": "Nos"
@@ -122866,7 +122866,7 @@
   {
     "item_name": "RA 12NO RAWAL (PVC) APOLO",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 10.539999961853027,
+    "purchase_rate": 9.869999885559082,
     "sale_rate": 14.0,
     "hsn_code": "39269099",
     "unit": "Nos"
@@ -148770,7 +148770,7 @@
   {
     "item_name": "TANK 500 LTRS (VECTUS-WHITE)",
     "group_name": "PLUMBING",
-    "purchase_rate": 2400.0,
+    "purchase_rate": 2499.989990234375,
     "sale_rate": 3350.0,
     "hsn_code": "39251000",
     "unit": "Nos"
@@ -148882,7 +148882,7 @@
   {
     "item_name": "TANK 500LTR 4LAYER WHITE (VECTUS SILK)",
     "group_name": "PLUMBING",
-    "purchase_rate": 2900.0,
+    "purchase_rate": 2799.989990234375,
     "sale_rate": 3500.0,
     "hsn_code": "39251000",
     "unit": "Nos"
@@ -169061,6 +169061,14 @@
     "purchase_rate": 1540.0,
     "sale_rate": 1900.0,
     "hsn_code": "9017",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "VERNIER CALIBER 8\" (AEROSPACE) NORMAL",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 933.9600219726562,
+    "sale_rate": 1150.0,
+    "hsn_code": "90173010",
     "unit": "Nos"
   },
   {
