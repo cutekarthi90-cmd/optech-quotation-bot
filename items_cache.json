@@ -5426,8 +5426,8 @@
   {
     "item_name": "AS 1LT ALUMI PAINT (HIGH HEAT 250 C) 0300 +",
     "group_name": "PAINTS",
-    "purchase_rate": 423.3840026855469,
-    "sale_rate": 460.0,
+    "purchase_rate": 511.3179931640625,
+    "sale_rate": 555.0,
     "hsn_code": "32089090",
     "unit": "Nos"
   },
@@ -53906,8 +53906,8 @@
   {
     "item_name": "EMW 100NO EMERY PAPER (RED-AJAX)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 7.699999809265137,
-    "sale_rate": 13.0,
+    "purchase_rate": 10.0,
+    "sale_rate": 15.0,
     "hsn_code": "68052010",
     "unit": "Nos"
   },
@@ -56114,8 +56114,8 @@
   {
     "item_name": "EPOXY SM GREY 4LTR (ASIAN) 0246 +",
     "group_name": "PAINTS",
-    "purchase_rate": 1780.384033203125,
-    "sale_rate": 1935.0,
+    "purchase_rate": 1845.52001953125,
+    "sale_rate": 2010.0,
     "hsn_code": "32089090",
     "unit": "Nos"
   },
@@ -76010,8 +76010,8 @@
   {
     "item_name": "HO 3/8 X 1/4 R-BUSH (M-F)-BRASS",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 18.172000885009766,
-    "sale_rate": 30.0,
+    "purchase_rate": 26.43000030517578,
+    "sale_rate": 35.0,
     "hsn_code": "74122019",
     "unit": "Nos"
   },
@@ -100522,8 +100522,8 @@
   {
     "item_name": "MS 3/4 FLANGE (CLASS 150)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 69.98999786376953,
-    "sale_rate": 90.0,
+    "purchase_rate": 82.5999984741211,
+    "sale_rate": 120.0,
     "hsn_code": "73079190",
     "unit": "Nos"
   },
@@ -127890,8 +127890,8 @@
   {
     "item_name": "RU SKY-BLUE 4LT RUBBER PAINT-ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 1680.509033203125,
-    "sale_rate": 1830.0,
+    "purchase_rate": 1745.64501953125,
+    "sale_rate": 1900.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -136338,7 +136338,7 @@
   {
     "item_name": "SILENCER 1/8\" (BSL01)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 10.380000114440918,
+    "purchase_rate": 11.319999694824219,
     "sale_rate": 25.0,
     "hsn_code": "84799090",
     "unit": "Nos"
@@ -154106,7 +154106,7 @@
   {
     "item_name": "TVS 10MM X 65MM BOLT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 11.789999961853027,
+    "purchase_rate": 10.859999656677246,
     "sale_rate": 17.0,
     "hsn_code": "73181500",
     "unit": "Nos"
@@ -173083,7 +173083,7 @@
     "item_name": "WE FILLER ROD 316 2.4MM (SUPERON)",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 519.2000122070312,
-    "sale_rate": 640.0,
+    "sale_rate": 630.0,
     "hsn_code": "72230010",
     "unit": "Kg"
   },
@@ -173099,7 +173099,7 @@
     "item_name": "WE FILLER ROD 316 3.2MM (SUPERON)",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 519.2000122070312,
-    "sale_rate": 640.0,
+    "sale_rate": 630.0,
     "hsn_code": "72230010",
     "unit": "Kg"
   },
