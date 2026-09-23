@@ -7562,8 +7562,8 @@
   {
     "item_name": "AS BITUMINOUS BLACK 20LT - (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 3730.0,
-    "sale_rate": 4100.0,
+    "purchase_rate": 3935.0,
+    "sale_rate": 4200.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -55458,7 +55458,7 @@
   {
     "item_name": "EPOXY PRIMER GREY-20LT (MRF)-PRD",
     "group_name": "PAINTS",
-    "purchase_rate": 0.0,
+    "purchase_rate": 10344.0,
     "sale_rate": 9440.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -92194,8 +92194,8 @@
   {
     "item_name": "MA EN 4LT SM GREY (MAXBEN)",
     "group_name": "PAINTS",
-    "purchase_rate": 854.8880004882812,
-    "sale_rate": 940.0,
+    "purchase_rate": 956.0579833984375,
+    "sale_rate": 1050.0,
     "hsn_code": "32081010",
     "unit": "Nos"
   },
@@ -92210,7 +92210,7 @@
   {
     "item_name": "MA EN 50ML PO RED (MAXBEN)",
     "group_name": "PAINTS",
-    "purchase_rate": 20.729999542236328,
+    "purchase_rate": 22.256999969482422,
     "sale_rate": 30.0,
     "hsn_code": "32081010",
     "unit": "Nos"
@@ -96234,8 +96234,8 @@
   {
     "item_name": "MRF 5-BASE-MTL CT-4LT (MAT)",
     "group_name": "PAINTS",
-    "purchase_rate": 2930.820068359375,
-    "sale_rate": 3225.0,
+    "purchase_rate": 3417.780029296875,
+    "sale_rate": 3750.0,
     "hsn_code": "32082090",
     "unit": "Nos"
   },
@@ -102218,7 +102218,7 @@
   {
     "item_name": "MYK LATAPOXY 450G FAST & CLEAR",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 751.6119995117188,
+    "purchase_rate": 753.9959716796875,
     "sale_rate": 830.0,
     "hsn_code": "32141000",
     "unit": "Nos"
@@ -177156,7 +177156,7 @@
     "group_name": "PLUMBING",
     "purchase_rate": 215.58999633789062,
     "sale_rate": 240.0,
-    "hsn_code": "3917",
+    "hsn_code": "39172190",
     "unit": "Nos"
   },
   {
