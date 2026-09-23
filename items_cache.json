@@ -25730,8 +25730,8 @@
   {
     "item_name": "BO 50MM X 12MM (MS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 79.05999755859375,
-    "sale_rate": 93.45,
+    "purchase_rate": 112.0999984741211,
+    "sale_rate": 130.0,
     "hsn_code": "73181500",
     "unit": "Kg"
   },
@@ -25972,6 +25972,22 @@
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 120.36000061035156,
     "sale_rate": 145.0,
+    "hsn_code": "73181500",
+    "unit": "Kg"
+  },
+  {
+    "item_name": "BO 75MMX 12MM (MS)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 112.0999984741211,
+    "sale_rate": 130.0,
+    "hsn_code": "73181500",
+    "unit": "Kg"
+  },
+  {
+    "item_name": "BO 75MMX16MM (MS)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 112.0999984741211,
+    "sale_rate": 130.0,
     "hsn_code": "73181500",
     "unit": "Kg"
   },
@@ -85010,8 +85026,8 @@
   {
     "item_name": "L&KEY 3MM (TAPARIA-LONG)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 54.2599983215332,
-    "sale_rate": 70.0,
+    "purchase_rate": 37.310001373291016,
+    "sale_rate": 60.0,
     "hsn_code": "82041120",
     "unit": "Nos"
   },
@@ -106722,8 +106738,8 @@
   {
     "item_name": "NU 12MM NUT (MS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 84.95999908447266,
-    "sale_rate": 97.65,
+    "purchase_rate": 118.0,
+    "sale_rate": 135.0,
     "hsn_code": "73181600",
     "unit": "Kg"
   },
@@ -106741,6 +106757,14 @@
     "purchase_rate": 130.97999572753906,
     "sale_rate": 145.0,
     "hsn_code": "73181600",
+    "unit": "Kg"
+  },
+  {
+    "item_name": "NU 16MM NUT (MS)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 119.18000030517578,
+    "sale_rate": 135.0,
+    "hsn_code": "73181500",
     "unit": "Kg"
   },
   {
