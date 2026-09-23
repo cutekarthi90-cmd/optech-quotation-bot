@@ -418,8 +418,8 @@
   {
     "item_name": "2\" NRV HORIZONTAL (YASH)",
     "group_name": "PLUMBING",
-    "purchase_rate": 1488.8699951171875,
-    "sale_rate": 1650.0,
+    "purchase_rate": 1872.9200439453125,
+    "sale_rate": 2070.0,
     "hsn_code": "84818020",
     "unit": "Nos"
   },
@@ -24370,7 +24370,7 @@
   {
     "item_name": "BO 1 1/2 X 1/2 BOLT (CIPL)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 102.0,
+    "purchase_rate": 106.0,
     "sale_rate": 120.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -25042,7 +25042,7 @@
   {
     "item_name": "BO 2 X 1/2 BOLT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 114.0,
+    "purchase_rate": 116.0,
     "sale_rate": 130.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -25258,7 +25258,7 @@
   {
     "item_name": "BO 3 1/2 X 3/4 BOLT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 111.0,
+    "purchase_rate": 110.0,
     "sale_rate": 120.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -25508,7 +25508,7 @@
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 123.9000015258789,
     "sale_rate": 145.0,
-    "hsn_code": "73180000",
+    "hsn_code": "73181500",
     "unit": "Nos"
   },
   {
@@ -25674,7 +25674,7 @@
   {
     "item_name": "BO 5\" X 1/2\" BOLT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 111.0,
+    "purchase_rate": 109.0,
     "sale_rate": 125.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -37066,7 +37066,7 @@
   {
     "item_name": "CO 4\" PVC COUPLER (LW-FINOLEX)",
     "group_name": "PLUMBING",
-    "purchase_rate": 38.7599983215332,
+    "purchase_rate": 43.06999969482422,
     "sale_rate": 60.0,
     "hsn_code": "39172390",
     "unit": "Nos"
@@ -106610,7 +106610,7 @@
   {
     "item_name": "NU 1/2 C.F NUT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 117.0,
+    "purchase_rate": 116.01000213623047,
     "sale_rate": 130.0,
     "hsn_code": "73181600",
     "unit": "Kg"
@@ -106618,7 +106618,7 @@
   {
     "item_name": "NU 1/2 C.F NUT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 127.0,
+    "purchase_rate": 126.0,
     "sale_rate": 140.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -106650,7 +106650,7 @@
   {
     "item_name": "NU 1/4\" C F NUT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 117.0,
+    "purchase_rate": 116.01000213623047,
     "sale_rate": 130.0,
     "hsn_code": "73181600",
     "unit": "Kg"
@@ -106786,7 +106786,7 @@
   {
     "item_name": "NU 3/4 C.F NUT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 112.01000213623047,
+    "purchase_rate": 116.01000213623047,
     "sale_rate": 128.0,
     "hsn_code": "73181600",
     "unit": "Kg"
@@ -112554,8 +112554,8 @@
   {
     "item_name": "PLATO WASTE COUPLING 6\"",
     "group_name": "PLUMBING",
-    "purchase_rate": 475.05999755859375,
-    "sale_rate": 560.0,
+    "purchase_rate": 613.2999877929688,
+    "sale_rate": 680.0,
     "hsn_code": "74182020",
     "unit": "Nos"
   },
@@ -162906,8 +162906,8 @@
   {
     "item_name": "UPVC 1/2\" BALL VALVE (PRINCE)",
     "group_name": "PLUMBING",
-    "purchase_rate": 67.16500091552734,
-    "sale_rate": 100.0,
+    "purchase_rate": 54.279998779296875,
+    "sale_rate": 90.0,
     "hsn_code": "84818090",
     "unit": "Nos"
   },
@@ -162978,7 +162978,7 @@
   {
     "item_name": "UPVC 1/2\" TANK NIPPLE (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 20.399999618530273,
+    "purchase_rate": 17.989999771118164,
     "sale_rate": 30.0,
     "hsn_code": "39172390",
     "unit": "Nos"
@@ -173074,7 +173074,7 @@
   {
     "item_name": "WE FILLER ROD 316 2.4MM (SUPERON)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 542.7999877929688,
+    "purchase_rate": 519.2000122070312,
     "sale_rate": 640.0,
     "hsn_code": "72230010",
     "unit": "Kg"
@@ -173090,7 +173090,7 @@
   {
     "item_name": "WE FILLER ROD 316 3.2MM (SUPERON)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 542.7999877929688,
+    "purchase_rate": 519.2000122070312,
     "sale_rate": 640.0,
     "hsn_code": "72230010",
     "unit": "Kg"
