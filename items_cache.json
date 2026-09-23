@@ -35314,8 +35314,8 @@
   {
     "item_name": "CHICKEN MESH 3 FEET (30MTR-ROLL)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 379.989990234375,
-    "sale_rate": 440.0,
+    "purchase_rate": 435.0,
+    "sale_rate": 480.0,
     "hsn_code": "731420",
     "unit": "Roll"
   },
@@ -100517,6 +100517,14 @@
     "purchase_rate": 152.1999969482422,
     "sale_rate": 190.0,
     "hsn_code": "73079290",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "MS 3/4 FLANGE (CLASS 150)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 69.98999786376953,
+    "sale_rate": 90.0,
+    "hsn_code": "73079190",
     "unit": "Nos"
   },
   {
