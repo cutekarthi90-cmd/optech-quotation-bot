@@ -42474,8 +42474,8 @@
   {
     "item_name": "CRI PLANO 100 (1HP)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 8328.2900390625,
-    "sale_rate": 9200.0,
+    "purchase_rate": 8742.23046875,
+    "sale_rate": 9620.0,
     "hsn_code": "84138130",
     "unit": "Nos"
   },
@@ -83050,16 +83050,16 @@
   {
     "item_name": "KU 2.5 SQ X 3 CORE (KUNDAN) MTR",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 137.2100067138672,
-    "sale_rate": 155.0,
+    "purchase_rate": 145.75999450683594,
+    "sale_rate": 160.0,
     "hsn_code": "85446020",
     "unit": "Meter"
   },
   {
     "item_name": "KU 2.5 SQ X 3 CORE (KUNDAN) ROLL 100MTR",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 13721.0400390625,
-    "sale_rate": 14450.0,
+    "purchase_rate": 14576.4814453125,
+    "sale_rate": 15310.0,
     "hsn_code": "85446020",
     "unit": "Roll"
   },
@@ -104090,7 +104090,7 @@
   {
     "item_name": "NI 3/4\" X 6\" B.NIPPLE",
     "group_name": "PLUMBING",
-    "purchase_rate": 27.34000015258789,
+    "purchase_rate": 27.68000030517578,
     "sale_rate": 40.0,
     "hsn_code": "73063090",
     "unit": "Nos"
@@ -112524,6 +112524,14 @@
     "group_name": "PLUMBING",
     "purchase_rate": 292.04998779296875,
     "sale_rate": 400.0,
+    "hsn_code": "84818090",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "PLATO WALL SPOUT (KRATI) KR105",
+    "group_name": "PLUMBING",
+    "purchase_rate": 915.0900268554688,
+    "sale_rate": 1010.0,
     "hsn_code": "84818090",
     "unit": "Nos"
   },
@@ -128082,8 +128090,8 @@
   {
     "item_name": "RUBBING STONE (NORTON-LION) FOR KNIFE",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 155.0,
-    "sale_rate": 220.0,
+    "purchase_rate": 175.0,
+    "sale_rate": 230.0,
     "hsn_code": "68041000",
     "unit": "Nos"
   },
@@ -175746,7 +175754,7 @@
   {
     "item_name": "WI 1\" 1.5MM PIPE (VIJAY)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 64.76000213623047,
+    "purchase_rate": 64.0,
     "sale_rate": 72.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
