@@ -6698,8 +6698,8 @@
   {
     "item_name": "AS AC9G-10LT ACE EML (ASIAN) +",
     "group_name": "PAINTS",
-    "purchase_rate": 1918.031005859375,
-    "sale_rate": 2020.0,
+    "purchase_rate": 1951.6610107421875,
+    "sale_rate": 2055.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -9058,8 +9058,8 @@
   {
     "item_name": "AS EN 1LT CAS GREEN (GLSY-ENAMEL)-ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 275.7699890136719,
-    "sale_rate": 290.0,
+    "purchase_rate": 307.15399169921875,
+    "sale_rate": 325.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -15186,8 +15186,8 @@
   {
     "item_name": "AS TRAC 1LT WHITE-SPARC (NRML) ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 106.49500274658203,
-    "sale_rate": 115.0,
+    "purchase_rate": 121.06800079345703,
+    "sale_rate": 130.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -84450,8 +84450,8 @@
   {
     "item_name": "L & T 2HP STARTER (3P) 4-6.5A",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 2680.340087890625,
-    "sale_rate": 2950.0,
+    "purchase_rate": 3050.0,
+    "sale_rate": 3500.0,
     "hsn_code": "85369010",
     "unit": "Nos"
   },
@@ -97890,8 +97890,8 @@
   {
     "item_name": "MRF GOLD 1LTR (OIL BASE)",
     "group_name": "PAINTS",
-    "purchase_rate": 1168.449951171875,
-    "sale_rate": 1300.0,
+    "purchase_rate": 1363.219970703125,
+    "sale_rate": 1500.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -97930,8 +97930,8 @@
   {
     "item_name": "MRF GOLD 500ML (OIL BASE)+",
     "group_name": "PAINTS",
-    "purchase_rate": 601.4409790039062,
-    "sale_rate": 660.0,
+    "purchase_rate": 701.6400146484375,
+    "sale_rate": 770.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -128018,8 +128018,8 @@
   {
     "item_name": "RU THINNER 1LT (RUBBER PAINT) 131 +",
     "group_name": "PAINTS",
-    "purchase_rate": 277.9129943847656,
-    "sale_rate": 300.0,
+    "purchase_rate": 294.197998046875,
+    "sale_rate": 320.0,
     "hsn_code": "38140010",
     "unit": "Nos"
   },
