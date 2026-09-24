@@ -410,8 +410,8 @@
   {
     "item_name": "2\" NRV FLANGE DISC",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 820.0,
-    "sale_rate": 1150.0,
+    "purchase_rate": 692.0700073242188,
+    "sale_rate": 1100.0,
     "hsn_code": "84813000",
     "unit": "Nos"
   },
@@ -88682,8 +88682,8 @@
   {
     "item_name": "LT 1.4A - 2.3A RELAY (MN2) CONTACTOR",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 1239.0,
-    "sale_rate": 1420.0,
+    "purchase_rate": 1968.239990234375,
+    "sale_rate": 2170.0,
     "hsn_code": "85365010",
     "unit": "Nos"
   },
@@ -99520,6 +99520,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "MS 1 1/4 \" LONG BEND",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 58.7599983215332,
+    "sale_rate": 75.0,
+    "hsn_code": "73079390",
+    "unit": "Nos"
+  },
+  {
     "item_name": "MS 1 1/4 X 3 B.NIPPLE",
     "group_name": "PLUMBING",
     "purchase_rate": 21.0,
@@ -99851,6 +99859,14 @@
     "item_name": "MS 1/2 \" FLANGE CLASS 150",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 64.9000015258789,
+    "sale_rate": 100.0,
+    "hsn_code": "73079190",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "MS 1/2 DUMMY FLANGE",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 80.23999786376953,
     "sale_rate": 100.0,
     "hsn_code": "73079190",
     "unit": "Nos"
@@ -100786,7 +100802,7 @@
   {
     "item_name": "MS 4\" BEND (WELD TYPE)",
     "group_name": "PLUMBING",
-    "purchase_rate": 245.44000244140625,
+    "purchase_rate": 304.44000244140625,
     "sale_rate": 550.0,
     "hsn_code": "73079390",
     "unit": "Nos"
@@ -102522,7 +102538,7 @@
   {
     "item_name": "NA 1\" X 17 HEADLESS NAIL",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 124.80000305175781,
+    "purchase_rate": 128.8000030517578,
     "sale_rate": 180.0,
     "hsn_code": "73170013",
     "unit": "Kg"
@@ -115042,8 +115058,8 @@
   {
     "item_name": "POP 25KG JK",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 270.0,
-    "sale_rate": 325.0,
+    "purchase_rate": 290.0,
+    "sale_rate": 350.0,
     "hsn_code": "25202090",
     "unit": "Bags"
   },
@@ -141280,6 +141296,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "SS 1 1/4\" COUPLING (LINTAS)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 371.70001220703125,
+    "sale_rate": 510.0,
+    "hsn_code": "73072900",
+    "unit": "Nos"
+  },
+  {
     "item_name": "SS 1 1/4\" ELBOW",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 280.3680114746094,
@@ -141946,8 +141970,8 @@
   {
     "item_name": "SS 11/4\" COUPLING",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 335.3500061035156,
-    "sale_rate": 450.0,
+    "purchase_rate": 191.75,
+    "sale_rate": 350.0,
     "hsn_code": "73072900",
     "unit": "Nos"
   },
@@ -150618,16 +150642,16 @@
   {
     "item_name": "TC 25A CONTACTOR",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 1954.0,
-    "sale_rate": 2200.0,
+    "purchase_rate": 2383.1201171875,
+    "sale_rate": 2640.0,
     "hsn_code": "85365010",
     "unit": "Nos"
   },
   {
     "item_name": "TC 32A CONTACTOR",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 3194.39990234375,
-    "sale_rate": 3520.0,
+    "purchase_rate": 4044.090087890625,
+    "sale_rate": 4450.0,
     "hsn_code": "85365010",
     "unit": "Nos"
   },
@@ -150706,8 +150730,8 @@
   {
     "item_name": "TC RELAY 2.5- 4A",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 958.1599731445312,
-    "sale_rate": 1060.0,
+    "purchase_rate": 1384.8480224609375,
+    "sale_rate": 1540.0,
     "hsn_code": "85364900",
     "unit": "Nos"
   },
@@ -172128,6 +172152,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "WATER METER 1\" KING",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 4450.9599609375,
+    "sale_rate": 4990.0,
+    "hsn_code": "90282000",
+    "unit": "Nos"
+  },
+  {
     "item_name": "WATER METER 1\" ZENNER",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 9440.0,
@@ -172378,7 +172410,7 @@
   {
     "item_name": "WE 0.8MM MIG COIL CO2",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1445.5,
+    "purchase_rate": 1475.5,
     "sale_rate": 1600.0,
     "hsn_code": "72299016",
     "unit": "COIL"
@@ -172394,7 +172426,7 @@
   {
     "item_name": "WE 1.2MM MIG COIL CO2",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1770.0,
+    "purchase_rate": 1734.5999755859375,
     "sale_rate": 2150.0,
     "hsn_code": "72299016",
     "unit": "COIL"
@@ -175230,6 +175262,14 @@
     "sale_rate": 40.0,
     "hsn_code": "",
     "unit": "Meter"
+  },
+  {
+    "item_name": "WELD MESH 1X1",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 7850.0,
+    "sale_rate": 9300.0,
+    "hsn_code": "73143900",
+    "unit": "Roll"
   },
   {
     "item_name": "WELD MESH 2 X 2 (11G)",
