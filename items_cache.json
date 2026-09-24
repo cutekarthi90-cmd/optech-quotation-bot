@@ -68747,7 +68747,7 @@
     "item_name": "GL 3/4\" DC GLAND",
     "group_name": "ELECTRICALS",
     "purchase_rate": 86.05000305175781,
-    "sale_rate": 150.0,
+    "sale_rate": 120.0,
     "hsn_code": "85389000",
     "unit": "Nos"
   },
@@ -100976,6 +100976,14 @@
     "unit": "LENGTH"
   },
   {
+    "item_name": "MS 6\" TEE (WELDABLE)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 2071.0,
+    "sale_rate": 2350.0,
+    "hsn_code": "73079390",
+    "unit": "Nos"
+  },
+  {
     "item_name": "MS 8 ELBOW (WELDABLE)",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 1056.0999755859375,
@@ -104722,8 +104730,8 @@
   {
     "item_name": "NI EN 1LT PHIROZI (NIPPON)",
     "group_name": "PAINTS",
-    "purchase_rate": 243.2570037841797,
-    "sale_rate": 260.0,
+    "purchase_rate": 276.8800048828125,
+    "sale_rate": 310.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -104733,6 +104741,14 @@
     "purchase_rate": 308.2749938964844,
     "sale_rate": 325.0,
     "hsn_code": "32089029",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "NI EN 1LT SILVER GREY (NIPPON)",
+    "group_name": "PAINTS",
+    "purchase_rate": 350.0,
+    "sale_rate": 385.0,
+    "hsn_code": "32089021",
     "unit": "Nos"
   },
   {
