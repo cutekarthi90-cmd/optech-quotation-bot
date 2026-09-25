@@ -6170,7 +6170,7 @@
   {
     "item_name": "AS 50ML FAST RED (ASIAN)+",
     "group_name": "PAINTS",
-    "purchase_rate": 40.35599899291992,
+    "purchase_rate": 40.91699981689453,
     "sale_rate": 45.0,
     "hsn_code": "32139000",
     "unit": "Nos"
@@ -14323,7 +14323,7 @@
     "item_name": "AS SKPS GREY-1LT (1K-EPOXY) ASIAN",
     "group_name": "PAINTS",
     "purchase_rate": 288.09698486328125,
-    "sale_rate": 310.0,
+    "sale_rate": 300.0,
     "hsn_code": "32082010",
     "unit": "Nos"
   },
@@ -14338,8 +14338,8 @@
   {
     "item_name": "AS SKPS GREY-4LT (1K-EPOXY) ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 0.0,
-    "sale_rate": 1200.0,
+    "purchase_rate": 1096.3380126953125,
+    "sale_rate": 1150.0,
     "hsn_code": "32082090",
     "unit": "Nos"
   },
@@ -94858,8 +94858,8 @@
   {
     "item_name": "MILLION 32A R/F 3 POLE SWITCH (LOTUS)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 1044.06005859375,
-    "sale_rate": 1200.0,
+    "purchase_rate": 1309.800048828125,
+    "sale_rate": 1450.0,
     "hsn_code": "85365010",
     "unit": "Nos"
   },
@@ -120290,8 +120290,8 @@
   {
     "item_name": "PUSH BUTTON(LED)(TC)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 223.02000427246094,
-    "sale_rate": 300.0,
+    "purchase_rate": 318.6000061035156,
+    "sale_rate": 350.0,
     "hsn_code": "85365090",
     "unit": "Nos"
   },
@@ -164386,8 +164386,8 @@
   {
     "item_name": "UPVC 4 X 3 R BUSH (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 125.97000122070312,
-    "sale_rate": 170.0,
+    "purchase_rate": 190.0,
+    "sale_rate": 210.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
