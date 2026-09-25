@@ -38099,7 +38099,7 @@
     "item_name": "CORE BIT  6.5MM (BULLET)",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 231.6999969482422,
-    "sale_rate": 340.0,
+    "sale_rate": 310.0,
     "hsn_code": "82079090",
     "unit": "Nos"
   },
@@ -51648,14 +51648,6 @@
     "unit": "Nos"
   },
   {
-    "item_name": "DUCO CAIRO DUST 1LT (03-6534)",
-    "group_name": "PAINTS",
-    "purchase_rate": 735.3800048828125,
-    "sale_rate": 810.0,
-    "hsn_code": "32081010",
-    "unit": "Nos"
-  },
-  {
     "item_name": "DUCO CLEAR 1LTR",
     "group_name": "PAINTS",
     "purchase_rate": 486.4549865722656,
@@ -51733,6 +51725,14 @@
     "purchase_rate": 300.0,
     "sale_rate": 380.0,
     "hsn_code": "32089011",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "DUCO HM SHELL WHITE 1LT (03-6503)",
+    "group_name": "PAINTS",
+    "purchase_rate": 949.9000244140625,
+    "sale_rate": 1050.0,
+    "hsn_code": "32081010",
     "unit": "Nos"
   },
   {
@@ -51832,10 +51832,10 @@
     "unit": "Nos"
   },
   {
-    "item_name": "DUCO RAL GREY 1LT (03-6590)",
+    "item_name": "DUCO RAL GREY 1LT (03-9519)",
     "group_name": "PAINTS",
-    "purchase_rate": 771.25,
-    "sale_rate": 900.0,
+    "purchase_rate": 949.9000244140625,
+    "sale_rate": 1050.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -102219,7 +102219,7 @@
     "item_name": "MYK GREEN-IVY TILES JOINING POWDER-1KG (NORMAL)",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 50.0,
-    "sale_rate": 70.0,
+    "sale_rate": 60.0,
     "hsn_code": "32141000",
     "unit": "Nos"
   },
@@ -102486,6 +102486,14 @@
     "sale_rate": 950.0,
     "hsn_code": "32141000",
     "unit": "Set"
+  },
+  {
+    "item_name": "MYK WHITE TILES JOINING POWDER-1KG (NORMAL)",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 49.99700164794922,
+    "sale_rate": 60.0,
+    "hsn_code": "32141000",
+    "unit": "Nos"
   },
   {
     "item_name": "NA 1 1/2\" STEEL NAIL",
@@ -107994,8 +108002,8 @@
   {
     "item_name": "PA MET.GREEN 100ML (STARLET)",
     "group_name": "PAINTS",
-    "purchase_rate": 77.60399627685547,
-    "sale_rate": 100.0,
+    "purchase_rate": 90.0,
+    "sale_rate": 120.0,
     "hsn_code": "32091090",
     "unit": "Nos"
   },
