@@ -26442,8 +26442,8 @@
   {
     "item_name": "BR 0NO ROUND BRUSH (PADMASHRI)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 13.994999885559082,
-    "sale_rate": 20.0,
+    "purchase_rate": 14.501999855041504,
+    "sale_rate": 25.0,
     "hsn_code": "96033010",
     "unit": "Nos"
   },
@@ -26466,8 +26466,8 @@
   {
     "item_name": "BR 1 1/2\" PADMASHRI BRUSH (40 NOS=1BOX)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 77.99800109863281,
-    "sale_rate": 100.0,
+    "purchase_rate": 92.99600219726562,
+    "sale_rate": 110.0,
     "hsn_code": "96034010",
     "unit": "Nos"
   },
@@ -26530,8 +26530,8 @@
   {
     "item_name": "BR 1\" PADMASHRI BRUSH (50 NOS=1BOX)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 55.0,
-    "sale_rate": 70.0,
+    "purchase_rate": 64.99400329589844,
+    "sale_rate": 80.0,
     "hsn_code": "96034010",
     "unit": "Nos"
   },
@@ -27586,8 +27586,8 @@
   {
     "item_name": "BR 2\" PADMASHRI BRUSH (40 NOS=1BOX)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 110.0,
-    "sale_rate": 135.0,
+    "purchase_rate": 127.99500274658203,
+    "sale_rate": 155.0,
     "hsn_code": "96034010",
     "unit": "Nos"
   },
@@ -28010,8 +28010,8 @@
   {
     "item_name": "BR 3\" PADMASHRI BRUSH (20NO = 1BOX)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 159.0050048828125,
-    "sale_rate": 180.0,
+    "purchase_rate": 178.99400329589844,
+    "sale_rate": 200.0,
     "hsn_code": "96034010",
     "unit": "Nos"
   },
@@ -30122,8 +30122,8 @@
   {
     "item_name": "BR SET BRUSH (PADMASHRI) 10SET=1BOX",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 154.0019989013672,
-    "sale_rate": 190.0,
+    "purchase_rate": 162.0019989013672,
+    "sale_rate": 200.0,
     "hsn_code": "96034010",
     "unit": "Set"
   },
@@ -107786,16 +107786,16 @@
   {
     "item_name": "PA COPPER-200ML (PADMASHRI)-WATER BASE",
     "group_name": "PAINTS",
-    "purchase_rate": 189.14500427246094,
-    "sale_rate": 225.0,
+    "purchase_rate": 203.70399475097656,
+    "sale_rate": 240.0,
     "hsn_code": "32091090",
     "unit": "Nos"
   },
   {
     "item_name": "PA COPPER-500ML (PADMASHRI)-WATER BASE",
     "group_name": "PAINTS",
-    "purchase_rate": 446.1990051269531,
-    "sale_rate": 520.0,
+    "purchase_rate": 485.0010070800781,
+    "sale_rate": 550.0,
     "hsn_code": "32091090",
     "unit": "Nos"
   },
@@ -107904,6 +107904,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "PA MET ORANGE 100ML (STARLET)",
+    "group_name": "PAINTS",
+    "purchase_rate": 89.9990005493164,
+    "sale_rate": 120.0,
+    "hsn_code": "32081090",
+    "unit": "Nos"
+  },
+  {
     "item_name": "PA MET ROSESTER 100ML (STARLET)",
     "group_name": "PAINTS",
     "purchase_rate": 199.9980010986328,
@@ -107938,8 +107946,8 @@
   {
     "item_name": "PA MET.BLUE 100ML (STARLET)",
     "group_name": "PAINTS",
-    "purchase_rate": 77.60299682617188,
-    "sale_rate": 100.0,
+    "purchase_rate": 90.0,
+    "sale_rate": 120.0,
     "hsn_code": "32091090",
     "unit": "Nos"
   },
@@ -107962,8 +107970,8 @@
   {
     "item_name": "PA MET.GOLD-100ML (STARLET)",
     "group_name": "PAINTS",
-    "purchase_rate": 77.60399627685547,
-    "sale_rate": 90.0,
+    "purchase_rate": 90.0,
+    "sale_rate": 120.0,
     "hsn_code": "32091090",
     "unit": "Nos"
   },
@@ -108026,8 +108034,8 @@
   {
     "item_name": "PA MET.RED 100ML (STARLET)",
     "group_name": "PAINTS",
-    "purchase_rate": 77.60399627685547,
-    "sale_rate": 100.0,
+    "purchase_rate": 90.0,
+    "sale_rate": 120.0,
     "hsn_code": "32091090",
     "unit": "Nos"
   },
@@ -108042,8 +108050,8 @@
   {
     "item_name": "PA MET.VIOLET 100ML (STARLET)",
     "group_name": "PAINTS",
-    "purchase_rate": 77.60399627685547,
-    "sale_rate": 100.0,
+    "purchase_rate": 90.0,
+    "sale_rate": 120.0,
     "hsn_code": "32091090",
     "unit": "Nos"
   },
