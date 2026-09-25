@@ -14336,6 +14336,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "AS SKPS GREY-4LT (1K-EPOXY) ASIAN",
+    "group_name": "PAINTS",
+    "purchase_rate": 0.0,
+    "sale_rate": 1200.0,
+    "hsn_code": "32082090",
+    "unit": "Nos"
+  },
+  {
     "item_name": "AS SN2 ROYAL SHYNE 10LT (ASIAN)",
     "group_name": "PAINTS",
     "purchase_rate": 6332.52880859375,
@@ -33330,7 +33338,7 @@
   {
     "item_name": "CEMENT 50KG (ULTRA TECH)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 325.0,
+    "purchase_rate": 330.0,
     "sale_rate": 355.0,
     "hsn_code": "25232930",
     "unit": "Bags"
@@ -60578,7 +60586,7 @@
   {
     "item_name": "FILE 10\" (FLAT-TAPARIA-W/O HANDLE-2501)ROUGH",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 130.02999877929688,
+    "purchase_rate": 128.02999877929688,
     "sale_rate": 160.0,
     "hsn_code": "82032000",
     "unit": "Nos"
@@ -66650,8 +66658,8 @@
   {
     "item_name": "GHOSE 4\" SONA FLEX (ROLL) 30M",
     "group_name": "PLUMBING",
-    "purchase_rate": 11178.23046875,
-    "sale_rate": 13200.0,
+    "purchase_rate": 13813.669921875,
+    "sale_rate": 15100.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -67986,7 +67994,7 @@
   {
     "item_name": "GI PIPE 1 1/2\" (TNT-B)",
     "group_name": "PLUMBING",
-    "purchase_rate": 2323.0,
+    "purchase_rate": 2314.0,
     "sale_rate": 2650.0,
     "hsn_code": "73061011",
     "unit": "LENGTH"
@@ -71306,8 +71314,8 @@
   {
     "item_name": "GR 4\" SONA FLEX (FEET)",
     "group_name": "PLUMBING",
-    "purchase_rate": 114.05000305175781,
-    "sale_rate": 145.0,
+    "purchase_rate": 138.13699340820312,
+    "sale_rate": 152.0,
     "hsn_code": "39172390",
     "unit": "Feet"
   },
@@ -95698,8 +95706,8 @@
   {
     "item_name": "MR 16A SOCKET-2M (MYRIUS)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 244.5,
-    "sale_rate": 270.0,
+    "purchase_rate": 260.19000244140625,
+    "sale_rate": 290.0,
     "hsn_code": "85366910",
     "unit": "Nos"
   },
@@ -95722,8 +95730,8 @@
   {
     "item_name": "MR 16A SWITCH WITH INDICATOR (MYRIUS)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 193.27999877929688,
-    "sale_rate": 215.0,
+    "purchase_rate": 205.6699981689453,
+    "sale_rate": 230.0,
     "hsn_code": "85366910",
     "unit": "Nos"
   },
@@ -95866,15 +95874,15 @@
   {
     "item_name": "MR 6M COVER PLATE (MYRIUS)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 209.61000061035156,
-    "sale_rate": 235.0,
+    "purchase_rate": 231.27999877929688,
+    "sale_rate": 255.0,
     "hsn_code": "85389000",
     "unit": "Nos"
   },
   {
     "item_name": "MR 8M COVER PLATE (MYRIUS)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 280.80999755859375,
+    "purchase_rate": 253.5800018310547,
     "sale_rate": 310.0,
     "hsn_code": "85389000",
     "unit": "Nos"
@@ -121410,8 +121418,8 @@
   {
     "item_name": "Pw TALL PILLAR COCK",
     "group_name": "PLUMBING",
-    "purchase_rate": 1852.489990234375,
-    "sale_rate": 2200.0,
+    "purchase_rate": 2475.0,
+    "sale_rate": 2700.0,
     "hsn_code": "84818020",
     "unit": "Nos"
   },
@@ -134357,6 +134365,14 @@
     "purchase_rate": 1529.0699462890625,
     "sale_rate": 2000.0,
     "hsn_code": "8425",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "SDS DRILL BIT HDC18600 TAPARIA",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 460.8999938964844,
+    "sale_rate": 530.0,
+    "hsn_code": "82075000",
     "unit": "Nos"
   },
   {
@@ -147363,9 +147379,9 @@
     "item_name": "SUPREME SIL POULINE-5MM (SQ FT) 4.225 X",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 6.849999904632568,
-    "sale_rate": 8.5,
+    "sale_rate": 10.0,
     "hsn_code": "39219024",
-    "unit": "Nos"
+    "unit": "SqrFeet"
   },
   {
     "item_name": "SURE SEAL (DR.FIX IT) 1KG",
