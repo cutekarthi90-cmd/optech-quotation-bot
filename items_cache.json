@@ -4818,7 +4818,7 @@
   {
     "item_name": "ARALDITE 450GM (FAST & CLEAR)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 911.5999755859375,
+    "purchase_rate": 894.25,
     "sale_rate": 1000.0,
     "hsn_code": "35061000",
     "unit": "Nos"
@@ -24626,7 +24626,7 @@
   {
     "item_name": "BO 1 X 3/8 BOLT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 119.98999786376953,
+    "purchase_rate": 121.0,
     "sale_rate": 135.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -25122,7 +25122,7 @@
   {
     "item_name": "BO 2 X 5/8TH BOLT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 104.01000213623047,
+    "purchase_rate": 108.01000213623047,
     "sale_rate": 125.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -25130,7 +25130,7 @@
   {
     "item_name": "BO 2 X 5/8TH BOLT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 116.01000213623047,
+    "purchase_rate": 118.0,
     "sale_rate": 135.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -25386,8 +25386,8 @@
   {
     "item_name": "BO 3 X 3/8 BOLT (CIPL)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 118.0,
-    "sale_rate": 130.0,
+    "purchase_rate": 122.0,
+    "sale_rate": 135.0,
     "hsn_code": "73181500",
     "unit": "Kg"
   },
@@ -35210,8 +35210,8 @@
   {
     "item_name": "CHECK NUT  1/2\"",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 16.520000457763672,
-    "sale_rate": 22.0,
+    "purchase_rate": 18.8799991607666,
+    "sale_rate": 23.0,
     "hsn_code": "74122090",
     "unit": "Nos"
   },
@@ -48672,6 +48672,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "DR 600X18 DRILL BIT TAPARIA",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 460.8999938964844,
+    "sale_rate": 530.0,
+    "hsn_code": "82075000",
+    "unit": "Nos"
+  },
+  {
     "item_name": "DR 6MM ADDISION DRILL BIT (HSS)",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 62.0,
@@ -54992,6 +55000,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "EPOXY GO YELLOW 4LTR (ASIAN) - 2 PACK",
+    "group_name": "PAINTS",
+    "purchase_rate": 1280.1820068359375,
+    "sale_rate": 1400.0,
+    "hsn_code": "32089021",
+    "unit": "Nos"
+  },
+  {
     "item_name": "EPOXY GOLDEN BROWN 1LTR (ASIAN) +",
     "group_name": "PAINTS",
     "purchase_rate": 624.4199829101562,
@@ -58658,7 +58674,7 @@
   {
     "item_name": "FE 1LT FEVICOL SR-998 (RS.520)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 444.1700134277344,
+    "purchase_rate": 444.17401123046875,
     "sale_rate": 490.0,
     "hsn_code": "35061000",
     "unit": "Nos"
@@ -76490,8 +76506,8 @@
   {
     "item_name": "HRC 125A HN FUSE SIZE 0 (L&T)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 531.0,
-    "sale_rate": 630.0,
+    "purchase_rate": 793.9000244140625,
+    "sale_rate": 880.0,
     "hsn_code": "85361090",
     "unit": "Nos"
   },
@@ -80341,6 +80357,14 @@
     "purchase_rate": 237.0030059814453,
     "sale_rate": 330.0,
     "hsn_code": "82033000",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "JB PIPE CUTTER 63MM HEAVY",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 650.0,
+    "sale_rate": 730.0,
+    "hsn_code": "82034090",
     "unit": "Nos"
   },
   {
@@ -106898,8 +106922,8 @@
   {
     "item_name": "NU 3/8 NUT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 123.98999786376953,
-    "sale_rate": 138.0,
+    "purchase_rate": 126.0,
+    "sale_rate": 140.0,
     "hsn_code": "73181600",
     "unit": "Kg"
   },
@@ -118058,8 +118082,8 @@
   {
     "item_name": "PR 2KG PRESSURE GAUGE NRML",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 206.5,
-    "sale_rate": 290.0,
+    "purchase_rate": 236.0,
+    "sale_rate": 300.0,
     "hsn_code": "90262000",
     "unit": "Nos"
   },
@@ -129922,24 +129946,24 @@
   {
     "item_name": "SC 12 X 25 PATTA-FT (BOX) 500PS",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1050.0,
-    "sale_rate": 1160.0,
+    "purchase_rate": 1150.0,
+    "sale_rate": 1360.0,
     "hsn_code": "73181500",
     "unit": "Box"
   },
   {
     "item_name": "SC 12 X 25 PATTA-FT (BOX) 600PS",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1440.0,
-    "sale_rate": 1700.0,
+    "purchase_rate": 1380.0,
+    "sale_rate": 1500.0,
     "hsn_code": "7318",
     "unit": "Bags"
   },
   {
     "item_name": "SC 12 X 25 PATTA-FT+",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 2.0999999046325684,
-    "sale_rate": 3.0,
+    "purchase_rate": 2.299999952316284,
+    "sale_rate": 3.3,
     "hsn_code": "73181500",
     "unit": "Nos"
   },
@@ -131674,7 +131698,7 @@
   {
     "item_name": "SC 50 X 6 HEX COACH SCREW",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 3.190000057220459,
+    "purchase_rate": 3.5399999618530273,
     "sale_rate": 7.0,
     "hsn_code": "73181500",
     "unit": "Nos"
@@ -134365,14 +134389,6 @@
     "purchase_rate": 1529.0699462890625,
     "sale_rate": 2000.0,
     "hsn_code": "8425",
-    "unit": "Nos"
-  },
-  {
-    "item_name": "SDS DRILL BIT HDC18600 TAPARIA",
-    "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 460.8999938964844,
-    "sale_rate": 530.0,
-    "hsn_code": "82075000",
     "unit": "Nos"
   },
   {
@@ -171290,7 +171306,7 @@
   {
     "item_name": "WA 3/8 WASER (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 112.01000213623047,
+    "purchase_rate": 114.0,
     "sale_rate": 140.0,
     "hsn_code": "73182100",
     "unit": "Kg"
@@ -172890,8 +172906,8 @@
   {
     "item_name": "WE COLLECT (INNER) 2.4MM (INDIAN TYPE)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 28.31999969482422,
-    "sale_rate": 50.0,
+    "purchase_rate": 35.400001525878906,
+    "sale_rate": 60.0,
     "hsn_code": "85159000",
     "unit": "Nos"
   },
@@ -175370,8 +175386,8 @@
   {
     "item_name": "WELDING MACHINE 250A TOSHWELD MOSFET",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 9913.1796875,
-    "sale_rate": 10900.0,
+    "purchase_rate": 10299.0400390625,
+    "sale_rate": 11300.0,
     "hsn_code": "85152190",
     "unit": "Nos"
   },
