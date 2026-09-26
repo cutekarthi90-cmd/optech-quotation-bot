@@ -1880,6 +1880,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "AD EN 20LT BLACK (ADDITION)",
+    "group_name": "PAINTS",
+    "purchase_rate": 5720.0,
+    "sale_rate": 6300.0,
+    "hsn_code": "30289021",
+    "unit": "Nos"
+  },
+  {
     "item_name": "AD EN 20LT DEEP ORANGE (ADDITION)",
     "group_name": "PAINTS",
     "purchase_rate": 4722.5,
@@ -16490,7 +16498,7 @@
   {
     "item_name": "AST 1 1/2\" FTA (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 18.450000762939453,
+    "purchase_rate": 19.489999771118164,
     "sale_rate": 30.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -33330,8 +33338,8 @@
   {
     "item_name": "CEMENT 50KG (PRIYA)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 300.0,
-    "sale_rate": 320.0,
+    "purchase_rate": 310.0,
+    "sale_rate": 0.0,
     "hsn_code": "25232100",
     "unit": "Nos"
   },
@@ -46914,8 +46922,8 @@
   {
     "item_name": "DR 18MM TAPER SHANK (TOTEM)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1184.93994140625,
-    "sale_rate": 1450.0,
+    "purchase_rate": 1350.8199462890625,
+    "sale_rate": 1490.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -54075,7 +54083,7 @@
     "item_name": "EMW 150NO EMERY PAPER (WTR) AJAX",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 15.449999809265137,
-    "sale_rate": 20.0,
+    "sale_rate": 17.0,
     "hsn_code": "68052010",
     "unit": "Nos"
   },
@@ -61842,8 +61850,8 @@
   {
     "item_name": "FL 120NO FLAP DISC (BULLET)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 26.134000778198242,
-    "sale_rate": 30.0,
+    "purchase_rate": 28.59000015258789,
+    "sale_rate": 34.0,
     "hsn_code": "68051010",
     "unit": "Nos"
   },
@@ -62170,7 +62178,7 @@
   {
     "item_name": "FL 80NO FLAP DISC (BULLET)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 27.15999984741211,
+    "purchase_rate": 28.59000015258789,
     "sale_rate": 34.0,
     "hsn_code": "68051010",
     "unit": "Nos"
@@ -84435,7 +84443,7 @@
     "item_name": "L & T 10HP STARTER (3PH) 11A-18A",
     "group_name": "ELECTRICALS",
     "purchase_rate": 2393.75,
-    "sale_rate": 2950.0,
+    "sale_rate": 3800.0,
     "hsn_code": "85369010",
     "unit": "Nos"
   },
@@ -87026,8 +87034,8 @@
   {
     "item_name": "LEX 10A 3P MCB (LEXIC) S",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 1098.489990234375,
-    "sale_rate": 1220.0,
+    "purchase_rate": 1263.25,
+    "sale_rate": 1390.0,
     "hsn_code": "853610",
     "unit": "Nos"
   },
@@ -87098,8 +87106,8 @@
   {
     "item_name": "LEX 20A 4P MCB (LEXIC) S",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 1297.760009765625,
-    "sale_rate": 1450.0,
+    "purchase_rate": 1716.0899658203125,
+    "sale_rate": 1900.0,
     "hsn_code": "853610",
     "unit": "Nos"
   },
@@ -95850,8 +95858,8 @@
   {
     "item_name": "MR 6A 1WAY SWITCH (MYRIUS)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 57.0,
-    "sale_rate": 61.0,
+    "purchase_rate": 68.55000305175781,
+    "sale_rate": 76.0,
     "hsn_code": "85365020",
     "unit": "Nos"
   },
@@ -101891,7 +101899,7 @@
     "item_name": "MY FOOT LAMP",
     "group_name": "ELECTRICALS",
     "purchase_rate": 283.7200012207031,
-    "sale_rate": 312.09,
+    "sale_rate": 320.0,
     "hsn_code": "8536",
     "unit": "Nos"
   },
@@ -119594,7 +119602,7 @@
   {
     "item_name": "PRIYA CEMENT 50KG",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 300.0,
+    "purchase_rate": 310.0,
     "sale_rate": 0.0,
     "hsn_code": "2523",
     "unit": "Bags"
@@ -138746,7 +138754,7 @@
   {
     "item_name": "SP 50 ML SOLUTION",
     "group_name": "PLUMBING",
-    "purchase_rate": 13.130000114440918,
+    "purchase_rate": 13.390000343322754,
     "sale_rate": 20.0,
     "hsn_code": "35061000",
     "unit": "Nos"
@@ -139194,7 +139202,7 @@
   {
     "item_name": "SP DE 14 X 15 SPANER (TAPARIA) DOUBLE END",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 31.219999313354492,
+    "purchase_rate": 30.719999313354492,
     "sale_rate": 50.0,
     "hsn_code": "82041110",
     "unit": "Nos"
@@ -162306,7 +162314,7 @@
   {
     "item_name": "UPVC 1 1/2\" UNION (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 149.10000610351562,
+    "purchase_rate": 154.8300018310547,
     "sale_rate": 170.0,
     "hsn_code": "39172390",
     "unit": "Nos"
@@ -162778,8 +162786,8 @@
   {
     "item_name": "UPVC 1\" FTA PLASTIC (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 22.079999923706055,
-    "sale_rate": 25.0,
+    "purchase_rate": 22.93000030517578,
+    "sale_rate": 27.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -169144,6 +169152,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "VERNIER 6\" DIGITAL (ACCUPLUS)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 1982.989990234375,
+    "sale_rate": 2350.0,
+    "hsn_code": "90173010",
+    "unit": "Nos"
+  },
+  {
     "item_name": "VERNIER 6\" DIGITAL (AERO SPACE)",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 865.239990234375,
@@ -174522,7 +174538,7 @@
   {
     "item_name": "WE ROD 7018 (ADOR) 10KG(4 PKT-1 CASE)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 896.7999877929688,
+    "purchase_rate": 755.2000122070312,
     "sale_rate": 1020.0,
     "hsn_code": "83111000",
     "unit": "Nos"
@@ -174562,7 +174578,7 @@
   {
     "item_name": "WE ROD 7018 (ADOR) 8KG(4 PKT-1 CASE)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 896.7999877929688,
+    "purchase_rate": 755.2000122070312,
     "sale_rate": 1000.0,
     "hsn_code": "83111000",
     "unit": "Pocket"
