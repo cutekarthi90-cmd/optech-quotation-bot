@@ -5842,8 +5842,8 @@
   {
     "item_name": "AS 20LT ALUMINIUM PAINT (NRML) 0261+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 6117.35595703125,
-    "sale_rate": 6650.0,
+    "purchase_rate": 6334.47607421875,
+    "sale_rate": 6885.0,
     "hsn_code": "32089090",
     "unit": "Nos"
   },
@@ -13818,8 +13818,8 @@
   {
     "item_name": "AS RS 500ML SMK.GREY (GLSY-ENAMEL)-ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 141.25,
-    "sale_rate": 150.0,
+    "purchase_rate": 156.94000244140625,
+    "sale_rate": 165.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -58066,9 +58066,9 @@
   {
     "item_name": "FAN BUSH EXTRA HVY",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 26.0,
-    "sale_rate": 42.0,
-    "hsn_code": "",
+    "purchase_rate": 29.989999771118164,
+    "sale_rate": 45.0,
+    "hsn_code": "84149090",
     "unit": "Nos"
   },
   {
@@ -86115,7 +86115,7 @@
     "item_name": "LE ANGLE CORK (NRML)",
     "group_name": "PLUMBING",
     "purchase_rate": 95.41000366210938,
-    "sale_rate": 125.0,
+    "sale_rate": 130.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -114460,7 +114460,7 @@
     "group_name": "ELECTRICALS",
     "purchase_rate": 1285.02001953125,
     "sale_rate": 1600.0,
-    "hsn_code": "8536",
+    "hsn_code": "85362030",
     "unit": "Nos"
   },
   {
@@ -145746,7 +145746,7 @@
   {
     "item_name": "STEEL ROPE 8MM",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 59.0,
+    "purchase_rate": 62.540000915527344,
     "sale_rate": 85.0,
     "hsn_code": "73121010",
     "unit": "Meter"
@@ -170034,8 +170034,8 @@
   {
     "item_name": "VP 16 X 2B PULLEY",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1875.6099853515625,
-    "sale_rate": 2050.0,
+    "purchase_rate": 2492.159912109375,
+    "sale_rate": 2750.0,
     "hsn_code": "84835090",
     "unit": "Nos"
   },
@@ -170210,8 +170210,8 @@
   {
     "item_name": "VP 3 X 2B PULLEY (SOLID)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 305.4100036621094,
-    "sale_rate": 450.0,
+    "purchase_rate": 392.94000244140625,
+    "sale_rate": 470.0,
     "hsn_code": "84835090",
     "unit": "Nos"
   },
@@ -170338,8 +170338,8 @@
   {
     "item_name": "VP 4 X 2B PULLEY (SOLID)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 499.9800109863281,
-    "sale_rate": 600.0,
+    "purchase_rate": 523.9199829101562,
+    "sale_rate": 620.0,
     "hsn_code": "84835090",
     "unit": "Nos"
   },
@@ -170354,8 +170354,8 @@
   {
     "item_name": "VP 4 X 3 B   PULLEY SOLID",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 707.7100219726562,
-    "sale_rate": 990.0,
+    "purchase_rate": 1062.0,
+    "sale_rate": 1200.0,
     "hsn_code": "84835090",
     "unit": "Nos"
   },
@@ -174768,6 +174768,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "WE SHIELD (ARC FLOW)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 247.0,
+    "sale_rate": 290.0,
+    "hsn_code": "65061010",
+    "unit": "Nos"
+  },
+  {
     "item_name": "WE SHIELD (AUTO DARK)",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 949.989990234375,
@@ -176090,8 +176098,8 @@
   {
     "item_name": "WI BUSH (1\" X 3/4\")",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 1.2000000476837158,
-    "sale_rate": 2.99,
+    "purchase_rate": 2.369999885559082,
+    "sale_rate": 3.5,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
