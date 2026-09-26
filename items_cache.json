@@ -169370,15 +169370,15 @@
   {
     "item_name": "VI 1 1/2\" 15KG PVC PIPE (VIJAY)",
     "group_name": "PLUMBING",
-    "purchase_rate": 531.239990234375,
-    "sale_rate": 585.0,
+    "purchase_rate": 524.989990234375,
+    "sale_rate": 580.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
   {
     "item_name": "VI 1 1/2\" 6KG PVC PIPE (VIJAY)",
     "group_name": "PLUMBING",
-    "purchase_rate": 277.0899963378906,
+    "purchase_rate": 273.8299865722656,
     "sale_rate": 305.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
@@ -169458,8 +169458,8 @@
   {
     "item_name": "VI 2\" 4KG PVC PIPE (VIJAY)",
     "group_name": "PLUMBING",
-    "purchase_rate": 273.75,
-    "sale_rate": 302.0,
+    "purchase_rate": 315.0,
+    "sale_rate": 346.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
@@ -169522,8 +169522,8 @@
   {
     "item_name": "VI 4\" 6KG PVC PIPE (VIJAY)",
     "group_name": "PLUMBING",
-    "purchase_rate": 1025.8199462890625,
-    "sale_rate": 1128.0,
+    "purchase_rate": 1050.8299560546875,
+    "sale_rate": 1155.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
@@ -175970,7 +175970,7 @@
   {
     "item_name": "WI 3/4\" 1.5MM PIPE(VIJAY)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 39.75,
+    "purchase_rate": 39.290000915527344,
     "sale_rate": 44.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
