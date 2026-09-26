@@ -33408,6 +33408,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "CENTRING OIL - 20LT",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 1710.0,
+    "sale_rate": 1950.0,
+    "hsn_code": "38249090",
+    "unit": "Nos"
+  },
+  {
     "item_name": "CERA BITOPLAST 20KG",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 2900.0,
@@ -41722,8 +41730,8 @@
   {
     "item_name": "CRC (226) 500ML",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 413.0,
-    "sale_rate": 470.0,
+    "purchase_rate": 477.8999938964844,
+    "sale_rate": 525.0,
     "hsn_code": "34039900",
     "unit": "Nos"
   },
