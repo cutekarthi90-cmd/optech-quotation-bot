@@ -16514,7 +16514,7 @@
   {
     "item_name": "AST 1 1/2\" SHOE (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 25.520000457763672,
+    "purchase_rate": 27.75,
     "sale_rate": 35.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -16522,7 +16522,7 @@
   {
     "item_name": "AST 1 1/2\" TEE (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 41.25,
+    "purchase_rate": 41.2400016784668,
     "sale_rate": 50.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -23938,7 +23938,7 @@
   {
     "item_name": "BL 8\" MARBLE CUTTER (JB)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 301.989990234375,
+    "purchase_rate": 320.0,
     "sale_rate": 390.0,
     "hsn_code": "82023100",
     "unit": "Nos"
@@ -62122,7 +62122,7 @@
   {
     "item_name": "FL 5\" X 36 GRIT FLAP DISC (BULLET)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 50.290000915527344,
+    "purchase_rate": 45.5,
     "sale_rate": 80.0,
     "hsn_code": "68051010",
     "unit": "Nos"
@@ -62930,7 +62930,7 @@
   {
     "item_name": "FLOWER CUTTER 8.5\"JB (HEAVY DUTY)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 211.0,
+    "purchase_rate": 194.0,
     "sale_rate": 330.0,
     "hsn_code": "82015000",
     "unit": "Nos"
@@ -81946,7 +81946,7 @@
   {
     "item_name": "KAMBI BRUSH (JB) 2IN 1",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 112.66999816894531,
+    "purchase_rate": 95.0,
     "sale_rate": 140.0,
     "hsn_code": "96035000",
     "unit": "Nos"
@@ -91090,8 +91090,8 @@
   {
     "item_name": "MA 4\" MARBLE CUTTER  DONGCHENG 3-110  DZE03",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 3010.64990234375,
-    "sale_rate": 3300.0,
+    "purchase_rate": 3049.9599609375,
+    "sale_rate": 3360.0,
     "hsn_code": "84678100",
     "unit": "Nos"
   },
@@ -91242,7 +91242,7 @@
   {
     "item_name": "MA 5\" MARBLE CUTTER (STANLEY)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 3499.989990234375,
+    "purchase_rate": 3450.0,
     "sale_rate": 4000.0,
     "hsn_code": "84615019",
     "unit": "Nos"
@@ -138597,6 +138597,14 @@
     "purchase_rate": 405.8900146484375,
     "sale_rate": 480.0,
     "hsn_code": "8204",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "SP 36MM IMPACT DEEP SOCKET 3/4\" KINGTONY",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 424.2799987792969,
+    "sale_rate": 520.0,
+    "hsn_code": "82042000",
     "unit": "Nos"
   },
   {
