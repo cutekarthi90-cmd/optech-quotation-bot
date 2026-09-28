@@ -42106,8 +42106,8 @@
   {
     "item_name": "CRI 4 SQMM FLEX WIRE (90MTR-COIL)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 6210.41015625,
-    "sale_rate": 6525.0,
+    "purchase_rate": 6588.60986328125,
+    "sale_rate": 6930.0,
     "hsn_code": "85442010",
     "unit": "COIL"
   },
@@ -66898,7 +66898,7 @@
   {
     "item_name": "GI 1 X 1/2\" REDUCER",
     "group_name": "PLUMBING",
-    "purchase_rate": 30.639999389648438,
+    "purchase_rate": 32.5,
     "sale_rate": 45.0,
     "hsn_code": "73072200",
     "unit": "Nos"
@@ -67618,7 +67618,7 @@
   {
     "item_name": "GI 3/4\" H.NIPPLE",
     "group_name": "PLUMBING",
-    "purchase_rate": 26.389999389648438,
+    "purchase_rate": 27.959999084472656,
     "sale_rate": 35.0,
     "hsn_code": "73063090",
     "unit": "Nos"
@@ -74994,8 +74994,8 @@
   {
     "item_name": "HIFI 6A 1WAY SWITCH",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 17.5,
-    "sale_rate": 22.0,
+    "purchase_rate": 20.0,
+    "sale_rate": 25.0,
     "hsn_code": "85365020",
     "unit": "Nos"
   },
@@ -75162,8 +75162,8 @@
   {
     "item_name": "HIFI DUMMY",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 10.079999923706055,
-    "sale_rate": 14.0,
+    "purchase_rate": 11.510000228881836,
+    "sale_rate": 15.0,
     "hsn_code": "85389000",
     "unit": "Nos"
   },
@@ -75242,7 +75242,7 @@
   {
     "item_name": "HIFI REQULATER 1M (SWICH TYPE)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 204.47999572753906,
+    "purchase_rate": 191.6999969482422,
     "sale_rate": 240.0,
     "hsn_code": "84149030",
     "unit": "Nos"
@@ -86634,8 +86634,8 @@
   {
     "item_name": "LEG 12M METAL BOX (LEGRAND) S",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 260.5400085449219,
-    "sale_rate": 300.0,
+    "purchase_rate": 285.17999267578125,
+    "sale_rate": 330.0,
     "hsn_code": "85389000",
     "unit": "Nos"
   },
@@ -86786,7 +86786,7 @@
   {
     "item_name": "LEG 4M METAL BOX (LEGRAND) S",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 101.33000183105469,
+    "purchase_rate": 103.12999725341797,
     "sale_rate": 120.0,
     "hsn_code": "85389000",
     "unit": "Nos"
@@ -87306,8 +87306,8 @@
   {
     "item_name": "LEX 63A 30MA 4P RCCB (LEXIC) S",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 3385.68994140625,
-    "sale_rate": 3800.0,
+    "purchase_rate": 4130.759765625,
+    "sale_rate": 4890.0,
     "hsn_code": "85369090",
     "unit": "Nos"
   },
@@ -118418,7 +118418,7 @@
   {
     "item_name": "PR 3/4\" X 1/2\" BRASS FTA (PRINCE)",
     "group_name": "PLUMBING",
-    "purchase_rate": 48.06999969482422,
+    "purchase_rate": 48.400001525878906,
     "sale_rate": 65.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -127242,7 +127242,7 @@
   {
     "item_name": "RR 0.5 LED",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 24.0,
+    "purchase_rate": 25.0,
     "sale_rate": 40.0,
     "hsn_code": "94054090",
     "unit": "Nos"
@@ -164538,7 +164538,7 @@
   {
     "item_name": "UPVC 4\" SHOE",
     "group_name": "PLUMBING",
-    "purchase_rate": 336.5950012207031,
+    "purchase_rate": 296.989990234375,
     "sale_rate": 400.0,
     "hsn_code": "39172390",
     "unit": "Nos"
