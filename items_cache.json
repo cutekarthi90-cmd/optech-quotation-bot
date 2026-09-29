@@ -29603,7 +29603,7 @@
     "item_name": "BR EN 20LT WHITE (GLSY-ENAMEL) BERGER-BUTTERFLY",
     "group_name": "PAINTS",
     "purchase_rate": 3571.330078125,
-    "sale_rate": 3930.0,
+    "sale_rate": 4300.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -36866,7 +36866,7 @@
   {
     "item_name": "CO 2\" LONG COUPLER (FINOLEX-LW)",
     "group_name": "PLUMBING",
-    "purchase_rate": 35.0,
+    "purchase_rate": 38.939998626708984,
     "sale_rate": 60.0,
     "hsn_code": "39172390",
     "unit": "Nos"
@@ -67170,7 +67170,7 @@
   {
     "item_name": "GI 16KG GI WIRE",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 93.0,
+    "purchase_rate": 96.0,
     "sale_rate": 110.0,
     "hsn_code": "72172010",
     "unit": "Kg"
@@ -67178,8 +67178,8 @@
   {
     "item_name": "GI 16KG GI WIRE (ROLL)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 93.98999786376953,
-    "sale_rate": 106.0,
+    "purchase_rate": 96.0,
+    "sale_rate": 110.0,
     "hsn_code": "72172010",
     "unit": "Kg"
   },
@@ -67386,7 +67386,7 @@
   {
     "item_name": "GI 20KG GI WIRE",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 100.0,
+    "purchase_rate": 104.98999786376953,
     "sale_rate": 130.0,
     "hsn_code": "72172010",
     "unit": "Kg"
@@ -67394,8 +67394,8 @@
   {
     "item_name": "GI 20KG GI WIRE (ROLL)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 100.0,
-    "sale_rate": 120.0,
+    "purchase_rate": 104.98999786376953,
+    "sale_rate": 130.0,
     "hsn_code": "721720",
     "unit": "Kg"
   },
@@ -72186,7 +72186,7 @@
   {
     "item_name": "HA .5W LED",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 24.0,
+    "purchase_rate": 25.0,
     "sale_rate": 40.0,
     "hsn_code": "94054090",
     "unit": "Nos"
@@ -86938,8 +86938,8 @@
   {
     "item_name": "LEG DB 63A 6WAY FULL SET (LEGRAND)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 9299.0,
-    "sale_rate": 10230.0,
+    "purchase_rate": 13513.990234375,
+    "sale_rate": 14870.0,
     "hsn_code": "85371000",
     "unit": "Nos"
   },
@@ -106874,7 +106874,7 @@
   {
     "item_name": "NU 16MM CF NUT(GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 130.97999572753906,
+    "purchase_rate": 133.33999633789062,
     "sale_rate": 145.0,
     "hsn_code": "73181600",
     "unit": "Kg"
@@ -106906,8 +106906,8 @@
   {
     "item_name": "NU 24MM DF NUT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 147.5,
-    "sale_rate": 160.0,
+    "purchase_rate": 151.0399932861328,
+    "sale_rate": 165.0,
     "hsn_code": "73181600",
     "unit": "Kg"
   },
@@ -129802,16 +129802,16 @@
   {
     "item_name": "SC 10 X 20 PATTA",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1.600000023841858,
-    "sale_rate": 2.0,
+    "purchase_rate": 1.649999976158142,
+    "sale_rate": 2.1,
     "hsn_code": "73181500",
     "unit": "Nos"
   },
   {
     "item_name": "SC 10 X 20 PATTA (BOX-1000PS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1500.0,
-    "sale_rate": 1800.0,
+    "purchase_rate": 1650.0,
+    "sale_rate": 1850.0,
     "hsn_code": "73181500",
     "unit": "Box"
   },
@@ -131770,7 +131770,7 @@
   {
     "item_name": "SC 50 X 6 STAR SCREW",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 0.6700000166893005,
+    "purchase_rate": 0.5299999713897705,
     "sale_rate": 2.0,
     "hsn_code": "73181500",
     "unit": "Nos"
@@ -140794,7 +140794,7 @@
   {
     "item_name": "SPONGE BUNDLE (BLACK-18PS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 264.32000732421875,
+    "purchase_rate": 270.2200012207031,
     "sale_rate": 340.0,
     "hsn_code": "39211310",
     "unit": "Bundle"
@@ -140810,7 +140810,7 @@
   {
     "item_name": "SPONGE BUNDLE (WHITE-18PS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 220.66000366210938,
+    "purchase_rate": 219.47999572753906,
     "sale_rate": 260.0,
     "hsn_code": "39211310",
     "unit": "Bundle"
