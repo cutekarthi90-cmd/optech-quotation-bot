@@ -6747,7 +6747,7 @@
     "item_name": "AS ACE 10LT WHITE (ASIAN) ADVANCED",
     "group_name": "PAINTS",
     "purchase_rate": 1772.301025390625,
-    "sale_rate": 1865.0,
+    "sale_rate": 2100.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -38978,7 +38978,7 @@
   {
     "item_name": "COTTER 16MM",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 74.48999786376953,
+    "purchase_rate": 81.30999755859375,
     "sale_rate": 120.0,
     "hsn_code": "73182400",
     "unit": "Nos"
@@ -44130,8 +44130,8 @@
   {
     "item_name": "DIESEL PUMP (RMI-R-201) PRIMA",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1265.18994140625,
-    "sale_rate": 1450.0,
+    "purchase_rate": 1350.1500244140625,
+    "sale_rate": 1590.0,
     "hsn_code": "84139190",
     "unit": "Nos"
   },
@@ -62194,7 +62194,7 @@
   {
     "item_name": "FL 80NO FLAP DISC (BULLET)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 28.59000015258789,
+    "purchase_rate": 27.15999984741211,
     "sale_rate": 34.0,
     "hsn_code": "68051010",
     "unit": "Nos"
@@ -63684,6 +63684,14 @@
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 1406.9189453125,
     "sale_rate": 1620.0,
+    "hsn_code": "38244090",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "FOSROC NITOBOND EP BONDING 1LTR",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 1393.9000244140625,
+    "sale_rate": 1470.0,
     "hsn_code": "38244090",
     "unit": "Nos"
   },
@@ -65524,7 +65532,7 @@
     "group_name": "PLUMBING",
     "purchase_rate": 2125.02001953125,
     "sale_rate": 2400.0,
-    "hsn_code": "8481",
+    "hsn_code": "84818020",
     "unit": "Nos"
   },
   {
@@ -74048,6 +74056,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "HDPE CONN 1\" (SS)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 109.33999633789062,
+    "sale_rate": 130.0,
+    "hsn_code": "73079910",
+    "unit": "Nos"
+  },
+  {
     "item_name": "HDPE CONN 1/2\"",
     "group_name": "PLUMBING",
     "purchase_rate": 22.72599983215332,
@@ -74064,10 +74080,26 @@
     "unit": "Nos"
   },
   {
+    "item_name": "HDPE CONN 2 1/2\" (SS)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 347.19000244140625,
+    "sale_rate": 410.0,
+    "hsn_code": "73079910",
+    "unit": "Nos"
+  },
+  {
     "item_name": "HDPE CONN 2\"",
     "group_name": "PLUMBING",
     "purchase_rate": 80.22000122070312,
     "sale_rate": 120.0,
+    "hsn_code": "73079910",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "HDPE CONN 2\" (SS)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 244.94000244140625,
+    "sale_rate": 310.0,
     "hsn_code": "73079910",
     "unit": "Nos"
   },
@@ -74098,7 +74130,7 @@
   {
     "item_name": "HDPE CONNECTOR 1 1/4\" (SS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 119.2699966430664,
+    "purchase_rate": 137.7429962158203,
     "sale_rate": 250.0,
     "hsn_code": "73079910",
     "unit": "Nos"
@@ -80258,7 +80290,7 @@
   {
     "item_name": "JB KAMBI BRUSH (3\"-TWISTED)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 80.98999786376953,
+    "purchase_rate": 84.11000061035156,
     "sale_rate": 120.0,
     "hsn_code": "96035000",
     "unit": "Nos"
@@ -86938,7 +86970,7 @@
   {
     "item_name": "LEG DB 63A 6WAY FULL SET (LEGRAND)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 13513.990234375,
+    "purchase_rate": 11452.5400390625,
     "sale_rate": 14870.0,
     "hsn_code": "85371000",
     "unit": "Nos"
@@ -93074,8 +93106,8 @@
   {
     "item_name": "MAG 20MM MAGNETIC DRILL BIT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1776.199951171875,
-    "sale_rate": 2200.0,
+    "purchase_rate": 1953.18994140625,
+    "sale_rate": 2300.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -137506,7 +137538,7 @@
   {
     "item_name": "SP 11MM BOX SPANNER (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 51.290000915527344,
+    "purchase_rate": 53.400001525878906,
     "sale_rate": 65.0,
     "hsn_code": "82041110",
     "unit": "Nos"
@@ -137562,7 +137594,7 @@
   {
     "item_name": "SP 12MM BOX SPANNER (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 52.779998779296875,
+    "purchase_rate": 54.869998931884766,
     "sale_rate": 70.0,
     "hsn_code": "82042000",
     "unit": "Nos"
@@ -137730,7 +137762,7 @@
   {
     "item_name": "SP 15MM BOX SPANNER (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 53.0,
+    "purchase_rate": 54.869998931884766,
     "sale_rate": 75.0,
     "hsn_code": "82042000",
     "unit": "Nos"
@@ -142930,8 +142962,8 @@
   {
     "item_name": "SS 63MM HOLESAW (BULLET)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 553.7999877929688,
-    "sale_rate": 680.0,
+    "purchase_rate": 647.739990234375,
+    "sale_rate": 750.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -156512,6 +156544,22 @@
     "unit": "Nos"
   },
   {
+    "item_name": "TW 4\" X 2\" TRAWLEY WHEEL ROTATABLE BEST NYLON",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 500.80999755859375,
+    "sale_rate": 590.0,
+    "hsn_code": "83022000",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "TW 4\" X 2\" TRAWLEY WHEEL WITH BRAKE NYLON",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 695.5700073242188,
+    "sale_rate": 790.0,
+    "hsn_code": "83022000",
+    "unit": "Nos"
+  },
+  {
     "item_name": "TW 5\" TRALLEY WHEEL (STRAIGHT) RUBBER IV31",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 415.95001220703125,
@@ -164242,8 +164290,8 @@
   {
     "item_name": "UPVC 3/4\" ELBOW (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 12.880000114440918,
-    "sale_rate": 15.0,
+    "purchase_rate": 13.380000114440918,
+    "sale_rate": 16.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -164896,10 +164944,10 @@
     "unit": "Nos"
   },
   {
-    "item_name": "UPVC PASTE 500ML ASTRAL",
+    "item_name": "UPVC PASTE 500ML",
     "group_name": "PLUMBING",
-    "purchase_rate": 365.6499938964844,
-    "sale_rate": 430.0,
+    "purchase_rate": 419.01800537109375,
+    "sale_rate": 480.0,
     "hsn_code": "35069999",
     "unit": "Nos"
   },
