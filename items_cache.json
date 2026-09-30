@@ -16690,7 +16690,7 @@
   {
     "item_name": "AST 1\" ELBOW-HVY (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 12.369999885559082,
+    "purchase_rate": 12.699999809265137,
     "sale_rate": 20.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -16722,7 +16722,7 @@
   {
     "item_name": "AST 1\" TEE (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 17.25,
+    "purchase_rate": 17.700000762939453,
     "sale_rate": 25.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -16946,7 +16946,7 @@
   {
     "item_name": "AST 2 1/2\" ELBOW (HVY) ASTRAL",
     "group_name": "PLUMBING",
-    "purchase_rate": 61.7599983215332,
+    "purchase_rate": 66.98999786376953,
     "sale_rate": 75.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -16970,7 +16970,7 @@
   {
     "item_name": "AST 2 1/2\" NAHANI TRAP (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 132.77000427246094,
+    "purchase_rate": 127.9800033569336,
     "sale_rate": 180.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -17714,8 +17714,8 @@
   {
     "item_name": "AST 4\" ELBOW (HVY) ASTRAL",
     "group_name": "PLUMBING",
-    "purchase_rate": 159.0,
-    "sale_rate": 175.0,
+    "purchase_rate": 163.24000549316406,
+    "sale_rate": 180.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -17938,7 +17938,7 @@
   {
     "item_name": "AST 5\" ELBOW (HVY) ASTRAL",
     "group_name": "PLUMBING",
-    "purchase_rate": 317.25,
+    "purchase_rate": 325.70001220703125,
     "sale_rate": 380.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -36074,7 +36074,7 @@
   {
     "item_name": "CL 12\" STEP CLAMP-GU",
     "group_name": "PLUMBING",
-    "purchase_rate": 49.499000549316406,
+    "purchase_rate": 54.9900016784668,
     "sale_rate": 70.0,
     "hsn_code": "73079990",
     "unit": "Nos"
@@ -49570,7 +49570,7 @@
   {
     "item_name": "DRILL CHUCK (JB-13MM)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 130.0,
+    "purchase_rate": 119.98999786376953,
     "sale_rate": 190.0,
     "hsn_code": "82078000",
     "unit": "Nos"
@@ -61506,8 +61506,8 @@
   {
     "item_name": "FINOLEX CAT 6 CABLE",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 13166.0,
-    "sale_rate": 14490.0,
+    "purchase_rate": 13311.0,
+    "sale_rate": 14645.0,
     "hsn_code": "85444992",
     "unit": "Drum"
   },
@@ -83314,16 +83314,16 @@
   {
     "item_name": "KU 4SQ X 4CORE ROUND CABLE (KUNDAN) 100MTR-ROLL",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 28682.490234375,
-    "sale_rate": 30150.0,
+    "purchase_rate": 30470.900390625,
+    "sale_rate": 31995.0,
     "hsn_code": "85446020",
     "unit": "Roll"
   },
   {
     "item_name": "KU 4SQ X 4CORE ROUND CABLE (KUNDAN) MTR",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 286.82000732421875,
-    "sale_rate": 316.0,
+    "purchase_rate": 304.70001220703125,
+    "sale_rate": 335.0,
     "hsn_code": "85446020",
     "unit": "Meter"
   },
@@ -94866,8 +94866,8 @@
   {
     "item_name": "MILK CAN 5LTR",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 195.0,
-    "sale_rate": 240.0,
+    "purchase_rate": 248.0,
+    "sale_rate": 280.0,
     "hsn_code": "39231090",
     "unit": "Nos"
   },
@@ -102770,7 +102770,7 @@
   {
     "item_name": "NA 2 1/2\" X 10 NAIL +",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 72.0,
+    "purchase_rate": 72.98999786376953,
     "sale_rate": 80.0,
     "hsn_code": "73170013",
     "unit": "Kg"
@@ -102850,7 +102850,7 @@
   {
     "item_name": "NA 3\" X 8 NAIL +",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 72.0,
+    "purchase_rate": 72.98999786376953,
     "sale_rate": 80.0,
     "hsn_code": "73170013",
     "unit": "Kg"
@@ -115522,8 +115522,8 @@
   {
     "item_name": "PP BALLVALVE 2\" FLANGE TYPE",
     "group_name": "PLUMBING",
-    "purchase_rate": 1150.5,
-    "sale_rate": 1290.0,
+    "purchase_rate": 1239.0,
+    "sale_rate": 1370.0,
     "hsn_code": "84818010",
     "unit": "Nos"
   },
@@ -121522,8 +121522,8 @@
   {
     "item_name": "PW SPARE SEATCOVER HINGES E7470",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 55.2400016784668,
-    "sale_rate": 80.0,
+    "purchase_rate": 76.48999786376953,
+    "sale_rate": 100.0,
     "hsn_code": "39229000",
     "unit": "Nos"
   },
@@ -138042,8 +138042,8 @@
   {
     "item_name": "SP 200 ML SOLUTION",
     "group_name": "PLUMBING",
-    "purchase_rate": 28.40999984741211,
-    "sale_rate": 50.0,
+    "purchase_rate": 48.97999954223633,
+    "sale_rate": 60.0,
     "hsn_code": "35069999",
     "unit": "Nos"
   },
@@ -138266,7 +138266,7 @@
   {
     "item_name": "SP 25 ML SOLUTION",
     "group_name": "PLUMBING",
-    "purchase_rate": 6.914000034332275,
+    "purchase_rate": 7.670000076293945,
     "sale_rate": 10.0,
     "hsn_code": "35069999",
     "unit": "Nos"
@@ -163418,8 +163418,8 @@
   {
     "item_name": "UPVC 2 1/2\" ELBOW (PRINCE)",
     "group_name": "PLUMBING",
-    "purchase_rate": 111.98999786376953,
-    "sale_rate": 200.0,
+    "purchase_rate": 81.98999786376953,
+    "sale_rate": 140.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -163931,7 +163931,7 @@
     "item_name": "UPVC 21/2\" ELBOW (ASTRAL)",
     "group_name": "PLUMBING",
     "purchase_rate": 143.5399932861328,
-    "sale_rate": 158.0,
+    "sale_rate": 165.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -164546,7 +164546,7 @@
   {
     "item_name": "UPVC 4 X 3 R BUSH (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 190.0,
+    "purchase_rate": 179.0,
     "sale_rate": 210.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -169650,8 +169650,8 @@
   {
     "item_name": "VI 4\" 4KG PVC PIPE (VIJAY)",
     "group_name": "PLUMBING",
-    "purchase_rate": 803.25,
-    "sale_rate": 885.0,
+    "purchase_rate": 793.7999877929688,
+    "sale_rate": 875.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
@@ -176426,7 +176426,7 @@
   {
     "item_name": "WI JUNC 1\" 4 WAY CONC",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 12.0,
+    "purchase_rate": 13.859999656677246,
     "sale_rate": 15.0,
     "hsn_code": "39174000",
     "unit": "Nos"
