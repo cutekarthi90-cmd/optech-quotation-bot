@@ -410,7 +410,7 @@
   {
     "item_name": "2\" NRV FLANGE DISC",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 692.0700073242188,
+    "purchase_rate": 633.6599731445312,
     "sale_rate": 1100.0,
     "hsn_code": "84813000",
     "unit": "Nos"
@@ -109912,6 +109912,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "PI 10\" PIPE CLIP",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 62.29999923706055,
+    "sale_rate": 75.0,
+    "hsn_code": "73079990",
+    "unit": "Nos"
+  },
+  {
     "item_name": "PI 11/2 PIPE CLAMP (SS)",
     "group_name": "PLUMBING",
     "purchase_rate": 10.640000343322754,
@@ -110381,6 +110389,14 @@
     "purchase_rate": 20.59000015258789,
     "sale_rate": 50.0,
     "hsn_code": "73079910",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "PI 8\" PIPE CLIP",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 56.167999267578125,
+    "sale_rate": 70.0,
+    "hsn_code": "73079990",
     "unit": "Nos"
   },
   {
