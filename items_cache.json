@@ -25002,7 +25002,7 @@
   {
     "item_name": "BO 2 1/2 X 3/8 BOLT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 104.01000213623047,
+    "purchase_rate": 108.01000213623047,
     "sale_rate": 130.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -25066,8 +25066,8 @@
   {
     "item_name": "BO 2 X 1/2 BOLT (CIPL)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 116.01000213623047,
-    "sale_rate": 130.0,
+    "purchase_rate": 119.98999786376953,
+    "sale_rate": 135.0,
     "hsn_code": "73181500",
     "unit": "Kg"
   },
@@ -25154,7 +25154,7 @@
   {
     "item_name": "BO 2 X 5/8TH BOLT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 118.0,
+    "purchase_rate": 119.98999786376953,
     "sale_rate": 135.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -25842,7 +25842,7 @@
   {
     "item_name": "Bo 6 X3/4 Bolt",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 110.0,
+    "purchase_rate": 113.0,
     "sale_rate": 130.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -79562,7 +79562,7 @@
   {
     "item_name": "JA 8MM TEE (JANATICS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 70.80000305175781,
+    "purchase_rate": 75.5199966430664,
     "sale_rate": 85.0,
     "hsn_code": "84879000",
     "unit": "Nos"
@@ -131970,8 +131970,8 @@
   {
     "item_name": "SC 5MM X 40MM (BOLT) GI",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 0.9700000286102295,
-    "sale_rate": 1.8,
+    "purchase_rate": 1.4160000085830688,
+    "sale_rate": 2.0,
     "hsn_code": "73181500",
     "unit": "Nos"
   },
@@ -143602,7 +143602,7 @@
   {
     "item_name": "SS BO 16 X 50MM (BOLT)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 47.31999969482422,
+    "purchase_rate": 47.66999816894531,
     "sale_rate": 60.0,
     "hsn_code": "73181500",
     "unit": "Nos"
@@ -152098,9 +152098,9 @@
   {
     "item_name": "THIMS WITH HANDLE",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 124.0,
+    "purchase_rate": 127.98999786376953,
     "sale_rate": 150.0,
-    "hsn_code": "",
+    "hsn_code": "73259999",
     "unit": "Kg"
   },
   {
@@ -154314,7 +154314,7 @@
   {
     "item_name": "TVS 10MM X 40MM BOLT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 7.789999961853027,
+    "purchase_rate": 8.279999732971191,
     "sale_rate": 13.0,
     "hsn_code": "73181500",
     "unit": "Nos"
@@ -164258,7 +164258,7 @@
   {
     "item_name": "UPVC 3\"X11/2\" R.BUSH (PRINCE)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 82.5,
+    "purchase_rate": 89.98999786376953,
     "sale_rate": 125.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -164546,8 +164546,8 @@
   {
     "item_name": "UPVC 4 X 3 R BUSH (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 179.0,
-    "sale_rate": 210.0,
+    "purchase_rate": 209.99000549316406,
+    "sale_rate": 240.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -164698,7 +164698,7 @@
   {
     "item_name": "UPVC 4\" X 2\" RBUSH (PRINC)",
     "group_name": "PLUMBING",
-    "purchase_rate": 217.60000610351562,
+    "purchase_rate": 192.0,
     "sale_rate": 270.0,
     "hsn_code": "39172390",
     "unit": "Nos"
@@ -171466,7 +171466,7 @@
   {
     "item_name": "WA 3/4\" WASER (MS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 104.01000213623047,
+    "purchase_rate": 108.01000213623047,
     "sale_rate": 130.0,
     "hsn_code": "73182100",
     "unit": "Kg"
@@ -171570,8 +171570,8 @@
   {
     "item_name": "WA 5/8\" WASER (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 114.0,
-    "sale_rate": 130.0,
+    "purchase_rate": 116.01000213623047,
+    "sale_rate": 135.0,
     "hsn_code": "73182100",
     "unit": "Kg"
   },
