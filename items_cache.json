@@ -480,6 +480,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "21/2\" NRV FLANGE DISC",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 791.780029296875,
+    "sale_rate": 950.0,
+    "hsn_code": "84813000",
+    "unit": "Nos"
+  },
+  {
     "item_name": "21/2\" NRV VALVE (CRI)",
     "group_name": "PLUMBING",
     "purchase_rate": 1104.050048828125,
@@ -58048,6 +58056,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "FALL CEELING GI CHANNEL 2.5MTR",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 259.6000061035156,
+    "sale_rate": 330.0,
+    "hsn_code": "76109030",
+    "unit": "LENGTH"
+  },
+  {
     "item_name": "FAN BOLT (CAUGHTER PIN WITH BOLT)",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 3.5,
@@ -113454,6 +113470,14 @@
     "sale_rate": 30.0,
     "hsn_code": "39173290",
     "unit": "Meter"
+  },
+  {
+    "item_name": "PN 6MM MALE ELBOW (5MM THREAD)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 28.3700008392334,
+    "sale_rate": 50.0,
+    "hsn_code": "84799090",
+    "unit": "Nos"
   },
   {
     "item_name": "PN 6MM SPIRAL (10MTR)",
