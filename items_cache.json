@@ -63093,7 +63093,15 @@
     "purchase_rate": 286.739990234375,
     "sale_rate": 320.0,
     "hsn_code": "39173100",
-    "unit": "Nos"
+    "unit": "Meter"
+  },
+  {
+    "item_name": "FOOD GRADE HOSE 1 1/4\"",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 200.60000610351562,
+    "sale_rate": 250.0,
+    "hsn_code": "39173100",
+    "unit": "Meter"
   },
   {
     "item_name": "FOOD GRADE HOSE 1\"",
@@ -140772,6 +140780,14 @@
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 263.3699951171875,
     "sale_rate": 380.0,
+    "hsn_code": "84841010",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "SPIRAL WOUND GASKET 4\"-300",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 302.19000244140625,
+    "sale_rate": 350.0,
     "hsn_code": "84841010",
     "unit": "Nos"
   },
