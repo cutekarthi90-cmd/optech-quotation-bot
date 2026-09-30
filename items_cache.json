@@ -6394,8 +6394,8 @@
   {
     "item_name": "AS AB18C-1LT APEX (ASIAN)+",
     "group_name": "PAINTS",
-    "purchase_rate": 359.84100341796875,
-    "sale_rate": 380.0,
+    "purchase_rate": 396.8340148925781,
+    "sale_rate": 420.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -6650,8 +6650,8 @@
   {
     "item_name": "AS AC2G-10LT ACE EML (ASIAN) K",
     "group_name": "PAINTS",
-    "purchase_rate": 1962.8709716796875,
-    "sale_rate": 2065.0,
+    "purchase_rate": 1996.5009765625,
+    "sale_rate": 2100.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -7210,8 +7210,8 @@
   {
     "item_name": "AS APEX 10LT WHITE (ASIAN) NRML",
     "group_name": "PAINTS",
-    "purchase_rate": 3213.906982421875,
-    "sale_rate": 3380.0,
+    "purchase_rate": 3281.1669921875,
+    "sale_rate": 3450.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -7234,8 +7234,8 @@
   {
     "item_name": "AS APEX 1LT WHITE (ASIAN) NRML+",
     "group_name": "PAINTS",
-    "purchase_rate": 332.93701171875,
-    "sale_rate": 350.0,
+    "purchase_rate": 349.75201416015625,
+    "sale_rate": 370.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
