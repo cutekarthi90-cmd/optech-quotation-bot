@@ -56250,8 +56250,8 @@
   {
     "item_name": "EPOXY THINNER 1LTR (ASIAN-141)",
     "group_name": "PAINTS",
-    "purchase_rate": 278.9989929199219,
-    "sale_rate": 305.0,
+    "purchase_rate": 295.2829895019531,
+    "sale_rate": 320.0,
     "hsn_code": "38140010",
     "unit": "Nos"
   },
@@ -97562,8 +97562,8 @@
   {
     "item_name": "MRF EN 1LT STEEL GREY (PU-GLSY-SPECTA)",
     "group_name": "PAINTS",
-    "purchase_rate": 310.94000244140625,
-    "sale_rate": 340.0,
+    "purchase_rate": 360.54998779296875,
+    "sale_rate": 400.0,
     "hsn_code": "32082090",
     "unit": "Nos"
   },
@@ -98065,6 +98065,14 @@
   },
   {
     "item_name": "MRF M2-1LT DUROTHANE-MATT (PU) HUES",
+    "group_name": "PAINTS",
+    "purchase_rate": 686.760009765625,
+    "sale_rate": 755.0,
+    "hsn_code": "32082090",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "MRF M3-1LT DUROTHANE-MATT (PU) HUES",
     "group_name": "PAINTS",
     "purchase_rate": 686.760009765625,
     "sale_rate": 755.0,
@@ -128058,8 +128066,8 @@
   {
     "item_name": "RU BLACK 1LT RUBBER PAINT-ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 433.15399169921875,
-    "sale_rate": 470.0,
+    "purchase_rate": 449.43798828125,
+    "sale_rate": 490.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
