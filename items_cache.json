@@ -106,8 +106,8 @@
   {
     "item_name": "1\" NRV (YASH) HORIZONTAL",
     "group_name": "PLUMBING",
-    "purchase_rate": 553.0800170898438,
-    "sale_rate": 610.0,
+    "purchase_rate": 631.1900024414062,
+    "sale_rate": 690.0,
     "hsn_code": "84818090",
     "unit": "Nos"
   },
@@ -482,8 +482,8 @@
   {
     "item_name": "21/2\" NRV FLANGE DISC",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 791.780029296875,
-    "sale_rate": 950.0,
+    "purchase_rate": 905.0,
+    "sale_rate": 970.0,
     "hsn_code": "84813000",
     "unit": "Nos"
   },
@@ -554,7 +554,7 @@
   {
     "item_name": "2TON X 3MTR LIFTING BELT KANVEE",
     "group_name": "Acessoires",
-    "purchase_rate": 371.82598876953125,
+    "purchase_rate": 377.5,
     "sale_rate": 550.0,
     "hsn_code": "59113190",
     "unit": "Nos"
@@ -634,8 +634,8 @@
   {
     "item_name": "3/4\" NRV (YASH) HORIZONTAL",
     "group_name": "PLUMBING",
-    "purchase_rate": 341.510009765625,
-    "sale_rate": 390.0,
+    "purchase_rate": 390.489990234375,
+    "sale_rate": 440.0,
     "hsn_code": "84818090",
     "unit": "Nos"
   },
@@ -1098,7 +1098,7 @@
   {
     "item_name": "5TON X 3MTR LIFTING BELT KANVEE",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 855.7899780273438,
+    "purchase_rate": 869.02001953125,
     "sale_rate": 1100.0,
     "hsn_code": "59113190",
     "unit": "Nos"
@@ -13458,8 +13458,8 @@
   {
     "item_name": "AS ROYAL 20LT WHITE (ASIAN) ADVANCED",
     "group_name": "PAINTS",
-    "purchase_rate": 10602.41796875,
-    "sale_rate": 11160.0,
+    "purchase_rate": 10602.419921875,
+    "sale_rate": 12430.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -16490,8 +16490,8 @@
   {
     "item_name": "AST 1 1/2 X 1 REDUCER (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 16.75,
-    "sale_rate": 25.0,
+    "purchase_rate": 19.25,
+    "sale_rate": 27.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -16562,7 +16562,7 @@
   {
     "item_name": "AST 1 1/4 X 1 REDUCER (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 12.75,
+    "purchase_rate": 16.940000534057617,
     "sale_rate": 22.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -16626,7 +16626,7 @@
   {
     "item_name": "AST 1 1/4\" TEE (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 26.989999771118164,
+    "purchase_rate": 27.719999313354492,
     "sale_rate": 35.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -16698,7 +16698,7 @@
   {
     "item_name": "AST 1\" FTA (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 7.659999847412109,
+    "purchase_rate": 8.079999923706055,
     "sale_rate": 13.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -16706,7 +16706,7 @@
   {
     "item_name": "AST 1\" MTA (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 9.125,
+    "purchase_rate": 9.619999885559082,
     "sale_rate": 15.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -16826,8 +16826,8 @@
   {
     "item_name": "AST 10\" DUMMY (PLAIN)",
     "group_name": "PLUMBING",
-    "purchase_rate": 563.3499755859375,
-    "sale_rate": 680.0,
+    "purchase_rate": 774.6199951171875,
+    "sale_rate": 920.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -16978,8 +16978,8 @@
   {
     "item_name": "AST 2 1/2\" SHOE (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 57.66999816894531,
-    "sale_rate": 65.0,
+    "purchase_rate": 59.12900161743164,
+    "sale_rate": 75.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -17762,8 +17762,8 @@
   {
     "item_name": "AST 4\" SHOE (ASTRAL) 4KG",
     "group_name": "PLUMBING",
-    "purchase_rate": 86.41999816894531,
-    "sale_rate": 100.0,
+    "purchase_rate": 104.48899841308594,
+    "sale_rate": 125.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -19373,6 +19373,14 @@
     "purchase_rate": 206.41000366210938,
     "sale_rate": 250.0,
     "hsn_code": "8481",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "BA 1/2\"  BALLVALVE (UMP GM)",
+    "group_name": "PLUMBING",
+    "purchase_rate": 413.92999267578125,
+    "sale_rate": 470.0,
+    "hsn_code": "84818030",
     "unit": "Nos"
   },
   {
@@ -24402,8 +24410,8 @@
   {
     "item_name": "BO 1 1/2 X 1/2 BOLT (CIPL)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 106.0,
-    "sale_rate": 120.0,
+    "purchase_rate": 110.0,
+    "sale_rate": 125.0,
     "hsn_code": "73181500",
     "unit": "Kg"
   },
@@ -24442,7 +24450,7 @@
   {
     "item_name": "BO 1 1/2 X 3/8 BOLT (CIPL)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 116.01000213623047,
+    "purchase_rate": 112.0,
     "sale_rate": 130.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -24450,8 +24458,8 @@
   {
     "item_name": "BO 1 1/2 X 3/8 BOLT (GI)+",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 118.0,
-    "sale_rate": 135.0,
+    "purchase_rate": 124.0,
+    "sale_rate": 140.0,
     "hsn_code": "73181500",
     "unit": "Kg"
   },
@@ -24546,8 +24554,8 @@
   {
     "item_name": "BO 1 1/4 X 5/16 BOLT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 115.0,
-    "sale_rate": 130.0,
+    "purchase_rate": 130.0,
+    "sale_rate": 150.0,
     "hsn_code": "73181500",
     "unit": "Kg"
   },
@@ -24674,8 +24682,8 @@
   {
     "item_name": "BO 1 X 5/16 BOLT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 120.0,
-    "sale_rate": 135.0,
+    "purchase_rate": 130.0,
+    "sale_rate": 150.0,
     "hsn_code": "73181500",
     "unit": "Kg"
   },
@@ -32746,7 +32754,7 @@
   {
     "item_name": "CARBON 2-20 (BULLET)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 9.0,
+    "purchase_rate": 10.970000267028809,
     "sale_rate": 20.0,
     "hsn_code": "85452000",
     "unit": "Nos"
@@ -32986,8 +32994,8 @@
   {
     "item_name": "CARGO LIFTING BELT 10M   (CASPER)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 361.6099853515625,
-    "sale_rate": 600.0,
+    "purchase_rate": 531.0,
+    "sale_rate": 700.0,
     "hsn_code": "84792090",
     "unit": "Nos"
   },
@@ -36570,7 +36578,7 @@
   {
     "item_name": "CO 1\" PVC COUPLING (LW)",
     "group_name": "PLUMBING",
-    "purchase_rate": 5.340000152587891,
+    "purchase_rate": 5.900000095367432,
     "sale_rate": 9.0,
     "hsn_code": "39172390",
     "unit": "Nos"
@@ -38659,8 +38667,8 @@
     "item_name": "CORE BIT 32MM (GRANITE)",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 350.0,
-    "sale_rate": 472.5,
-    "hsn_code": "",
+    "sale_rate": 480.0,
+    "hsn_code": "82079090",
     "unit": "Nos"
   },
   {
@@ -43730,7 +43738,7 @@
   {
     "item_name": "DIE 80G DIE GRINDING EMERY(25X25)  BIPICO",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 17.239999771118164,
+    "purchase_rate": 19.163000106811523,
     "sale_rate": 60.0,
     "hsn_code": "68042210",
     "unit": "Nos"
@@ -47178,8 +47186,8 @@
   {
     "item_name": "DR 210 X 10 DRILLBIT (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 81.7699966430664,
-    "sale_rate": 100.0,
+    "purchase_rate": 104.61799621582031,
+    "sale_rate": 120.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -61624,6 +61632,14 @@
     "unit": "Drum"
   },
   {
+    "item_name": "FINOLEX2.5SQMM X4 C (100MTR)",
+    "group_name": "ELECTRICALS",
+    "purchase_rate": 20061.0,
+    "sale_rate": 21100.0,
+    "hsn_code": "85446020",
+    "unit": "COIL"
+  },
+  {
     "item_name": "FIRE BLANKET (1MTR X 2MTR)",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 413.0,
@@ -62146,7 +62162,7 @@
   {
     "item_name": "FL 5\" X 36 GRIT FLAP DISC (BULLET)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 45.5,
+    "purchase_rate": 50.290000915527344,
     "sale_rate": 80.0,
     "hsn_code": "68051010",
     "unit": "Nos"
@@ -66714,7 +66730,7 @@
   {
     "item_name": "GHOSE 3/4\" SONY FLEX",
     "group_name": "PLUMBING",
-    "purchase_rate": 825.0,
+    "purchase_rate": 900.0,
     "sale_rate": 1050.0,
     "hsn_code": "39174000",
     "unit": "Roll"
@@ -71762,7 +71778,7 @@
   {
     "item_name": "GREESE 1KG HIGH HEAT MP3",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 192.33999633789062,
+    "purchase_rate": 204.13999938964844,
     "sale_rate": 250.0,
     "hsn_code": "27101980",
     "unit": "Nos"
@@ -83202,16 +83218,16 @@
   {
     "item_name": "KU 2.5SQ X 4C (KUNDAN) MTR",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 181.69000244140625,
-    "sale_rate": 200.0,
+    "purchase_rate": 193.01199340820312,
+    "sale_rate": 214.0,
     "hsn_code": "85446020",
     "unit": "Meter"
   },
   {
     "item_name": "KU 2.5SQ X 4C ROLL 100MTR (KUNDAN)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 18169.220703125,
-    "sale_rate": 19100.0,
+    "purchase_rate": 19301.259765625,
+    "sale_rate": 20300.0,
     "hsn_code": "85446020",
     "unit": "Nos"
   },
@@ -86002,7 +86018,7 @@
   {
     "item_name": "LE 1/2\" SHORT BODY LEO (NRML)",
     "group_name": "PLUMBING",
-    "purchase_rate": 95.41000366210938,
+    "purchase_rate": 99.02100372314453,
     "sale_rate": 130.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -88290,8 +88306,8 @@
   {
     "item_name": "LO 40MM GLOBE LOCK (1 1/2\") 3KEY",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 240.0,
-    "sale_rate": 280.0,
+    "purchase_rate": 280.0,
+    "sale_rate": 310.0,
     "hsn_code": "83011000",
     "unit": "Nos"
   },
@@ -88370,8 +88386,8 @@
   {
     "item_name": "LO 50MM GLOBE LOCK ( 2\" )",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 410.0,
-    "sale_rate": 460.0,
+    "purchase_rate": 450.0,
+    "sale_rate": 480.0,
     "hsn_code": "83011000",
     "unit": "Nos"
   },
@@ -88450,8 +88466,8 @@
   {
     "item_name": "LO 60MM GLOBE LOCK ( 2 1/2\" )",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 530.0,
-    "sale_rate": 580.0,
+    "purchase_rate": 680.0,
+    "sale_rate": 720.0,
     "hsn_code": "83011000",
     "unit": "Nos"
   },
@@ -88922,8 +88938,8 @@
   {
     "item_name": "LT 32A MNX  CONTACTOR",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 3391.320068359375,
-    "sale_rate": 3780.0,
+    "purchase_rate": 3703.780029296875,
+    "sale_rate": 4080.0,
     "hsn_code": "85365010",
     "unit": "Nos"
   },
@@ -90818,8 +90834,8 @@
   {
     "item_name": "MA 14\" CUT OFF MACHINE (DONGCHENG)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 6671.4501953125,
-    "sale_rate": 7700.0,
+    "purchase_rate": 7723.56005859375,
+    "sale_rate": 8500.0,
     "hsn_code": "84672900",
     "unit": "Nos"
   },
@@ -93090,8 +93106,8 @@
   {
     "item_name": "MAG 16MM MAGNETIC DRILL BIT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1776.0999755859375,
-    "sale_rate": 2100.0,
+    "purchase_rate": 1953.1800537109375,
+    "sale_rate": 2190.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -102682,7 +102698,7 @@
   {
     "item_name": "NA 1\" X 17 HEAD NAIL",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 124.0,
+    "purchase_rate": 127.9000015258789,
     "sale_rate": 190.0,
     "hsn_code": "73170099",
     "unit": "Kg"
@@ -102866,7 +102882,7 @@
   {
     "item_name": "NA 3/4\" X 17 HEADLESS NAIL",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 124.80000305175781,
+    "purchase_rate": 128.8000030517578,
     "sale_rate": 180.0,
     "hsn_code": "73170099",
     "unit": "Kg"
@@ -102874,7 +102890,7 @@
   {
     "item_name": "NA 3/4\" X 17 NAIL (HEAD)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 132.0,
+    "purchase_rate": 128.0,
     "sale_rate": 180.0,
     "hsn_code": "73170099",
     "unit": "Kg"
@@ -106818,7 +106834,7 @@
   {
     "item_name": "NU 1\" DF NUT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 140.0,
+    "purchase_rate": 142.0,
     "sale_rate": 160.0,
     "hsn_code": "73181600",
     "unit": "Kg"
@@ -107106,8 +107122,8 @@
   {
     "item_name": "NU 5/8 C.F NUT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 112.0,
-    "sale_rate": 125.0,
+    "purchase_rate": 120.0,
+    "sale_rate": 135.0,
     "hsn_code": "73181600",
     "unit": "Kg"
   },
@@ -110403,7 +110419,7 @@
     "item_name": "PI 8\" PIPE CLIP",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 56.167999267578125,
-    "sale_rate": 70.0,
+    "sale_rate": 90.0,
     "hsn_code": "73079990",
     "unit": "Nos"
   },
@@ -110674,8 +110690,8 @@
   {
     "item_name": "PIN BOLT 16 X150 (6\") AF",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 31.6200008392334,
-    "sale_rate": 50.0,
+    "purchase_rate": 46.61000061035156,
+    "sale_rate": 65.0,
     "hsn_code": "73181500",
     "unit": "Nos"
   },
@@ -110930,7 +110946,7 @@
   {
     "item_name": "PIPE WRENCH 12\" (TAPARIA) 1273",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 307.0199890136719,
+    "purchase_rate": 302.1499938964844,
     "sale_rate": 380.0,
     "hsn_code": "82041220",
     "unit": "Nos"
@@ -120314,8 +120330,8 @@
   {
     "item_name": "PUSH BUTTON (LED)(TAPER)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 129.8000030517578,
-    "sale_rate": 190.0,
+    "purchase_rate": 194.6999969482422,
+    "sale_rate": 220.0,
     "hsn_code": "85365090",
     "unit": "Nos"
   },
@@ -121402,7 +121418,7 @@
   {
     "item_name": "PW INDIAN BASIN ONLY (20\") NRML WHT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1672.06005859375,
+    "purchase_rate": 1724.989990234375,
     "sale_rate": 2000.0,
     "hsn_code": "69101000",
     "unit": "Nos"
@@ -121708,7 +121724,7 @@
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 112.66000366210938,
     "sale_rate": 150.0,
-    "hsn_code": "8205",
+    "hsn_code": "82054000",
     "unit": "Nos"
   },
   {
@@ -123834,7 +123850,7 @@
   {
     "item_name": "RAWAL PULLY 1TON   (DOUBLE)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1427.800048828125,
+    "purchase_rate": 1239.0,
     "sale_rate": 1600.0,
     "hsn_code": "84252000",
     "unit": "Nos"
@@ -133322,7 +133338,7 @@
   {
     "item_name": "SC BOX 32 X 6 STAR SCREW (1000PS) BLK",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 330.0,
+    "purchase_rate": 350.0,
     "sale_rate": 520.0,
     "hsn_code": "73181500",
     "unit": "Box"
@@ -135898,7 +135914,7 @@
   {
     "item_name": "SHIRT HANGER 7PIN BROWN (PWDR COAT)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 75.0,
+    "purchase_rate": 85.0,
     "sale_rate": 110.0,
     "hsn_code": "83024900",
     "unit": "Nos"
@@ -136339,8 +136355,8 @@
     "item_name": "SI 6-10A RELAY",
     "group_name": "ELECTRICALS",
     "purchase_rate": 1112.43994140625,
-    "sale_rate": 1250.0,
-    "hsn_code": "8536",
+    "sale_rate": 1800.0,
+    "hsn_code": "85364900",
     "unit": "Nos"
   },
   {
@@ -140170,7 +140186,7 @@
   {
     "item_name": "SP RINGS 30 X 32 (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 289.17999267578125,
+    "purchase_rate": 284.5899963378906,
     "sale_rate": 350.0,
     "hsn_code": "82041110",
     "unit": "Nos"
@@ -140498,7 +140514,7 @@
   {
     "item_name": "SP SET-VMR-12 (RINGS) VENUS",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1080.2900390625,
+    "purchase_rate": 1134.5699462890625,
     "sale_rate": 1300.0,
     "hsn_code": "82041110",
     "unit": "Set"
@@ -142034,8 +142050,8 @@
   {
     "item_name": "SS 11/2\" DUMMY FLANGE",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 302.6700134277344,
-    "sale_rate": 400.0,
+    "purchase_rate": 368.75,
+    "sale_rate": 420.0,
     "hsn_code": "73072100",
     "unit": "Nos"
   },
@@ -142354,8 +142370,8 @@
   {
     "item_name": "SS 2\" BALLVALVE (AICQ)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 2208.070068359375,
-    "sale_rate": 2700.0,
+    "purchase_rate": 1872.6600341796875,
+    "sale_rate": 2500.0,
     "hsn_code": "84818030",
     "unit": "Nos"
   },
@@ -146194,8 +146210,8 @@
   {
     "item_name": "STRECH FLIM 12\"",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 211.22000122070312,
-    "sale_rate": 260.0,
+    "purchase_rate": 230.0,
+    "sale_rate": 290.0,
     "hsn_code": "39201019",
     "unit": "Kg"
   },
@@ -148226,8 +148242,8 @@
   {
     "item_name": "TA 1/2\" SCREW DOWN (JK) NRML",
     "group_name": "PLUMBING",
-    "purchase_rate": 259.1499938964844,
-    "sale_rate": 300.0,
+    "purchase_rate": 356.41900634765625,
+    "sale_rate": 400.0,
     "hsn_code": "84818090",
     "unit": "Nos"
   },
@@ -150282,7 +150298,7 @@
   {
     "item_name": "TAP T HANDLE 1/2\" (1733)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 249.77999877929688,
+    "purchase_rate": 245.80999755859375,
     "sale_rate": 310.0,
     "hsn_code": "82042000",
     "unit": "Nos"
@@ -156578,8 +156594,8 @@
   {
     "item_name": "TW 4\" TRALLEY WHEEL (STRAIGHT) NYLON",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 417.67999267578125,
-    "sale_rate": 530.0,
+    "purchase_rate": 441.2200012207031,
+    "sale_rate": 550.0,
     "hsn_code": "83022000",
     "unit": "Nos"
   },
@@ -170082,7 +170098,7 @@
   {
     "item_name": "VP 11/2 X 1B PULLEY",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 83.36000061035156,
+    "purchase_rate": 97.05000305175781,
     "sale_rate": 140.0,
     "hsn_code": "84835090",
     "unit": "Nos"
@@ -170794,8 +170810,8 @@
   {
     "item_name": "VP 6 X 1B PULLEY (SOLID)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 582.5599975585938,
-    "sale_rate": 700.0,
+    "purchase_rate": 600.3599853515625,
+    "sale_rate": 720.0,
     "hsn_code": "84835090",
     "unit": "Nos"
   },
@@ -173386,8 +173402,8 @@
   {
     "item_name": "WE FILLER ROD 316  1.6MM(SUPERON)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 542.7999877929688,
-    "sale_rate": 640.0,
+    "purchase_rate": 519.2000122070312,
+    "sale_rate": 630.0,
     "hsn_code": "72230010",
     "unit": "Kg"
   },
@@ -173938,8 +173954,8 @@
   {
     "item_name": "WE NOZZLE (B 1/16, B 1/32, B 3/64) FOR O2",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 294.70001220703125,
-    "sale_rate": 330.0,
+    "purchase_rate": 309.75,
+    "sale_rate": 340.0,
     "hsn_code": "84682010",
     "unit": "Nos"
   },
@@ -176298,7 +176314,7 @@
   {
     "item_name": "WI CLAMP 3/4\" 1DZ",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 11.210000038146973,
+    "purchase_rate": 11.8100004196167,
     "sale_rate": 18.0,
     "hsn_code": "73079910",
     "unit": "Pocket"
