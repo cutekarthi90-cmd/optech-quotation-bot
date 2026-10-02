@@ -39618,8 +39618,8 @@
   {
     "item_name": "CPVC 1\" CON VALVE LONG QUAR TURN (RO)",
     "group_name": "PLUMBING",
-    "purchase_rate": 1265.9000244140625,
-    "sale_rate": 1450.0,
+    "purchase_rate": 1430.1600341796875,
+    "sale_rate": 1580.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -45893,6 +45893,14 @@
     "purchase_rate": 194.02000427246094,
     "sale_rate": 240.0,
     "hsn_code": "82075090",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "DR 1/8\" DRILL BIT TOTEM(HSS)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 25.190000534057617,
+    "sale_rate": 40.0,
+    "hsn_code": "82075000",
     "unit": "Nos"
   },
   {
@@ -65218,8 +65226,8 @@
   {
     "item_name": "G HOSE 1 1/4\" SONA FLEX (ROLL-30MTR)",
     "group_name": "PLUMBING",
-    "purchase_rate": 1848.8349609375,
-    "sale_rate": 2150.0,
+    "purchase_rate": 2281.219970703125,
+    "sale_rate": 2500.0,
     "hsn_code": "39174000",
     "unit": "Roll"
   },
@@ -70770,8 +70778,8 @@
   {
     "item_name": "GR 1 1/4\" SONA FLEX (FEET)",
     "group_name": "PLUMBING",
-    "purchase_rate": 18.5,
-    "sale_rate": 24.0,
+    "purchase_rate": 22.809999465942383,
+    "sale_rate": 28.0,
     "hsn_code": "39174000",
     "unit": "Feet"
   },
@@ -80330,7 +80338,7 @@
   {
     "item_name": "JB KAMBI BRUSH (3\"-TWISTED)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 84.11000061035156,
+    "purchase_rate": 96.47000122070312,
     "sale_rate": 120.0,
     "hsn_code": "96035000",
     "unit": "Nos"
@@ -84490,7 +84498,7 @@
   {
     "item_name": "L & KEY SET (TAPARIA) AKM-9",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 220.77999877929688,
+    "purchase_rate": 217.27999877929688,
     "sale_rate": 260.0,
     "hsn_code": "82041120",
     "unit": "Nos"
@@ -86202,7 +86210,7 @@
   {
     "item_name": "LE ANGLE CORK (NRML)",
     "group_name": "PLUMBING",
-    "purchase_rate": 95.41000366210938,
+    "purchase_rate": 99.0199966430664,
     "sale_rate": 130.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -101962,16 +101970,16 @@
   {
     "item_name": "MY 6M COVER PLATE (MYLINC)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 140.0,
-    "sale_rate": 180.0,
+    "purchase_rate": 152.0,
+    "sale_rate": 190.0,
     "hsn_code": "85365020",
     "unit": "Nos"
   },
   {
     "item_name": "MY 8M COVER PLATE (MYLINC)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 180.0,
-    "sale_rate": 210.0,
+    "purchase_rate": 194.41000366210938,
+    "sale_rate": 220.0,
     "hsn_code": "85389000",
     "unit": "Nos"
   },
@@ -134312,6 +134320,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "SCH 200A MCCB (SCHNIDER)",
+    "group_name": "ELECTRICALS",
+    "purchase_rate": 17072.0,
+    "sale_rate": 18800.0,
+    "hsn_code": "85362020",
+    "unit": "Nos"
+  },
+  {
     "item_name": "SCH 25A CONTACTOR (SCHNIDER)LC1D25M7",
     "group_name": "ELECTRICALS",
     "purchase_rate": 2416.050048828125,
@@ -140330,8 +140346,8 @@
   {
     "item_name": "SP RINGS 5/16\" X 3/8\" SPANNER (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 0.0,
-    "sale_rate": 94.5,
+    "purchase_rate": 87.05999755859375,
+    "sale_rate": 100.0,
     "hsn_code": "82041110",
     "unit": "Nos"
   },
@@ -142330,7 +142346,7 @@
   {
     "item_name": "SS 19MM HOLE SAW BIPICO",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 266.8299865722656,
+    "purchase_rate": 241.1999969482422,
     "sale_rate": 350.0,
     "hsn_code": "82090090",
     "unit": "Nos"
@@ -169323,7 +169339,7 @@
     "item_name": "VERNIER 6\" (NORMAL) AEROSPACE",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 375.0,
-    "sale_rate": 500.0,
+    "sale_rate": 600.0,
     "hsn_code": "90173010",
     "unit": "Nos"
   },
@@ -173018,8 +173034,8 @@
   {
     "item_name": "WE CABLE 70SQ MM",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 377.6000061035156,
-    "sale_rate": 420.0,
+    "purchase_rate": 413.0,
+    "sale_rate": 460.0,
     "hsn_code": "85446030",
     "unit": "Meter"
   },
