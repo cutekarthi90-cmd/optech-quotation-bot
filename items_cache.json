@@ -4818,8 +4818,8 @@
   {
     "item_name": "ARALDITE 26GM (FAST & CLEAR)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 105.83999633789062,
-    "sale_rate": 130.0,
+    "purchase_rate": 88.91000366210938,
+    "sale_rate": 120.0,
     "hsn_code": "35061000",
     "unit": "Nos"
   },
@@ -58850,8 +58850,8 @@
   {
     "item_name": "FE 2LT FEVICAL HEAT-X",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1017.8599853515625,
-    "sale_rate": 1120.0,
+    "purchase_rate": 1040.989990234375,
+    "sale_rate": 1150.0,
     "hsn_code": "35061000",
     "unit": "Nos"
   },
@@ -58930,8 +58930,8 @@
   {
     "item_name": "FE 500ML FEVICOL SR",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 239.29299926757812,
-    "sale_rate": 265.0,
+    "purchase_rate": 245.07000732421875,
+    "sale_rate": 270.0,
     "hsn_code": "35061000",
     "unit": "Nos"
   },
@@ -90274,8 +90274,8 @@
   {
     "item_name": "LW 10LT (101-OIL) DR FIX IT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1217.4599609375,
-    "sale_rate": 1380.0,
+    "purchase_rate": 1278.4100341796875,
+    "sale_rate": 1410.0,
     "hsn_code": "38244010",
     "unit": "Nos"
   },
@@ -90330,8 +90330,8 @@
   {
     "item_name": "LW 5LT (101-OIL) DR FIX IT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 618.5,
-    "sale_rate": 690.0,
+    "purchase_rate": 649.780029296875,
+    "sale_rate": 720.0,
     "hsn_code": "38244010",
     "unit": "Nos"
   },
