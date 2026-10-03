@@ -1930,8 +1930,8 @@
   {
     "item_name": "AD EN 20LT WHITE (ADDITION)",
     "group_name": "PAINTS",
-    "purchase_rate": 4344.0,
-    "sale_rate": 4780.0,
+    "purchase_rate": 5268.0,
+    "sale_rate": 5600.0,
     "hsn_code": "30289021",
     "unit": "Nos"
   },
@@ -8152,7 +8152,7 @@
     "unit": "Nos"
   },
   {
-    "item_name": "AS DAMP PROOF 10LT (ASIAN) - XTREME",
+    "item_name": "AS DAMP PROOF 10LT (ASIAN) - XTREME-NRML",
     "group_name": "PAINTS",
     "purchase_rate": 3060.330078125,
     "sale_rate": 3220.0,
@@ -8160,7 +8160,7 @@
     "unit": "Nos"
   },
   {
-    "item_name": "AS DAMP PROOF 10LT (ASIAN) SUPFLX",
+    "item_name": "AS DAMP PROOF 10LT (ASIAN) SUPFLX-ADV",
     "group_name": "PAINTS",
     "purchase_rate": 3060.330078125,
     "sale_rate": 3220.0,
@@ -8184,14 +8184,6 @@
     "unit": "Nos"
   },
   {
-    "item_name": "AS DAMP PROOF 20LT (ASIAN) ADVANCED- +",
-    "group_name": "PAINTS",
-    "purchase_rate": 5909.912109375,
-    "sale_rate": 6220.0,
-    "hsn_code": "32091010",
-    "unit": "Nos"
-  },
-  {
     "item_name": "AS DAMP PROOF 20LT (ASIAN) GREY-K",
     "group_name": "PAINTS",
     "purchase_rate": 6165.5,
@@ -8201,6 +8193,14 @@
   },
   {
     "item_name": "AS DAMP PROOF 20LT (ASIAN) NRML - K",
+    "group_name": "PAINTS",
+    "purchase_rate": 5909.912109375,
+    "sale_rate": 6220.0,
+    "hsn_code": "32091010",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "AS DAMP PROOF 20LT (ASIAN) SUP FLEX-ADV",
     "group_name": "PAINTS",
     "purchase_rate": 5909.912109375,
     "sale_rate": 6220.0,
@@ -8224,7 +8224,7 @@
     "unit": "Nos"
   },
   {
-    "item_name": "AS DAMP PROOF 20LT (ASIAN) XTREME",
+    "item_name": "AS DAMP PROOF 20LT (ASIAN) XTREME-NRML",
     "group_name": "PAINTS",
     "purchase_rate": 5909.912109375,
     "sale_rate": 6220.0,
