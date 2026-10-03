@@ -11347,7 +11347,7 @@
     "item_name": "AS HYDRO LAC 1LTR (ASIAN)-XTREME",
     "group_name": "PAINTS",
     "purchase_rate": 515.6599731445312,
-    "sale_rate": 550.0,
+    "sale_rate": 540.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -24986,7 +24986,7 @@
   {
     "item_name": "BO 2 1/2 X 1/2 BOLT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 117.0,
+    "purchase_rate": 119.98999786376953,
     "sale_rate": 130.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -25154,7 +25154,7 @@
   {
     "item_name": "BO 2 X 5/8TH BOLT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 108.01000213623047,
+    "purchase_rate": 110.0,
     "sale_rate": 125.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -25586,8 +25586,8 @@
   {
     "item_name": "BO 4 X 3/4 BOLT",
     "group_name": "BOLT&NUT",
-    "purchase_rate": 106.0,
-    "sale_rate": 118.0,
+    "purchase_rate": 112.01000213623047,
+    "sale_rate": 125.0,
     "hsn_code": "73181500",
     "unit": "Kg"
   },
@@ -127042,8 +127042,8 @@
   {
     "item_name": "ROLLER PVC (5.5)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 215.0,
-    "sale_rate": 260.0,
+    "purchase_rate": 225.0,
+    "sale_rate": 290.0,
     "hsn_code": "82071300",
     "unit": "Nos"
   },
@@ -151802,7 +151802,7 @@
   {
     "item_name": "THAR POI 15 X12 (90-GSM)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 576.010009765625,
+    "purchase_rate": 585.0,
     "sale_rate": 840.0,
     "hsn_code": "63062990",
     "unit": "Nos"
@@ -151834,7 +151834,7 @@
   {
     "item_name": "THAR POI 18 X 15 (90-GSM)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 917.5599975585938,
+    "purchase_rate": 877.5,
     "sale_rate": 1100.0,
     "hsn_code": "39269099",
     "unit": "Nos"
@@ -151866,7 +151866,7 @@
   {
     "item_name": "THAR POI 24 X18 (90-GSM)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1512.0,
+    "purchase_rate": 1404.0,
     "sale_rate": 2000.0,
     "hsn_code": "63062990",
     "unit": "Nos"
@@ -169602,7 +169602,7 @@
   {
     "item_name": "VI 1\" 10KG PVC PIPE (VIJAY)",
     "group_name": "PLUMBING",
-    "purchase_rate": 153.83999633789062,
+    "purchase_rate": 152.0500030517578,
     "sale_rate": 170.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
@@ -171562,8 +171562,8 @@
   {
     "item_name": "WA 5/16 WASER (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 120.36000061035156,
-    "sale_rate": 150.0,
+    "purchase_rate": 116.01000213623047,
+    "sale_rate": 140.0,
     "hsn_code": "73182100",
     "unit": "Kg"
   },
