@@ -35435,7 +35435,7 @@
     "item_name": "CHICKEN MESH 4FEET (30MTR-ROLL)",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 540.0,
-    "sale_rate": 600.0,
+    "sale_rate": 640.0,
     "hsn_code": "731420",
     "unit": "Roll"
   },
@@ -37210,8 +37210,8 @@
   {
     "item_name": "CO 5\" LONG COUPLER (FINOLEX)",
     "group_name": "PLUMBING",
-    "purchase_rate": 159.91000366210938,
-    "sale_rate": 190.0,
+    "purchase_rate": 181.72000122070312,
+    "sale_rate": 230.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -94899,7 +94899,7 @@
     "item_name": "MILK CAN 5LTR",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 248.0,
-    "sale_rate": 280.0,
+    "sale_rate": 320.0,
     "hsn_code": "39231090",
     "unit": "Nos"
   },
@@ -165739,7 +165739,7 @@
     "item_name": "VE A110 VEEHOLD BELT",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 343.9700012207031,
-    "sale_rate": 423.2,
+    "sale_rate": 500.0,
     "hsn_code": "40103999",
     "unit": "Nos"
   },
@@ -174530,7 +174530,7 @@
   {
     "item_name": "WE ROD (SS 2 MS) 309L (ALL)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1121.0,
+    "purchase_rate": 1109.199951171875,
     "sale_rate": 1400.0,
     "hsn_code": "83111000",
     "unit": "Pocket"
