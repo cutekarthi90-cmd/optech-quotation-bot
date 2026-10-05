@@ -8322,8 +8322,8 @@
   {
     "item_name": "AS DI 10KG NEOBHARAT WHITE- EXT (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 700.625,
-    "sale_rate": 740.0,
+    "purchase_rate": 711.8350219726562,
+    "sale_rate": 750.0,
     "hsn_code": "32100011",
     "unit": "Nos"
   },
@@ -13450,7 +13450,7 @@
   {
     "item_name": "AS ROYAL 1LT WHITE (ASIAN) RADIENT",
     "group_name": "PAINTS",
-    "purchase_rate": 1.0,
+    "purchase_rate": 608.7030029296875,
     "sale_rate": 640.0,
     "hsn_code": "32091010",
     "unit": "Nos"
@@ -55090,8 +55090,8 @@
   {
     "item_name": "EPOXY GOLDEN YELLOW 20LTR (ASIAN)+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 8895.40625,
-    "sale_rate": 9670.0,
+    "purchase_rate": 8673.9443359375,
+    "sale_rate": 9450.0,
     "hsn_code": "32089090",
     "unit": "Nos"
   },
@@ -101675,7 +101675,7 @@
     "item_name": "MULAMATTAM ADJUSTABLE 12\" (JP)",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 101.98999786376953,
-    "sale_rate": 126.0,
+    "sale_rate": 130.0,
     "hsn_code": "8205",
     "unit": "Nos"
   },
