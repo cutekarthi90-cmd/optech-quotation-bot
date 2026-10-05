@@ -21698,7 +21698,7 @@
   {
     "item_name": "BELT JOINT BOLT 11/4X 5/16   JP",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 9.40999984741211,
+    "purchase_rate": 10.09000015258789,
     "sale_rate": 15.0,
     "hsn_code": "73181500",
     "unit": "Nos"
@@ -24882,7 +24882,7 @@
   {
     "item_name": "BO 100MMX 24MM (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 125.08000183105469,
+    "purchase_rate": 126.26000213623047,
     "sale_rate": 140.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -25266,7 +25266,7 @@
   {
     "item_name": "BO 25MM X 8MM BOLT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 129.8000030517578,
+    "purchase_rate": 130.97999572753906,
     "sale_rate": 145.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -87234,8 +87234,8 @@
   {
     "item_name": "LEX 25A 2P MCB (LEXIC) S",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 589.0599975585938,
-    "sale_rate": 670.0,
+    "purchase_rate": 779.1199951171875,
+    "sale_rate": 870.0,
     "hsn_code": "85361090",
     "unit": "Nos"
   },
@@ -90050,8 +90050,8 @@
   {
     "item_name": "LU HIGH SPEED BROWN 24\"",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 1449.989990234375,
-    "sale_rate": 1600.0,
+    "purchase_rate": 1495.0,
+    "sale_rate": 1660.0,
     "hsn_code": "84145120",
     "unit": "Nos"
   },
@@ -107186,7 +107186,7 @@
   {
     "item_name": "NU 8MM CF NUT(GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 128.6199951171875,
+    "purchase_rate": 129.8000030517578,
     "sale_rate": 145.0,
     "hsn_code": "73181600",
     "unit": "Kg"
@@ -111618,8 +111618,8 @@
   {
     "item_name": "PLATO 2WAY BIB COCK (OS06) OSCAR",
     "group_name": "PLUMBING",
-    "purchase_rate": 1401.8399658203125,
-    "sale_rate": 1550.0,
+    "purchase_rate": 1518.6600341796875,
+    "sale_rate": 1680.0,
     "hsn_code": "84818090",
     "unit": "Nos"
   },
@@ -117218,7 +117218,7 @@
   {
     "item_name": "PR 1\" UNION PLAIN (PRINCE)",
     "group_name": "PLUMBING",
-    "purchase_rate": 33.59000015258789,
+    "purchase_rate": 35.689998626708984,
     "sale_rate": 70.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -118258,8 +118258,8 @@
   {
     "item_name": "PR 2KG PRESSURE GAUGE NRML",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 236.0,
-    "sale_rate": 300.0,
+    "purchase_rate": 250.75,
+    "sale_rate": 320.0,
     "hsn_code": "90262000",
     "unit": "Nos"
   },
@@ -125002,8 +125002,8 @@
   {
     "item_name": "RIVIT 1/2 X 5/32 (POP RIVIT)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 0.6200000047683716,
-    "sale_rate": 1.0,
+    "purchase_rate": 0.7310000061988831,
+    "sale_rate": 1.1,
     "hsn_code": "76161000",
     "unit": "Nos"
   },
@@ -142442,8 +142442,8 @@
   {
     "item_name": "SS 2\" FLANGE",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 417.7200012207031,
-    "sale_rate": 520.0,
+    "purchase_rate": 457.25,
+    "sale_rate": 570.0,
     "hsn_code": "73072100",
     "unit": "Nos"
   },
@@ -144042,8 +144042,8 @@
   {
     "item_name": "SS BO 3 X 3/4 BOLT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 97.66999816894531,
-    "sale_rate": 125.0,
+    "purchase_rate": 113.33000183105469,
+    "sale_rate": 130.0,
     "hsn_code": "73181500",
     "unit": "Nos"
   },
@@ -144866,8 +144866,8 @@
   {
     "item_name": "SS NU 3/4 NUT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 38.150001525878906,
-    "sale_rate": 45.0,
+    "purchase_rate": 40.529998779296875,
+    "sale_rate": 47.0,
     "hsn_code": "73181600",
     "unit": "Nos"
   },
@@ -156162,7 +156162,7 @@
   {
     "item_name": "TVS 6MM X 25MM BOLT-CSK",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 4.929999828338623,
+    "purchase_rate": 4.989999771118164,
     "sale_rate": 8.5,
     "hsn_code": "73181500",
     "unit": "Nos"
@@ -156194,8 +156194,8 @@
   {
     "item_name": "TVS 6MM X 30MM BOLT-CSK",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 5.639999866485596,
-    "sale_rate": 9.1,
+    "purchase_rate": 6.0,
+    "sale_rate": 9.5,
     "hsn_code": "73181500",
     "unit": "Nos"
   },
@@ -170466,7 +170466,7 @@
   {
     "item_name": "VP 31/2\" X 2B PULLEY(SOLID)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 620.0,
+    "purchase_rate": 397.5419921875,
     "sale_rate": 800.0,
     "hsn_code": "84835090",
     "unit": "Nos"
@@ -170954,9 +170954,9 @@
   {
     "item_name": "VP 61/2 X 1B PULLEY (SOLID)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 296.0,
-    "sale_rate": 750.0,
-    "hsn_code": "",
+    "purchase_rate": 789.530029296875,
+    "sale_rate": 980.0,
+    "hsn_code": "84835090",
     "unit": "Nos"
   },
   {
