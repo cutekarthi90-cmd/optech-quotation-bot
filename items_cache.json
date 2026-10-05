@@ -6458,8 +6458,8 @@
   {
     "item_name": "AS AB21G-20LT APEX (ASIAN)-K",
     "group_name": "PAINTS",
-    "purchase_rate": 5489.537109375,
-    "sale_rate": 5780.0,
+    "purchase_rate": 6229.39697265625,
+    "sale_rate": 6560.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -13874,8 +13874,8 @@
   {
     "item_name": "AS SA 1LT SPL TEAK (SATIN-ENAMEL) ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 298.19000244140625,
-    "sale_rate": 320.0,
+    "purchase_rate": 334.0580139160156,
+    "sale_rate": 350.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
