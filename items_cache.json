@@ -19658,8 +19658,8 @@
   {
     "item_name": "BA 2\" BALL VALVE (MATRIX)",
     "group_name": "PLUMBING",
-    "purchase_rate": 2406.889892578125,
-    "sale_rate": 2650.0,
+    "purchase_rate": 2740.590087890625,
+    "sale_rate": 2990.0,
     "hsn_code": "84818090",
     "unit": "Nos"
   },
@@ -22362,7 +22362,7 @@
   {
     "item_name": "BL 10\" MARBLE CUTTER (JB)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 500.0,
+    "purchase_rate": 529.9000244140625,
     "sale_rate": 750.0,
     "hsn_code": "82023100",
     "unit": "Nos"
@@ -30578,8 +30578,8 @@
   {
     "item_name": "BRASS  FOOT VALVE 2\"",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1873.8399658203125,
-    "sale_rate": 2200.0,
+    "purchase_rate": 2017.800048828125,
+    "sale_rate": 2350.0,
     "hsn_code": "84818020",
     "unit": "Nos"
   },
@@ -34266,8 +34266,8 @@
   {
     "item_name": "CHAIN 1\" EXCEL (3M)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 2051.429931640625,
-    "sale_rate": 2400.0,
+    "purchase_rate": 2200.110107421875,
+    "sale_rate": 2460.0,
     "hsn_code": "73151100",
     "unit": "Nos"
   },
@@ -34314,7 +34314,7 @@
   {
     "item_name": "CHAIN 1\" X 15",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 562.4199829101562,
+    "purchase_rate": 549.75,
     "sale_rate": 700.0,
     "hsn_code": "84839000",
     "unit": "Nos"
@@ -35426,8 +35426,8 @@
   {
     "item_name": "CHICKEN MESH 4FEET (20MTR-ROLL)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 364.989990234375,
-    "sale_rate": 440.0,
+    "purchase_rate": 375.0,
+    "sale_rate": 460.0,
     "hsn_code": "73141410",
     "unit": "Roll"
   },
@@ -47490,8 +47490,8 @@
   {
     "item_name": "DR 260 X 14 DRILL BIT (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 162.05999755859375,
-    "sale_rate": 200.0,
+    "purchase_rate": 207.0399932861328,
+    "sale_rate": 250.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -67178,7 +67178,7 @@
   {
     "item_name": "GI 10KG WIRE (KG)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 93.0,
+    "purchase_rate": 91.98999786376953,
     "sale_rate": 110.0,
     "hsn_code": "72172010",
     "unit": "Kg"
@@ -67898,7 +67898,7 @@
   {
     "item_name": "GI 8KG GI WIRE",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 89.98999786376953,
+    "purchase_rate": 91.98999786376953,
     "sale_rate": 110.0,
     "hsn_code": "72172010",
     "unit": "Kg"
@@ -78594,7 +78594,7 @@
   {
     "item_name": "INSULATION TAPE (WONDER)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 15.5,
+    "purchase_rate": 15.75,
     "sale_rate": 20.0,
     "hsn_code": "85469090",
     "unit": "Nos"
@@ -90010,8 +90010,8 @@
   {
     "item_name": "LU BUDDY FAN",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 1619.989990234375,
-    "sale_rate": 1790.0,
+    "purchase_rate": 1755.0,
+    "sale_rate": 1940.0,
     "hsn_code": "84145110",
     "unit": "Nos"
   },
@@ -95642,7 +95642,7 @@
   {
     "item_name": "MOTOR ROPE 12MM (BUNDLE) HVY",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 108.66999816894531,
+    "purchase_rate": 120.69999694824219,
     "sale_rate": 170.0,
     "hsn_code": "56089090",
     "unit": "Roll"
@@ -103690,7 +103690,7 @@
   {
     "item_name": "NI 1 1/2\" X 6\" B.NIPPLE",
     "group_name": "PLUMBING",
-    "purchase_rate": 84.4800033569336,
+    "purchase_rate": 55.369998931884766,
     "sale_rate": 110.0,
     "hsn_code": "73063090",
     "unit": "Nos"
@@ -111930,8 +111930,8 @@
   {
     "item_name": "PLATO CONNECTION TUBE  2FEET",
     "group_name": "PLUMBING",
-    "purchase_rate": 157.6999969482422,
-    "sale_rate": 190.0,
+    "purchase_rate": 175.22999572753906,
+    "sale_rate": 220.0,
     "hsn_code": "84818090",
     "unit": "Nos"
   },
@@ -115637,6 +115637,14 @@
     "purchase_rate": 836.6199951171875,
     "sale_rate": 1000.0,
     "hsn_code": "84818030",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "PP FOOT VALVE 2\" FLANGE TYPE",
+    "group_name": "PLUMBING",
+    "purchase_rate": 1048.0,
+    "sale_rate": 1300.0,
+    "hsn_code": "84819090",
     "unit": "Nos"
   },
   {
@@ -138832,11 +138840,19 @@
     "unit": "Nos"
   },
   {
-    "item_name": "SP 41NO BOX SPANNER (3/4\")",
+    "item_name": "SP 41NO BOX SPANNER (3/4\") TAPARIA",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 533.010009765625,
     "sale_rate": 650.0,
     "hsn_code": "82041110",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "SP 41NO BOX SPANNER (EASTMAN)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 327.45001220703125,
+    "sale_rate": 410.0,
+    "hsn_code": "82042000",
     "unit": "Nos"
   },
   {
@@ -139306,7 +139322,7 @@
   {
     "item_name": "SP DE 10 X 11 SPANER (TAPARIA) DOUBLE END",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 26.018999099731445,
+    "purchase_rate": 25.600000381469727,
     "sale_rate": 40.0,
     "hsn_code": "82041110",
     "unit": "Nos"
@@ -139338,7 +139354,7 @@
   {
     "item_name": "SP DE 12 X 13 SPANER (TAPARIA) DOUBLE END",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 29.729999542236328,
+    "purchase_rate": 29.260000228881836,
     "sale_rate": 40.0,
     "hsn_code": "82041110",
     "unit": "Nos"
@@ -139394,7 +139410,7 @@
   {
     "item_name": "SP DE 16 X 17 SPANER (TAPARIA) DOUBLE END",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 40.887001037597656,
+    "purchase_rate": 40.22999954223633,
     "sale_rate": 55.0,
     "hsn_code": "82041110",
     "unit": "Nos"
@@ -139434,7 +139450,7 @@
   {
     "item_name": "SP DE 18 X 19 SPANER (TAPARIA) DOUBLE END",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 49.79999923706055,
+    "purchase_rate": 49.016998291015625,
     "sale_rate": 60.0,
     "hsn_code": "82041110",
     "unit": "Nos"
@@ -139474,7 +139490,7 @@
   {
     "item_name": "SP DE 20 X 22 SPANNER (TAPARIA) DOUBLE END",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 57.97999954223633,
+    "purchase_rate": 60.720001220703125,
     "sale_rate": 80.0,
     "hsn_code": "82041110",
     "unit": "Nos"
@@ -140082,7 +140098,7 @@
   {
     "item_name": "SP RINGS 20X22 (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 124.13999938964844,
+    "purchase_rate": 129.49000549316406,
     "sale_rate": 160.0,
     "hsn_code": "82041110",
     "unit": "Nos"
@@ -140106,7 +140122,7 @@
   {
     "item_name": "SP RINGS 21 X 23 (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 158.33999633789062,
+    "purchase_rate": 155.8300018310547,
     "sale_rate": 190.0,
     "hsn_code": "82041110",
     "unit": "Nos"
@@ -141893,6 +141909,14 @@
     "purchase_rate": 204.14999389648438,
     "sale_rate": 260.0,
     "hsn_code": "73072900",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "SS 1/2\" X 1/4\" BUSH",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 67.48999786376953,
+    "sale_rate": 80.0,
+    "hsn_code": "73072200",
     "unit": "Nos"
   },
   {
@@ -145882,8 +145906,8 @@
   {
     "item_name": "STEEL ROPE 10MM",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 76.69999694824219,
-    "sale_rate": 110.0,
+    "purchase_rate": 88.5,
+    "sale_rate": 120.0,
     "hsn_code": "73121010",
     "unit": "Meter"
   },
@@ -154618,7 +154642,7 @@
   {
     "item_name": "TVS 12MM X 100MM BOLT (L&KEY) HALF-THR",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 30.399999618530273,
+    "purchase_rate": 32.2599983215332,
     "sale_rate": 45.0,
     "hsn_code": "73181500",
     "unit": "Nos"
@@ -164928,10 +164952,10 @@
     "unit": "Nos"
   },
   {
-    "item_name": "UPVC 6\" X 4\" REDUCER ASTRAL",
+    "item_name": "UPVC 6\" X 4\" REDUCER PRINCE",
     "group_name": "PLUMBING",
-    "purchase_rate": 178.63999938964844,
-    "sale_rate": 250.0,
+    "purchase_rate": 690.0,
+    "sale_rate": 760.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -168700,7 +168724,7 @@
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 125.66999816894531,
     "sale_rate": 180.0,
-    "hsn_code": "8202",
+    "hsn_code": "82042000",
     "unit": "Nos"
   },
   {
@@ -169610,8 +169634,8 @@
   {
     "item_name": "VI 1\" 15KG PVC PIPE (VIJAY)",
     "group_name": "PLUMBING",
-    "purchase_rate": 318.75,
-    "sale_rate": 350.0,
+    "purchase_rate": 315.0,
+    "sale_rate": 347.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
@@ -169698,8 +169722,8 @@
   {
     "item_name": "VI 3/4\" 15KG PVC PIPE (VIJAY)",
     "group_name": "PLUMBING",
-    "purchase_rate": 189.60000610351562,
-    "sale_rate": 210.0,
+    "purchase_rate": 199.0800018310547,
+    "sale_rate": 220.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
@@ -174357,6 +174381,14 @@
     "purchase_rate": 92.04000091552734,
     "sale_rate": 136.5,
     "hsn_code": "9026",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "WE REGULATOR NITROGEN (GASCO)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 2316.340087890625,
+    "sale_rate": 2650.0,
+    "hsn_code": "84811000",
     "unit": "Nos"
   },
   {
