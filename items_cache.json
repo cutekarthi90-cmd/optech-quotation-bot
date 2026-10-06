@@ -14978,8 +14978,8 @@
   {
     "item_name": "AS THINNER-1LT (ASIAN)-NRML",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 128.91600036621094,
-    "sale_rate": 110.0,
+    "purchase_rate": 1.0,
+    "sale_rate": 200.0,
     "hsn_code": "38140010",
     "unit": "Nos"
   },
@@ -81562,8 +81562,8 @@
   {
     "item_name": "K2-TILES CLENING LIQUID (5LTR)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 444.75,
-    "sale_rate": 650.0,
+    "purchase_rate": 470.7489929199219,
+    "sale_rate": 670.0,
     "hsn_code": "38244010",
     "unit": "Nos"
   },
@@ -98642,8 +98642,8 @@
   {
     "item_name": "MRF MTL CT THINNER 500ML +",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 185.4250030517578,
-    "sale_rate": 200.0,
+    "purchase_rate": 188.86000061035156,
+    "sale_rate": 210.0,
     "hsn_code": "38140010",
     "unit": "Nos"
   },
@@ -146026,8 +146026,8 @@
   {
     "item_name": "STEEL WOOL (200GM) VICKY",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 64.9000015258789,
-    "sale_rate": 85.0,
+    "purchase_rate": 70.09200286865234,
+    "sale_rate": 90.0,
     "hsn_code": "73231000",
     "unit": "Pocket"
   },
