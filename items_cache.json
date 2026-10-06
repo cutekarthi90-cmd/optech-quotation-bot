@@ -97264,7 +97264,7 @@
     "unit": "Nos"
   },
   {
-    "item_name": "MRF DAMPGARDE-10LT -WHITE (AQUA FRESH)",
+    "item_name": "MRF DAMPGARDE-10LT-WHITE (AQUA FRESH)",
     "group_name": "PAINTS",
     "purchase_rate": 3146.510009765625,
     "sale_rate": 3460.0,
@@ -97280,7 +97280,7 @@
     "unit": "Nos"
   },
   {
-    "item_name": "MRF DAMPGARDE-4LT -WHITE (AQUA FRESH) +",
+    "item_name": "MRF DAMPGARDE-4LT-WHITE (AQUA FRESH)",
     "group_name": "PAINTS",
     "purchase_rate": 1280.81005859375,
     "sale_rate": 1400.0,
@@ -97288,7 +97288,7 @@
     "unit": "Nos"
   },
   {
-    "item_name": "MRF DAMPGRADE-10LT-GREY (AQUA FRESH) +",
+    "item_name": "MRF DAMPGRADE-10LT-GREY (AQUA FRESH)",
     "group_name": "PAINTS",
     "purchase_rate": 3146.5029296875,
     "sale_rate": 3460.0,
@@ -126866,8 +126866,8 @@
   {
     "item_name": "ROFF 500ML (T 16) TILES CLEANER (1BOX=20PS)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 85.0,
-    "sale_rate": 100.0,
+    "purchase_rate": 92.04000091552734,
+    "sale_rate": 110.0,
     "hsn_code": "38249900",
     "unit": "Nos"
   },
