@@ -83058,16 +83058,16 @@
   {
     "item_name": "KU 10SQMM FLEX (MTR)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 163.86000061035156,
-    "sale_rate": 185.0,
+    "purchase_rate": 187.6699981689453,
+    "sale_rate": 207.0,
     "hsn_code": "85446020",
     "unit": "Meter"
   },
   {
     "item_name": "KU 10SQMM FLEX (ROLL-100MTR)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 16386.66015625,
-    "sale_rate": 18050.0,
+    "purchase_rate": 18767.1328125,
+    "sale_rate": 19710.0,
     "hsn_code": "85446020",
     "unit": "Roll"
   },
@@ -83508,7 +83508,7 @@
     "group_name": "ELECTRICALS",
     "purchase_rate": 6626.22998046875,
     "sale_rate": 7300.0,
-    "hsn_code": "8544",
+    "hsn_code": "85446020",
     "unit": "COIL"
   },
   {
@@ -156842,16 +156842,16 @@
   {
     "item_name": "TWIN FLAT (KUNDAN-COIL-90MTR) (23/0060)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 1836.18994140625,
-    "sale_rate": 2050.0,
+    "purchase_rate": 1950.8900146484375,
+    "sale_rate": 2150.0,
     "hsn_code": "85446020",
     "unit": "COIL"
   },
   {
     "item_name": "TWIN FLAT (MTR)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 18.360000610351562,
-    "sale_rate": 25.0,
+    "purchase_rate": 21.670000076293945,
+    "sale_rate": 26.0,
     "hsn_code": "85442090",
     "unit": "Meter"
   },
@@ -165498,7 +165498,7 @@
   {
     "item_name": "VALAMATAI HOSE 3\" (ROLL-100MTR)",
     "group_name": "PLUMBING",
-    "purchase_rate": 2832.0,
+    "purchase_rate": 2783.989990234375,
     "sale_rate": 3250.0,
     "hsn_code": "39172390",
     "unit": "Roll"
