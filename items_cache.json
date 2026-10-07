@@ -810,7 +810,7 @@
   {
     "item_name": "3M DOUBLE TAPE 24MM X 4M",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 200.0,
+    "purchase_rate": 203.9600067138672,
     "sale_rate": 260.0,
     "hsn_code": "39191000",
     "unit": "Nos"
@@ -20812,7 +20812,7 @@
     "group_name": "PLUMBING",
     "purchase_rate": 13.619999885559082,
     "sale_rate": 36.75,
-    "hsn_code": "3917",
+    "hsn_code": "39172390",
     "unit": "Nos"
   },
   {
@@ -21204,6 +21204,14 @@
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 890.52001953125,
     "sale_rate": 1040.0,
+    "hsn_code": "82055990",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "BEARING PULLER 15TON HYDRAULIC",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 8520.0,
+    "sale_rate": 9500.0,
     "hsn_code": "82055990",
     "unit": "Nos"
   },
@@ -25770,7 +25778,7 @@
   {
     "item_name": "BO 50MM X 12MM (MS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 112.0999984741211,
+    "purchase_rate": 113.27999877929688,
     "sale_rate": 130.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -26018,7 +26026,7 @@
   {
     "item_name": "BO 75MMX 12MM (MS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 112.0999984741211,
+    "purchase_rate": 113.27999877929688,
     "sale_rate": 130.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -26026,7 +26034,7 @@
   {
     "item_name": "BO 75MMX16MM (MS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 112.0999984741211,
+    "purchase_rate": 113.27999877929688,
     "sale_rate": 130.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -34468,6 +34476,14 @@
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 591.6500244140625,
     "sale_rate": 870.0,
+    "hsn_code": "73151100",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "CHAIN 1/2\" DUPLEX (3MTR)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 1652.0,
+    "sale_rate": 1850.0,
     "hsn_code": "73151100",
     "unit": "Nos"
   },
@@ -49210,8 +49226,8 @@
   {
     "item_name": "DR M35 3.2MM TOTEM DRILL BIT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 54.86000061035156,
-    "sale_rate": 75.0,
+    "purchase_rate": 60.349998474121094,
+    "sale_rate": 80.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -84386,7 +84402,7 @@
   {
     "item_name": "L & KEY 2MM (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 7.429999828338623,
+    "purchase_rate": 8.039999961853027,
     "sale_rate": 15.0,
     "hsn_code": "82041120",
     "unit": "Nos"
@@ -84418,7 +84434,7 @@
   {
     "item_name": "L & KEY 4MM (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 14.119999885559082,
+    "purchase_rate": 14.630000114440918,
     "sale_rate": 20.0,
     "hsn_code": "82041120",
     "unit": "Nos"
@@ -84594,8 +84610,8 @@
   {
     "item_name": "L & T 1HP STARTER (3P) 2.5-4A",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 3121.330078125,
-    "sale_rate": 3500.0,
+    "purchase_rate": 3075.429931640625,
+    "sale_rate": 3400.0,
     "hsn_code": "85369010",
     "unit": "Nos"
   },
@@ -84610,8 +84626,8 @@
   {
     "item_name": "L & T 2HP STARTER (3P) 4-6.5A",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 2640.60009765625,
-    "sale_rate": 3200.0,
+    "purchase_rate": 3075.429931640625,
+    "sale_rate": 3400.0,
     "hsn_code": "85369010",
     "unit": "Nos"
   },
@@ -84634,16 +84650,16 @@
   {
     "item_name": "L & T 5HP STARTER (3PH) 6A-10A",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 3167.22998046875,
-    "sale_rate": 3500.0,
+    "purchase_rate": 3075.429931640625,
+    "sale_rate": 3400.0,
     "hsn_code": "85369010",
     "unit": "Nos"
   },
   {
     "item_name": "L & T 7.5HP STARTER (3PH) 9A-14A",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 3167.22998046875,
-    "sale_rate": 3750.0,
+    "purchase_rate": 3075.429931640625,
+    "sale_rate": 3650.0,
     "hsn_code": "85369010",
     "unit": "Nos"
   },
@@ -86946,8 +86962,8 @@
   {
     "item_name": "LEG 8M METAL BOX (LEGRAND) S",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 173.69000244140625,
-    "sale_rate": 192.0,
+    "purchase_rate": 190.1199951171875,
+    "sale_rate": 220.0,
     "hsn_code": "85389000",
     "unit": "Nos"
   },
@@ -97338,8 +97354,8 @@
   {
     "item_name": "MRF DAMPGRADE-20LT-GREY (AQUA FRESH) +",
     "group_name": "PAINTS",
-    "purchase_rate": 5325.830078125,
-    "sale_rate": 6300.0,
+    "purchase_rate": 6192.2900390625,
+    "sale_rate": 6800.0,
     "hsn_code": "32091090",
     "unit": "Nos"
   },
@@ -98778,8 +98794,8 @@
   {
     "item_name": "MRF PR 1LT UNIVERSAL PRIMER GREY",
     "group_name": "PAINTS",
-    "purchase_rate": 567.719970703125,
-    "sale_rate": 620.0,
+    "purchase_rate": 602.0599975585938,
+    "sale_rate": 660.0,
     "hsn_code": "32091090",
     "unit": "Nos"
   },
@@ -115762,8 +115778,8 @@
   {
     "item_name": "PPR 1\" BALLVALVE",
     "group_name": "PLUMBING",
-    "purchase_rate": 188.2100067138672,
-    "sale_rate": 220.0,
+    "purchase_rate": 207.02999877929688,
+    "sale_rate": 240.0,
     "hsn_code": "84818090",
     "unit": "Nos"
   },
@@ -115778,8 +115794,8 @@
   {
     "item_name": "PPR 1\" COUPLING",
     "group_name": "PLUMBING",
-    "purchase_rate": 17.25,
-    "sale_rate": 30.0,
+    "purchase_rate": 20.18000030517578,
+    "sale_rate": 35.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -115794,8 +115810,8 @@
   {
     "item_name": "PPR 1\" ELBOW",
     "group_name": "PLUMBING",
-    "purchase_rate": 24.780000686645508,
-    "sale_rate": 32.0,
+    "purchase_rate": 27.25,
+    "sale_rate": 35.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -115818,8 +115834,8 @@
   {
     "item_name": "PPR 1\" PIPE PN16 (3MTR)",
     "group_name": "PLUMBING",
-    "purchase_rate": 301.1600036621094,
-    "sale_rate": 360.0,
+    "purchase_rate": 331.2799987792969,
+    "sale_rate": 370.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
@@ -115842,8 +115858,8 @@
   {
     "item_name": "PPR 1\" TEE",
     "group_name": "PLUMBING",
-    "purchase_rate": 33.290000915527344,
-    "sale_rate": 50.0,
+    "purchase_rate": 38.970001220703125,
+    "sale_rate": 55.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -115906,8 +115922,8 @@
   {
     "item_name": "PPR 1\" X 1/2\" BRASS FTA",
     "group_name": "PLUMBING",
-    "purchase_rate": 81.54000091552734,
-    "sale_rate": 120.0,
+    "purchase_rate": 102.54000091552734,
+    "sale_rate": 130.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -115970,8 +115986,8 @@
   {
     "item_name": "PPR 1\" X 3/4\" RED  BRASS ELBOW",
     "group_name": "PLUMBING",
-    "purchase_rate": 131.7100067138672,
-    "sale_rate": 160.0,
+    "purchase_rate": 165.49000549316406,
+    "sale_rate": 190.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -115994,8 +116010,8 @@
   {
     "item_name": "PPR 1\" X 3/4\" REDUCER TEE",
     "group_name": "PLUMBING",
-    "purchase_rate": 34.099998474121094,
-    "sale_rate": 50.0,
+    "purchase_rate": 40.22999954223633,
+    "sale_rate": 60.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -116698,8 +116714,8 @@
   {
     "item_name": "PPR 3/4\" X 3/4\" BRASS FTA",
     "group_name": "PLUMBING",
-    "purchase_rate": 74.62000274658203,
-    "sale_rate": 110.0,
+    "purchase_rate": 96.05000305175781,
+    "sale_rate": 120.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -126880,7 +126896,7 @@
     "unit": "Nos"
   },
   {
-    "item_name": "ROFF 5LT (T 16) TILES CLEANER (1BOX=3PS)",
+    "item_name": "ROFF 5LT (T 16) HEAVY DUTY TILES CLEANER (1BOX=3PS)",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 625.4000244140625,
     "sale_rate": 730.0,
@@ -137648,6 +137664,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "SP 10NO IMPACT DEEP SOCKET 1/2\" TAPARIA",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 131.68800354003906,
+    "sale_rate": 160.0,
+    "hsn_code": "82042000",
+    "unit": "Nos"
+  },
+  {
     "item_name": "SP 10NO IMPACT SOCKET 1/2\" TAPARIA",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 81.7699966430664,
@@ -137682,8 +137706,8 @@
   {
     "item_name": "SP 11NO IMPACT DEEP SOCKET 1/2\" TAPARIA",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 121.91000366210938,
-    "sale_rate": 150.0,
+    "purchase_rate": 131.67999267578125,
+    "sale_rate": 170.0,
     "hsn_code": "82042000",
     "unit": "Nos"
   },
@@ -137906,7 +137930,7 @@
   {
     "item_name": "SP 15NO IMPACT DEEP SOCKET 1/2\" TAPARIA",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 121.91999816894531,
+    "purchase_rate": 131.69000244140625,
     "sale_rate": 200.0,
     "hsn_code": "82042000",
     "unit": "Nos"
@@ -141650,8 +141674,8 @@
   {
     "item_name": "SS 1\" DUMMY FLANGE",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 250.75,
-    "sale_rate": 320.0,
+    "purchase_rate": 295.0,
+    "sale_rate": 340.0,
     "hsn_code": "73072100",
     "unit": "Nos"
   },
@@ -149264,19 +149288,19 @@
     "unit": "Nos"
   },
   {
-    "item_name": "TANK 750 LTRS (RENOTUFF-SINTEX)",
-    "group_name": "PLUMBING",
-    "purchase_rate": 0.0,
-    "sale_rate": 2930.0,
-    "hsn_code": "",
-    "unit": "Nos"
-  },
-  {
     "item_name": "TANK 750 LTRS (VECTUS)",
     "group_name": "PLUMBING",
     "purchase_rate": 4500.0,
     "sale_rate": 5000.0,
     "hsn_code": "3925",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "TANK 750 LTRS 4 LAYER VECTUS SILK",
+    "group_name": "PLUMBING",
+    "purchase_rate": 4232.0,
+    "sale_rate": 4700.0,
+    "hsn_code": "39251000",
     "unit": "Nos"
   },
   {
@@ -152666,7 +152690,7 @@
   {
     "item_name": "TIGER 10 NO  LOREX",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 934.5,
+    "purchase_rate": 882.0,
     "sale_rate": 1100.0,
     "hsn_code": "64034000",
     "unit": "Nos"
@@ -152738,8 +152762,8 @@
   {
     "item_name": "TIGER 8 NO LOREX",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 934.5,
-    "sale_rate": 1050.0,
+    "purchase_rate": 882.0,
+    "sale_rate": 1100.0,
     "hsn_code": "64034000",
     "unit": "Nos"
   },
@@ -152754,7 +152778,7 @@
   {
     "item_name": "TIGER 9 NO LOREX",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 934.5,
+    "purchase_rate": 882.0,
     "sale_rate": 1100.0,
     "hsn_code": "64034000",
     "unit": "Pair"
