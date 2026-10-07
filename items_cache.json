@@ -986,8 +986,8 @@
   {
     "item_name": "4\" ROLLER HANDLE ONLY",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 23.600000381469727,
-    "sale_rate": 40.0,
+    "purchase_rate": 28.559999465942383,
+    "sale_rate": 45.0,
     "hsn_code": "96034020",
     "unit": "Nos"
   },
@@ -63661,6 +63661,14 @@
     "purchase_rate": 6073.4599609375,
     "sale_rate": 6730.0,
     "hsn_code": "3208",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "FOSROC CONPLAST SP430 - 20LTR",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 3325.0,
+    "sale_rate": 3800.0,
+    "hsn_code": "38244090",
     "unit": "Nos"
   },
   {
