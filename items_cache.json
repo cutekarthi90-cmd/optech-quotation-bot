@@ -10890,8 +10890,8 @@
   {
     "item_name": "AS GL3N-4LT ROYAL GLITZ (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 2376.52001953125,
-    "sale_rate": 2500.0,
+    "purchase_rate": 2614.172119140625,
+    "sale_rate": 2750.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -13506,8 +13506,8 @@
   {
     "item_name": "AS ROYAL 4LT WHITE (ASIAN)-GLITZ",
     "group_name": "PAINTS",
-    "purchase_rate": 2360.0,
-    "sale_rate": 2480.0,
+    "purchase_rate": 2614.172119140625,
+    "sale_rate": 2750.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -17906,7 +17906,7 @@
   {
     "item_name": "AST 5 DUMMY (LW)",
     "group_name": "PLUMBING",
-    "purchase_rate": 90.47000122070312,
+    "purchase_rate": 120.12000274658203,
     "sale_rate": 150.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -22480,6 +22480,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "BL 14\" BOSCH CUT OFF WHEEL (STD)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 125.08000183105469,
+    "sale_rate": 150.0,
+    "hsn_code": "68042210",
+    "unit": "Nos"
+  },
+  {
     "item_name": "BL 14\" BOSCH CUT-OFF WHEEL (3MM)",
     "group_name": "BLADE",
     "purchase_rate": 125.0,
@@ -22517,14 +22525,6 @@
     "purchase_rate": 112.0,
     "sale_rate": 136.5,
     "hsn_code": "68042290",
-    "unit": "Nos"
-  },
-  {
-    "item_name": "BL 14\" CUT OFF WHEEL (STD)",
-    "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 125.08000183105469,
-    "sale_rate": 140.0,
-    "hsn_code": "68042210",
     "unit": "Nos"
   },
   {
@@ -63656,7 +63656,7 @@
     "unit": "Nos"
   },
   {
-    "item_name": "FOSROC BRUSHBOND GREY(23KG+4.28L) HAR-(15O-Q)",
+    "item_name": "FOSROC BRUSHBOND GREY(23KG+4.28L) HAR-(15O-SQ)",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 2475.0,
     "sale_rate": 2750.0,
@@ -74026,8 +74026,8 @@
   {
     "item_name": "HDPE COLLER 11/2\" SS",
     "group_name": "PLUMBING",
-    "purchase_rate": 123.54000091552734,
-    "sale_rate": 160.0,
+    "purchase_rate": 189.21499633789062,
+    "sale_rate": 220.0,
     "hsn_code": "73079910",
     "unit": "Nos"
   },
@@ -74450,7 +74450,7 @@
   {
     "item_name": "HELMET (YELLOW) HEAVY (SPEED)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 70.80000305175781,
+    "purchase_rate": 50.7400016784668,
     "sale_rate": 100.0,
     "hsn_code": "65061010",
     "unit": "Nos"
@@ -95010,8 +95010,8 @@
   {
     "item_name": "MILLION 32A R/F FOUR POLE SWITCH",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 890.0,
-    "sale_rate": 1100.0,
+    "purchase_rate": 1309.800048828125,
+    "sale_rate": 1490.0,
     "hsn_code": "85369090",
     "unit": "Nos"
   },
@@ -137672,6 +137672,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "SP 10NO IMPACT SOCKET 1/2\" KINGTONY",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 160.3300018310547,
+    "sale_rate": 190.0,
+    "hsn_code": "82042000",
+    "unit": "Nos"
+  },
+  {
     "item_name": "SP 10NO IMPACT SOCKET 1/2\" TAPARIA",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 81.7699966430664,
@@ -138594,7 +138602,7 @@
   {
     "item_name": "SP 2WAY BIB COCK 1/2\" (SPARSH)",
     "group_name": "PLUMBING",
-    "purchase_rate": 339.8399963378906,
+    "purchase_rate": 298.30999755859375,
     "sale_rate": 430.0,
     "hsn_code": "39172390",
     "unit": "Nos"
@@ -139250,7 +139258,7 @@
   {
     "item_name": "SP BOX SET (SA46- 1/4) TAPARIA",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1949.18994140625,
+    "purchase_rate": 1918.25,
     "sale_rate": 2300.0,
     "hsn_code": "82042000",
     "unit": "Nos"
@@ -139704,10 +139712,10 @@
     "unit": "Nos"
   },
   {
-    "item_name": "SP DE 36 X 38 SPANNER (GB OR EASTMEN) DOUBLE END",
+    "item_name": "SP DE 36 X 38 SPANNER ( EASTMEN) DOUBLE END",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 297.3599853515625,
-    "sale_rate": 550.0,
+    "purchase_rate": 265.5,
+    "sale_rate": 350.0,
     "hsn_code": "82041110",
     "unit": "Nos"
   },
