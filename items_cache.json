@@ -78461,7 +78461,7 @@
     "purchase_rate": 494.4200134277344,
     "sale_rate": 530.0,
     "hsn_code": "32091010",
-    "unit": "Meter"
+    "unit": "Litre"
   },
   {
     "item_name": "INDIGO PAVER GREY 4LTR (FLOOR COAT)",
@@ -109627,7 +109627,7 @@
     "item_name": "PH TUBE LIFEMAX PLUS 36 W",
     "group_name": "ELECTRICALS",
     "purchase_rate": 57.33000183105469,
-    "sale_rate": 65.0,
+    "sale_rate": 70.0,
     "hsn_code": "85393190",
     "unit": "Nos"
   },
