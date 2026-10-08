@@ -54848,6 +54848,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "EPOXY APPLE GREEN 5LTR (ASIAN)",
+    "group_name": "PAINTS",
+    "purchase_rate": 2267.818115234375,
+    "sale_rate": 2500.0,
+    "hsn_code": "32089090",
+    "unit": "Nos"
+  },
+  {
     "item_name": "EPOXY AQUAMARIN 5LTR (ASIAN)+HARDNER",
     "group_name": "PAINTS",
     "purchase_rate": 2527.320068359375,
@@ -55490,8 +55498,8 @@
   {
     "item_name": "EPOXY PRIMER GREY-1LT (ASIAN) 1713",
     "group_name": "PAINTS",
-    "purchase_rate": 426.6409912109375,
-    "sale_rate": 465.0,
+    "purchase_rate": 442.92498779296875,
+    "sale_rate": 480.0,
     "hsn_code": "32089090",
     "unit": "Nos"
   },
