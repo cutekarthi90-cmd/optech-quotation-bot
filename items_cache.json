@@ -91696,14 +91696,6 @@
     "unit": "Nos"
   },
   {
-    "item_name": "MA DEMOLITION HAMMER (BOSCH)",
-    "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 26000.0,
-    "sale_rate": 31395.0,
-    "hsn_code": "",
-    "unit": "Nos"
-  },
-  {
     "item_name": "MA DEMOLITION HAMMER (BULLET) 11KG",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 10977.7900390625,
@@ -91717,6 +91709,14 @@
     "purchase_rate": 2725.0,
     "sale_rate": 3885.0,
     "hsn_code": "",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "MA DEMOLITION HAMMER 5KG GSH 5HX (BOSCH)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 15829.0,
+    "sale_rate": 17420.0,
+    "hsn_code": "84672100",
     "unit": "Nos"
   },
   {
@@ -92002,7 +92002,7 @@
   {
     "item_name": "MA DRILLING MACHINE 2-26(BOSCH)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 13983.0,
+    "purchase_rate": 13263.0,
     "sale_rate": 15400.0,
     "hsn_code": "84672100",
     "unit": "Nos"
