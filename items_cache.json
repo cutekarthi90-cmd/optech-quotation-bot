@@ -43282,8 +43282,8 @@
   {
     "item_name": "DDL 125GM (36NO=1JAR)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 12.779000282287598,
-    "sale_rate": 18.0,
+    "purchase_rate": 13.031000137329102,
+    "sale_rate": 20.0,
     "hsn_code": "35061000",
     "unit": "Nos"
   },
@@ -43314,7 +43314,7 @@
   {
     "item_name": "DDL 250GM (24NO=1JAR)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 22.83300018310547,
+    "purchase_rate": 23.392000198364258,
     "sale_rate": 30.0,
     "hsn_code": "35061000",
     "unit": "Nos"
@@ -43330,8 +43330,8 @@
   {
     "item_name": "DDL 500GM (30NO=1BUCKET)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 43.90800094604492,
-    "sale_rate": 50.0,
+    "purchase_rate": 45.0629997253418,
+    "sale_rate": 55.0,
     "hsn_code": "35061000",
     "unit": "Pocket"
   },
@@ -166002,8 +166002,8 @@
   {
     "item_name": "VE A42 VEEHOLD BELT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 145.55999755859375,
-    "sale_rate": 180.0,
+    "purchase_rate": 152.9199981689453,
+    "sale_rate": 190.0,
     "hsn_code": "40103999",
     "unit": "Nos"
   },
@@ -166050,7 +166050,7 @@
   {
     "item_name": "VE A48 VEEHOLD BELT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 167.64999389648438,
+    "purchase_rate": 152.36000061035156,
     "sale_rate": 210.0,
     "hsn_code": "40103999",
     "unit": "Nos"
@@ -166170,8 +166170,8 @@
   {
     "item_name": "VE A63 VEEHOLD BELT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 181.80999755859375,
-    "sale_rate": 240.0,
+    "purchase_rate": 190.8699951171875,
+    "sale_rate": 250.0,
     "hsn_code": "40103999",
     "unit": "Nos"
   },
@@ -166234,8 +166234,8 @@
   {
     "item_name": "VE A71 VEEHOLD BELT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 210.6999969482422,
-    "sale_rate": 270.0,
+    "purchase_rate": 221.6699981689453,
+    "sale_rate": 280.0,
     "hsn_code": "40103999",
     "unit": "Nos"
   },
@@ -167122,8 +167122,8 @@
   {
     "item_name": "VE B60 VEEHOLD BELT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 228.25,
-    "sale_rate": 310.0,
+    "purchase_rate": 239.5800018310547,
+    "sale_rate": 320.0,
     "hsn_code": "40103999",
     "unit": "Nos"
   },
@@ -167258,7 +167258,7 @@
   {
     "item_name": "VE B74 VEEHOLD BELT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 289.42999267578125,
+    "purchase_rate": 304.1499938964844,
     "sale_rate": 390.0,
     "hsn_code": "40103999",
     "unit": "Nos"
@@ -167298,7 +167298,7 @@
   {
     "item_name": "VE B79 VEEHOLD",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 305.2799987792969,
+    "purchase_rate": 320.5799865722656,
     "sale_rate": 440.0,
     "hsn_code": "40103999",
     "unit": "Nos"
@@ -167370,7 +167370,7 @@
   {
     "item_name": "VE B88 VEEHOLD BELT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 365.32000732421875,
+    "purchase_rate": 383.45001220703125,
     "sale_rate": 495.0,
     "hsn_code": "40103999",
     "unit": "Nos"
@@ -167554,8 +167554,8 @@
   {
     "item_name": "VE C102 VEEHOLD",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 674.5800170898438,
-    "sale_rate": 930.0,
+    "purchase_rate": 741.97998046875,
+    "sale_rate": 990.0,
     "hsn_code": "40103999",
     "unit": "Nos"
   },
@@ -167610,8 +167610,16 @@
   {
     "item_name": "VE C122  VEEHOLD BELT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 816.1799926757812,
+    "purchase_rate": 897.739990234375,
     "sale_rate": 1200.0,
+    "hsn_code": "40103999",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "VE C123 VEEHOLD BELT",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 903.4000244140625,
+    "sale_rate": 1220.0,
     "hsn_code": "40103999",
     "unit": "Nos"
   },
@@ -177290,8 +177298,8 @@
   {
     "item_name": "WP GREEN-1LT (WALL PACE)",
     "group_name": "PAINTS",
-    "purchase_rate": 147.5,
-    "sale_rate": 210.0,
+    "purchase_rate": 165.1999969482422,
+    "sale_rate": 220.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
