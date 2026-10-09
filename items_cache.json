@@ -19322,7 +19322,7 @@
   {
     "item_name": "BA 1\" PVC BALL VALVE (PL) KUSHAL",
     "group_name": "PLUMBING",
-    "purchase_rate": 59.5,
+    "purchase_rate": 63.84000015258789,
     "sale_rate": 80.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -25658,7 +25658,7 @@
   {
     "item_name": "BO 40MM X 12MM BOLT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 123.9000015258789,
+    "purchase_rate": 125.08000183105469,
     "sale_rate": 140.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -34546,8 +34546,8 @@
   {
     "item_name": "CHAIN 3/4\" X 18\" SPROCKET",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 416.1099853515625,
-    "sale_rate": 540.0,
+    "purchase_rate": 501.7900085449219,
+    "sale_rate": 570.0,
     "hsn_code": "84839000",
     "unit": "Nos"
   },
@@ -106986,7 +106986,7 @@
   {
     "item_name": "NU 10MM CF NUT(GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 128.6199951171875,
+    "purchase_rate": 130.97999572753906,
     "sale_rate": 150.0,
     "hsn_code": "73181600",
     "unit": "Kg"
@@ -107002,7 +107002,7 @@
   {
     "item_name": "NU 12MM CF NUT(GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 129.8000030517578,
+    "purchase_rate": 132.16000366210938,
     "sale_rate": 150.0,
     "hsn_code": "73181600",
     "unit": "Kg"
@@ -123346,7 +123346,7 @@
   {
     "item_name": "RA 6NO RAWAL PLUG (PRESS FIT) ORANGE",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 15.0,
+    "purchase_rate": 17.200000762939453,
     "sale_rate": 40.0,
     "hsn_code": "39259090",
     "unit": "Nos"
@@ -123426,7 +123426,7 @@
   {
     "item_name": "RA 8NO RAWAL PLUG (PRESS FIT) ORANGE",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 14.0,
+    "purchase_rate": 18.989999771118164,
     "sale_rate": 40.0,
     "hsn_code": "39259090",
     "unit": "Nos"
@@ -154042,7 +154042,7 @@
   {
     "item_name": "TURN BUCKLE 6MM",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 129.8000030517578,
+    "purchase_rate": 141.60000610351562,
     "sale_rate": 200.0,
     "hsn_code": "73159000",
     "unit": "Nos"
@@ -170954,8 +170954,8 @@
   {
     "item_name": "VP 6 X 2B PULLEY (SOLID)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1136.8699951171875,
-    "sale_rate": 1350.0,
+    "purchase_rate": 1566.449951171875,
+    "sale_rate": 1730.0,
     "hsn_code": "84835090",
     "unit": "Nos"
   },
