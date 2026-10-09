@@ -4778,7 +4778,7 @@
   {
     "item_name": "ARALDITE 180GM",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 332.0199890136719,
+    "purchase_rate": 326.239990234375,
     "sale_rate": 380.0,
     "hsn_code": "35069190",
     "unit": "Nos"
@@ -4786,7 +4786,7 @@
   {
     "item_name": "ARALDITE 180GM (FAST & CLEAR)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 385.8399963378906,
+    "purchase_rate": 380.05999755859375,
     "sale_rate": 460.0,
     "hsn_code": "35069190",
     "unit": "Nos"
@@ -4794,7 +4794,7 @@
   {
     "item_name": "ARALDITE 1KG",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1484.4100341796875,
+    "purchase_rate": 1455.5,
     "sale_rate": 1650.0,
     "hsn_code": "35069190",
     "unit": "Kg"
@@ -4866,7 +4866,7 @@
   {
     "item_name": "ARALDITE 90GM",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 191.88999938964844,
+    "purchase_rate": 188.4199981689453,
     "sale_rate": 220.0,
     "hsn_code": "35061000",
     "unit": "Nos"
@@ -19554,7 +19554,7 @@
   {
     "item_name": "BA 11/2 PVC BALLVALVE (TH) FLO",
     "group_name": "PLUMBING",
-    "purchase_rate": 226.47999572753906,
+    "purchase_rate": 223.19900512695312,
     "sale_rate": 300.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -52770,9 +52770,17 @@
   {
     "item_name": "ELAPPU ULI THAGADU (D-TIP) 1 1/2\" X 7\"",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 149.52000427246094,
-    "sale_rate": 200.0,
+    "purchase_rate": 210.6300048828125,
+    "sale_rate": 260.0,
     "hsn_code": "82057000",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "ELAPPU ULI THAGADU (D-TIP) 1 1/4\" X 7\"",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 195.5800018310547,
+    "sale_rate": 230.0,
+    "hsn_code": "82053000",
     "unit": "Nos"
   },
   {
@@ -54978,8 +54986,8 @@
   {
     "item_name": "EPOXY DA.GREY 1LTR (MRF) +",
     "group_name": "PAINTS",
-    "purchase_rate": 691.3380126953125,
-    "sale_rate": 760.0,
+    "purchase_rate": 702.7849731445312,
+    "sale_rate": 775.0,
     "hsn_code": "32089090",
     "unit": "Nos"
   },
@@ -55394,8 +55402,8 @@
   {
     "item_name": "EPOXY PO RED 1LTR (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 508.0610046386719,
-    "sale_rate": 560.0,
+    "purchase_rate": 705.0750122070312,
+    "sale_rate": 775.0,
     "hsn_code": "32089090",
     "unit": "Nos"
   },
@@ -56274,8 +56282,8 @@
   {
     "item_name": "EPOXY SM GREY 4LTR (MRF)+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 2110.9619140625,
-    "sale_rate": 2325.0,
+    "purchase_rate": 2474.6298828125,
+    "sale_rate": 2720.0,
     "hsn_code": "32089090",
     "unit": "Nos"
   },
@@ -58786,7 +58794,7 @@
   {
     "item_name": "FE 200ML FEVICOL SR",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 109.83000183105469,
+    "purchase_rate": 112.13999938964844,
     "sale_rate": 130.0,
     "hsn_code": "35061000",
     "unit": "Nos"
@@ -59026,8 +59034,8 @@
   {
     "item_name": "FE 5LT FEVICOL HEATX",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 2238.1201171875,
-    "sale_rate": 2460.0,
+    "purchase_rate": 2521.530029296875,
+    "sale_rate": 2780.0,
     "hsn_code": "35069190",
     "unit": "Nos"
   },
@@ -62738,7 +62746,7 @@
   {
     "item_name": "FLEX KWIK 20ML (PIDILITE)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 44.65999984741211,
+    "purchase_rate": 43.540000915527344,
     "sale_rate": 50.0,
     "hsn_code": "35061000",
     "unit": "Nos"
@@ -98138,8 +98146,8 @@
   {
     "item_name": "MRF M1-1LT DUROTHANE-MATT (PU) HUES",
     "group_name": "PAINTS",
-    "purchase_rate": 721.125,
-    "sale_rate": 795.0,
+    "purchase_rate": 686.760009765625,
+    "sale_rate": 760.0,
     "hsn_code": "32082090",
     "unit": "Nos"
   },
@@ -99074,8 +99082,8 @@
   {
     "item_name": "MRF SA 1LT BLACK (PU-MAT-SPECTA)",
     "group_name": "PAINTS",
-    "purchase_rate": 365.1260070800781,
-    "sale_rate": 400.0,
+    "purchase_rate": 380.0060119628906,
+    "sale_rate": 420.0,
     "hsn_code": "32082090",
     "unit": "Nos"
   },
@@ -109930,7 +109938,7 @@
   {
     "item_name": "PI 1\" PIPE CLIP (SCREW TYPE-137S/35A)",
     "group_name": "PLUMBING",
-    "purchase_rate": 12.630000114440918,
+    "purchase_rate": 15.949999809265137,
     "sale_rate": 20.0,
     "hsn_code": "73079990",
     "unit": "Nos"
@@ -112018,7 +112026,7 @@
   {
     "item_name": "PLATO EXT NIPPLE 1\"",
     "group_name": "PLUMBING",
-    "purchase_rate": 73.9800033569336,
+    "purchase_rate": 79.81999969482422,
     "sale_rate": 110.0,
     "hsn_code": "84818090",
     "unit": "Nos"
@@ -112266,8 +112274,8 @@
   {
     "item_name": "PLATO LONG BODY (OS 003) OSCAR",
     "group_name": "PLUMBING",
-    "purchase_rate": 905.3499755859375,
-    "sale_rate": 990.0,
+    "purchase_rate": 973.5,
+    "sale_rate": 1100.0,
     "hsn_code": "84818090",
     "unit": "Nos"
   },
@@ -112322,8 +112330,8 @@
   {
     "item_name": "PLATO PILLAR COCK (OS001) OSCAR",
     "group_name": "PLUMBING",
-    "purchase_rate": 905.2550048828125,
-    "sale_rate": 990.0,
+    "purchase_rate": 973.5,
+    "sale_rate": 1100.0,
     "hsn_code": "84818090",
     "unit": "Nos"
   },
@@ -112474,8 +112482,8 @@
   {
     "item_name": "PLATO SHORT BODY TAP (OSCAR)",
     "group_name": "PLUMBING",
-    "purchase_rate": 793.6680297851562,
-    "sale_rate": 870.0,
+    "purchase_rate": 856.6799926757812,
+    "sale_rate": 960.0,
     "hsn_code": "84818090",
     "unit": "Nos"
   },
@@ -112498,8 +112506,8 @@
   {
     "item_name": "PLATO SHOWER DOOM & ARM (7005)",
     "group_name": "PLUMBING",
-    "purchase_rate": 589.9400024414062,
-    "sale_rate": 680.0,
+    "purchase_rate": 778.7999877929688,
+    "sale_rate": 880.0,
     "hsn_code": "84818090",
     "unit": "Nos"
   },
@@ -112866,8 +112874,8 @@
   {
     "item_name": "PLATO WASTE COUPLING 1 1/4\" X 4\"",
     "group_name": "PLUMBING",
-    "purchase_rate": 264.7900085449219,
-    "sale_rate": 320.0,
+    "purchase_rate": 385.5,
+    "sale_rate": 430.0,
     "hsn_code": "73241000",
     "unit": "Nos"
   },
@@ -119234,7 +119242,7 @@
   {
     "item_name": "PR 6\" X 3\" REDUCER",
     "group_name": "PLUMBING",
-    "purchase_rate": 116.0,
+    "purchase_rate": 132.0,
     "sale_rate": 240.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -121410,8 +121418,8 @@
   {
     "item_name": "PW EWC BASIN ONLY (ELITE-S-TRAP) WHITE",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 2040.0,
-    "sale_rate": 2310.0,
+    "purchase_rate": 2325.0,
+    "sale_rate": 2560.0,
     "hsn_code": "69101000",
     "unit": "Nos"
   },
@@ -121466,8 +121474,8 @@
   {
     "item_name": "PW HEALTH FAUCET T9805-A1",
     "group_name": "PLUMBING",
-    "purchase_rate": 787.489990234375,
-    "sale_rate": 870.0,
+    "purchase_rate": 824.989990234375,
+    "sale_rate": 920.0,
     "hsn_code": "69101000",
     "unit": "Nos"
   },
@@ -121690,7 +121698,7 @@
   {
     "item_name": "PW TANK ONLY (ECONOMY) WHITE",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1289.989990234375,
+    "purchase_rate": 1387.5,
     "sale_rate": 1650.0,
     "hsn_code": "39229000",
     "unit": "Nos"
@@ -121813,6 +121821,14 @@
     "purchase_rate": 95.0,
     "sale_rate": 115.5,
     "hsn_code": "8205",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "PYE 570 SCREW DRIVER",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 236.8800048828125,
+    "sale_rate": 280.0,
+    "hsn_code": "82054000",
     "unit": "Nos"
   },
   {
@@ -129330,8 +129346,8 @@
   {
     "item_name": "SAL WIRE  50GM (HOKI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 220.47999572753906,
-    "sale_rate": 250.0,
+    "purchase_rate": 243.1300048828125,
+    "sale_rate": 270.0,
     "hsn_code": "85151100",
     "unit": "Nos"
   },
@@ -141018,7 +141034,7 @@
   {
     "item_name": "SPONGE BUNDLE (BLACK-18PS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 270.2200012207031,
+    "purchase_rate": 264.32000732421875,
     "sale_rate": 340.0,
     "hsn_code": "39211310",
     "unit": "Bundle"
@@ -142666,8 +142682,8 @@
   {
     "item_name": "SS 22MM HOLE SAW TCT (BIPICO)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 247.05999755859375,
-    "sale_rate": 330.0,
+    "purchase_rate": 285.3500061035156,
+    "sale_rate": 350.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -148898,8 +148914,8 @@
   {
     "item_name": "TANK 1000 LTRS (RENO-SINTEX)",
     "group_name": "PLUMBING",
-    "purchase_rate": 6000.0,
-    "sale_rate": 6200.0,
+    "purchase_rate": 7800.0,
+    "sale_rate": 8350.0,
     "hsn_code": "39251000",
     "unit": "Nos"
   },
@@ -149506,7 +149522,7 @@
   {
     "item_name": "TAP 803 SCREW DRIVER (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 46.83000183105469,
+    "purchase_rate": 46.09000015258789,
     "sale_rate": 55.0,
     "hsn_code": "82054000",
     "unit": "Nos"
@@ -149546,8 +149562,8 @@
   {
     "item_name": "TAP 901 SCREW DRIVER (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 32.70000076293945,
-    "sale_rate": 40.0,
+    "purchase_rate": 34.380001068115234,
+    "sale_rate": 45.0,
     "hsn_code": "82054000",
     "unit": "Nos"
   },
@@ -163384,6 +163400,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "UPVC 1/2\" ELBOW (PRINCE)",
+    "group_name": "PLUMBING",
+    "purchase_rate": 9.0,
+    "sale_rate": 15.0,
+    "hsn_code": "39174000",
+    "unit": "Nos"
+  },
+  {
     "item_name": "UPVC 1/2\" FTA (ASHIRVAD)",
     "group_name": "PLUMBING",
     "purchase_rate": 6.050000190734863,
@@ -163546,8 +163570,8 @@
   {
     "item_name": "UPVC 2 1/2\" COUPLING (PRINCE)",
     "group_name": "PLUMBING",
-    "purchase_rate": 80.36000061035156,
-    "sale_rate": 95.0,
+    "purchase_rate": 84.58999633789062,
+    "sale_rate": 100.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -169738,8 +169762,8 @@
   {
     "item_name": "VI 2 1/2\" 6KG PVC PIPE (VIJAY)",
     "group_name": "PLUMBING",
-    "purchase_rate": 555.0499877929688,
-    "sale_rate": 610.0,
+    "purchase_rate": 548.52001953125,
+    "sale_rate": 605.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
@@ -170946,8 +170970,8 @@
   {
     "item_name": "VP 6 X 2B PULLEY (HALLOW)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 612.25,
-    "sale_rate": 820.0,
+    "purchase_rate": 785.8800048828125,
+    "sale_rate": 870.0,
     "hsn_code": "84835090",
     "unit": "Nos"
   },
