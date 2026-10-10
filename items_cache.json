@@ -128628,7 +128628,7 @@
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 24.0,
     "sale_rate": 50.0,
-    "hsn_code": "",
+    "hsn_code": "73181500",
     "unit": "Nos"
   },
   {
@@ -128642,7 +128642,7 @@
   {
     "item_name": "S HOOK (MEDIUM-SS) P",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 25.0,
+    "purchase_rate": 20.0,
     "sale_rate": 35.0,
     "hsn_code": "73181500",
     "unit": "Nos"
@@ -131994,7 +131994,7 @@
   {
     "item_name": "SC 50 X 6 STAR SCREW",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 0.5299999713897705,
+    "purchase_rate": 0.5600000023841858,
     "sale_rate": 2.0,
     "hsn_code": "73181500",
     "unit": "Nos"
@@ -133482,8 +133482,8 @@
   {
     "item_name": "SC BOX 32 X 6 STAR SCREW (500PS) WHT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 170.0,
-    "sale_rate": 240.0,
+    "purchase_rate": 180.0,
+    "sale_rate": 250.0,
     "hsn_code": "73181500",
     "unit": "Nos"
   },
@@ -172826,8 +172826,8 @@
   {
     "item_name": "WE 0.8 MIG COIL (SS 316L)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 6785.0,
-    "sale_rate": 7500.0,
+    "purchase_rate": 7375.0,
+    "sale_rate": 8200.0,
     "hsn_code": "72230010",
     "unit": "Roll"
   },
@@ -172842,8 +172842,8 @@
   {
     "item_name": "WE 1.2 MIG COIL (SS 316L)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 6195.0,
-    "sale_rate": 6900.0,
+    "purchase_rate": 7375.0,
+    "sale_rate": 8200.0,
     "hsn_code": "72230010",
     "unit": "Roll"
   },
