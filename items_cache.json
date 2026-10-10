@@ -16506,7 +16506,7 @@
   {
     "item_name": "AST 1 1/2\" ELBOW-(HVY) ASTRAL",
     "group_name": "PLUMBING",
-    "purchase_rate": 33.75,
+    "purchase_rate": 35.54999923706055,
     "sale_rate": 50.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -16586,7 +16586,7 @@
   {
     "item_name": "AST 1 1/4\" ELBOW-HVY (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 20.25,
+    "purchase_rate": 21.309999465942383,
     "sale_rate": 30.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -16690,7 +16690,7 @@
   {
     "item_name": "AST 1\" ELBOW-HVY (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 12.699999809265137,
+    "purchase_rate": 13.029999732971191,
     "sale_rate": 20.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -16722,7 +16722,7 @@
   {
     "item_name": "AST 1\" TEE (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 17.700000762939453,
+    "purchase_rate": 18.15999984741211,
     "sale_rate": 25.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -17514,7 +17514,7 @@
   {
     "item_name": "AST 3/4\" ELBOW-HVY (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 9.369999885559082,
+    "purchase_rate": 9.869999885559082,
     "sale_rate": 15.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -17546,7 +17546,7 @@
   {
     "item_name": "AST 3/4\" TEE-HVY (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 12.369999885559082,
+    "purchase_rate": 13.029999732971191,
     "sale_rate": 20.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -20404,7 +20404,7 @@
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 198.8699951171875,
     "sale_rate": 250.0,
-    "hsn_code": "85025290",
+    "hsn_code": "82055990",
     "unit": "Nos"
   },
   {
@@ -34178,8 +34178,8 @@
   {
     "item_name": "CHAIN  3/4 X 19 SPROKET",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 268.0,
-    "sale_rate": 330.0,
+    "purchase_rate": 431.989990234375,
+    "sale_rate": 520.0,
     "hsn_code": "84839000",
     "unit": "Nos"
   },
@@ -36138,7 +36138,7 @@
   {
     "item_name": "CL 16\" STEP CLAMP",
     "group_name": "PLUMBING",
-    "purchase_rate": 62.09000015258789,
+    "purchase_rate": 68.98999786376953,
     "sale_rate": 85.0,
     "hsn_code": "73079990",
     "unit": "Nos"
@@ -39690,7 +39690,7 @@
   {
     "item_name": "CPVC 1\" COUPLER (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 25.020000457763672,
+    "purchase_rate": 26.0,
     "sale_rate": 30.0,
     "hsn_code": "39172390",
     "unit": "Nos"
@@ -45844,6 +45844,14 @@
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 1039.27001953125,
     "sale_rate": 1150.0,
+    "hsn_code": "82074090",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "DR 1/4\" TAPSET (HSS) BSP TOTEM",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 765.0,
+    "sale_rate": 850.0,
     "hsn_code": "82074090",
     "unit": "Nos"
   },
@@ -86810,8 +86818,8 @@
   {
     "item_name": "LEG 12M OPEN BOX METAL(LEGRAND (S)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 384.0199890136719,
-    "sale_rate": 440.0,
+    "purchase_rate": 423.70001220703125,
+    "sale_rate": 480.0,
     "hsn_code": "85369090",
     "unit": "Nos"
   },
@@ -87250,8 +87258,8 @@
   {
     "item_name": "LEX 20A 1P MCB  (LEXIC) S",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 179.47000122070312,
-    "sale_rate": 200.0,
+    "purchase_rate": 227.3300018310547,
+    "sale_rate": 270.0,
     "hsn_code": "85361090",
     "unit": "Nos"
   },
@@ -95016,6 +95024,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "MILLION 32A 3P CHANGE OVER ( APEX )",
+    "group_name": "ELECTRICALS",
+    "purchase_rate": 1453.760009765625,
+    "sale_rate": 1600.0,
+    "hsn_code": "85365090",
+    "unit": "Nos"
+  },
+  {
     "item_name": "MILLION 32A 4P MAIN SWITCH",
     "group_name": "ELECTRICALS",
     "purchase_rate": 0.0,
@@ -96042,8 +96058,8 @@
   {
     "item_name": "MR 6A 2WAY SWITCH (MYRIUS)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 112.58000183105469,
-    "sale_rate": 125.0,
+    "purchase_rate": 128.85000610351562,
+    "sale_rate": 135.0,
     "hsn_code": "85365020",
     "unit": "Nos"
   },
@@ -96058,7 +96074,7 @@
   {
     "item_name": "MR 6A UNIVERSAL SOCKET (MYRIUS) 2M",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 107.19999694824219,
+    "purchase_rate": 122.23999786376953,
     "sale_rate": 150.0,
     "hsn_code": "85366910",
     "unit": "Nos"
@@ -96146,8 +96162,8 @@
   {
     "item_name": "MR REGULATOR - 2M (MYRIUS)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 553.4199829101562,
-    "sale_rate": 610.0,
+    "purchase_rate": 589.760009765625,
+    "sale_rate": 650.0,
     "hsn_code": "84149030",
     "unit": "Nos"
   },
@@ -100026,7 +100042,7 @@
   {
     "item_name": "MS 1\" H NIPPLE",
     "group_name": "PLUMBING",
-    "purchase_rate": 50.97600173950195,
+    "purchase_rate": 46.720001220703125,
     "sale_rate": 70.0,
     "hsn_code": "73079990",
     "unit": "Nos"
@@ -102690,7 +102706,7 @@
   {
     "item_name": "NA 1 1/2\" STEEL NAIL",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 137.99000549316406,
+    "purchase_rate": 145.0,
     "sale_rate": 200.0,
     "hsn_code": "73170099",
     "unit": "Kg"
@@ -107810,7 +107826,7 @@
   {
     "item_name": "PA 1MM PACKING SHEET NON METALLIC",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 234.19400024414062,
+    "purchase_rate": 228.6199951171875,
     "sale_rate": 280.0,
     "hsn_code": "68129922",
     "unit": "Kg"
@@ -110290,8 +110306,8 @@
   {
     "item_name": "PI 3/4\" PIPE CLIP (SCREW TYPE-0X)",
     "group_name": "PLUMBING",
-    "purchase_rate": 10.649999618530273,
-    "sale_rate": 15.0,
+    "purchase_rate": 14.34000015258789,
+    "sale_rate": 20.0,
     "hsn_code": "73079990",
     "unit": "Nos"
   },
@@ -114704,12 +114720,12 @@
     "unit": "Meter"
   },
   {
-    "item_name": "PO 50SQX4C UG CABLE",
+    "item_name": "PO 50SQX4C UG CABLE (ALUMINIUM)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 3003.830078125,
-    "sale_rate": 3320.0,
+    "purchase_rate": 425.9800109863281,
+    "sale_rate": 480.0,
     "hsn_code": "85446090",
-    "unit": "Nos"
+    "unit": "Meter"
   },
   {
     "item_name": "PO 5K POTENTIOMETER",
@@ -126636,7 +126652,7 @@
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 235.89999389648438,
     "sale_rate": 300.0,
-    "hsn_code": "8207",
+    "hsn_code": "82079090",
     "unit": "Nos"
   },
   {
@@ -129034,7 +129050,7 @@
   {
     "item_name": "SAFETY JACKET  (RED) 4 POCKET",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 231.0,
+    "purchase_rate": 252.0,
     "sale_rate": 280.0,
     "hsn_code": "62072110",
     "unit": "Nos"
@@ -129394,8 +129410,8 @@
   {
     "item_name": "SAL WIRE 20GM",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 50.29999923706055,
-    "sale_rate": 60.0,
+    "purchase_rate": 60.869998931884766,
+    "sale_rate": 75.0,
     "hsn_code": "85151100",
     "unit": "Nos"
   },
@@ -162746,8 +162762,8 @@
   {
     "item_name": "UPVC 1 1/4\" CLAMP (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 14.920000076293945,
-    "sale_rate": 20.0,
+    "purchase_rate": 20.0,
+    "sale_rate": 25.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -169770,8 +169786,8 @@
   {
     "item_name": "VI 2 1/2\" 4KG PVC PIPE (VIJAY)",
     "group_name": "PLUMBING",
-    "purchase_rate": 385.489990234375,
-    "sale_rate": 425.0,
+    "purchase_rate": 431.79998779296875,
+    "sale_rate": 510.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
@@ -169992,7 +170008,7 @@
     "unit": "Nos"
   },
   {
-    "item_name": "VIBRATOR MACHINE 3MTR NEEDLE POLYMAK",
+    "item_name": "VIBRATOR MACHINE NEEDLE ONLY (3MTR )POLYMAK",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 1795.25,
     "sale_rate": 2500.0,
@@ -176178,8 +176194,8 @@
   {
     "item_name": "WHEEL BAR (PYTHON)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 4400.0,
-    "sale_rate": 6000.0,
+    "purchase_rate": 5000.0,
+    "sale_rate": 6200.0,
     "hsn_code": "87162000",
     "unit": "Nos"
   },
