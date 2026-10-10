@@ -6754,7 +6754,7 @@
   {
     "item_name": "AS ACE 10LT WHITE (ASIAN) ADVANCED",
     "group_name": "PAINTS",
-    "purchase_rate": 1772.301025390625,
+    "purchase_rate": 1996.5009765625,
     "sale_rate": 2100.0,
     "hsn_code": "32091010",
     "unit": "Nos"
@@ -15202,8 +15202,8 @@
   {
     "item_name": "AS TRAC 1LT WHITE (ADV) ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 187.20700073242188,
-    "sale_rate": 200.0,
+    "purchase_rate": 180.4810028076172,
+    "sale_rate": 190.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -128354,8 +128354,8 @@
   {
     "item_name": "RU WHITE 4LT RUBBER PAINT-ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 1449.279052734375,
-    "sale_rate": 1580.0,
+    "purchase_rate": 1894.3719482421875,
+    "sale_rate": 2060.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -135746,7 +135746,7 @@
   {
     "item_name": "SH WOOD POLISH 5LT COLOUR",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 1211.0,
+    "purchase_rate": 1167.008056640625,
     "sale_rate": 1330.0,
     "hsn_code": "34052000",
     "unit": "Nos"
