@@ -66682,24 +66682,24 @@
   {
     "item_name": "GEM LAKSHMI GRN 1LTR (CODE-217)",
     "group_name": "PAINTS",
-    "purchase_rate": 293.0,
-    "sale_rate": 325.0,
+    "purchase_rate": 330.0,
+    "sale_rate": 365.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
   {
     "item_name": "GEM LAKSHMI GRN 4LTR (CODE-217)",
     "group_name": "PAINTS",
-    "purchase_rate": 1151.0,
-    "sale_rate": 1270.0,
+    "purchase_rate": 1270.0,
+    "sale_rate": 1400.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
   {
     "item_name": "GEM LAKSHMI GRN 500ML (CODE-217)",
     "group_name": "PAINTS",
-    "purchase_rate": 143.9600067138672,
-    "sale_rate": 160.0,
+    "purchase_rate": 185.0,
+    "sale_rate": 200.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
