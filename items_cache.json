@@ -38896,6 +38896,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "CORE BIT EXTENSION ADAPTER 12\"",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 1407.199951171875,
+    "sale_rate": 1750.0,
+    "hsn_code": "84679900",
+    "unit": "Nos"
+  },
+  {
     "item_name": "CORE CUTTING BIT 4\"",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 1527.8699951171875,
@@ -40346,7 +40354,7 @@
   {
     "item_name": "CPVC 2\" SHOE",
     "group_name": "PLUMBING",
-    "purchase_rate": 330.8399963378906,
+    "purchase_rate": 319.19000244140625,
     "sale_rate": 390.0,
     "hsn_code": "39172390",
     "unit": "Nos"
@@ -84370,7 +84378,7 @@
   {
     "item_name": "L & J BOLT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 106.0,
+    "purchase_rate": 107.0,
     "sale_rate": 120.0,
     "hsn_code": "73181900",
     "unit": "Kg"
@@ -96043,7 +96051,7 @@
     "item_name": "MR 6A 1WAY SWITCH (MYRIUS)",
     "group_name": "ELECTRICALS",
     "purchase_rate": 68.55000305175781,
-    "sale_rate": 76.0,
+    "sale_rate": 72.0,
     "hsn_code": "85365020",
     "unit": "Nos"
   },
@@ -139370,7 +139378,7 @@
   {
     "item_name": "SP BOX SPANNER SET TAPARIA (BMS14HXL)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 3496.949951171875,
+    "purchase_rate": 3441.43994140625,
     "sale_rate": 4000.0,
     "hsn_code": "82042000",
     "unit": "Nos"
@@ -150333,6 +150341,14 @@
     "purchase_rate": 686.1500244140625,
     "sale_rate": 750.0,
     "hsn_code": "82042000",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "TAP RATCHET HANDLE 1/2\" (BAUM)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 674.77001953125,
+    "sale_rate": 750.0,
+    "hsn_code": "82041110",
     "unit": "Nos"
   },
   {
@@ -171786,7 +171802,7 @@
   {
     "item_name": "WA 5/8\" WASER (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 123.98999786376953,
+    "purchase_rate": 119.98999786376953,
     "sale_rate": 135.0,
     "hsn_code": "73182100",
     "unit": "Kg"
@@ -174228,7 +174244,7 @@
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 96.76000213623047,
     "sale_rate": 130.0,
-    "hsn_code": "34039900",
+    "hsn_code": "85159000",
     "unit": "Nos"
   },
   {
