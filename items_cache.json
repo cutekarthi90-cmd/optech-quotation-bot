@@ -2474,8 +2474,8 @@
   {
     "item_name": "AGM 20LT-ANTI CORROSIVE BLACK-AGARAM",
     "group_name": "PAINTS",
-    "purchase_rate": 3649.0,
-    "sale_rate": 3940.0,
+    "purchase_rate": 6600.0,
+    "sale_rate": 7300.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -17994,8 +17994,8 @@
   {
     "item_name": "AST 6\" ELBOW (HVY)",
     "group_name": "PLUMBING",
-    "purchase_rate": 505.5,
-    "sale_rate": 550.0,
+    "purchase_rate": 532.4600219726562,
+    "sale_rate": 620.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -24426,8 +24426,8 @@
   {
     "item_name": "BO 1 1/2 X 1/2 BOLT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 114.0,
-    "sale_rate": 128.0,
+    "purchase_rate": 118.0,
+    "sale_rate": 135.0,
     "hsn_code": "73181500",
     "unit": "Kg"
   },
@@ -24458,8 +24458,8 @@
   {
     "item_name": "BO 1 1/2 X 3/8 BOLT (CIPL)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 112.0,
-    "sale_rate": 130.0,
+    "purchase_rate": 122.0,
+    "sale_rate": 135.0,
     "hsn_code": "73181500",
     "unit": "Kg"
   },
@@ -24826,8 +24826,8 @@
   {
     "item_name": "BO 10\" X 1\" BOLT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 112.0,
-    "sale_rate": 125.0,
+    "purchase_rate": 119.98999786376953,
+    "sale_rate": 135.0,
     "hsn_code": "73181500",
     "unit": "Kg"
   },
@@ -25434,8 +25434,8 @@
   {
     "item_name": "BO 3 X 3/8 BOLT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 116.0,
-    "sale_rate": 130.0,
+    "purchase_rate": 119.98999786376953,
+    "sale_rate": 135.0,
     "hsn_code": "73181500",
     "unit": "Kg"
   },
@@ -25954,7 +25954,7 @@
   {
     "item_name": "BO 7\" X 1/2\" BOLT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 115.0,
+    "purchase_rate": 118.0,
     "sale_rate": 130.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -65298,8 +65298,8 @@
   {
     "item_name": "G HOSE 1 1/4\" SONA FLEX (ROLL-30MTR)",
     "group_name": "PLUMBING",
-    "purchase_rate": 2281.219970703125,
-    "sale_rate": 2500.0,
+    "purchase_rate": 2312.159912109375,
+    "sale_rate": 2650.0,
     "hsn_code": "39174000",
     "unit": "Roll"
   },
@@ -68410,8 +68410,8 @@
   {
     "item_name": "GI R COUPLER 3\"",
     "group_name": "PLUMBING",
-    "purchase_rate": 251.69000244140625,
-    "sale_rate": 300.0,
+    "purchase_rate": 264.4700012207031,
+    "sale_rate": 320.0,
     "hsn_code": "73079210",
     "unit": "Nos"
   },
@@ -83402,8 +83402,8 @@
   {
     "item_name": "KU 4SQ X 3 CORE (KUNDAN) ROLL 100MTR",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 21868.169921875,
-    "sale_rate": 22970.0,
+    "purchase_rate": 23231.25,
+    "sale_rate": 24400.0,
     "hsn_code": "85446020",
     "unit": "Roll"
   },
@@ -84370,7 +84370,7 @@
   {
     "item_name": "L & J BOLT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 104.0,
+    "purchase_rate": 106.0,
     "sale_rate": 120.0,
     "hsn_code": "73181900",
     "unit": "Kg"
@@ -96178,8 +96178,8 @@
   {
     "item_name": "MR SKIRTING LIGHT - 3M (MYRIUS)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 418.9200134277344,
-    "sale_rate": 460.0,
+    "purchase_rate": 498.0799865722656,
+    "sale_rate": 570.0,
     "hsn_code": "85389000",
     "unit": "Nos"
   },
@@ -107226,8 +107226,8 @@
   {
     "item_name": "NU 5/8 NUT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 123.98999786376953,
-    "sale_rate": 140.0,
+    "purchase_rate": 130.0,
+    "sale_rate": 145.0,
     "hsn_code": "73181600",
     "unit": "Kg"
   },
@@ -134874,8 +134874,8 @@
   {
     "item_name": "SERVICE PIPE 1\" 10 FEET (TNT-A)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 490.0,
-    "sale_rate": 870.0,
+    "purchase_rate": 607.75,
+    "sale_rate": 900.0,
     "hsn_code": "73063090",
     "unit": "Nos"
   },
@@ -134922,7 +134922,7 @@
   {
     "item_name": "SERVICE PIPE 3/4\" 10FEET",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 588.5800170898438,
+    "purchase_rate": 439.4909973144531,
     "sale_rate": 700.0,
     "hsn_code": "73063090",
     "unit": "Nos"
@@ -134954,7 +134954,7 @@
   {
     "item_name": "SERVICE PIPE 3/4\" 8FEET",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 400.0,
+    "purchase_rate": 360.6700134277344,
     "sale_rate": 480.0,
     "hsn_code": "73063090",
     "unit": "Nos"
@@ -171442,7 +171442,7 @@
   {
     "item_name": "WA 1/2\" WASER (MS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 104.01000213623047,
+    "purchase_rate": 108.01000213623047,
     "sale_rate": 125.0,
     "hsn_code": "73182100",
     "unit": "Kg"
@@ -171786,7 +171786,7 @@
   {
     "item_name": "WA 5/8\" WASER (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 116.01000213623047,
+    "purchase_rate": 123.98999786376953,
     "sale_rate": 135.0,
     "hsn_code": "73182100",
     "unit": "Kg"
