@@ -13840,7 +13840,7 @@
     "unit": "Nos"
   },
   {
-    "item_name": "AS RS EB-20-1LT BLACK (GLSY-ENAMEL)-ASIAN",
+    "item_name": "AS RS EB-20-1LT (GLSY-ENAMEL)-ASIAN",
     "group_name": "PAINTS",
     "purchase_rate": 263.43499755859375,
     "sale_rate": 280.0,
@@ -87138,9 +87138,9 @@
   {
     "item_name": "LEG WTR PROOF BELL BOX (4M) LEGRAND",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 0.0,
-    "sale_rate": 0.0,
-    "hsn_code": "",
+    "purchase_rate": 2136.860107421875,
+    "sale_rate": 2500.0,
+    "hsn_code": "85381090",
     "unit": "Nos"
   },
   {
@@ -90130,8 +90130,8 @@
   {
     "item_name": "LU PEDESTAL FAN 450MM (LUMINOUS)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 3364.989990234375,
-    "sale_rate": 3700.0,
+    "purchase_rate": 3589.989990234375,
+    "sale_rate": 4100.0,
     "hsn_code": "84145130",
     "unit": "Nos"
   },
@@ -102090,8 +102090,8 @@
   {
     "item_name": "MY DUMMY (MYLINC)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 25.600000381469727,
-    "sale_rate": 35.0,
+    "purchase_rate": 28.0,
+    "sale_rate": 40.0,
     "hsn_code": "85389000",
     "unit": "Nos"
   },
