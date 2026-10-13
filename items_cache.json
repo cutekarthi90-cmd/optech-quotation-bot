@@ -18130,8 +18130,8 @@
   {
     "item_name": "AST 8 DUMMY (HVY) ASTRAL",
     "group_name": "PLUMBING",
-    "purchase_rate": 313.55999755859375,
-    "sale_rate": 430.0,
+    "purchase_rate": 369.7099914550781,
+    "sale_rate": 450.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -23474,7 +23474,7 @@
   {
     "item_name": "BL 5\" BULLET CUT OFF (GREEN)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 21.200000762939453,
+    "purchase_rate": 21.6299991607666,
     "sale_rate": 25.0,
     "hsn_code": "68042290",
     "unit": "Nos"
@@ -39122,8 +39122,8 @@
   {
     "item_name": "CPVC 1 1/2 X 1 R BUSH",
     "group_name": "PLUMBING",
-    "purchase_rate": 57.22999954223633,
-    "sale_rate": 63.0,
+    "purchase_rate": 58.40999984741211,
+    "sale_rate": 65.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -39634,8 +39634,8 @@
   {
     "item_name": "CPVC 1\" BRASS MTA",
     "group_name": "PLUMBING",
-    "purchase_rate": 310.2200012207031,
-    "sale_rate": 342.0,
+    "purchase_rate": 404.1499938964844,
+    "sale_rate": 445.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -40002,8 +40002,8 @@
   {
     "item_name": "CPVC 1\" X 3/4\" R BUSH",
     "group_name": "PLUMBING",
-    "purchase_rate": 18.8799991607666,
-    "sale_rate": 25.0,
+    "purchase_rate": 23.010000228881836,
+    "sale_rate": 28.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -45858,8 +45858,8 @@
   {
     "item_name": "DR 1/4\" TAPSET (HSS) BSP TOTEM",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 765.0,
-    "sale_rate": 850.0,
+    "purchase_rate": 1408.0,
+    "sale_rate": 1620.0,
     "hsn_code": "82074090",
     "unit": "Nos"
   },
@@ -54498,15 +54498,15 @@
   {
     "item_name": "END MILL 10MM  CUTTER",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 188.8000030517578,
-    "sale_rate": 220.0,
+    "purchase_rate": 179.41000366210938,
+    "sale_rate": 230.0,
     "hsn_code": "82077010",
     "unit": "Nos"
   },
   {
     "item_name": "END MILL 12MM  CUTTER",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 304.510009765625,
+    "purchase_rate": 316.5400085449219,
     "sale_rate": 390.0,
     "hsn_code": "82077010",
     "unit": "Nos"
@@ -54522,8 +54522,8 @@
   {
     "item_name": "END MILL 14MM  CUTTER",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 165.58999633789062,
-    "sale_rate": 300.0,
+    "purchase_rate": 301.7969970703125,
+    "sale_rate": 360.0,
     "hsn_code": "82077010",
     "unit": "Nos"
   },
@@ -61242,8 +61242,8 @@
   {
     "item_name": "FILLER GAUGE 26BLADE (29A)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 184.7899932861328,
-    "sale_rate": 240.0,
+    "purchase_rate": 197.35000610351562,
+    "sale_rate": 250.0,
     "hsn_code": "90173029",
     "unit": "Nos"
   },
@@ -84474,7 +84474,7 @@
   {
     "item_name": "L & KEY 3MM T HANDLE (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 57.97999954223633,
+    "purchase_rate": 57.060001373291016,
     "sale_rate": 80.0,
     "hsn_code": "82041120",
     "unit": "Nos"
@@ -84490,7 +84490,7 @@
   {
     "item_name": "L & KEY 4MM T HANDLE (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 63.18899917602539,
+    "purchase_rate": 62.18000030517578,
     "sale_rate": 80.0,
     "hsn_code": "82041120",
     "unit": "Nos"
@@ -84546,8 +84546,8 @@
   {
     "item_name": "L & KEY 6MM T HANDLE (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 82.51000213623047,
-    "sale_rate": 100.0,
+    "purchase_rate": 87.05999755859375,
+    "sale_rate": 110.0,
     "hsn_code": "82041120",
     "unit": "Nos"
   },
@@ -85354,8 +85354,8 @@
   {
     "item_name": "L&KEY KT25S FLOWER (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 32.709999084472656,
-    "sale_rate": 44.0,
+    "purchase_rate": 34.380001068115234,
+    "sale_rate": 45.0,
     "hsn_code": "82041120",
     "unit": "Nos"
   },
@@ -88874,7 +88874,7 @@
   {
     "item_name": "LORRY HINCH 11/2\"",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 15.34000015258789,
+    "purchase_rate": 16.520000457763672,
     "sale_rate": 40.0,
     "hsn_code": "83024110",
     "unit": "Nos"
@@ -88882,7 +88882,7 @@
   {
     "item_name": "LORRY HINCH 2\"",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 25.959999084472656,
+    "purchase_rate": 27.139999389648438,
     "sale_rate": 60.0,
     "hsn_code": "83024110",
     "unit": "Nos"
@@ -91829,6 +91829,14 @@
     "purchase_rate": 2000.0,
     "sale_rate": 2425.5,
     "hsn_code": "",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "MA DRILLING MACHINE  CORDLESS BULLET CID1814",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 3872.989990234375,
+    "sale_rate": 4400.0,
+    "hsn_code": "84678100",
     "unit": "Nos"
   },
   {
@@ -100202,8 +100210,8 @@
   {
     "item_name": "MS 1/2\" ELBOW",
     "group_name": "PLUMBING",
-    "purchase_rate": 66.197998046875,
-    "sale_rate": 100.0,
+    "purchase_rate": 88.19999694824219,
+    "sale_rate": 110.0,
     "hsn_code": "73079990",
     "unit": "Nos"
   },
@@ -103346,8 +103354,8 @@
   {
     "item_name": "NC 5LTR NC THINNER (SHEENLAC) NOROO-GY-105",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 815.3679809570312,
-    "sale_rate": 885.0,
+    "purchase_rate": 885.0,
+    "sale_rate": 960.0,
     "hsn_code": "38140010",
     "unit": "Nos"
   },
@@ -110506,8 +110514,8 @@
   {
     "item_name": "PI 8\" PIPE CLAMP",
     "group_name": "PLUMBING",
-    "purchase_rate": 20.59000015258789,
-    "sale_rate": 50.0,
+    "purchase_rate": 46.849998474121094,
+    "sale_rate": 70.0,
     "hsn_code": "73079910",
     "unit": "Nos"
   },
@@ -122058,8 +122066,8 @@
   {
     "item_name": "PYE SUTHIYAL 652 (PYE)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 235.41000366210938,
-    "sale_rate": 290.0,
+    "purchase_rate": 260.8900146484375,
+    "sale_rate": 300.0,
     "hsn_code": "82052000",
     "unit": "Nos"
   },
@@ -139962,7 +139970,7 @@
   {
     "item_name": "SP DE 8 X 9 SPANER (TAPARIA) DOUBLE END",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 23.780000686645508,
+    "purchase_rate": 23.40999984741211,
     "sale_rate": 35.0,
     "hsn_code": "82041110",
     "unit": "Nos"
@@ -145442,8 +145450,8 @@
   {
     "item_name": "SS WA 5/16 X 5/8 (SMALL)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1.465999960899353,
-    "sale_rate": 3.0,
+    "purchase_rate": 2.240000009536743,
+    "sale_rate": 5.0,
     "hsn_code": "73182100",
     "unit": "Nos"
   },
@@ -147570,8 +147578,8 @@
   {
     "item_name": "SUMOLAC 20LT PHIROZI BLUE (ENAMEL)",
     "group_name": "PAINTS",
-    "purchase_rate": 4946.0,
-    "sale_rate": 5470.0,
+    "purchase_rate": 5250.0,
+    "sale_rate": 5750.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -152514,8 +152522,8 @@
   {
     "item_name": "THREAD ROD 20MM 1MTR (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 118.0,
-    "sale_rate": 140.0,
+    "purchase_rate": 123.9000015258789,
+    "sale_rate": 145.0,
     "hsn_code": "73181900",
     "unit": "Kg"
   },
@@ -154946,7 +154954,7 @@
   {
     "item_name": "TVS 12MM X 75MM BOLT  (LKEY)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 20.639999389648438,
+    "purchase_rate": 21.270000457763672,
     "sale_rate": 35.0,
     "hsn_code": "73181500",
     "unit": "Nos"
@@ -156106,7 +156114,7 @@
   {
     "item_name": "TVS 5/8\" NUT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 10.09000015258789,
+    "purchase_rate": 10.619999885559082,
     "sale_rate": 16.0,
     "hsn_code": "73181500",
     "unit": "Nos"
@@ -162530,8 +162538,8 @@
   {
     "item_name": "UPVC 1 1/2\" BALL VALVE (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 675.4299926757812,
-    "sale_rate": 750.0,
+    "purchase_rate": 712.9559936523438,
+    "sale_rate": 785.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -162626,8 +162634,8 @@
   {
     "item_name": "UPVC 1 1/2\" MTA (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 36.95000076293945,
-    "sale_rate": 43.0,
+    "purchase_rate": 39.0099983215332,
+    "sale_rate": 44.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -162666,8 +162674,8 @@
   {
     "item_name": "UPVC 1 1/2\" UNION (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 154.8300018310547,
-    "sale_rate": 170.0,
+    "purchase_rate": 163.44000244140625,
+    "sale_rate": 180.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -163722,7 +163730,7 @@
   {
     "item_name": "UPVC 2 1/2\" X  2\" REDUCER (PRINCE)",
     "group_name": "PLUMBING",
-    "purchase_rate": 99.0,
+    "purchase_rate": 108.7300033569336,
     "sale_rate": 140.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -163794,7 +163802,7 @@
   {
     "item_name": "UPVC 2\" CLAMP",
     "group_name": "PLUMBING",
-    "purchase_rate": 16.809999465942383,
+    "purchase_rate": 20.850000381469727,
     "sale_rate": 25.0,
     "hsn_code": "39172390",
     "unit": "Nos"
@@ -163842,8 +163850,8 @@
   {
     "item_name": "UPVC 2\" ELBOW (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 69.44999694824219,
-    "sale_rate": 77.0,
+    "purchase_rate": 73.30999755859375,
+    "sale_rate": 82.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -163858,8 +163866,8 @@
   {
     "item_name": "UPVC 2\" FLANGE (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 223.64999389648438,
-    "sale_rate": 247.0,
+    "purchase_rate": 236.0800018310547,
+    "sale_rate": 260.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -163874,8 +163882,8 @@
   {
     "item_name": "UPVC 2\" FTA (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 59.88999938964844,
-    "sale_rate": 66.0,
+    "purchase_rate": 63.220001220703125,
+    "sale_rate": 70.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -163890,8 +163898,8 @@
   {
     "item_name": "UPVC 2\" MTA (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 51.61000061035156,
-    "sale_rate": 56.0,
+    "purchase_rate": 54.47999954223633,
+    "sale_rate": 60.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -163938,8 +163946,8 @@
   {
     "item_name": "UPVC 2\" SHOE (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 81.5999984741211,
-    "sale_rate": 90.0,
+    "purchase_rate": 89.44999694824219,
+    "sale_rate": 100.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
