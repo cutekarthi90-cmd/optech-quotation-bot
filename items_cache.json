@@ -30616,6 +30616,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "BRASS FOOT VALVE 3\"",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 5823.0,
+    "sale_rate": 6700.0,
+    "hsn_code": "",
+    "unit": "Nos"
+  },
+  {
     "item_name": "BRASSO 100ML",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 93.0999984741211,
@@ -57402,8 +57410,8 @@
   {
     "item_name": "EWC (C.BROWN) BASIN ONLY HINDUSTAN",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 590.0,
-    "sale_rate": 790.0,
+    "purchase_rate": 770.0,
+    "sale_rate": 950.0,
     "hsn_code": "",
     "unit": "Nos"
   },
@@ -57434,8 +57442,8 @@
   {
     "item_name": "EWC (IVORY) BASIN ONLY HINDUSTAN",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 670.0,
-    "sale_rate": 850.0,
+    "purchase_rate": 800.0,
+    "sale_rate": 950.0,
     "hsn_code": "69101000",
     "unit": "Nos"
   },
@@ -57530,8 +57538,8 @@
   {
     "item_name": "EWC (WHITE) BASIN ONLY HINDUSTAN",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 650.0,
-    "sale_rate": 850.0,
+    "purchase_rate": 800.0,
+    "sale_rate": 950.0,
     "hsn_code": "",
     "unit": "Nos"
   },
@@ -77938,8 +77946,8 @@
   {
     "item_name": "I/C C.BRN BASIN (HINDUSTAN)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 480.0,
-    "sale_rate": 650.0,
+    "purchase_rate": 550.0,
+    "sale_rate": 700.0,
     "hsn_code": "69101000",
     "unit": "Nos"
   },
@@ -83403,7 +83411,7 @@
     "item_name": "KU 4SQ X 3 CORE (KUNDAN) MTR",
     "group_name": "ELECTRICALS",
     "purchase_rate": 218.67999267578125,
-    "sale_rate": 240.0,
+    "sale_rate": 250.0,
     "hsn_code": "85446020",
     "unit": "Meter"
   },
@@ -103579,7 +103587,7 @@
     "item_name": "NE EN 20LT SM GREY (NEROLAC)",
     "group_name": "PAINTS",
     "purchase_rate": 3658.0,
-    "sale_rate": 4050.0,
+    "sale_rate": 4100.0,
     "hsn_code": "32089029",
     "unit": "Nos"
   },
@@ -103717,6 +103725,14 @@
     "purchase_rate": 47.20000076293945,
     "sale_rate": 100.0,
     "hsn_code": "85381090",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "NEW AI",
+    "group_name": "PLUMBING",
+    "purchase_rate": 0.0,
+    "sale_rate": 0.0,
+    "hsn_code": "",
     "unit": "Nos"
   },
   {
@@ -128690,8 +128706,8 @@
   {
     "item_name": "S TRAP",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 110.0,
-    "sale_rate": 170.0,
+    "purchase_rate": 150.0,
+    "sale_rate": 220.0,
     "hsn_code": "69101000",
     "unit": "Nos"
   },
