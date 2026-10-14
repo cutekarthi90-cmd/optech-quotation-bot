@@ -186,8 +186,8 @@
   {
     "item_name": "11/2\" NRV DISC TYPE",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 941.6400146484375,
-    "sale_rate": 1100.0,
+    "purchase_rate": 1000.9299926757812,
+    "sale_rate": 1150.0,
     "hsn_code": "84813000",
     "unit": "Nos"
   },
@@ -11210,8 +11210,8 @@
   {
     "item_name": "AS HQ20N-4LT ULTIMA (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 1800.3260498046875,
-    "sale_rate": 1895.0,
+    "purchase_rate": 2037.780029296875,
+    "sale_rate": 2145.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -16610,8 +16610,8 @@
   {
     "item_name": "AST 1 1/4\" SHOE (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 13.100000381469727,
-    "sale_rate": 22.0,
+    "purchase_rate": 18.15999984741211,
+    "sale_rate": 28.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -16714,8 +16714,8 @@
   {
     "item_name": "AST 1\" SHOE (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 14.90999984741211,
-    "sale_rate": 20.0,
+    "purchase_rate": 16.579999923706055,
+    "sale_rate": 25.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -16906,8 +16906,8 @@
   {
     "item_name": "AST 2 1/2\" DOOR ELBOW (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 80.04000091552734,
-    "sale_rate": 120.0,
+    "purchase_rate": 96.27999877929688,
+    "sale_rate": 130.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -16946,8 +16946,8 @@
   {
     "item_name": "AST 2 1/2\" ELBOW (HVY) ASTRAL",
     "group_name": "PLUMBING",
-    "purchase_rate": 66.98999786376953,
-    "sale_rate": 75.0,
+    "purchase_rate": 68.72000122070312,
+    "sale_rate": 80.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -17538,7 +17538,7 @@
   {
     "item_name": "AST 3/4\" SHOE ASTRAL",
     "group_name": "PLUMBING",
-    "purchase_rate": 7.5,
+    "purchase_rate": 9.869999885559082,
     "sale_rate": 15.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -17762,7 +17762,7 @@
   {
     "item_name": "AST 4\" SHOE (ASTRAL) 4KG",
     "group_name": "PLUMBING",
-    "purchase_rate": 104.48899841308594,
+    "purchase_rate": 107.06999969482422,
     "sale_rate": 125.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -17898,8 +17898,8 @@
   {
     "item_name": "AST 4\"SHOE (ASTRAL) SWR",
     "group_name": "PLUMBING",
-    "purchase_rate": 57.040000915527344,
-    "sale_rate": 67.0,
+    "purchase_rate": 107.06999969482422,
+    "sale_rate": 125.0,
     "hsn_code": "3917",
     "unit": "Nos"
   },
@@ -25762,8 +25762,8 @@
   {
     "item_name": "BO 50MM X 10MM (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 125.08000183105469,
-    "sale_rate": 140.0,
+    "purchase_rate": 126.26000213623047,
+    "sale_rate": 145.0,
     "hsn_code": "73181500",
     "unit": "Kg"
   },
@@ -25994,7 +25994,7 @@
   {
     "item_name": "BO 75MM X 16MM (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 123.9000015258789,
+    "purchase_rate": 125.08000183105469,
     "sale_rate": 145.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -26002,7 +26002,7 @@
   {
     "item_name": "BO 75MM X 20MM BOLT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 125.08000183105469,
+    "purchase_rate": 126.26000213623047,
     "sale_rate": 145.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -34482,7 +34482,7 @@
   {
     "item_name": "CHAIN 1/2\" (3MTR) NRML EXCEL",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 591.6500244140625,
+    "purchase_rate": 606.52001953125,
     "sale_rate": 870.0,
     "hsn_code": "73151100",
     "unit": "Nos"
@@ -53338,8 +53338,8 @@
   {
     "item_name": "EMD 60NO EMERY DISC 5\" ALKON",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 46.0,
-    "sale_rate": 52.0,
+    "purchase_rate": 47.0,
+    "sale_rate": 53.0,
     "hsn_code": "68052010",
     "unit": "Nos"
   },
@@ -55002,7 +55002,7 @@
   {
     "item_name": "EPOXY COALTAR 5LTR (DR FIX-1.25)+HARDNER 3.75",
     "group_name": "PAINTS",
-    "purchase_rate": 1740.5,
+    "purchase_rate": 1785.0,
     "sale_rate": 2050.0,
     "hsn_code": "38249900",
     "unit": "Nos"
@@ -62290,7 +62290,7 @@
   {
     "item_name": "FL 60NO FLAP DISC (JB)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 21.989999771118164,
+    "purchase_rate": 24.0,
     "sale_rate": 30.0,
     "hsn_code": "68052090",
     "unit": "Nos"
@@ -62314,7 +62314,7 @@
   {
     "item_name": "FL 80NO FLAP DISC (JB)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 21.989999771118164,
+    "purchase_rate": 24.0,
     "sale_rate": 30.0,
     "hsn_code": "68052090",
     "unit": "Nos"
@@ -71002,16 +71002,16 @@
   {
     "item_name": "GR 10MM BRAIDED HOSE (MTR)",
     "group_name": "PLUMBING",
-    "purchase_rate": 37.0,
-    "sale_rate": 45.0,
+    "purchase_rate": 38.9900016784668,
+    "sale_rate": 47.0,
     "hsn_code": "39172390",
     "unit": "Meter"
   },
   {
     "item_name": "GR 10MM BRAIDED HOSE (ROLL-100MTR)",
     "group_name": "PLUMBING",
-    "purchase_rate": 3700.0,
-    "sale_rate": 4200.0,
+    "purchase_rate": 3900.0,
+    "sale_rate": 4400.0,
     "hsn_code": "39174000",
     "unit": "Roll"
   },
@@ -77962,8 +77962,8 @@
   {
     "item_name": "I/C IVORY BASIN (HINDUSTAN)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 390.0,
-    "sale_rate": 650.0,
+    "purchase_rate": 550.0,
+    "sale_rate": 700.0,
     "hsn_code": "",
     "unit": "Nos"
   },
@@ -80722,16 +80722,16 @@
   {
     "item_name": "JB WOOD HOLE SAW 19MM (3/4\")",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 113.98999786376953,
-    "sale_rate": 170.0,
+    "purchase_rate": 144.99000549316406,
+    "sale_rate": 180.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
   {
     "item_name": "JB WOOD HOLE SAW 25MM (1\")",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 113.98999786376953,
-    "sale_rate": 170.0,
+    "purchase_rate": 159.99000549316406,
+    "sale_rate": 190.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -100138,8 +100138,8 @@
   {
     "item_name": "MS 1/2 X 1/4 BUSH",
     "group_name": "PLUMBING",
-    "purchase_rate": 12.0,
-    "sale_rate": 21.0,
+    "purchase_rate": 12.979999542236328,
+    "sale_rate": 20.0,
     "hsn_code": "73079990",
     "unit": "Nos"
   },
@@ -129098,7 +129098,7 @@
   {
     "item_name": "SAFETY JACKET 1\" (GREEN)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 51.45000076293945,
+    "purchase_rate": 46.20000076293945,
     "sale_rate": 70.0,
     "hsn_code": "62104090",
     "unit": "Nos"
@@ -139826,8 +139826,8 @@
   {
     "item_name": "SP DE 36 X 38 SPANNER (VENUS) DOUBLE END",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 242.97999572753906,
-    "sale_rate": 320.0,
+    "purchase_rate": 252.52000427246094,
+    "sale_rate": 330.0,
     "hsn_code": "82041110",
     "unit": "Nos"
   },
@@ -139850,8 +139850,8 @@
   {
     "item_name": "SP DE 36 X 41 SPANNER (VENUS) DOUBLE END",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 234.72999572753906,
-    "sale_rate": 330.0,
+    "purchase_rate": 256.6499938964844,
+    "sale_rate": 340.0,
     "hsn_code": "82041110",
     "unit": "Nos"
   },
@@ -139874,8 +139874,8 @@
   {
     "item_name": "SP DE 41 X 46 SPANNER (VENUS) DOUBLE END",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 280.8399963378906,
-    "sale_rate": 410.0,
+    "purchase_rate": 333.94000244140625,
+    "sale_rate": 420.0,
     "hsn_code": "82041110",
     "unit": "Nos"
   },
@@ -142066,7 +142066,7 @@
   {
     "item_name": "SS 1/2\" X 1/4\" R.H-NIPPLE (LINTAS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 100.0,
+    "purchase_rate": 87.55000305175781,
     "sale_rate": 140.0,
     "hsn_code": "73072900",
     "unit": "Nos"
@@ -142093,6 +142093,14 @@
     "purchase_rate": 85.66000366210938,
     "sale_rate": 100.0,
     "hsn_code": "73072900",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "SS 1/2\" X 3/8 \" R.H-NIPPLE",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 87.55000305175781,
+    "sale_rate": 140.0,
+    "hsn_code": "73072200",
     "unit": "Nos"
   },
   {
@@ -170522,7 +170530,7 @@
   {
     "item_name": "VP 21/2 X 2A PULLEY",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 279.8599853515625,
+    "purchase_rate": 222.5800018310547,
     "sale_rate": 380.0,
     "hsn_code": "84835090",
     "unit": "Nos"
@@ -171786,8 +171794,8 @@
   {
     "item_name": "WA 5/16\" WASER (SS-304)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1.5,
-    "sale_rate": 3.15,
+    "purchase_rate": 2.240000009536743,
+    "sale_rate": 3.25,
     "hsn_code": "73182100",
     "unit": "Nos"
   },
