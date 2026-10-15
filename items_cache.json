@@ -68668,7 +68668,7 @@
     "group_name": "PLUMBING",
     "purchase_rate": 30.200000762939453,
     "sale_rate": 38.3,
-    "hsn_code": "7307",
+    "hsn_code": "73072200",
     "unit": "Nos"
   },
   {
@@ -103290,8 +103290,8 @@
   {
     "item_name": "NC 1LTR NC THINNER (SHEEN LAC) DX13",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 182.88800048828125,
-    "sale_rate": 225.0,
+    "purchase_rate": 194.68800354003906,
+    "sale_rate": 235.0,
     "hsn_code": "38140010",
     "unit": "Nos"
   },
@@ -103370,8 +103370,8 @@
   {
     "item_name": "NC 5LTR NC THINNER (SHEENLAC) DX13",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 892.0679931640625,
-    "sale_rate": 1100.0,
+    "purchase_rate": 951.0679931640625,
+    "sale_rate": 1150.0,
     "hsn_code": "38140010",
     "unit": "Nos"
   },
