@@ -129498,9 +129498,9 @@
   {
     "item_name": "SALT CLEANER (1LTR) R-CLEANN",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 160.0,
-    "sale_rate": 252.0,
-    "hsn_code": "",
+    "purchase_rate": 194.99000549316406,
+    "sale_rate": 260.0,
+    "hsn_code": "38249026",
     "unit": "Nos"
   },
   {
@@ -143083,7 +143083,7 @@
     "item_name": "SS 3/8\" H NIPPLE",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 85.83999633789062,
-    "sale_rate": 160.0,
+    "sale_rate": 120.0,
     "hsn_code": "73072900",
     "unit": "Nos"
   },
