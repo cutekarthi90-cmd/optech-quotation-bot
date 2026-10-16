@@ -1282,7 +1282,7 @@
   {
     "item_name": "AAA CELL (SMALL) DUROCELL",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 18.579999923706055,
+    "purchase_rate": 19.510000228881836,
     "sale_rate": 25.0,
     "hsn_code": "85061000",
     "unit": "Nos"
@@ -17714,8 +17714,8 @@
   {
     "item_name": "AST 4\" ELBOW (HVY) ASTRAL",
     "group_name": "PLUMBING",
-    "purchase_rate": 163.24000549316406,
-    "sale_rate": 180.0,
+    "purchase_rate": 167.47000122070312,
+    "sale_rate": 190.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -17906,7 +17906,7 @@
   {
     "item_name": "AST 5 DUMMY (LW)",
     "group_name": "PLUMBING",
-    "purchase_rate": 120.12000274658203,
+    "purchase_rate": 123.2300033569336,
     "sale_rate": 150.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -18226,7 +18226,7 @@
   {
     "item_name": "AST MULTI TRAP 4 WAY  (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 179.00999450683594,
+    "purchase_rate": 183.42999267578125,
     "sale_rate": 200.0,
     "hsn_code": "39172390",
     "unit": "Nos"
@@ -31410,7 +31410,7 @@
   {
     "item_name": "BUTANE GAS KT12 SINGLE",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 165.1999969482422,
+    "purchase_rate": 156.1199951171875,
     "sale_rate": 280.0,
     "hsn_code": "93012000",
     "unit": "Nos"
@@ -38184,7 +38184,7 @@
     "unit": "Kg"
   },
   {
-    "item_name": "CORDLESS CREW MACHINE BATTERY POLYAK",
+    "item_name": "CORDLESS SCREW MACHINE BATTERY POLYMAK",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 1665.31005859375,
     "sale_rate": 2000.0,
@@ -39818,7 +39818,7 @@
   {
     "item_name": "CPVC 1\" PIPE SDR11 (5M) ASHIRVAD",
     "group_name": "PLUMBING",
-    "purchase_rate": 611.6099853515625,
+    "purchase_rate": 603.5399780273438,
     "sale_rate": 680.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
@@ -39850,8 +39850,8 @@
   {
     "item_name": "CPVC 1\" STEP OVER BEND",
     "group_name": "PLUMBING",
-    "purchase_rate": 113.27999877929688,
-    "sale_rate": 180.0,
+    "purchase_rate": 156.35000610351562,
+    "sale_rate": 190.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -43738,8 +43738,8 @@
   {
     "item_name": "DIE 60G DIE DRINDING EMERY (25X25) BULLET",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 17.239999771118164,
-    "sale_rate": 50.0,
+    "purchase_rate": 41.29999923706055,
+    "sale_rate": 55.0,
     "hsn_code": "68053000",
     "unit": "Nos"
   },
@@ -43770,8 +43770,8 @@
   {
     "item_name": "DIE 60G DIE GRINDING EMERY(40X25) BULLET",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 26.0,
-    "sale_rate": 50.0,
+    "purchase_rate": 56.63999938964844,
+    "sale_rate": 65.0,
     "hsn_code": "68053000",
     "unit": "Nos"
   },
@@ -43802,7 +43802,7 @@
   {
     "item_name": "DIE 80G DIE GRINDING EMERY(25X25)  BIPICO",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 19.163000106811523,
+    "purchase_rate": 41.29999923706055,
     "sale_rate": 60.0,
     "hsn_code": "68042210",
     "unit": "Nos"
@@ -43946,8 +43946,8 @@
   {
     "item_name": "DIE A34 GRINDING WHEEL (BLACK-FINE)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 12.0,
-    "sale_rate": 40.0,
+    "purchase_rate": 28.31999969482422,
+    "sale_rate": 50.0,
     "hsn_code": "68042190",
     "unit": "Nos"
   },
@@ -46626,8 +46626,8 @@
   {
     "item_name": "DR 160 X 16 DRILL BIT (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 162.05999755859375,
-    "sale_rate": 200.0,
+    "purchase_rate": 207.0399932861328,
+    "sale_rate": 250.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -72098,7 +72098,7 @@
   {
     "item_name": "GREESE GUN HANDLE (PNEUMATIC)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1590.1400146484375,
+    "purchase_rate": 1661.8800048828125,
     "sale_rate": 1850.0,
     "hsn_code": "84131110",
     "unit": "Nos"
@@ -75571,7 +75571,7 @@
     "item_name": "HIGH HEAT BLACK (600-MRF) 4LTR",
     "group_name": "PAINTS",
     "purchase_rate": 2892.1298828125,
-    "sale_rate": 3180.0,
+    "sale_rate": 3500.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -87362,8 +87362,8 @@
   {
     "item_name": "LEX 32A 1P MCB (LEXIC) S",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 180.47999572753906,
-    "sale_rate": 200.0,
+    "purchase_rate": 215.67999267578125,
+    "sale_rate": 250.0,
     "hsn_code": "85361090",
     "unit": "Nos"
   },
@@ -91946,8 +91946,8 @@
   {
     "item_name": "MA DRILLING MACHINE 12Z(POLYMAK)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 4295.2001953125,
-    "sale_rate": 4850.0,
+    "purchase_rate": 4493.43994140625,
+    "sale_rate": 4950.0,
     "hsn_code": "84672900",
     "unit": "Nos"
   },
@@ -102754,7 +102754,7 @@
   {
     "item_name": "NA 1 1/2\" STEEL NAIL",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 145.0,
+    "purchase_rate": 150.0,
     "sale_rate": 200.0,
     "hsn_code": "73170099",
     "unit": "Kg"
@@ -102954,7 +102954,7 @@
   {
     "item_name": "NA 2\" STEEL NAIL",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 137.99000549316406,
+    "purchase_rate": 150.0,
     "sale_rate": 200.0,
     "hsn_code": "73170099",
     "unit": "Kg"
@@ -123394,8 +123394,8 @@
   {
     "item_name": "RA 6NO RAWAL (PVC) APOLO",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 1.0199999809265137,
-    "sale_rate": 2.0,
+    "purchase_rate": 1.4500000476837158,
+    "sale_rate": 2.25,
     "hsn_code": "39269099",
     "unit": "Nos"
   },
@@ -139834,7 +139834,7 @@
   {
     "item_name": "SP DE 34 X 36 SPANNER (VENUS) DOUBLE END",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 227.74000549316406,
+    "purchase_rate": 262.6199951171875,
     "sale_rate": 360.0,
     "hsn_code": "82041110",
     "unit": "Nos"
@@ -149938,8 +149938,8 @@
   {
     "item_name": "TAP CHISEL 102 (150MM) TAPARIA",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 91.43000030517578,
-    "sale_rate": 110.0,
+    "purchase_rate": 95.0999984741211,
+    "sale_rate": 120.0,
     "hsn_code": "82053000",
     "unit": "Nos"
   },
@@ -149970,7 +149970,7 @@
   {
     "item_name": "TAP CHISEL 107 (300MM) TAPARIA",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 300.3299865722656,
+    "purchase_rate": 295.55999755859375,
     "sale_rate": 370.0,
     "hsn_code": "82053000",
     "unit": "Nos"
@@ -175754,7 +175754,7 @@
   {
     "item_name": "WEL CROVE PAD 4\"(BULLET)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 37.95000076293945,
+    "purchase_rate": 38.779998779296875,
     "sale_rate": 80.0,
     "hsn_code": "68052090",
     "unit": "Nos"
