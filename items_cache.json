@@ -72298,7 +72298,7 @@
   {
     "item_name": "GUM BOOT 15\" (CONCRETE) ATLANTIC",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 320.19000244140625,
+    "purchase_rate": 333.1600036621094,
     "sale_rate": 480.0,
     "hsn_code": "64019110",
     "unit": "Nos"
@@ -81555,7 +81555,7 @@
     "item_name": "JUNCTION BOX GSJB 30X20 SINTEX",
     "group_name": "ELECTRICALS",
     "purchase_rate": 826.0,
-    "sale_rate": 950.0,
+    "sale_rate": 1050.0,
     "hsn_code": "85381090",
     "unit": "Nos"
   },
@@ -86066,7 +86066,7 @@
   {
     "item_name": "LASER LEVELLER GL-C-02 BULLET",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1901.8399658203125,
+    "purchase_rate": 1967.8800048828125,
     "sale_rate": 2450.0,
     "hsn_code": "90153010",
     "unit": "Nos"
@@ -139858,7 +139858,7 @@
   {
     "item_name": "SP DE 36 X 38 SPANNER (VENUS) DOUBLE END",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 252.52000427246094,
+    "purchase_rate": 262.6199951171875,
     "sale_rate": 330.0,
     "hsn_code": "82041110",
     "unit": "Nos"
@@ -139968,19 +139968,19 @@
     "unit": "Nos"
   },
   {
+    "item_name": "SP DE 6 X 7 SPANER (BAUM) DOUBLE END",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 16.65999984741211,
+    "sale_rate": 25.0,
+    "hsn_code": "8204",
+    "unit": "Nos"
+  },
+  {
     "item_name": "SP DE 6 X 7 SPANER (TAPARIA) DOUBLE END",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 21.559999465942383,
     "sale_rate": 35.0,
     "hsn_code": "82041110",
-    "unit": "Nos"
-  },
-  {
-    "item_name": "SP DE 6 X 7 SPANER (TATA) DOUBLE END",
-    "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 19.84000015258789,
-    "sale_rate": 25.2,
-    "hsn_code": "8204",
     "unit": "Nos"
   },
   {
