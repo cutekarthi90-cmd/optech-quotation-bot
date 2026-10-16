@@ -13194,8 +13194,8 @@
   {
     "item_name": "AS RB22-4LT ROYAL EML (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 2046.946044921875,
-    "sale_rate": 2155.0,
+    "purchase_rate": 2284.597900390625,
+    "sale_rate": 2400.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -25834,7 +25834,7 @@
   {
     "item_name": "BO 50MM X 6MM BOLT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 130.97999572753906,
+    "purchase_rate": 132.16000366210938,
     "sale_rate": 145.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -25914,7 +25914,7 @@
   {
     "item_name": "BO 65MM X 10MM BOLT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 125.08000183105469,
+    "purchase_rate": 126.26000213623047,
     "sale_rate": 145.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -31394,7 +31394,7 @@
   {
     "item_name": "BUTANE GAS GUN (9001) KILL",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 217.8280029296875,
+    "purchase_rate": 212.39999389648438,
     "sale_rate": 350.0,
     "hsn_code": "84681000",
     "unit": "Nos"
@@ -63226,7 +63226,7 @@
   {
     "item_name": "FOOD GRADE HOSE 1 1/2\"",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 286.739990234375,
+    "purchase_rate": 271.3999938964844,
     "sale_rate": 320.0,
     "hsn_code": "39173100",
     "unit": "Meter"
@@ -63451,7 +63451,7 @@
     "item_name": "FOOT VALVE 2\" GK (PVC)",
     "group_name": "PLUMBING",
     "purchase_rate": 63.88999938964844,
-    "sale_rate": 80.0,
+    "sale_rate": 90.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -65410,8 +65410,8 @@
   {
     "item_name": "G HOSE 1\" SONY FLEX (30MTR)",
     "group_name": "PLUMBING",
-    "purchase_rate": 1300.0,
-    "sale_rate": 1500.0,
+    "purchase_rate": 1350.0,
+    "sale_rate": 1550.0,
     "hsn_code": "39174000",
     "unit": "Roll"
   },
@@ -67554,7 +67554,7 @@
   {
     "item_name": "GI 20KG GI WIRE (ROLL)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 104.98999786376953,
+    "purchase_rate": 107.0,
     "sale_rate": 130.0,
     "hsn_code": "721720",
     "unit": "Kg"
@@ -92659,7 +92659,7 @@
     "item_name": "MA PATTI MACHINE (BULLET) GREEN WITH ROD",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 2332.89990234375,
-    "sale_rate": 2950.0,
+    "sale_rate": 2850.0,
     "hsn_code": "84678100",
     "unit": "Nos"
   },
@@ -107290,7 +107290,7 @@
   {
     "item_name": "NU 6MM CF NUT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 132.16000366210938,
+    "purchase_rate": 134.52000427246094,
     "sale_rate": 150.0,
     "hsn_code": "73181600",
     "unit": "Kg"
@@ -113538,7 +113538,7 @@
   {
     "item_name": "PN 14MM HOSE (10MM)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 89.68000030517578,
+    "purchase_rate": 92.80000305175781,
     "sale_rate": 110.0,
     "hsn_code": "39173290",
     "unit": "Meter"
