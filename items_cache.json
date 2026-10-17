@@ -5842,8 +5842,8 @@
   {
     "item_name": "AS 20LT ALUMI PAINT (HIGH HEAT 250C) 0300+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 7579.66015625,
-    "sale_rate": 8240.0,
+    "purchase_rate": 7753.35498046875,
+    "sale_rate": 8425.0,
     "hsn_code": "32089090",
     "unit": "Nos"
   },
@@ -14986,7 +14986,7 @@
   {
     "item_name": "AS THINNER-1LT (ASIAN)-NRML",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 1.0,
+    "purchase_rate": 154.6999969482422,
     "sale_rate": 200.0,
     "hsn_code": "38140010",
     "unit": "Nos"
@@ -98832,6 +98832,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "MRF OAK YELLOW WOOD STAIN 100ML",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 52.650001525878906,
+    "sale_rate": 60.0,
+    "hsn_code": "32139000",
+    "unit": "Nos"
+  },
+  {
     "item_name": "MRF OK YELLOW STAIN 1LTR",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 396.4800109863281,
@@ -99160,6 +99168,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "MRF ROSE  WOOD STAIN 100ML",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 52.650001525878906,
+    "sale_rate": 60.0,
+    "hsn_code": "32139000",
+    "unit": "Nos"
+  },
+  {
     "item_name": "MRF SA 1LT B.GRE (PU-MAT-SPECTA)",
     "group_name": "PAINTS",
     "purchase_rate": 342.1700134277344,
@@ -99301,6 +99317,14 @@
     "purchase_rate": 523.1790161132812,
     "sale_rate": 580.0,
     "hsn_code": "32082090",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "MRF TEAK WOOD STAIN 100ML",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 52.652000427246094,
+    "sale_rate": 60.0,
+    "hsn_code": "32139000",
     "unit": "Nos"
   },
   {
@@ -99466,8 +99490,8 @@
   {
     "item_name": "MRF WALNUT WOOD STAIN 100ML",
     "group_name": "PAINTS",
-    "purchase_rate": 48.75,
-    "sale_rate": 55.0,
+    "purchase_rate": 52.6510009765625,
+    "sale_rate": 60.0,
     "hsn_code": "32139021",
     "unit": "Nos"
   },
@@ -126386,7 +126410,7 @@
   {
     "item_name": "RO 9\" INT-ASIAN ROLLER BRUSH (990-PLUS)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 212.99000549316406,
+    "purchase_rate": 201.8000030517578,
     "sale_rate": 250.0,
     "hsn_code": "96034020",
     "unit": "Nos"
@@ -133963,8 +133987,8 @@
     "item_name": "SC BOX 50 X 6 WOOD (100PS-GOWRI)",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 105.0199966430664,
-    "sale_rate": 121.8,
-    "hsn_code": "7318",
+    "sale_rate": 130.0,
+    "hsn_code": "73181500",
     "unit": "Box"
   },
   {
