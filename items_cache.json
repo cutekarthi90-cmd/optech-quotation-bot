@@ -434,8 +434,8 @@
   {
     "item_name": "2\" NRV VERTICAL (YASH)",
     "group_name": "PLUMBING",
-    "purchase_rate": 1077.06005859375,
-    "sale_rate": 1600.0,
+    "purchase_rate": 1561.2900390625,
+    "sale_rate": 1750.0,
     "hsn_code": "84818020",
     "unit": "Nos"
   },
@@ -42618,7 +42618,7 @@
   {
     "item_name": "CRI PLANO 52 (0.5HP)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 7641.72021484375,
+    "purchase_rate": 7364.1201171875,
     "sale_rate": 8450.0,
     "hsn_code": "84138130",
     "unit": "Nos"
@@ -42682,8 +42682,8 @@
   {
     "item_name": "CRI SHINE-100 (1HP)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 5352.68994140625,
-    "sale_rate": 5900.0,
+    "purchase_rate": 5567.10986328125,
+    "sale_rate": 6150.0,
     "hsn_code": "84138130",
     "unit": "Nos"
   },
@@ -63442,8 +63442,8 @@
   {
     "item_name": "FOOT VALVE 2\" CRI",
     "group_name": "PLUMBING",
-    "purchase_rate": 903.8300170898438,
-    "sale_rate": 1060.0,
+    "purchase_rate": 1030.2099609375,
+    "sale_rate": 1130.0,
     "hsn_code": "84813000",
     "unit": "Nos"
   },
@@ -104226,7 +104226,7 @@
   {
     "item_name": "NI 2\" X 12\" B.NIPPLE",
     "group_name": "PLUMBING",
-    "purchase_rate": 156.91000366210938,
+    "purchase_rate": 163.3000030517578,
     "sale_rate": 210.0,
     "hsn_code": "73063090",
     "unit": "Nos"
@@ -110098,7 +110098,7 @@
   {
     "item_name": "PI 11/2 PIPE CLAMP (SS)",
     "group_name": "PLUMBING",
-    "purchase_rate": 10.640000343322754,
+    "purchase_rate": 9.220000267028809,
     "sale_rate": 15.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -112154,8 +112154,8 @@
   {
     "item_name": "PLATO GRAB BAR 300MM",
     "group_name": "PLUMBING",
-    "purchase_rate": 1109.7900390625,
-    "sale_rate": 1300.0,
+    "purchase_rate": 1557.5999755859375,
+    "sale_rate": 1750.0,
     "hsn_code": "83025000",
     "unit": "Nos"
   },
@@ -121800,6 +121800,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "PW URINAL BASIN (FLAT) WHITE",
+    "group_name": "PLUMBING",
+    "purchase_rate": 1837.489990234375,
+    "sale_rate": 2030.0,
+    "hsn_code": "69101000",
+    "unit": "Nos"
+  },
+  {
     "item_name": "PW URINAL BASIN NIAGARA",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 1950.0,
@@ -121826,8 +121834,8 @@
   {
     "item_name": "PW WASH BASIN (INDUS-WHITE)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1500.0,
-    "sale_rate": 1700.0,
+    "purchase_rate": 1612.489990234375,
+    "sale_rate": 1780.0,
     "hsn_code": "69101000",
     "unit": "Nos"
   },
