@@ -16978,7 +16978,7 @@
   {
     "item_name": "AST 2 1/2\" SHOE (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 59.12900161743164,
+    "purchase_rate": 60.58000183105469,
     "sale_rate": 75.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -17930,8 +17930,8 @@
   {
     "item_name": "AST 5 X 4 REDUCER (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 138.61000061035156,
-    "sale_rate": 180.0,
+    "purchase_rate": 188.80999755859375,
+    "sale_rate": 220.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -25970,8 +25970,8 @@
   {
     "item_name": "BO 7\" X 1/2\" BOLT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 118.0,
-    "sale_rate": 130.0,
+    "purchase_rate": 123.98999786376953,
+    "sale_rate": 136.0,
     "hsn_code": "73181500",
     "unit": "Kg"
   },
@@ -31746,7 +31746,7 @@
   {
     "item_name": "CA 20MM NRML CASING PIPE (5/8TH)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 30.0,
+    "purchase_rate": 34.9900016784668,
     "sale_rate": 45.0,
     "hsn_code": "39162019",
     "unit": "Nos"
@@ -39492,7 +39492,7 @@
     "group_name": "PLUMBING",
     "purchase_rate": 1146.68994140625,
     "sale_rate": 1260.0,
-    "hsn_code": "3917",
+    "hsn_code": "39172390",
     "unit": "LENGTH"
   },
   {
@@ -40786,8 +40786,8 @@
   {
     "item_name": "CPVC 3/4\" X 1/2\" BRASS TEE",
     "group_name": "PLUMBING",
-    "purchase_rate": 81.31999969482422,
-    "sale_rate": 90.0,
+    "purchase_rate": 90.86000061035156,
+    "sale_rate": 100.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -45530,8 +45530,8 @@
   {
     "item_name": "DR (M-35) 6MM TOTEM DRILL BIT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 140.64999389648438,
-    "sale_rate": 180.0,
+    "purchase_rate": 154.70799255371094,
+    "sale_rate": 190.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -63312,6 +63312,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "FOOT VALVE 1 1/4\" (GK-FLAP)",
+    "group_name": "PLUMBING",
+    "purchase_rate": 39.040000915527344,
+    "sale_rate": 50.0,
+    "hsn_code": "39174000",
+    "unit": "Nos"
+  },
+  {
     "item_name": "FOOT VALVE 1 1/4\" (LEO)",
     "group_name": "PLUMBING",
     "purchase_rate": 73.31999969482422,
@@ -76146,8 +76154,8 @@
   {
     "item_name": "HO 3\" HOSE COLLER (CI)",
     "group_name": "PLUMBING",
-    "purchase_rate": 110.75,
-    "sale_rate": 210.0,
+    "purchase_rate": 178.9199981689453,
+    "sale_rate": 240.0,
     "hsn_code": "84818010",
     "unit": "Nos"
   },
@@ -106986,7 +106994,7 @@
   {
     "item_name": "NU 1\" DF NUT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 142.0,
+    "purchase_rate": 143.99000549316406,
     "sale_rate": 160.0,
     "hsn_code": "73181600",
     "unit": "Kg"
@@ -133450,8 +133458,8 @@
   {
     "item_name": "SC BOX 3/4 X 3/16 MACHINE SCREW (200PC)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 114.0,
-    "sale_rate": 150.0,
+    "purchase_rate": 120.0,
+    "sale_rate": 160.0,
     "hsn_code": "73181500",
     "unit": "Box"
   },
@@ -140690,7 +140698,7 @@
   {
     "item_name": "SP SET-DEP-8 (DBL-END) TAPARIA",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 287.69000244140625,
+    "purchase_rate": 283.1199951171875,
     "sale_rate": 360.0,
     "hsn_code": "82041110",
     "unit": "Set"
@@ -162642,8 +162650,8 @@
   {
     "item_name": "UPVC 1 1/2\" COUPLING (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 31.860000610351562,
-    "sale_rate": 36.0,
+    "purchase_rate": 33.630001068115234,
+    "sale_rate": 40.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -162738,8 +162746,8 @@
   {
     "item_name": "UPVC 1 1/2\" TEE (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 66.26000213623047,
-    "sale_rate": 74.0,
+    "purchase_rate": 69.94999694824219,
+    "sale_rate": 78.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -165634,8 +165642,8 @@
   {
     "item_name": "V GUARD STABILIZER (VG400)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 1800.0,
-    "sale_rate": 2050.0,
+    "purchase_rate": 1879.989990234375,
+    "sale_rate": 2100.0,
     "hsn_code": "90328910",
     "unit": "Nos"
   },
@@ -170042,8 +170050,8 @@
   {
     "item_name": "VIBRATER  BULLET MACHINE ONLY",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1556.0799560546875,
-    "sale_rate": 1800.0,
+    "purchase_rate": 1649.280029296875,
+    "sale_rate": 1830.0,
     "hsn_code": "84678100",
     "unit": "Nos"
   },
@@ -170058,7 +170066,7 @@
   {
     "item_name": "VIBRATER NEEDLE ONLY (2MTR) BULLET",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1193.280029296875,
+    "purchase_rate": 1232.9599609375,
     "sale_rate": 1600.0,
     "hsn_code": "84749000",
     "unit": "Nos"
@@ -171810,7 +171818,7 @@
   {
     "item_name": "WA 3/8\" WASER (MS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 104.01000213623047,
+    "purchase_rate": 109.98999786376953,
     "sale_rate": 130.0,
     "hsn_code": "73182200",
     "unit": "Kg"
@@ -171898,7 +171906,7 @@
   {
     "item_name": "WA 5/8\" WASER (MS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 104.0,
+    "purchase_rate": 109.98999786376953,
     "sale_rate": 130.0,
     "hsn_code": "73182200",
     "unit": "Kg"
@@ -176354,7 +176362,7 @@
   {
     "item_name": "WI 1\" 2MM WIRING PIPE (VIJAY)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 77.86000061035156,
+    "purchase_rate": 75.95999908447266,
     "sale_rate": 85.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
