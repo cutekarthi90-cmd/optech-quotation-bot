@@ -124824,6 +124824,14 @@
     "unit": "Pocket"
   },
   {
+    "item_name": "RED OXIDE POWDER (LOOSE)",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 0.0,
+    "sale_rate": 200.0,
+    "hsn_code": "26011290",
+    "unit": "Kg"
+  },
+  {
     "item_name": "RED OXIDE-20LT-SUPER",
     "group_name": "PAINTS",
     "purchase_rate": 1922.0,
