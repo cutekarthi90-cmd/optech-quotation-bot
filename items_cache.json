@@ -11730,9 +11730,9 @@
   {
     "item_name": "AS OK YELLOW WOOD STAIN 100ML (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 37.70000076293945,
-    "sale_rate": 40.0,
-    "hsn_code": "34052000",
+    "purchase_rate": 52.130001068115234,
+    "sale_rate": 65.0,
+    "hsn_code": "321390",
     "unit": "Nos"
   },
   {
@@ -13378,9 +13378,9 @@
   {
     "item_name": "AS ROSE WOOD-WOOD STAIN 100ML (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 48.0,
-    "sale_rate": 60.0,
-    "hsn_code": "34052000",
+    "purchase_rate": 52.130001068115234,
+    "sale_rate": 65.0,
+    "hsn_code": "321390",
     "unit": "Nos"
   },
   {
@@ -14858,9 +14858,9 @@
   {
     "item_name": "AS TEAK WOOD-WOOD STAIN 100ML (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 34.75,
-    "sale_rate": 40.0,
-    "hsn_code": "34052000",
+    "purchase_rate": 52.130001068115234,
+    "sale_rate": 65.0,
+    "hsn_code": "321390",
     "unit": "Nos"
   },
   {
@@ -15843,8 +15843,8 @@
     "item_name": "AS WALNUT WOOD STAIN 100ML (ASIAN)",
     "group_name": "PAINTS",
     "purchase_rate": 52.12699890136719,
-    "sale_rate": 60.0,
-    "hsn_code": "34052000",
+    "sale_rate": 65.0,
+    "hsn_code": "321390",
     "unit": "Nos"
   },
   {
