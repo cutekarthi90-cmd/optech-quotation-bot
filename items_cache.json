@@ -13787,7 +13787,7 @@
     "item_name": "AS RS 4LT SMK GREY (GLSY-ENAMEL)-ASIAN",
     "group_name": "PAINTS",
     "purchase_rate": 997.6900024414062,
-    "sale_rate": 1050.0,
+    "sale_rate": 1150.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -15076,7 +15076,7 @@
     "group_name": "PAINTS",
     "purchase_rate": 283.6099853515625,
     "sale_rate": 300.0,
-    "hsn_code": "3208",
+    "hsn_code": "32089021",
     "unit": "Nos"
   },
   {
@@ -128466,8 +128466,8 @@
   {
     "item_name": "RU WHITE 1LT RUBBER PAINT-ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 377.78900146484375,
-    "sale_rate": 410.0,
+    "purchase_rate": 496.1199951171875,
+    "sale_rate": 540.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
