@@ -22522,7 +22522,7 @@
   {
     "item_name": "BL 14\" BOSCH CUTOFF WHEEL( STANDARD)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 122.75,
+    "purchase_rate": 129.0,
     "sale_rate": 150.0,
     "hsn_code": "68042210",
     "unit": "Nos"
@@ -23836,6 +23836,14 @@
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 93.91999816894531,
     "sale_rate": 110.0,
+    "hsn_code": "68042210",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "BL 7\" GRINDING WHEEL (BOSCH) PRO",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 132.64999389648438,
+    "sale_rate": 150.0,
     "hsn_code": "68042210",
     "unit": "Nos"
   },
@@ -35520,6 +35528,22 @@
     "unit": "Nos"
   },
   {
+    "item_name": "CHISEL BOXER SMALL 125MM",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 472.0,
+    "sale_rate": 700.0,
+    "hsn_code": "82075000",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "CHISEL BOXER SMALL 150MM",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 944.0,
+    "sale_rate": 1300.0,
+    "hsn_code": "82075000",
+    "unit": "Nos"
+  },
+  {
     "item_name": "CI  90AX CIR CLIP",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 16.989999771118164,
@@ -38274,8 +38298,8 @@
   {
     "item_name": "CORE BIT (A/C) 35MM",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 203.17999267578125,
-    "sale_rate": 240.0,
+    "purchase_rate": 262.0,
+    "sale_rate": 340.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -38290,8 +38314,8 @@
   {
     "item_name": "CORE BIT (A/C) 50MM 2\"",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 241.8699951171875,
-    "sale_rate": 300.0,
+    "purchase_rate": 373.0,
+    "sale_rate": 500.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -38314,7 +38338,7 @@
   {
     "item_name": "CORE BIT (A/C-HANDLE)300MM BULLET",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 230.27999877929688,
+    "purchase_rate": 243.0,
     "sale_rate": 460.0,
     "hsn_code": "82075000",
     "unit": "Nos"
@@ -38749,6 +38773,14 @@
     "purchase_rate": 505.67999267578125,
     "sale_rate": 790.0,
     "hsn_code": "82079090",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "CORE BIT 33MM (GRANITE) 2IN1-(BULLET) SILVER",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 383.0,
+    "sale_rate": 450.0,
+    "hsn_code": "82075000",
     "unit": "Nos"
   },
   {
@@ -90954,8 +90986,8 @@
   {
     "item_name": "MA 14\" CUT OFF MACHINE (BOSCH)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 11109.7001953125,
-    "sale_rate": 11700.0,
+    "purchase_rate": 11906.2001953125,
+    "sale_rate": 12500.0,
     "hsn_code": "84672100",
     "unit": "Nos"
   },
@@ -94650,15 +94682,15 @@
   {
     "item_name": "MCB 2POLE MCB BOX(METAL)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 73.16000366210938,
-    "sale_rate": 95.0,
+    "purchase_rate": 83.0,
+    "sale_rate": 110.0,
     "hsn_code": "85381010",
     "unit": "Nos"
   },
   {
     "item_name": "MCB 4POLE MCB BOX (METAL)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 114.45999908447266,
+    "purchase_rate": 124.0,
     "sale_rate": 150.0,
     "hsn_code": "85369090",
     "unit": "Nos"
@@ -102218,8 +102250,8 @@
   {
     "item_name": "MY REGULATOR 1M (MYLINC)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 317.6199951171875,
-    "sale_rate": 350.0,
+    "purchase_rate": 343.2099914550781,
+    "sale_rate": 380.0,
     "hsn_code": "84149030",
     "unit": "Nos"
   },
@@ -112130,8 +112162,8 @@
   {
     "item_name": "PLATO CP FLANGE",
     "group_name": "PLUMBING",
-    "purchase_rate": 36.9900016784668,
-    "sale_rate": 45.0,
+    "purchase_rate": 41.0,
+    "sale_rate": 48.0,
     "hsn_code": "84818090",
     "unit": "Nos"
   },
@@ -128714,7 +128746,7 @@
   {
     "item_name": "RUSTLICK 133ML",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 179.3300018310547,
+    "purchase_rate": 176.0,
     "sale_rate": 210.0,
     "hsn_code": "34031900",
     "unit": "Nos"
