@@ -42152,6 +42152,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "CRI 2HP ACM 19 MONOBLOCK MOTOR",
+    "group_name": "ELECTRICALS",
+    "purchase_rate": 18300.0,
+    "sale_rate": 21050.0,
+    "hsn_code": "84138190",
+    "unit": "Nos"
+  },
+  {
     "item_name": "CRI 2HP MONO BLOCK MOTOR",
     "group_name": "ELECTRICALS",
     "purchase_rate": 16500.0,
