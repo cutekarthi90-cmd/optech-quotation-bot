@@ -16546,8 +16546,8 @@
   {
     "item_name": "AST 1 1/2\" SHOE (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 27.75,
-    "sale_rate": 35.0,
+    "purchase_rate": 29.25,
+    "sale_rate": 38.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -17194,7 +17194,7 @@
   {
     "item_name": "AST 2\" X 1 1/2\" REDUCER (ASTROL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 28.690000534057617,
+    "purchase_rate": 32.0,
     "sale_rate": 45.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -17306,8 +17306,8 @@
   {
     "item_name": "AST 3 FLANGE (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 174.33999633789062,
-    "sale_rate": 280.0,
+    "purchase_rate": 260.0,
+    "sale_rate": 310.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -17778,8 +17778,8 @@
   {
     "item_name": "AST 4\" SHOE (ASTRAL) 4KG",
     "group_name": "PLUMBING",
-    "purchase_rate": 107.06999969482422,
-    "sale_rate": 125.0,
+    "purchase_rate": 138.1999969482422,
+    "sale_rate": 160.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -17826,8 +17826,8 @@
   {
     "item_name": "AST 4\" TEE-ASTRAL (LW)",
     "group_name": "PLUMBING",
-    "purchase_rate": 112.55999755859375,
-    "sale_rate": 140.0,
+    "purchase_rate": 134.0,
+    "sale_rate": 160.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -17842,7 +17842,7 @@
   {
     "item_name": "AST 4\" X 2 1/2\" R BUSH (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 90.86000061035156,
+    "purchase_rate": 93.0,
     "sale_rate": 110.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -19426,7 +19426,7 @@
   {
     "item_name": "BA 1/2\" BALLVALVE (MATRIX)",
     "group_name": "PLUMBING",
-    "purchase_rate": 364.2300109863281,
+    "purchase_rate": 357.0,
     "sale_rate": 400.0,
     "hsn_code": "84818090",
     "unit": "Nos"
@@ -31874,7 +31874,7 @@
   {
     "item_name": "CA 50MM CASINGN PIPE (2\")",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 96.0,
+    "purchase_rate": 86.0,
     "sale_rate": 115.0,
     "hsn_code": "39162019",
     "unit": "Nos"
@@ -32826,7 +32826,7 @@
   {
     "item_name": "CARBON 6-100 (BULLET)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 11.0,
+    "purchase_rate": 12.0,
     "sale_rate": 50.0,
     "hsn_code": "85452000",
     "unit": "Nos"
@@ -38162,8 +38162,8 @@
   {
     "item_name": "COPPER 10SWG",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 1583.56005859375,
-    "sale_rate": 1760.0,
+    "purchase_rate": 1770.0,
+    "sale_rate": 1950.0,
     "hsn_code": "74081990",
     "unit": "Kg"
   },
@@ -39074,7 +39074,7 @@
   {
     "item_name": "COTTER 1/4\"",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 15.130000114440918,
+    "purchase_rate": 16.0,
     "sale_rate": 30.0,
     "hsn_code": "73182400",
     "unit": "Nos"
@@ -45442,8 +45442,8 @@
   {
     "item_name": "DR (M-35) 10MM TOTEM DRILL BIT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 400.489990234375,
-    "sale_rate": 480.0,
+    "purchase_rate": 440.6000061035156,
+    "sale_rate": 510.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -48050,8 +48050,8 @@
   {
     "item_name": "DR 310 X 10 DRILL BIT (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 112.25,
-    "sale_rate": 150.0,
+    "purchase_rate": 143.39999389648438,
+    "sale_rate": 170.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -48122,8 +48122,8 @@
   {
     "item_name": "DR 310 X18 DRILL BIT (TAARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 373.92999267578125,
-    "sale_rate": 420.0,
+    "purchase_rate": 368.0,
+    "sale_rate": 430.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -53842,7 +53842,7 @@
   {
     "item_name": "EMPIRE TAPE",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 84.0,
+    "purchase_rate": 95.0,
     "sale_rate": 130.0,
     "hsn_code": "39173990",
     "unit": "Nos"
@@ -60058,8 +60058,8 @@
   {
     "item_name": "FI 1\" 2MM FINOLEX PIPE",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 107.26000213623047,
-    "sale_rate": 118.0,
+    "purchase_rate": 104.0,
+    "sale_rate": 114.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
@@ -60362,7 +60362,7 @@
   {
     "item_name": "FI 3/4\" 2MM FINOLEX PIPE",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 71.83000183105469,
+    "purchase_rate": 70.0,
     "sale_rate": 80.0,
     "hsn_code": "39172390",
     "unit": "Nos"
@@ -69354,8 +69354,8 @@
   {
     "item_name": "GLOBE VALVE 20MM (CI) ZOLOTO FLANGE END",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 2243.64990234375,
-    "sale_rate": 2700.0,
+    "purchase_rate": 2450.0,
+    "sale_rate": 2800.0,
     "hsn_code": "84818030",
     "unit": "Nos"
   },
@@ -80802,7 +80802,7 @@
   {
     "item_name": "JB WOOD HOLE SAW 25MM (1\")",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 159.99000549316406,
+    "purchase_rate": 114.0,
     "sale_rate": 190.0,
     "hsn_code": "82075000",
     "unit": "Nos"
@@ -100698,7 +100698,7 @@
   {
     "item_name": "MS 2\" FLANGE (SINGL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 161.7100067138672,
+    "purchase_rate": 156.0,
     "sale_rate": 230.0,
     "hsn_code": "73079190",
     "unit": "Nos"
@@ -110210,7 +110210,7 @@
   {
     "item_name": "PI 11/4\" PIPE CLIP (SS)",
     "group_name": "PLUMBING",
-    "purchase_rate": 29.729999542236328,
+    "purchase_rate": 26.0,
     "sale_rate": 45.0,
     "hsn_code": "73079990",
     "unit": "Nos"
@@ -110298,7 +110298,7 @@
   {
     "item_name": "PI 2\" PIPE CLIP  (SS)",
     "group_name": "PLUMBING",
-    "purchase_rate": 33.040000915527344,
+    "purchase_rate": 37.0,
     "sale_rate": 60.0,
     "hsn_code": "73079990",
     "unit": "Nos"
@@ -134944,18 +134944,18 @@
     "unit": "Nos"
   },
   {
-    "item_name": "SENSOR (PROXIMITY) DOLPHIN AUTOMATION AC",
+    "item_name": "SENSOR (PROXIMITY) NC",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 413.0,
+    "purchase_rate": 295.0,
     "sale_rate": 550.0,
     "hsn_code": "85369090",
     "unit": "Nos"
   },
   {
-    "item_name": "SENSOR (PROXIMITY) NC",
+    "item_name": "SENSOR (PROXIMITY) NPN NO 12MM",
     "group_name": "ELECTRICALS",
     "purchase_rate": 295.0,
-    "sale_rate": 550.0,
+    "sale_rate": 400.0,
     "hsn_code": "85369090",
     "unit": "Nos"
   },
@@ -148354,8 +148354,8 @@
   {
     "item_name": "TA (A.G) 1/2\" ANGLE COCK (FINE) 505",
     "group_name": "PLUMBING",
-    "purchase_rate": 391.4289855957031,
-    "sale_rate": 490.0,
+    "purchase_rate": 592.5,
+    "sale_rate": 680.0,
     "hsn_code": "84818020",
     "unit": "Nos"
   },
@@ -157202,8 +157202,8 @@
   {
     "item_name": "U BOLT 3\"",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 140.0,
-    "sale_rate": 190.0,
+    "purchase_rate": 16.0,
+    "sale_rate": 22.0,
     "hsn_code": "73181500",
     "unit": "Kg"
   },
@@ -170288,6 +170288,14 @@
     "unit": "Meter"
   },
   {
+    "item_name": "VINYL HOSE 11/4\"(30MTR)",
+    "group_name": "ELECTRICALS",
+    "purchase_rate": 71.0,
+    "sale_rate": 85.0,
+    "hsn_code": "39173990",
+    "unit": "Meter"
+  },
+  {
     "item_name": "VINYL HOSE 3/4\" (60MTR)",
     "group_name": "ELECTRICALS",
     "purchase_rate": 25.959999084472656,
@@ -177922,8 +177930,8 @@
   {
     "item_name": "WT SPINDLE (WATER TEC)",
     "group_name": "PLUMBING",
-    "purchase_rate": 50.2400016784668,
-    "sale_rate": 70.0,
+    "purchase_rate": 67.0,
+    "sale_rate": 90.0,
     "hsn_code": "39172190",
     "unit": "Nos"
   },
