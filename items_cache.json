@@ -474,7 +474,7 @@
   {
     "item_name": "21/2\" NRV BALL TYPE",
     "group_name": "PLUMBING",
-    "purchase_rate": 1080.0,
+    "purchase_rate": 1298.0,
     "sale_rate": 1800.0,
     "hsn_code": "84813000",
     "unit": "Nos"
@@ -658,8 +658,8 @@
   {
     "item_name": "3/4\" NRV DISC TYPE",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 498.07000732421875,
-    "sale_rate": 600.0,
+    "purchase_rate": 528.0,
+    "sale_rate": 630.0,
     "hsn_code": "84813000",
     "unit": "Nos"
   },
@@ -813,6 +813,14 @@
     "purchase_rate": 460.0,
     "sale_rate": 510.0,
     "hsn_code": "3919",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "3M DOUBLE TAPE 12MM X 10M",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 240.0,
+    "sale_rate": 290.0,
+    "hsn_code": "39199090",
     "unit": "Nos"
   },
   {
@@ -4842,7 +4850,7 @@
   {
     "item_name": "ARALDITE 36GM",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 97.0199966430664,
+    "purchase_rate": 95.86000061035156,
     "sale_rate": 115.0,
     "hsn_code": "35069190",
     "unit": "Nos"
@@ -7826,8 +7834,8 @@
   {
     "item_name": "AS BW16-4LT  PRE EML (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 995.4400024414062,
-    "sale_rate": 1050.0,
+    "purchase_rate": 1367.6199951171875,
+    "sale_rate": 1440.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -7882,8 +7890,8 @@
   {
     "item_name": "AS BW22N-4LT  PRE EML (ASIAN) +",
     "group_name": "PAINTS",
-    "purchase_rate": 1080.6400146484375,
-    "sale_rate": 1140.0,
+    "purchase_rate": 1228.615966796875,
+    "sale_rate": 1300.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -13546,8 +13554,8 @@
   {
     "item_name": "AS ROYAL MAT 10LT WHITE (ASIAN)-K",
     "group_name": "PAINTS",
-    "purchase_rate": 6156.5322265625,
-    "sale_rate": 6480.0,
+    "purchase_rate": 6414.36181640625,
+    "sale_rate": 6750.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -17786,8 +17794,8 @@
   {
     "item_name": "AST 4\" SHOE (ASTRAL) 4KG",
     "group_name": "PLUMBING",
-    "purchase_rate": 138.1999969482422,
-    "sale_rate": 160.0,
+    "purchase_rate": 107.05999755859375,
+    "sale_rate": 130.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -26690,8 +26698,8 @@
   {
     "item_name": "BR 1/2\" UDAYA BRUSH",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 6.0,
-    "sale_rate": 15.0,
+    "purchase_rate": 14.0,
+    "sale_rate": 20.0,
     "hsn_code": "96034010",
     "unit": "Nos"
   },
@@ -41434,16 +41442,16 @@
   {
     "item_name": "CR EXT FAN 6\" (BRISK AIR-CROMPTON)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 1190.0,
-    "sale_rate": 1350.0,
+    "purchase_rate": 1270.0,
+    "sale_rate": 1500.0,
     "hsn_code": "84145190",
     "unit": "Nos"
   },
   {
     "item_name": "CR EXT FAN 8\" (BRISK AIR-CROMPTON)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 1300.0,
-    "sale_rate": 1500.0,
+    "purchase_rate": 1390.0,
+    "sale_rate": 1530.0,
     "hsn_code": "84145190",
     "unit": "Nos"
   },
@@ -62066,7 +62074,7 @@
   {
     "item_name": "FL 120NO FLAP DISC (JB)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 21.989999771118164,
+    "purchase_rate": 24.0,
     "sale_rate": 30.0,
     "hsn_code": "68042220",
     "unit": "Nos"
@@ -62274,7 +62282,7 @@
   {
     "item_name": "FL 4\" FLANGE WASER (ROUND)",
     "group_name": "PLUMBING",
-    "purchase_rate": 12.670000076293945,
+    "purchase_rate": 13.25,
     "sale_rate": 20.0,
     "hsn_code": "40169350",
     "unit": "Nos"
@@ -67490,7 +67498,7 @@
   {
     "item_name": "GI 2 1/2\" H.NIPPLE(CI)",
     "group_name": "PLUMBING",
-    "purchase_rate": 70.29000091552734,
+    "purchase_rate": 72.0,
     "sale_rate": 110.0,
     "hsn_code": "73071110",
     "unit": "Nos"
@@ -71186,16 +71194,16 @@
   {
     "item_name": "GR 12MM BRAIDED HOSE (100MTR)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 4400.0,
-    "sale_rate": 5000.0,
+    "purchase_rate": 4800.0,
+    "sale_rate": 5400.0,
     "hsn_code": "39172390",
     "unit": "Roll"
   },
   {
     "item_name": "GR 12MM BRAIDED HOSE (MTR)",
     "group_name": "PLUMBING",
-    "purchase_rate": 44.0,
-    "sale_rate": 56.0,
+    "purchase_rate": 48.0,
+    "sale_rate": 58.0,
     "hsn_code": "39172390",
     "unit": "Meter"
   },
@@ -75994,7 +76002,7 @@
   {
     "item_name": "HO 1/2\" X 5/16 (8MM) HOSE COLLER (BRASS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 51.91999816894531,
+    "purchase_rate": 58.0,
     "sale_rate": 70.0,
     "hsn_code": "74122012",
     "unit": "Nos"
@@ -78770,7 +78778,7 @@
   {
     "item_name": "INSULATION TAPE (WONDER)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 15.75,
+    "purchase_rate": 15.510000228881836,
     "sale_rate": 20.0,
     "hsn_code": "85469090",
     "unit": "Nos"
@@ -80706,7 +80714,7 @@
   {
     "item_name": "JB RIVIT GUN 32\" HD",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1275.27001953125,
+    "purchase_rate": 1052.010009765625,
     "sale_rate": 1410.0,
     "hsn_code": "82055990",
     "unit": "Nos"
@@ -112098,7 +112106,7 @@
   {
     "item_name": "PLATO COCKCROACH TRAP (9005) ROUND",
     "group_name": "PLUMBING",
-    "purchase_rate": 271.51800537109375,
+    "purchase_rate": 253.0,
     "sale_rate": 360.0,
     "hsn_code": "84818090",
     "unit": "Nos"
@@ -119058,8 +119066,8 @@
   {
     "item_name": "PR 4\" SHOE SWR-PRINCE)",
     "group_name": "PLUMBING",
-    "purchase_rate": 50.220001220703125,
-    "sale_rate": 78.75,
+    "purchase_rate": 62.0,
+    "sale_rate": 80.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -174336,6 +174344,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "WE MIG TORCH (36KD)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 6254.0,
+    "sale_rate": 7000.0,
+    "hsn_code": "85159000",
+    "unit": "Nos"
+  },
+  {
     "item_name": "WE NOZZLE (A 1/16) FOR ASTLINE",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 295.0,
@@ -174498,7 +174514,7 @@
   {
     "item_name": "WE PLASMA  NOZZLE CUT 60 + ELECTRODE",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 94.4000015258789,
+    "purchase_rate": 97.0,
     "sale_rate": 120.0,
     "hsn_code": "85159000",
     "unit": "Nos"
@@ -176746,7 +176762,7 @@
   {
     "item_name": "WI COUPLING 1\" (D)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 2.990000009536743,
+    "purchase_rate": 3.299999952316284,
     "sale_rate": 6.0,
     "hsn_code": "39172390",
     "unit": "Nos"
