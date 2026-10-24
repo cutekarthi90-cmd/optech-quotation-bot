@@ -30860,7 +30860,7 @@
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 0.0,
     "sale_rate": 200.0,
-    "hsn_code": "25309070",
+    "hsn_code": "34052000",
     "unit": "Kg"
   },
   {
@@ -55210,8 +55210,8 @@
   {
     "item_name": "EPOXY GOLDEN YELLOW 1LTR (ASIAN) +",
     "group_name": "PAINTS",
-    "purchase_rate": 508.0610046386719,
-    "sale_rate": 550.0,
+    "purchase_rate": 663.8699951171875,
+    "sale_rate": 730.0,
     "hsn_code": "32089090",
     "unit": "Nos"
   },
@@ -56916,7 +56916,7 @@
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 0.0,
     "sale_rate": 200.0,
-    "hsn_code": "25309070",
+    "hsn_code": "34052000",
     "unit": "Kg"
   },
   {
@@ -108380,7 +108380,7 @@
     "group_name": "PAINTS",
     "purchase_rate": 43.650001525878906,
     "sale_rate": 70.0,
-    "hsn_code": "32091090",
+    "hsn_code": "32091010",
     "unit": "Nos"
   },
   {
