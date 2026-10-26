@@ -1130,8 +1130,8 @@
   {
     "item_name": "5TON X 5MTR LIFTING BELT KANVEE",
     "group_name": "Acessoires",
-    "purchase_rate": 1146.5999755859375,
-    "sale_rate": 1700.0,
+    "purchase_rate": 1355.0,
+    "sale_rate": 1800.0,
     "hsn_code": "59113190",
     "unit": "Nos"
   },
@@ -24058,7 +24058,7 @@
   {
     "item_name": "BL BUFFING DISC (BULLET)-7P",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 44.22999954223633,
+    "purchase_rate": 43.5,
     "sale_rate": 60.0,
     "hsn_code": "68042290",
     "unit": "Nos"
@@ -44066,8 +44066,8 @@
   {
     "item_name": "DIE HANDLE ROUND 1 1/2\" (METRO)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 153.7100067138672,
-    "sale_rate": 180.0,
+    "purchase_rate": 162.0,
+    "sale_rate": 200.0,
     "hsn_code": "82074090",
     "unit": "Nos"
   },
@@ -44410,7 +44410,7 @@
   {
     "item_name": "DIGITAL MULTIMETER (WORK ZONE)  830 RED",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 720.97998046875,
+    "purchase_rate": 613.0,
     "sale_rate": 980.0,
     "hsn_code": "90303200",
     "unit": "Nos"
@@ -45466,8 +45466,8 @@
   {
     "item_name": "DR (M-35) 10MM TOTEM DRILL BIT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 440.6000061035156,
-    "sale_rate": 510.0,
+    "purchase_rate": 519.9000244140625,
+    "sale_rate": 600.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -45634,8 +45634,8 @@
   {
     "item_name": "DR (M-35) 8MM TOTEM DRILL BIT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 237.52999877929688,
-    "sale_rate": 330.0,
+    "purchase_rate": 308.0,
+    "sale_rate": 380.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -46978,7 +46978,7 @@
   {
     "item_name": "DR 18 X 400MM ( POINT) BULLET",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 169.9600067138672,
+    "purchase_rate": 172.0,
     "sale_rate": 300.0,
     "hsn_code": "82079090",
     "unit": "Nos"
@@ -47410,8 +47410,8 @@
   {
     "item_name": "DR 210 X 16 DRILL BIT (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 250.52000427246094,
-    "sale_rate": 300.0,
+    "purchase_rate": 246.60000610351562,
+    "sale_rate": 310.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -49194,8 +49194,8 @@
   {
     "item_name": "DR 8MM TOTEM DRILL BIT (HSS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 147.3800048828125,
-    "sale_rate": 190.0,
+    "purchase_rate": 240.5500030517578,
+    "sale_rate": 290.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -49330,8 +49330,8 @@
   {
     "item_name": "DR M35 10.5MM TOTEM DRILL BIT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 436.2799987792969,
-    "sale_rate": 550.0,
+    "purchase_rate": 566.0,
+    "sale_rate": 680.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -56130,7 +56130,7 @@
   {
     "item_name": "EPOXY RAL7022(ASIAN) 20LT + HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 8389.509765625,
+    "purchase_rate": 7960.705078125,
     "sale_rate": 9120.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -71706,8 +71706,8 @@
   {
     "item_name": "GR 8MM AIR HOSE YELLOW (SAMSON)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 44.880001068115234,
-    "sale_rate": 59.0,
+    "purchase_rate": 56.0,
+    "sale_rate": 64.0,
     "hsn_code": "39172950",
     "unit": "Meter"
   },
@@ -72138,8 +72138,8 @@
   {
     "item_name": "GREESE GUN 5KG (VESTA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 2973.580078125,
-    "sale_rate": 3500.0,
+    "purchase_rate": 3173.0,
+    "sale_rate": 3650.0,
     "hsn_code": "84131110",
     "unit": "Nos"
   },
@@ -87066,8 +87066,8 @@
   {
     "item_name": "LEG 3M OPEN BOX (LEGRAND) A",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 72.95999908447266,
-    "sale_rate": 85.0,
+    "purchase_rate": 80.6500015258789,
+    "sale_rate": 95.0,
     "hsn_code": "85389000",
     "unit": "Nos"
   },
@@ -87082,8 +87082,8 @@
   {
     "item_name": "LEG 4M OPEN BOX (LEGRAND) A",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 85.76000213623047,
-    "sale_rate": 105.0,
+    "purchase_rate": 94.72000122070312,
+    "sale_rate": 110.0,
     "hsn_code": "85389000",
     "unit": "Nos"
   },
@@ -91258,7 +91258,7 @@
   {
     "item_name": "MA 4\" ANGLE GRINDER (BULLET-BPT 801)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 990.030029296875,
+    "purchase_rate": 1278.0,
     "sale_rate": 1600.0,
     "hsn_code": "84678100",
     "unit": "Nos"
@@ -93306,8 +93306,8 @@
   {
     "item_name": "MAG 12MM MAGNETIC DRILL BIT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1779.43994140625,
-    "sale_rate": 2000.0,
+    "purchase_rate": 1956.0,
+    "sale_rate": 2250.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -96578,7 +96578,7 @@
   {
     "item_name": "MRF 2-BASE-MTL CT-4LT (GLSY)",
     "group_name": "PAINTS",
-    "purchase_rate": 3372.0,
+    "purchase_rate": 3371.989990234375,
     "sale_rate": 3710.0,
     "hsn_code": "32082090",
     "unit": "Nos"
@@ -96610,16 +96610,16 @@
   {
     "item_name": "MRF 4-BASE-MTL CT-1LT (MAT)",
     "group_name": "PAINTS",
-    "purchase_rate": 798.3400268554688,
-    "sale_rate": 880.0,
+    "purchase_rate": 925.97998046875,
+    "sale_rate": 1020.0,
     "hsn_code": "32082090",
     "unit": "Nos"
   },
   {
     "item_name": "MRF 4-BASE-MTL CT-4LT (MAT)",
     "group_name": "PAINTS",
-    "purchase_rate": 3127.719970703125,
-    "sale_rate": 3450.0,
+    "purchase_rate": 3632.9599609375,
+    "sale_rate": 4000.0,
     "hsn_code": "32082090",
     "unit": "Nos"
   },
@@ -98307,7 +98307,7 @@
     "item_name": "MRF GOLD 500ML (ALTURA-WATER BASE)",
     "group_name": "PAINTS",
     "purchase_rate": 485.30999755859375,
-    "sale_rate": 535.0,
+    "sale_rate": 540.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -103466,7 +103466,7 @@
   {
     "item_name": "NC 35LTR NC THINNER",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 5010.0,
+    "purchase_rate": 5031.0,
     "sale_rate": 6000.0,
     "hsn_code": "38140010",
     "unit": "Nos"
@@ -114594,7 +114594,7 @@
   {
     "item_name": "PO 10SQ  X 4C (POLYCAB)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 832.5499877929688,
+    "purchase_rate": 790.0,
     "sale_rate": 940.0,
     "hsn_code": "85446020",
     "unit": "Meter"
@@ -150818,16 +150818,16 @@
   {
     "item_name": "TAP WIRE CUTTER (TAPARIA) WS-06",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 51.290000915527344,
-    "sale_rate": 60.0,
+    "purchase_rate": 53.400001525878906,
+    "sale_rate": 65.0,
     "hsn_code": "82033000",
     "unit": "Nos"
   },
   {
     "item_name": "TAP WRENCH 1\" (BLUE LONG) METRO",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 338.3599853515625,
-    "sale_rate": 420.0,
+    "purchase_rate": 373.0,
+    "sale_rate": 460.0,
     "hsn_code": "82051000",
     "unit": "Nos"
   },
@@ -150856,10 +150856,10 @@
     "unit": "Nos"
   },
   {
-    "item_name": "TAP WRENCH 11/2\" ROUND (BLUE LONG) METRO",
+    "item_name": "TAP WRENCH 11/2\"  METRO",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 140.33999633789062,
-    "sale_rate": 200.0,
+    "purchase_rate": 1049.0,
+    "sale_rate": 1400.0,
     "hsn_code": "82074090",
     "unit": "Nos"
   },
@@ -170210,7 +170210,7 @@
   {
     "item_name": "VIBRATER NEEDLE ONLY (3MTR) BULLET",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1470.3699951171875,
+    "purchase_rate": 1515.0,
     "sale_rate": 2200.0,
     "hsn_code": "84749000",
     "unit": "Nos"
