@@ -24163,7 +24163,7 @@
     "item_name": "BLACK OXIDE 1KG (AGARAM)",
     "group_name": "PAINTS",
     "purchase_rate": 73.0199966430664,
-    "sale_rate": 130.0,
+    "sale_rate": 150.0,
     "hsn_code": "28211010",
     "unit": "Nos"
   },
@@ -24171,7 +24171,7 @@
     "item_name": "BLACK OXIDE 1KG (AGSAR)",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 82.11000061035156,
-    "sale_rate": 130.0,
+    "sale_rate": 150.0,
     "hsn_code": "25309091",
     "unit": "Pocket"
   },
@@ -24187,7 +24187,7 @@
     "item_name": "BLACK OXIDE 500GM (AGARAM)",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 42.095001220703125,
-    "sale_rate": 70.0,
+    "sale_rate": 80.0,
     "hsn_code": "25309099",
     "unit": "Pocket"
   },
