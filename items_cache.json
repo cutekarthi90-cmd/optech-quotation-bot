@@ -14338,8 +14338,8 @@
   {
     "item_name": "AS SH-1 TRAC SHYNE 4LT (ASIAN)+",
     "group_name": "PAINTS",
-    "purchase_rate": 777.9739990234375,
-    "sale_rate": 820.0,
+    "purchase_rate": 867.6539916992188,
+    "sale_rate": 915.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -24410,9 +24410,9 @@
   {
     "item_name": "BLUE OXIDE 1KG (AGARAM)",
     "group_name": "PAINTS",
-    "purchase_rate": 86.5999984741211,
-    "sale_rate": 130.0,
-    "hsn_code": "28211010",
+    "purchase_rate": 94.30000305175781,
+    "sale_rate": 140.0,
+    "hsn_code": "25309090",
     "unit": "Kg"
   },
   {
@@ -102482,7 +102482,7 @@
   {
     "item_name": "MYK BROWN-750gm POCKET (704) SABLE",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 130.0,
+    "purchase_rate": 127.00299835205078,
     "sale_rate": 150.0,
     "hsn_code": "32141000",
     "unit": "Nos"
@@ -102530,7 +102530,7 @@
   {
     "item_name": "MYK EPOXY 1.25Kg RESIN KIT (SP-100)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 2299.820068359375,
+    "purchase_rate": 2295.277099609375,
     "sale_rate": 2600.0,
     "hsn_code": "32141000",
     "unit": "Nos"
