@@ -69730,9 +69730,9 @@
   {
     "item_name": "GLOVES PVC 14\" (UN-SUPPORTED)  YELLOW",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 0.0,
-    "sale_rate": 180.0,
-    "hsn_code": "40151100",
+    "purchase_rate": 107.37999725341797,
+    "sale_rate": 150.0,
+    "hsn_code": "40154900",
     "unit": "Nos"
   },
   {
@@ -119864,6 +119864,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "PR SINGLE PHASE PREVENTER      SKY",
+    "group_name": "ELECTRICALS",
+    "purchase_rate": 2800.0,
+    "sale_rate": 3500.0,
+    "hsn_code": "",
+    "unit": "Nos"
+  },
+  {
     "item_name": "PR SINGLE PHASE PREVENTER 800PSR SELEC",
     "group_name": "ELECTRICALS",
     "purchase_rate": 590.469970703125,
@@ -163426,8 +163434,8 @@
   {
     "item_name": "UPVC 1\" PIPE 6MTR SCH80",
     "group_name": "PLUMBING",
-    "purchase_rate": 591.0999755859375,
-    "sale_rate": 670.0,
+    "purchase_rate": 824.0,
+    "sale_rate": 920.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
