@@ -5480,7 +5480,7 @@
     "unit": "Nos"
   },
   {
-    "item_name": "AS 1LT ALUMI PAINT (NRML) 0266 +",
+    "item_name": "AS 1LT ALUMI PAINT (NRML) 0266",
     "group_name": "PAINTS",
     "purchase_rate": 327.8599853515625,
     "sale_rate": 360.0,
@@ -16562,8 +16562,8 @@
   {
     "item_name": "AST 1 1/2\" SHOE (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 29.25,
-    "sale_rate": 38.0,
+    "purchase_rate": 29.600000381469727,
+    "sale_rate": 40.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -17178,8 +17178,8 @@
   {
     "item_name": "AST 2\" SHOE (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 31.899999618530273,
-    "sale_rate": 50.0,
+    "purchase_rate": 43.9900016784668,
+    "sale_rate": 55.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -17402,8 +17402,8 @@
   {
     "item_name": "AST 3\" FTA",
     "group_name": "PLUMBING",
-    "purchase_rate": 51.61000061035156,
-    "sale_rate": 90.0,
+    "purchase_rate": 71.19000244140625,
+    "sale_rate": 95.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -17418,8 +17418,8 @@
   {
     "item_name": "AST 3\" SHOE (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 83.93000030517578,
-    "sale_rate": 100.0,
+    "purchase_rate": 91.55999755859375,
+    "sale_rate": 110.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -17922,9 +17922,9 @@
   {
     "item_name": "AST 4\" Y (SWR-ASTRAL)",
     "group_name": "ASTRAL",
-    "purchase_rate": 105.06999969482422,
-    "sale_rate": 150.0,
-    "hsn_code": "39174000",
+    "purchase_rate": 232.6699981689453,
+    "sale_rate": 265.0,
+    "hsn_code": "39172390",
     "unit": "Nos"
   },
   {
@@ -19442,8 +19442,8 @@
   {
     "item_name": "BA 1/2\" BALLVALVE (MATRIX)",
     "group_name": "PLUMBING",
-    "purchase_rate": 357.0,
-    "sale_rate": 400.0,
+    "purchase_rate": 364.239990234375,
+    "sale_rate": 410.0,
     "hsn_code": "84818090",
     "unit": "Nos"
   },
@@ -61827,7 +61827,7 @@
     "item_name": "FIRE BUCKET",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 171.0,
-    "sale_rate": 236.0,
+    "sale_rate": 250.0,
     "hsn_code": "84249000",
     "unit": "Nos"
   },
@@ -66954,7 +66954,7 @@
   {
     "item_name": "GI 1 1/2\" BEND",
     "group_name": "PLUMBING",
-    "purchase_rate": 78.80999755859375,
+    "purchase_rate": 83.06999969482422,
     "sale_rate": 100.0,
     "hsn_code": "73063090",
     "unit": "Nos"
@@ -66970,8 +66970,8 @@
   {
     "item_name": "GI 1 1/2\" COUPLER",
     "group_name": "PLUMBING",
-    "purchase_rate": 54.65999984741211,
-    "sale_rate": 75.0,
+    "purchase_rate": 60.869998931884766,
+    "sale_rate": 90.0,
     "hsn_code": "73072200",
     "unit": "Nos"
   },
@@ -67018,8 +67018,8 @@
   {
     "item_name": "GI 1 1/2\" UNION",
     "group_name": "PLUMBING",
-    "purchase_rate": 146.52999877929688,
-    "sale_rate": 190.0,
+    "purchase_rate": 169.63999938964844,
+    "sale_rate": 200.0,
     "hsn_code": "73072200",
     "unit": "Nos"
   },
@@ -67226,8 +67226,8 @@
   {
     "item_name": "GI 1\" H.NIPPLE",
     "group_name": "PLUMBING",
-    "purchase_rate": 41.470001220703125,
-    "sale_rate": 55.0,
+    "purchase_rate": 43.56999969482422,
+    "sale_rate": 60.0,
     "hsn_code": "73072200",
     "unit": "Nos"
   },
@@ -67274,8 +67274,8 @@
   {
     "item_name": "GI 1/2\" COUPLER",
     "group_name": "PLUMBING",
-    "purchase_rate": 14.218999862670898,
-    "sale_rate": 20.0,
+    "purchase_rate": 15.850000381469727,
+    "sale_rate": 25.0,
     "hsn_code": "73079210",
     "unit": "Nos"
   },
@@ -67330,7 +67330,7 @@
   {
     "item_name": "GI 1/2\" TEE",
     "group_name": "PLUMBING",
-    "purchase_rate": 26.299999237060547,
+    "purchase_rate": 27.6299991607666,
     "sale_rate": 35.0,
     "hsn_code": "73071110",
     "unit": "Nos"
@@ -67738,8 +67738,8 @@
   {
     "item_name": "GI 3\" DUMMY (INR)",
     "group_name": "PLUMBING",
-    "purchase_rate": 48.220001220703125,
-    "sale_rate": 70.0,
+    "purchase_rate": 76.68000030517578,
+    "sale_rate": 100.0,
     "hsn_code": "73063090",
     "unit": "Nos"
   },
@@ -67826,8 +67826,8 @@
   {
     "item_name": "GI 3/4\" COUPLER",
     "group_name": "PLUMBING",
-    "purchase_rate": 23.229999542236328,
-    "sale_rate": 30.0,
+    "purchase_rate": 24.399999618530273,
+    "sale_rate": 35.0,
     "hsn_code": "73079210",
     "unit": "Nos"
   },
@@ -69450,8 +69450,8 @@
   {
     "item_name": "GLOVES CANADIYAN (FULL CROME) 12\"",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 94.4000015258789,
-    "sale_rate": 130.0,
+    "purchase_rate": 106.19999694824219,
+    "sale_rate": 140.0,
     "hsn_code": "42032910",
     "unit": "Pair"
   },
@@ -103138,7 +103138,7 @@
   {
     "item_name": "NA 3\" STEEL NAIL",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 138.0,
+    "purchase_rate": 150.0,
     "sale_rate": 190.0,
     "hsn_code": "73170099",
     "unit": "Kg"
@@ -103435,7 +103435,7 @@
     "item_name": "NC 1LTR NC THINNER (SHEEN LAC) DX13",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 194.68800354003906,
-    "sale_rate": 235.0,
+    "sale_rate": 210.0,
     "hsn_code": "38140010",
     "unit": "Nos"
   },
@@ -103483,7 +103483,7 @@
     "item_name": "NC 500ML NC THINNER (SHEENLAC) DX13 (20NOS=1BOX)",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 103.8280029296875,
-    "sale_rate": 115.0,
+    "sale_rate": 110.0,
     "hsn_code": "38140010",
     "unit": "Nos"
   },
@@ -103515,7 +103515,7 @@
     "item_name": "NC 5LTR NC THINNER (SHEENLAC) DX13",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 951.0679931640625,
-    "sale_rate": 1150.0,
+    "sale_rate": 1050.0,
     "hsn_code": "38140010",
     "unit": "Nos"
   },
@@ -141336,6 +141336,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "SPOT LIGHT (WALL) 6W",
+    "group_name": "ELECTRICALS",
+    "purchase_rate": 459.0,
+    "sale_rate": 520.0,
+    "hsn_code": "9405",
+    "unit": "Nos"
+  },
+  {
     "item_name": "SPOT LIGHT 3W LED (BLUE-JOTIKA)",
     "group_name": "ELECTRICALS",
     "purchase_rate": 130.0,
@@ -141429,14 +141437,6 @@
     "purchase_rate": 193.0,
     "sale_rate": 250.0,
     "hsn_code": "94054090",
-    "unit": "Nos"
-  },
-  {
-    "item_name": "SPOT LIGHT 6W LED (227-GREEN)",
-    "group_name": "ELECTRICALS",
-    "purchase_rate": 230.0,
-    "sale_rate": 270.0,
-    "hsn_code": "",
     "unit": "Nos"
   },
   {
@@ -163378,8 +163378,8 @@
   {
     "item_name": "UPVC 1\" FLANGE (ASHIRVAD) SINGLE",
     "group_name": "PLUMBING",
-    "purchase_rate": 105.12999725341797,
-    "sale_rate": 118.0,
+    "purchase_rate": 110.97000122070312,
+    "sale_rate": 130.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -163426,8 +163426,8 @@
   {
     "item_name": "UPVC 1\" PIPE (6M) (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 492.29998779296875,
-    "sale_rate": 545.0,
+    "purchase_rate": 492.2900085449219,
+    "sale_rate": 550.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
