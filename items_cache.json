@@ -23970,8 +23970,8 @@
   {
     "item_name": "BL 7\" WOOD CUTTER (60 TEETH) JB",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 315.0,
-    "sale_rate": 410.0,
+    "purchase_rate": 490.0,
+    "sale_rate": 560.0,
     "hsn_code": "82023100",
     "unit": "Nos"
   },
@@ -25706,7 +25706,7 @@
   {
     "item_name": "BO 40MM X 6MM BOLT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 130.97999572753906,
+    "purchase_rate": 133.33999633789062,
     "sale_rate": 145.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -25714,7 +25714,7 @@
   {
     "item_name": "BO 40MM X 8MM (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 127.44000244140625,
+    "purchase_rate": 128.6199951171875,
     "sale_rate": 140.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -25842,7 +25842,7 @@
   {
     "item_name": "BO 50MM X 12MM BOLT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 123.9000015258789,
+    "purchase_rate": 126.26000213623047,
     "sale_rate": 145.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -25858,7 +25858,7 @@
   {
     "item_name": "BO 50MM X 16MM BOLT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 123.9000015258789,
+    "purchase_rate": 126.26000213623047,
     "sale_rate": 145.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -25874,7 +25874,7 @@
   {
     "item_name": "BO 50MM X 6MM BOLT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 132.16000366210938,
+    "purchase_rate": 133.33999633789062,
     "sale_rate": 145.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -25970,7 +25970,7 @@
   {
     "item_name": "BO 65MM X 12MM BOLT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 123.9000015258789,
+    "purchase_rate": 126.26000213623047,
     "sale_rate": 145.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -65890,7 +65890,7 @@
   {
     "item_name": "GARDEN NET 12MM (ROLL 10MTR) 3FEET",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 699.9990234375,
+    "purchase_rate": 725.0,
     "sale_rate": 1100.0,
     "hsn_code": "73143900",
     "unit": "Nos"
@@ -65946,8 +65946,8 @@
   {
     "item_name": "GARDEN NET 15MM (ROLL 10MTR) 3FEET",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 600.0,
-    "sale_rate": 900.0,
+    "purchase_rate": 624.989990234375,
+    "sale_rate": 920.0,
     "hsn_code": "73143900",
     "unit": "Roll"
   },
@@ -65978,8 +65978,8 @@
   {
     "item_name": "GARDEN NET 15MM X 3FEET (FT)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 20.670000076293945,
-    "sale_rate": 31.5,
+    "purchase_rate": 20.829999923706055,
+    "sale_rate": 33.0,
     "hsn_code": "73143900",
     "unit": "Feet"
   },
@@ -80642,7 +80642,7 @@
   {
     "item_name": "JB NYLON CUP BRUSH 4\"",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 189.36000061035156,
+    "purchase_rate": 166.0,
     "sale_rate": 230.0,
     "hsn_code": "82055910",
     "unit": "Nos"
@@ -84762,8 +84762,8 @@
   {
     "item_name": "L & T 125A 3P MCCB",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 3760.889892578125,
-    "sale_rate": 4100.0,
+    "purchase_rate": 4138.490234375,
+    "sale_rate": 4560.0,
     "hsn_code": "85369090",
     "unit": "Nos"
   },
@@ -95954,8 +95954,8 @@
   {
     "item_name": "MPCB 1.6-2.4A (SIEMENS)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 3537.800048828125,
-    "sale_rate": 3895.0,
+    "purchase_rate": 5029.6298828125,
+    "sale_rate": 5560.0,
     "hsn_code": "85362090",
     "unit": "Nos"
   },
@@ -98555,7 +98555,7 @@
     "item_name": "MRF MTL CT COPPER DUST (1LTR)+",
     "group_name": "PAINTS",
     "purchase_rate": 993.5150146484375,
-    "sale_rate": 1092.867,
+    "sale_rate": 1090.0,
     "hsn_code": "32082090",
     "unit": "Nos"
   },
@@ -99580,7 +99580,7 @@
     "group_name": "PAINTS",
     "purchase_rate": 52.6510009765625,
     "sale_rate": 60.0,
-    "hsn_code": "32139021",
+    "hsn_code": "32139000",
     "unit": "Nos"
   },
   {
@@ -107210,7 +107210,7 @@
   {
     "item_name": "NU 10MM CF NUT(GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 130.97999572753906,
+    "purchase_rate": 132.16000366210938,
     "sale_rate": 150.0,
     "hsn_code": "73181600",
     "unit": "Kg"
@@ -134304,6 +134304,22 @@
     "unit": "Box"
   },
   {
+    "item_name": "SC BOX 60X8 STAR SCREW (200PS)BLACK",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 180.0,
+    "sale_rate": 260.0,
+    "hsn_code": "73181500",
+    "unit": "Box"
+  },
+  {
+    "item_name": "SC BOX 60X8 STAR SCREW (200PS)WHITE",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 190.0,
+    "sale_rate": 320.0,
+    "hsn_code": "73181500",
+    "unit": "Box"
+  },
+  {
     "item_name": "SC BOX 60X8 STAR SCREW (250PS)WHITE",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 237.0,
@@ -151370,8 +151386,8 @@
   {
     "item_name": "TC RELAY 10-13A FOR CONTACTOR",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 973.030029296875,
-    "sale_rate": 1150.0,
+    "purchase_rate": 1423.31005859375,
+    "sale_rate": 1570.0,
     "hsn_code": "85364900",
     "unit": "Nos"
   },
@@ -153074,7 +153090,7 @@
   {
     "item_name": "TIGER 11 NO LOREX",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 934.5,
+    "purchase_rate": 882.0,
     "sale_rate": 1100.0,
     "hsn_code": "64034000",
     "unit": "Nos"
@@ -153149,7 +153165,7 @@
     "purchase_rate": 882.0,
     "sale_rate": 1100.0,
     "hsn_code": "64034000",
-    "unit": "Pair"
+    "unit": "Nos"
   },
   {
     "item_name": "TILE CLEANER 500ML (VICKY)",
@@ -165965,6 +165981,14 @@
     "purchase_rate": 17.09000015258789,
     "sale_rate": 42.0,
     "hsn_code": "8207",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "VBOND EPOXY GOLD 2K-MIDNIGHT BLACK-5KG",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 2400.001953125,
+    "sale_rate": 2800.0,
+    "hsn_code": "32141000",
     "unit": "Nos"
   },
   {
