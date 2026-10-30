@@ -22746,8 +22746,8 @@
   {
     "item_name": "BL 14\" WOOD CUTTER (120 TEETH) JB CLASSIC",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 3599.89990234375,
-    "sale_rate": 3960.0,
+    "purchase_rate": 2289.780029296875,
+    "sale_rate": 2550.0,
     "hsn_code": "82023100",
     "unit": "Nos"
   },
@@ -24498,7 +24498,7 @@
   {
     "item_name": "BO 1 1/2 X 3/8 BOLT (CIPL)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 122.0,
+    "purchase_rate": 126.0,
     "sale_rate": 135.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -25602,7 +25602,7 @@
   {
     "item_name": "BO 4 X 1/2 BOLT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 117.0,
+    "purchase_rate": 119.98999786376953,
     "sale_rate": 130.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -25634,8 +25634,8 @@
   {
     "item_name": "BO 4 X 3/4 BOLT",
     "group_name": "BOLT&NUT",
-    "purchase_rate": 112.01000213623047,
-    "sale_rate": 125.0,
+    "purchase_rate": 114.0,
+    "sale_rate": 130.0,
     "hsn_code": "73181500",
     "unit": "Kg"
   },
@@ -35714,7 +35714,7 @@
   {
     "item_name": "CI 22XA CIRCLIP",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1.2000000476837158,
+    "purchase_rate": 2.7799999713897705,
     "sale_rate": 10.0,
     "hsn_code": "73182910",
     "unit": "Nos"
@@ -45426,7 +45426,7 @@
   {
     "item_name": "DR  STAR BIT PH2 PH2 BULLET (WHITE)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 20.290000915527344,
+    "purchase_rate": 21.90999984741211,
     "sale_rate": 40.0,
     "hsn_code": "82079090",
     "unit": "Nos"
@@ -55507,7 +55507,7 @@
     "item_name": "EPOXY PHIROZI 5LTR (ASIAN) NRML+HARDNER",
     "group_name": "PAINTS",
     "purchase_rate": 2326.44091796875,
-    "sale_rate": 2530.0,
+    "sale_rate": 2600.0,
     "hsn_code": "32089090",
     "unit": "Nos"
   },
@@ -74450,7 +74450,7 @@
   {
     "item_name": "HEAT GUN (BULLET) BPT1800/ HG 2000",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 887.97998046875,
+    "purchase_rate": 905.1099853515625,
     "sale_rate": 1350.0,
     "hsn_code": "84678100",
     "unit": "Nos"
@@ -81418,7 +81418,7 @@
   {
     "item_name": "JP C CLAMP 10\"",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 643.7999877929688,
+    "purchase_rate": 667.2100219726562,
     "sale_rate": 850.0,
     "hsn_code": "82057000",
     "unit": "Nos"
@@ -104074,8 +104074,8 @@
   {
     "item_name": "NI 1\" X 24\" B.NIPPLE",
     "group_name": "PLUMBING",
-    "purchase_rate": 165.2899932861328,
-    "sale_rate": 195.0,
+    "purchase_rate": 173.22999572753906,
+    "sale_rate": 200.0,
     "hsn_code": "73063090",
     "unit": "Nos"
   },
@@ -104090,8 +104090,8 @@
   {
     "item_name": "NI 1\" X 36\" B.NIPPLE",
     "group_name": "PLUMBING",
-    "purchase_rate": 221.52000427246094,
-    "sale_rate": 290.0,
+    "purchase_rate": 259.8500061035156,
+    "sale_rate": 300.0,
     "hsn_code": "73063090",
     "unit": "Nos"
   },
@@ -104570,8 +104570,8 @@
   {
     "item_name": "NI 3/4\" X 4\" B.NIPPLE",
     "group_name": "PLUMBING",
-    "purchase_rate": 16.81999969482422,
-    "sale_rate": 24.0,
+    "purchase_rate": 18.450000762939453,
+    "sale_rate": 25.0,
     "hsn_code": "73063090",
     "unit": "Nos"
   },
@@ -144914,7 +144914,7 @@
   {
     "item_name": "SS BO 6 X 25MM (BOLT) 304",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 2.700000047683716,
+    "purchase_rate": 3.130000114440918,
     "sale_rate": 8.0,
     "hsn_code": "73181500",
     "unit": "Nos"
@@ -145642,8 +145642,8 @@
   {
     "item_name": "SS WA 1/4\"X1MM (202)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 3.3889999389648438,
-    "sale_rate": 7.0,
+    "purchase_rate": 4.800000190734863,
+    "sale_rate": 8.0,
     "hsn_code": "73182100",
     "unit": "Nos"
   },
@@ -145730,7 +145730,7 @@
   {
     "item_name": "SS WA 5/16 X 3/4 (304)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 3.4800000190734863,
+    "purchase_rate": 3.6500000953674316,
     "sale_rate": 8.0,
     "hsn_code": "73182100",
     "unit": "Nos"
@@ -148834,7 +148834,7 @@
   {
     "item_name": "TA 15MTR FREEMENS (FIBER)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 199.1199951171875,
+    "purchase_rate": 189.55999755859375,
     "sale_rate": 250.0,
     "hsn_code": "90178010",
     "unit": "Nos"
@@ -148938,7 +148938,7 @@
   {
     "item_name": "TA 30MTR FREEMENS TAPE (FIBER)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 343.0260009765625,
+    "purchase_rate": 326.55999755859375,
     "sale_rate": 400.0,
     "hsn_code": "90178010",
     "unit": "Nos"
@@ -171882,7 +171882,7 @@
   {
     "item_name": "WA 1/4\" WASER (MS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 104.01000213623047,
+    "purchase_rate": 108.01000213623047,
     "sale_rate": 125.0,
     "hsn_code": "73182100",
     "unit": "Kg"
