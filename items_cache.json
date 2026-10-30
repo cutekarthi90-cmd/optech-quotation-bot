@@ -3211,8 +3211,8 @@
     "item_name": "AIR VALVE 1\" (BLACK) SML SIZE",
     "group_name": "PLUMBING",
     "purchase_rate": 14.59000015258789,
-    "sale_rate": 35.0,
-    "hsn_code": "3917",
+    "sale_rate": 40.0,
+    "hsn_code": "39174000",
     "unit": "Nos"
   },
   {
@@ -4914,7 +4914,7 @@
   {
     "item_name": "ARAM 1.5 FEET (JB )",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 135.99000549316406,
+    "purchase_rate": 134.0,
     "sale_rate": 200.0,
     "hsn_code": "82055910",
     "unit": "Nos"
@@ -13804,7 +13804,7 @@
     "group_name": "PAINTS",
     "purchase_rate": 1114.2740478515625,
     "sale_rate": 1170.0,
-    "hsn_code": "32089010",
+    "hsn_code": "32089021",
     "unit": "Nos"
   },
   {
@@ -21722,8 +21722,8 @@
   {
     "item_name": "BELT JOINT BOLT 11/2X3/8",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 11.829999923706055,
-    "sale_rate": 17.0,
+    "purchase_rate": 12.59000015258789,
+    "sale_rate": 18.0,
     "hsn_code": "73269020",
     "unit": "Nos"
   },
@@ -25306,7 +25306,7 @@
   {
     "item_name": "BO 25MM X 6MM (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 134.52000427246094,
+    "purchase_rate": 138.05999755859375,
     "sale_rate": 155.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -25698,7 +25698,7 @@
   {
     "item_name": "BO 40MM X 12MM BOLT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 125.08000183105469,
+    "purchase_rate": 126.26000213623047,
     "sale_rate": 140.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -32747,7 +32747,7 @@
     "item_name": "CAR WASH LIQUID- 1LTR (O2)",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 120.0,
-    "sale_rate": 140.0,
+    "sale_rate": 150.0,
     "hsn_code": "34022090",
     "unit": "Nos"
   },
@@ -35098,7 +35098,7 @@
   {
     "item_name": "CHAIN LOCK 3/4\" (SINGLE)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 22.889999389648438,
+    "purchase_rate": 23.68000030517578,
     "sale_rate": 50.0,
     "hsn_code": "73151100",
     "unit": "Nos"
@@ -44402,7 +44402,7 @@
   {
     "item_name": "DIGITAL MULTI METER 830 BZ  (WORK ZONE)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 613.1199951171875,
+    "purchase_rate": 624.5900268554688,
     "sale_rate": 750.0,
     "hsn_code": "90303200",
     "unit": "Nos"
@@ -45866,8 +45866,8 @@
   {
     "item_name": "DR 1/2\" TOTEM DRILL BIT (HSS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 365.79998779296875,
-    "sale_rate": 450.0,
+    "purchase_rate": 581.760009765625,
+    "sale_rate": 640.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -46242,8 +46242,8 @@
   {
     "item_name": "DR 110 X 10 COMMANDO DRILL BIT(JB)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 35.400001525878906,
-    "sale_rate": 52.5,
+    "purchase_rate": 40.900001525878906,
+    "sale_rate": 55.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -46386,8 +46386,8 @@
   {
     "item_name": "DR 12MM TOTEM DRILL BIT (HSS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 359.2900085449219,
-    "sale_rate": 470.0,
+    "purchase_rate": 519.4299926757812,
+    "sale_rate": 620.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -46722,8 +46722,8 @@
   {
     "item_name": "DR 160 X 6 DRILL BIT (JB)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 37.709999084472656,
-    "sale_rate": 50.0,
+    "purchase_rate": 43.220001220703125,
+    "sale_rate": 55.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -61178,8 +61178,8 @@
   {
     "item_name": "FILE 8\" FLAT (JB)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 116.05000305175781,
-    "sale_rate": 150.0,
+    "purchase_rate": 122.0,
+    "sale_rate": 160.0,
     "hsn_code": "82032000",
     "unit": "Nos"
   },
@@ -64810,8 +64810,8 @@
   {
     "item_name": "FY 3G ANGLE HOLDER (FYBROS)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 28.31999969482422,
-    "sale_rate": 36.0,
+    "purchase_rate": 30.0,
+    "sale_rate": 38.0,
     "hsn_code": "85366110",
     "unit": "Nos"
   },
@@ -91050,8 +91050,8 @@
   {
     "item_name": "MA 14\" CUT OFF MACHINE (DONGCHENG)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 7723.56005859375,
-    "sale_rate": 8500.0,
+    "purchase_rate": 7796.91015625,
+    "sale_rate": 8800.0,
     "hsn_code": "84672900",
     "unit": "Nos"
   },
@@ -93501,6 +93501,14 @@
     "purchase_rate": 1196.0,
     "sale_rate": 2500.0,
     "hsn_code": "82075000",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "MAG 50MM MAGNETIC DRILL BIT (BIPICO)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 2842.760009765625,
+    "sale_rate": 3150.0,
+    "hsn_code": "82074090",
     "unit": "Nos"
   },
   {
@@ -129904,6 +129912,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "SANAI KAL 6X1 GREEN",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 1041.5999755859375,
+    "sale_rate": 1190.0,
+    "hsn_code": "68042210",
+    "unit": "Nos"
+  },
+  {
     "item_name": "SANAI KAL 8\" X 1\" (46-GRID MED) BEAR",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 350.0,
@@ -149914,7 +149930,7 @@
   {
     "item_name": "TAP 905 I  2 IN 1 SCREW DRIVER (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 70.62300109863281,
+    "purchase_rate": 69.5,
     "sale_rate": 90.0,
     "hsn_code": "84242000",
     "unit": "Nos"
@@ -170122,7 +170138,7 @@
   {
     "item_name": "VI 1\" 10KG PVC PIPE (VIJAY)",
     "group_name": "PLUMBING",
-    "purchase_rate": 153.83999633789062,
+    "purchase_rate": 152.0399932861328,
     "sale_rate": 170.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
@@ -170266,8 +170282,8 @@
   {
     "item_name": "VI 6\" 4KG PVC PIPE (VIJAY)",
     "group_name": "PLUMBING",
-    "purchase_rate": 1653.1099853515625,
-    "sale_rate": 1820.0,
+    "purchase_rate": 1693.4200439453125,
+    "sale_rate": 1865.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
@@ -173288,19 +173304,19 @@
     "unit": "Nos"
   },
   {
-    "item_name": "WE ARC HOLDER (TEGO TOP)",
-    "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 187.91000366210938,
-    "sale_rate": 230.0,
-    "hsn_code": "85159000",
-    "unit": "Nos"
-  },
-  {
     "item_name": "WE ARC HOLDER (VATICO SARK)",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 177.0,
     "sale_rate": 241.5,
     "hsn_code": "8515",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "WE ARC HOLDER (WELDOWIN)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 191.38999938964844,
+    "sale_rate": 250.0,
+    "hsn_code": "85159000",
     "unit": "Nos"
   },
   {
@@ -176282,8 +176298,8 @@
   {
     "item_name": "WELDING MACHINE TOSHON MOSFET 200AMS",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 6734.259765625,
-    "sale_rate": 7400.0,
+    "purchase_rate": 6900.81982421875,
+    "sale_rate": 7800.0,
     "hsn_code": "85152190",
     "unit": "Nos"
   },
@@ -178707,7 +178723,7 @@
     "item_name": "YELLOW OXIDE 1KG (AGARAM)",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 89.8740005493164,
-    "sale_rate": 130.0,
+    "sale_rate": 140.0,
     "hsn_code": "25309099",
     "unit": "Nos"
   },
