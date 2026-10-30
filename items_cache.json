@@ -6090,8 +6090,8 @@
   {
     "item_name": "AS 4LT ALUMINIUM PAINT (ASIAN) 3MANGOS",
     "group_name": "PAINTS",
-    "purchase_rate": 1385.56005859375,
-    "sale_rate": 1460.0,
+    "purchase_rate": 1529.0439453125,
+    "sale_rate": 1610.0,
     "hsn_code": "32089090",
     "unit": "Nos"
   },
@@ -10888,14 +10888,6 @@
     "unit": "Nos"
   },
   {
-    "item_name": "AS GL3-20LT ROYAL GLITZ (ASIAN)-K",
-    "group_name": "PAINTS",
-    "purchase_rate": 11711.08984375,
-    "sale_rate": 12325.0,
-    "hsn_code": "32091010",
-    "unit": "Nos"
-  },
-  {
     "item_name": "AS GL3N-10LT ROYAL GLITZ (ASIAN)",
     "group_name": "PAINTS",
     "purchase_rate": 5906.5498046875,
@@ -10908,6 +10900,14 @@
     "group_name": "PAINTS",
     "purchase_rate": 601.97998046875,
     "sale_rate": 635.0,
+    "hsn_code": "32091010",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "AS GL3N-20LT ROYAL GLITZ (ASIAN)",
+    "group_name": "PAINTS",
+    "purchase_rate": 12899.3466796875,
+    "sale_rate": 13580.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -54475,7 +54475,7 @@
     "item_name": "EMW 800NO EMERY PAPER (PPG)",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 17.25,
-    "sale_rate": 40.0,
+    "sale_rate": 30.0,
     "hsn_code": "68052010",
     "unit": "Nos"
   },
@@ -91235,7 +91235,7 @@
     "item_name": "MA 4\" ANGLE GRINDER (BOSCH) 900W",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 4366.0,
-    "sale_rate": 4870.0,
+    "sale_rate": 4800.0,
     "hsn_code": "84672900",
     "unit": "Nos"
   },
@@ -91451,7 +91451,7 @@
     "item_name": "MA 5\" ANGLE GRINDER (BOSCH) GWS  (900W)",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 5858.5,
-    "sale_rate": 6500.0,
+    "sale_rate": 6450.0,
     "hsn_code": "84672900",
     "unit": "Nos"
   },
@@ -135450,7 +135450,7 @@
   {
     "item_name": "SH BLACK WOOD STAIN 100ML-SHEENLAC",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 45.77000045776367,
+    "purchase_rate": 49.54800033569336,
     "sale_rate": 60.0,
     "hsn_code": "34052000",
     "unit": "Nos"
@@ -135914,7 +135914,7 @@
   {
     "item_name": "SH TEAK WOOD-WOOD STAIN 100ML-SHEENLAC",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 47.189998626708984,
+    "purchase_rate": 49.54800033569336,
     "sale_rate": 60.0,
     "hsn_code": "34052000",
     "unit": "Nos"
@@ -163922,9 +163922,17 @@
   {
     "item_name": "UPVC 2 1/2\" CLAMP",
     "group_name": "PLUMBING",
-    "purchase_rate": 16.09000015258789,
-    "sale_rate": 19.0,
-    "hsn_code": "3917",
+    "purchase_rate": 23.520000457763672,
+    "sale_rate": 0.0,
+    "hsn_code": "73079910",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "UPVC 2 1/2\" COUPLING (ASTRAL)",
+    "group_name": "PLUMBING",
+    "purchase_rate": 133.55999755859375,
+    "sale_rate": 0.0,
+    "hsn_code": "39174000",
     "unit": "Nos"
   },
   {
@@ -163994,8 +164002,8 @@
   {
     "item_name": "UPVC 2 1/2\" PIPE (6MTR) ASTRAL",
     "group_name": "PLUMBING",
-    "purchase_rate": 1490.4000244140625,
-    "sale_rate": 1603.0,
+    "purchase_rate": 2285.27001953125,
+    "sale_rate": 0.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
@@ -164013,6 +164021,14 @@
     "purchase_rate": 516.0,
     "sale_rate": 570.0,
     "hsn_code": "39172390",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "UPVC 2 1/2\" TEE (ASTRAL)",
+    "group_name": "PLUMBING",
+    "purchase_rate": 274.6700134277344,
+    "sale_rate": 0.0,
+    "hsn_code": "39174000",
     "unit": "Nos"
   },
   {
@@ -164448,10 +164464,18 @@
     "unit": "Nos"
   },
   {
+    "item_name": "UPVC 21/2\" BALLVALVE (ASTRAL)",
+    "group_name": "PLUMBING",
+    "purchase_rate": 3331.39990234375,
+    "sale_rate": 0.0,
+    "hsn_code": "39174000",
+    "unit": "Nos"
+  },
+  {
     "item_name": "UPVC 21/2\" BEND ASTRAL",
     "group_name": "PLUMBING",
-    "purchase_rate": 221.75,
-    "sale_rate": 260.0,
+    "purchase_rate": 332.6400146484375,
+    "sale_rate": 0.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -164466,8 +164490,8 @@
   {
     "item_name": "UPVC 21/2\" ELBOW (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 143.5399932861328,
-    "sale_rate": 165.0,
+    "purchase_rate": 219.25,
+    "sale_rate": 241.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -165482,7 +165506,7 @@
   {
     "item_name": "UPVC PASTE  200ML TIN (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 162.14999389648438,
+    "purchase_rate": 166.8300018310547,
     "sale_rate": 200.0,
     "hsn_code": "35069999",
     "unit": "Nos"
