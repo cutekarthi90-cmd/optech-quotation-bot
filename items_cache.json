@@ -5474,16 +5474,16 @@
   {
     "item_name": "AS 1LT ALUMI PAINT (HIGH HEAT 250 C) 0300 +",
     "group_name": "PAINTS",
-    "purchase_rate": 511.32000732421875,
-    "sale_rate": 555.0,
+    "purchase_rate": 514.573974609375,
+    "sale_rate": 560.0,
     "hsn_code": "32089090",
     "unit": "Nos"
   },
   {
     "item_name": "AS 1LT ALUMI PAINT (NRML) 0266",
     "group_name": "PAINTS",
-    "purchase_rate": 327.8599853515625,
-    "sale_rate": 360.0,
+    "purchase_rate": 465.72198486328125,
+    "sale_rate": 510.0,
     "hsn_code": "32089090",
     "unit": "Nos"
   },
@@ -14378,7 +14378,7 @@
   {
     "item_name": "AS SKPS GREY-1LT (1K-EPOXY) ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 288.09698486328125,
+    "purchase_rate": 288.1000061035156,
     "sale_rate": 300.0,
     "hsn_code": "32082010",
     "unit": "Nos"
@@ -15378,7 +15378,7 @@
   {
     "item_name": "AS TRI BLOCK EPOXY (FOOD GRADE) ASIAN 5KG",
     "group_name": "PAINTS",
-    "purchase_rate": 2489.740966796875,
+    "purchase_rate": 2489.739990234375,
     "sale_rate": 2620.0,
     "hsn_code": "32141000",
     "unit": "Nos"
@@ -54890,7 +54890,7 @@
   {
     "item_name": "EPOXY 4D2161-1LT (ASIAN)+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 455.9519958496094,
+    "purchase_rate": 455.95001220703125,
     "sale_rate": 500.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -54898,7 +54898,7 @@
   {
     "item_name": "EPOXY 4D2161-20LT (ASIAN)+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 8741.2509765625,
+    "purchase_rate": 8741.25,
     "sale_rate": 9750.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -54906,7 +54906,7 @@
   {
     "item_name": "EPOXY 4D2161-5LT (ASIAN)+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 2355.751953125,
+    "purchase_rate": 2355.75,
     "sale_rate": 2560.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -54932,7 +54932,7 @@
     "group_name": "PAINTS",
     "purchase_rate": 1.0,
     "sale_rate": 520.0,
-    "hsn_code": "32089021",
+    "hsn_code": "32089090",
     "unit": "Nos"
   },
   {
@@ -54940,7 +54940,7 @@
     "group_name": "PAINTS",
     "purchase_rate": 1.0,
     "sale_rate": 1950.0,
-    "hsn_code": "32089021",
+    "hsn_code": "32089090",
     "unit": "Nos"
   },
   {
@@ -54954,7 +54954,7 @@
   {
     "item_name": "EPOXY AD.GREY 20LTR (ASIAN)+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 7126.9638671875,
+    "purchase_rate": 7126.9599609375,
     "sale_rate": 7750.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -54978,7 +54978,7 @@
   {
     "item_name": "EPOXY APPLE GREEN 5LTR (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 2267.818115234375,
+    "purchase_rate": 2267.820068359375,
     "sale_rate": 2500.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -54994,7 +54994,7 @@
   {
     "item_name": "EPOXY BLACK 1LTR (ASIAN)+",
     "group_name": "PAINTS",
-    "purchase_rate": 458.12298583984375,
+    "purchase_rate": 458.1199951171875,
     "sale_rate": 500.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55018,7 +55018,7 @@
   {
     "item_name": "EPOXY BLACK 4LTR (ASIAN) - 2 PACK",
     "group_name": "PAINTS",
-    "purchase_rate": 1214.04296875,
+    "purchase_rate": 1214.0400390625,
     "sale_rate": 1280.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55026,7 +55026,7 @@
   {
     "item_name": "EPOXY BLACK 4LTR (ASIAN) -PPG",
     "group_name": "PAINTS",
-    "purchase_rate": 1780.384033203125,
+    "purchase_rate": 1780.3800048828125,
     "sale_rate": 1940.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55060,7 +55060,7 @@
     "group_name": "PAINTS",
     "purchase_rate": 5.0,
     "sale_rate": 10.0,
-    "hsn_code": "32081010",
+    "hsn_code": "32089090",
     "unit": "Nos"
   },
   {
@@ -55074,7 +55074,7 @@
   {
     "item_name": "EPOXY COALTAR 20LTR (ASIAN)+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 5086.0,
+    "purchase_rate": 4865.0,
     "sale_rate": 5530.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55098,7 +55098,7 @@
   {
     "item_name": "EPOXY DA.GREY 1LTR (MRF) +",
     "group_name": "PAINTS",
-    "purchase_rate": 702.7849731445312,
+    "purchase_rate": 702.780029296875,
     "sale_rate": 775.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55106,7 +55106,7 @@
   {
     "item_name": "EPOXY DA.GREY 4LTR (MRF)",
     "group_name": "PAINTS",
-    "purchase_rate": 2748.166015625,
+    "purchase_rate": 2748.169921875,
     "sale_rate": 3020.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55122,7 +55122,7 @@
   {
     "item_name": "EPOXY DARK GREY 20LTR (ASIAN) 0246",
     "group_name": "PAINTS",
-    "purchase_rate": 7447.2158203125,
+    "purchase_rate": 7447.22021484375,
     "sale_rate": 8100.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55226,7 +55226,7 @@
   {
     "item_name": "EPOXY GOLDEN YELLOW 1LTR (MRF)+",
     "group_name": "PAINTS",
-    "purchase_rate": 663.8679809570312,
+    "purchase_rate": 663.8699951171875,
     "sale_rate": 730.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55242,7 +55242,7 @@
   {
     "item_name": "EPOXY GOLDEN YELLOW 20LTR (ASIAN)+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 8673.9443359375,
+    "purchase_rate": 8673.9404296875,
     "sale_rate": 9450.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55250,7 +55250,7 @@
   {
     "item_name": "EPOXY GOLDEN YELLOW 4LTR (ASIAN) - 2 PACK",
     "group_name": "PAINTS",
-    "purchase_rate": 1280.1820068359375,
+    "purchase_rate": 1280.1800537109375,
     "sale_rate": 1400.0,
     "hsn_code": "32089021",
     "unit": "Nos"
@@ -55266,7 +55266,7 @@
   {
     "item_name": "EPOXY GOLDEN YELLOW 4LTR (ASIAN) NRML-PPG",
     "group_name": "PAINTS",
-    "purchase_rate": 1968.1929931640625,
+    "purchase_rate": 1968.18994140625,
     "sale_rate": 2140.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55298,7 +55298,7 @@
   {
     "item_name": "EPOXY GREY 20LTR (ASIAN) FOOD GRADE+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 9401.2958984375,
+    "purchase_rate": 9401.2998046875,
     "sale_rate": 10220.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55322,7 +55322,7 @@
   {
     "item_name": "EPOXY LEMON YELLOW 1LTR (ASIAN) ISC",
     "group_name": "PAINTS",
-    "purchase_rate": 524.344970703125,
+    "purchase_rate": 524.3400268554688,
     "sale_rate": 570.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55330,7 +55330,7 @@
   {
     "item_name": "EPOXY LEMON YELLOW 20LTR (ASIAN) ISC+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 7753.35498046875,
+    "purchase_rate": 7753.35009765625,
     "sale_rate": 8450.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55338,7 +55338,7 @@
   {
     "item_name": "EPOXY LEMON YELLOW 5LTR (ASIAN) ISC+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 2267.818115234375,
+    "purchase_rate": 2267.820068359375,
     "sale_rate": 2470.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55346,7 +55346,7 @@
   {
     "item_name": "EPOXY LIGHT BLUE 1LTR (MRF) +",
     "group_name": "PAINTS",
-    "purchase_rate": 640.9749755859375,
+    "purchase_rate": 640.969970703125,
     "sale_rate": 700.0,
     "hsn_code": "32082090",
     "unit": "Nos"
@@ -55370,7 +55370,7 @@
   {
     "item_name": "EPOXY MINT GREEN 1LTR (ASIAN) +",
     "group_name": "PAINTS",
-    "purchase_rate": 492.86199951171875,
+    "purchase_rate": 492.8599853515625,
     "sale_rate": 550.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55386,7 +55386,7 @@
   {
     "item_name": "EPOXY MINT GREEN 5LTR (ASIAN)+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 2408.946044921875,
+    "purchase_rate": 2408.949951171875,
     "sale_rate": 2620.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55394,7 +55394,7 @@
   {
     "item_name": "EPOXY NICKEL GREY 1LTR (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 554.18701171875,
+    "purchase_rate": 554.1900024414062,
     "sale_rate": 600.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55418,7 +55418,7 @@
   {
     "item_name": "EPOXY OLIVE GREEN 5LTR (ASIAN) NRML+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 2164.68603515625,
+    "purchase_rate": 2164.68994140625,
     "sale_rate": 2350.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55434,7 +55434,7 @@
   {
     "item_name": "EPOXY OX.BLUE 1LTR (ASIAN)+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 491.7770080566406,
+    "purchase_rate": 491.7799987792969,
     "sale_rate": 540.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55466,7 +55466,7 @@
   {
     "item_name": "EPOXY OX.BLUE 5LTR (ASIAN)+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 2132.117919921875,
+    "purchase_rate": 2132.1201171875,
     "sale_rate": 2320.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55490,7 +55490,7 @@
   {
     "item_name": "EPOXY PHIROZI 20LTR (ASIAN) NRML+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 8089.89111328125,
+    "purchase_rate": 8089.89013671875,
     "sale_rate": 8800.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55506,7 +55506,7 @@
   {
     "item_name": "EPOXY PHIROZI 5LTR (ASIAN) NRML+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 2326.44091796875,
+    "purchase_rate": 2326.43994140625,
     "sale_rate": 2600.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55514,7 +55514,7 @@
   {
     "item_name": "EPOXY PO RED 1LTR (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 705.0750122070312,
+    "purchase_rate": 705.0800170898438,
     "sale_rate": 775.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55530,7 +55530,7 @@
   {
     "item_name": "EPOXY PO RED 20LTR (ASIAN)+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 9592.3623046875,
+    "purchase_rate": 9592.3603515625,
     "sale_rate": 10430.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55538,7 +55538,7 @@
   {
     "item_name": "EPOXY PO RED 4LTR (MRF)+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 2760.77490234375,
+    "purchase_rate": 2760.77001953125,
     "sale_rate": 3040.0,
     "hsn_code": "32082090",
     "unit": "Nos"
@@ -55568,14 +55568,6 @@
     "unit": "Nos"
   },
   {
-    "item_name": "EPOXY PRIMER 20LTR GREY (BERGER)+HARDNER",
-    "group_name": "PAINTS",
-    "purchase_rate": 4932.0,
-    "sale_rate": 5200.0,
-    "hsn_code": "32089090",
-    "unit": "Nos"
-  },
-  {
     "item_name": "EPOXY PRIMER 4LTR LUXOL -1K(BERGER)-QD",
     "group_name": "PAINTS",
     "purchase_rate": 1562.3199462890625,
@@ -55586,7 +55578,7 @@
   {
     "item_name": "EPOXY PRIMER BLACK - 1LT-1PACK (TAFU)",
     "group_name": "PAINTS",
-    "purchase_rate": 348.47100830078125,
+    "purchase_rate": 348.4700012207031,
     "sale_rate": 385.0,
     "hsn_code": "32082090",
     "unit": "Nos"
@@ -55616,6 +55608,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "EPOXY PRIMER GREY 20LTR (BERGER)+HARDNER",
+    "group_name": "PAINTS",
+    "purchase_rate": 4932.0,
+    "sale_rate": 5200.0,
+    "hsn_code": "32089090",
+    "unit": "Nos"
+  },
+  {
     "item_name": "EPOXY PRIMER GREY 4LTR (ASIAN) 7077",
     "group_name": "PAINTS",
     "purchase_rate": 1077.280029296875,
@@ -55626,7 +55626,7 @@
   {
     "item_name": "EPOXY PRIMER GREY-1LT (ASIAN) 1713",
     "group_name": "PAINTS",
-    "purchase_rate": 442.92498779296875,
+    "purchase_rate": 442.9200134277344,
     "sale_rate": 480.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55642,7 +55642,7 @@
   {
     "item_name": "EPOXY PRIMER GREY-1LT (MRF)",
     "group_name": "PAINTS",
-    "purchase_rate": 556.2750244140625,
+    "purchase_rate": 556.280029296875,
     "sale_rate": 610.0,
     "hsn_code": "32082090",
     "unit": "Nos"
@@ -55650,7 +55650,7 @@
   {
     "item_name": "EPOXY PRIMER GREY-1LT (NIPPON)",
     "group_name": "PAINTS",
-    "purchase_rate": 355.3330078125,
+    "purchase_rate": 355.3299865722656,
     "sale_rate": 375.0,
     "hsn_code": "32089029",
     "unit": "Nos"
@@ -55682,7 +55682,7 @@
   {
     "item_name": "EPOXY PRIMER GREY-20LT (ASIAN) 1713",
     "group_name": "PAINTS",
-    "purchase_rate": 5395.43212890625,
+    "purchase_rate": 5395.43017578125,
     "sale_rate": 5865.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55754,7 +55754,7 @@
   {
     "item_name": "EPOXY PRIMER GREY-4LT (ASIAN) 1713",
     "group_name": "PAINTS",
-    "purchase_rate": 1507.89794921875,
+    "purchase_rate": 1507.9000244140625,
     "sale_rate": 1640.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55794,7 +55794,7 @@
   {
     "item_name": "EPOXY PRIMER GREY-500ML (MRF)",
     "group_name": "PAINTS",
-    "purchase_rate": 287.864990234375,
+    "purchase_rate": 287.8599853515625,
     "sale_rate": 315.0,
     "hsn_code": "32082090",
     "unit": "Nos"
@@ -55810,7 +55810,7 @@
   {
     "item_name": "EPOXY PRIMER WHITE-1LT (MRF)",
     "group_name": "PAINTS",
-    "purchase_rate": 583.7449951171875,
+    "purchase_rate": 583.739990234375,
     "sale_rate": 640.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55826,7 +55826,7 @@
   {
     "item_name": "EPOXY RACING BLUE-1LT (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 485.26300048828125,
+    "purchase_rate": 485.260009765625,
     "sale_rate": 540.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55842,7 +55842,7 @@
   {
     "item_name": "EPOXY RAL 5015 (ASIAN) 20LT",
     "group_name": "PAINTS",
-    "purchase_rate": 7941.1640625,
+    "purchase_rate": 7941.16015625,
     "sale_rate": 8630.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55850,7 +55850,7 @@
   {
     "item_name": "EPOXY RAL 5015 (ASIAN) 5LT",
     "group_name": "PAINTS",
-    "purchase_rate": 2157.0869140625,
+    "purchase_rate": 2157.090087890625,
     "sale_rate": 2350.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55866,7 +55866,7 @@
   {
     "item_name": "EPOXY RAL 7032-1LT (ASIAN) MATT",
     "group_name": "PAINTS",
-    "purchase_rate": 441.8389892578125,
+    "purchase_rate": 441.8399963378906,
     "sale_rate": 480.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55882,7 +55882,7 @@
   {
     "item_name": "EPOXY RAL 7035-5LT (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 2214.6240234375,
+    "purchase_rate": 2214.6201171875,
     "sale_rate": 2410.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55938,7 +55938,7 @@
   {
     "item_name": "EPOXY RAL5002 (ASIAN) 1LT+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 514.573974609375,
+    "purchase_rate": 514.5700073242188,
     "sale_rate": 560.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55962,7 +55962,7 @@
   {
     "item_name": "EPOXY RAL5011 (ASIAN) 20LT+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 7684.9619140625,
+    "purchase_rate": 7684.9599609375,
     "sale_rate": 8355.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -55994,7 +55994,7 @@
   {
     "item_name": "EPOXY RAL5015 (ASIAN) 5LT+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 2157.0869140625,
+    "purchase_rate": 2157.090087890625,
     "sale_rate": 2350.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -56026,7 +56026,7 @@
   {
     "item_name": "EPOXY RAL502-1LT (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 541.0180053710938,
+    "purchase_rate": 541.02001953125,
     "sale_rate": 580.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -56042,7 +56042,7 @@
   {
     "item_name": "EPOXY RAL6009 (ASIAN) 5LT+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 1885.68701171875,
+    "purchase_rate": 1885.68994140625,
     "sale_rate": 2050.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -56050,7 +56050,7 @@
   {
     "item_name": "EPOXY RAL6011 (ASIAN) 1LT",
     "group_name": "PAINTS",
-    "purchase_rate": 510.23199462890625,
+    "purchase_rate": 510.2300109863281,
     "sale_rate": 560.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -56058,7 +56058,7 @@
   {
     "item_name": "EPOXY RAL6011 (ASIAN) 5LT+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 2486.02392578125,
+    "purchase_rate": 2486.02001953125,
     "sale_rate": 2700.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -56090,7 +56090,7 @@
   {
     "item_name": "EPOXY RAL6028 (ASIAN) 1LT",
     "group_name": "PAINTS",
-    "purchase_rate": 480.9209899902344,
+    "purchase_rate": 480.9200134277344,
     "sale_rate": 520.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -56098,7 +56098,7 @@
   {
     "item_name": "EPOXY RAL7015 -1LT (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 449.43798828125,
+    "purchase_rate": 449.44000244140625,
     "sale_rate": 490.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -56106,7 +56106,7 @@
   {
     "item_name": "EPOXY RAL7016 (ASIAN) 20LT",
     "group_name": "PAINTS",
-    "purchase_rate": 7550.34814453125,
+    "purchase_rate": 7550.35009765625,
     "sale_rate": 8210.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -56130,7 +56130,7 @@
   {
     "item_name": "EPOXY RAL7022(ASIAN) 20LT + HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 7960.705078125,
+    "purchase_rate": 7960.7099609375,
     "sale_rate": 9120.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -56138,7 +56138,7 @@
   {
     "item_name": "EPOXY RAL7022(ASIAN) 5LT+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 2383.97802734375,
+    "purchase_rate": 2383.97998046875,
     "sale_rate": 2590.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -56146,7 +56146,7 @@
   {
     "item_name": "EPOXY RAL7035 (ASIAN) 20LT",
     "group_name": "PAINTS",
-    "purchase_rate": 8017.15576171875,
+    "purchase_rate": 8017.16015625,
     "sale_rate": 8720.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -56282,7 +56282,7 @@
   {
     "item_name": "EPOXY SEA GREEN 5LTR (ASIAN)+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 2162.514892578125,
+    "purchase_rate": 2162.510009765625,
     "sale_rate": 2350.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -56292,15 +56292,15 @@
     "group_name": "PAINTS",
     "purchase_rate": 8030.0,
     "sale_rate": 8670.0,
-    "hsn_code": "32081010",
+    "hsn_code": "32089090",
     "unit": "Nos"
   },
   {
     "item_name": "EPOXY SIEMENS GREY 5LTR (ASIAN)+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 2100.635986328125,
+    "purchase_rate": 2100.639892578125,
     "sale_rate": 2300.0,
-    "hsn_code": "32081010",
+    "hsn_code": "32089090",
     "unit": "Nos"
   },
   {
@@ -56314,7 +56314,7 @@
   {
     "item_name": "EPOXY SKYBLUE 1LTR (ASIAN) +",
     "group_name": "PAINTS",
-    "purchase_rate": 518.9169921875,
+    "purchase_rate": 518.9199829101562,
     "sale_rate": 620.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -56330,7 +56330,7 @@
   {
     "item_name": "EPOXY SKYBLUE 5LTR (ASIAN)+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 2386.14892578125,
+    "purchase_rate": 2386.14990234375,
     "sale_rate": 2600.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -56338,7 +56338,7 @@
   {
     "item_name": "EPOXY SM GREY 1LTR (ASIAN) 0246+",
     "group_name": "PAINTS",
-    "purchase_rate": 452.69500732421875,
+    "purchase_rate": 452.70001220703125,
     "sale_rate": 490.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -56354,7 +56354,7 @@
   {
     "item_name": "EPOXY SM GREY 1LTR (MRF)",
     "group_name": "PAINTS",
-    "purchase_rate": 562.7080078125,
+    "purchase_rate": 562.7100219726562,
     "sale_rate": 620.0,
     "hsn_code": "32082090",
     "unit": "Nos"
@@ -56362,7 +56362,7 @@
   {
     "item_name": "EPOXY SM GREY 20LTR (ASIAN) 0246+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 8524.130859375,
+    "purchase_rate": 8524.1298828125,
     "sale_rate": 9265.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -56434,7 +56434,7 @@
   {
     "item_name": "EPOXY THINNER 1LTR (ASIAN-141)",
     "group_name": "PAINTS",
-    "purchase_rate": 295.2829895019531,
+    "purchase_rate": 295.2799987792969,
     "sale_rate": 320.0,
     "hsn_code": "38140010",
     "unit": "Nos"
@@ -56458,7 +56458,7 @@
   {
     "item_name": "EPOXY THINNER 20LTR (ASIAN-141)",
     "group_name": "PAINTS",
-    "purchase_rate": 4472.671875,
+    "purchase_rate": 4472.669921875,
     "sale_rate": 4860.0,
     "hsn_code": "38140010",
     "unit": "Nos"
@@ -56474,7 +56474,7 @@
   {
     "item_name": "EPOXY THINNER 20LTR (MRF)",
     "group_name": "PAINTS",
-    "purchase_rate": 5018.14892578125,
+    "purchase_rate": 5018.14990234375,
     "sale_rate": 5550.0,
     "hsn_code": "38140010",
     "unit": "Drum"
@@ -56522,7 +56522,7 @@
   {
     "item_name": "EPOXY THINNER 500ML (MRF 1110)",
     "group_name": "PAINTS",
-    "purchase_rate": 195.7259979248047,
+    "purchase_rate": 195.72999572753906,
     "sale_rate": 210.0,
     "hsn_code": "38140010",
     "unit": "Nos"
@@ -56562,7 +56562,7 @@
   {
     "item_name": "EPOXY WHITE 1LTR (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 487.4339904785156,
+    "purchase_rate": 487.42999267578125,
     "sale_rate": 530.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -56578,7 +56578,7 @@
   {
     "item_name": "EPOXY WHITE 1LTR (MRF)+",
     "group_name": "PAINTS",
-    "purchase_rate": 608.9739990234375,
+    "purchase_rate": 608.969970703125,
     "sale_rate": 670.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -56626,7 +56626,7 @@
   {
     "item_name": "EPOXY WHITE 4LT (MRF)+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 2623.423095703125,
+    "purchase_rate": 2623.419921875,
     "sale_rate": 2885.0,
     "hsn_code": "32082090",
     "unit": "Nos"
@@ -56634,7 +56634,7 @@
   {
     "item_name": "EPOXY WHITE 4LTR (ASIAN)+",
     "group_name": "PAINTS",
-    "purchase_rate": 1758.6719970703125,
+    "purchase_rate": 1758.6700439453125,
     "sale_rate": 1910.0,
     "hsn_code": "32089090",
     "unit": "Nos"
@@ -56650,8 +56650,16 @@
   {
     "item_name": "EPOXY WHITE 5LTR (ASIAN) NRML + HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 2112.4951171875,
+    "purchase_rate": 2112.5,
     "sale_rate": 2270.0,
+    "hsn_code": "32089090",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "EPOXY ZINC RICH PRIMER GREY-20LT (ASIAN) 2485",
+    "group_name": "PAINTS",
+    "purchase_rate": 8250.0,
+    "sale_rate": 8900.0,
     "hsn_code": "32089090",
     "unit": "Nos"
   },
@@ -96386,7 +96394,7 @@
   {
     "item_name": "MRF 1-BASE-EPOXY-1LT",
     "group_name": "PAINTS",
-    "purchase_rate": 693.6279907226562,
+    "purchase_rate": 693.6300048828125,
     "sale_rate": 760.0,
     "hsn_code": "32082090",
     "unit": "Nos"
@@ -96570,7 +96578,7 @@
   {
     "item_name": "MRF 2-BASE-EPOXY-1LT",
     "group_name": "PAINTS",
-    "purchase_rate": 700.4949951171875,
+    "purchase_rate": 700.489990234375,
     "sale_rate": 770.0,
     "hsn_code": "32082090",
     "unit": "Nos"
@@ -98994,7 +99002,7 @@
   {
     "item_name": "MRF PR 1LT ETCH PRIMER YELLOW (500ML + 500ML)",
     "group_name": "PAINTS",
-    "purchase_rate": 548.2630004882812,
+    "purchase_rate": 548.260009765625,
     "sale_rate": 600.0,
     "hsn_code": "32082090",
     "unit": "Nos"
