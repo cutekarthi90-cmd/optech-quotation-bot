@@ -40785,18 +40785,18 @@
   },
   {
     "item_name": "CPVC 3/4\" STEP BEND (ASHIRVAD)",
-    "group_name": "PLUMBING",
-    "purchase_rate": 83.80000305175781,
-    "sale_rate": 100.0,
-    "hsn_code": "39172390",
-    "unit": "Nos"
-  },
-  {
-    "item_name": "CPVC 3/4\" STEP BEND (ASHIRVAD)",
     "group_name": "CPVC",
     "purchase_rate": 43.869998931884766,
     "sale_rate": 55.0,
     "hsn_code": "3917",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "CPVC 3/4\" STEP BEND (ASHIRVAD)",
+    "group_name": "PLUMBING",
+    "purchase_rate": 83.80000305175781,
+    "sale_rate": 100.0,
+    "hsn_code": "39172390",
     "unit": "Nos"
   },
   {
@@ -44953,137 +44953,137 @@
   },
   {
     "item_name": "DOG CHAIN 6NO (HVY)",
+    "group_name": "DOG ITEM",
+    "purchase_rate": 200.0,
+    "sale_rate": 250.0,
+    "hsn_code": "",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "DOG CHAIN 6NO (HVY)",
+    "group_name": "DOG ITEM",
+    "purchase_rate": 200.0,
+    "sale_rate": 250.0,
+    "hsn_code": "",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "DOG CHAIN 6NO (HVY)",
+    "group_name": "DOG ITEM",
+    "purchase_rate": 200.0,
+    "sale_rate": 250.0,
+    "hsn_code": "",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "DOG CHAIN 6NO (HVY)",
+    "group_name": "DOG ITEM",
+    "purchase_rate": 200.0,
+    "sale_rate": 250.0,
+    "hsn_code": "",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "DOG CHAIN 6NO (HVY)",
+    "group_name": "DOG ITEM",
+    "purchase_rate": 200.0,
+    "sale_rate": 250.0,
+    "hsn_code": "",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "DOG CHAIN 6NO (HVY)",
+    "group_name": "DOG ITEM",
+    "purchase_rate": 200.0,
+    "sale_rate": 250.0,
+    "hsn_code": "",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "DOG CHAIN 6NO (HVY)",
+    "group_name": "DOG ITEM",
+    "purchase_rate": 200.0,
+    "sale_rate": 250.0,
+    "hsn_code": "",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "DOG CHAIN 6NO (HVY)",
+    "group_name": "DOG ITEM",
+    "purchase_rate": 200.0,
+    "sale_rate": 250.0,
+    "hsn_code": "",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "DOG CHAIN 6NO (HVY)",
+    "group_name": "DOG ITEM",
+    "purchase_rate": 200.0,
+    "sale_rate": 250.0,
+    "hsn_code": "",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "DOG CHAIN 6NO (HVY)",
+    "group_name": "DOG ITEM",
+    "purchase_rate": 200.0,
+    "sale_rate": 250.0,
+    "hsn_code": "",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "DOG CHAIN 6NO (HVY)",
+    "group_name": "DOG ITEM",
+    "purchase_rate": 200.0,
+    "sale_rate": 250.0,
+    "hsn_code": "",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "DOG CHAIN 6NO (HVY)",
+    "group_name": "DOG ITEM",
+    "purchase_rate": 200.0,
+    "sale_rate": 250.0,
+    "hsn_code": "",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "DOG CHAIN 6NO (HVY)",
+    "group_name": "DOG ITEM",
+    "purchase_rate": 200.0,
+    "sale_rate": 250.0,
+    "hsn_code": "",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "DOG CHAIN 6NO (HVY)",
+    "group_name": "DOG ITEM",
+    "purchase_rate": 200.0,
+    "sale_rate": 250.0,
+    "hsn_code": "",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "DOG CHAIN 6NO (HVY)",
+    "group_name": "DOG ITEM",
+    "purchase_rate": 200.0,
+    "sale_rate": 250.0,
+    "hsn_code": "",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "DOG CHAIN 6NO (HVY)",
+    "group_name": "DOG ITEM",
+    "purchase_rate": 200.0,
+    "sale_rate": 250.0,
+    "hsn_code": "",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "DOG CHAIN 6NO (HVY)",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 240.0,
     "sale_rate": 370.0,
-    "hsn_code": "",
-    "unit": "Nos"
-  },
-  {
-    "item_name": "DOG CHAIN 6NO (HVY)",
-    "group_name": "DOG ITEM",
-    "purchase_rate": 200.0,
-    "sale_rate": 250.0,
-    "hsn_code": "",
-    "unit": "Nos"
-  },
-  {
-    "item_name": "DOG CHAIN 6NO (HVY)",
-    "group_name": "DOG ITEM",
-    "purchase_rate": 200.0,
-    "sale_rate": 250.0,
-    "hsn_code": "",
-    "unit": "Nos"
-  },
-  {
-    "item_name": "DOG CHAIN 6NO (HVY)",
-    "group_name": "DOG ITEM",
-    "purchase_rate": 200.0,
-    "sale_rate": 250.0,
-    "hsn_code": "",
-    "unit": "Nos"
-  },
-  {
-    "item_name": "DOG CHAIN 6NO (HVY)",
-    "group_name": "DOG ITEM",
-    "purchase_rate": 200.0,
-    "sale_rate": 250.0,
-    "hsn_code": "",
-    "unit": "Nos"
-  },
-  {
-    "item_name": "DOG CHAIN 6NO (HVY)",
-    "group_name": "DOG ITEM",
-    "purchase_rate": 200.0,
-    "sale_rate": 250.0,
-    "hsn_code": "",
-    "unit": "Nos"
-  },
-  {
-    "item_name": "DOG CHAIN 6NO (HVY)",
-    "group_name": "DOG ITEM",
-    "purchase_rate": 200.0,
-    "sale_rate": 250.0,
-    "hsn_code": "",
-    "unit": "Nos"
-  },
-  {
-    "item_name": "DOG CHAIN 6NO (HVY)",
-    "group_name": "DOG ITEM",
-    "purchase_rate": 200.0,
-    "sale_rate": 250.0,
-    "hsn_code": "",
-    "unit": "Nos"
-  },
-  {
-    "item_name": "DOG CHAIN 6NO (HVY)",
-    "group_name": "DOG ITEM",
-    "purchase_rate": 200.0,
-    "sale_rate": 250.0,
-    "hsn_code": "",
-    "unit": "Nos"
-  },
-  {
-    "item_name": "DOG CHAIN 6NO (HVY)",
-    "group_name": "DOG ITEM",
-    "purchase_rate": 200.0,
-    "sale_rate": 250.0,
-    "hsn_code": "",
-    "unit": "Nos"
-  },
-  {
-    "item_name": "DOG CHAIN 6NO (HVY)",
-    "group_name": "DOG ITEM",
-    "purchase_rate": 200.0,
-    "sale_rate": 250.0,
-    "hsn_code": "",
-    "unit": "Nos"
-  },
-  {
-    "item_name": "DOG CHAIN 6NO (HVY)",
-    "group_name": "DOG ITEM",
-    "purchase_rate": 200.0,
-    "sale_rate": 250.0,
-    "hsn_code": "",
-    "unit": "Nos"
-  },
-  {
-    "item_name": "DOG CHAIN 6NO (HVY)",
-    "group_name": "DOG ITEM",
-    "purchase_rate": 200.0,
-    "sale_rate": 250.0,
-    "hsn_code": "",
-    "unit": "Nos"
-  },
-  {
-    "item_name": "DOG CHAIN 6NO (HVY)",
-    "group_name": "DOG ITEM",
-    "purchase_rate": 200.0,
-    "sale_rate": 250.0,
-    "hsn_code": "",
-    "unit": "Nos"
-  },
-  {
-    "item_name": "DOG CHAIN 6NO (HVY)",
-    "group_name": "DOG ITEM",
-    "purchase_rate": 200.0,
-    "sale_rate": 250.0,
-    "hsn_code": "",
-    "unit": "Nos"
-  },
-  {
-    "item_name": "DOG CHAIN 6NO (HVY)",
-    "group_name": "DOG ITEM",
-    "purchase_rate": 200.0,
-    "sale_rate": 250.0,
-    "hsn_code": "",
-    "unit": "Nos"
-  },
-  {
-    "item_name": "DOG CHAIN 6NO (HVY)",
-    "group_name": "DOG ITEM",
-    "purchase_rate": 200.0,
-    "sale_rate": 250.0,
     "hsn_code": "",
     "unit": "Nos"
   },
@@ -111913,7 +111913,7 @@
   },
   {
     "item_name": "PLATO 2 IN ONE WALL MIXER (U214) FUSION",
-    "group_name": "PLATO",
+    "group_name": "PLUMBING",
     "purchase_rate": 3047.050048828125,
     "sale_rate": 3500.0,
     "hsn_code": "8481",
@@ -111921,7 +111921,7 @@
   },
   {
     "item_name": "PLATO 2 IN ONE WALL MIXER (U214) FUSION",
-    "group_name": "PLUMBING",
+    "group_name": "PLATO",
     "purchase_rate": 3047.050048828125,
     "sale_rate": 3500.0,
     "hsn_code": "8481",
@@ -137264,14 +137264,6 @@
     "unit": "Nos"
   },
   {
-    "item_name": "SILICON GUN",
-    "group_name": "GENERAL NON TAX",
-    "purchase_rate": 157.5,
-    "sale_rate": 220.0,
-    "hsn_code": "",
-    "unit": "Nos"
-  },
-  {
     "item_name": "SILICON GUN  YELLOW & RED (CALTEX)",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 186.0,
@@ -137341,6 +137333,14 @@
     "purchase_rate": 142.77999877929688,
     "sale_rate": 200.0,
     "hsn_code": "8205",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "SILICON GUN BCG-04 (GOLDEN BULLET)-600MM",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 710.0,
+    "sale_rate": 850.0,
+    "hsn_code": "32055990",
     "unit": "Nos"
   },
   {
