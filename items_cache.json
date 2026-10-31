@@ -194,8 +194,8 @@
   {
     "item_name": "11/2\" NRV FLANGE DISC",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 932.2000122070312,
-    "sale_rate": 1200.0,
+    "purchase_rate": 475.0,
+    "sale_rate": 570.0,
     "hsn_code": "84813000",
     "unit": "Nos"
   },
@@ -2274,7 +2274,7 @@
   {
     "item_name": "ADJUSTABLE WRENCH 10\" (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 313.7099914550781,
+    "purchase_rate": 308.7300109863281,
     "sale_rate": 390.0,
     "hsn_code": "82041210",
     "unit": "Nos"
@@ -2306,7 +2306,7 @@
   {
     "item_name": "ADJUSTABLE WRENCH 12\" (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 431.1700134277344,
+    "purchase_rate": 424.32000732421875,
     "sale_rate": 500.0,
     "hsn_code": "82041210",
     "unit": "Nos"
@@ -6466,8 +6466,8 @@
   {
     "item_name": "AS AB21G-10LT APEX (ASIAN)-K",
     "group_name": "PAINTS",
-    "purchase_rate": 2828.280029296875,
-    "sale_rate": 2980.0,
+    "purchase_rate": 3198.212890625,
+    "sale_rate": 3365.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -11082,8 +11082,8 @@
   {
     "item_name": "AS HQ13-1LT ULTIMA (ASIAN)+",
     "group_name": "PAINTS",
-    "purchase_rate": 451.760009765625,
-    "sale_rate": 475.0,
+    "purchase_rate": 511.1759948730469,
+    "sale_rate": 540.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -16938,7 +16938,7 @@
   {
     "item_name": "AST 2 1/2\" DOOR ELBOW (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 96.27999877929688,
+    "purchase_rate": 97.43000030517578,
     "sale_rate": 130.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -16954,8 +16954,8 @@
   {
     "item_name": "AST 2 1/2\" DOOR TEE (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 91.79000091552734,
-    "sale_rate": 130.0,
+    "purchase_rate": 128.52000427246094,
+    "sale_rate": 150.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -17042,8 +17042,8 @@
   {
     "item_name": "AST 2 1/2\" VENT COWL (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 22.1200008392334,
-    "sale_rate": 28.0,
+    "purchase_rate": 23.510000228881836,
+    "sale_rate": 30.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -17698,8 +17698,8 @@
   {
     "item_name": "AST 4\" DOOR ELBOW (SWR-ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 145.77999877929688,
-    "sale_rate": 170.0,
+    "purchase_rate": 165.47999572753906,
+    "sale_rate": 185.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -17746,7 +17746,7 @@
   {
     "item_name": "AST 4\" ELBOW (HVY) ASTRAL",
     "group_name": "PLUMBING",
-    "purchase_rate": 167.47000122070312,
+    "purchase_rate": 169.60000610351562,
     "sale_rate": 190.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -18346,8 +18346,8 @@
   {
     "item_name": "AST PVC PIPE 2 1/2-6KG (ASTROL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 710.1500244140625,
-    "sale_rate": 785.0,
+    "purchase_rate": 954.0,
+    "sale_rate": 1050.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
@@ -18619,7 +18619,7 @@
     "item_name": "ATOM BERG PEDESTAL FAN 400MM",
     "group_name": "ELECTRICALS",
     "purchase_rate": 3363.0,
-    "sale_rate": 4300.0,
+    "sale_rate": 3650.0,
     "hsn_code": "84145120",
     "unit": "Nos"
   },
@@ -24298,7 +24298,7 @@
   {
     "item_name": "BLOWER (JB-450W)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 857.27001953125,
+    "purchase_rate": 815.0599975585938,
     "sale_rate": 950.0,
     "hsn_code": "84659300",
     "unit": "Nos"
@@ -24986,7 +24986,7 @@
   {
     "item_name": "BO 150MM X 12MM  BOLT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 122.72000122070312,
+    "purchase_rate": 128.6199951171875,
     "sale_rate": 170.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -38850,8 +38850,8 @@
   {
     "item_name": "CORE BIT 5\" DEEP BLUE (127MM X 450MM) BULLET",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 2216.9599609375,
-    "sale_rate": 2660.0,
+    "purchase_rate": 2512.27001953125,
+    "sale_rate": 2890.0,
     "hsn_code": "82079090",
     "unit": "Nos"
   },
@@ -46962,8 +46962,8 @@
   {
     "item_name": "DR 17MM TAPER SHANK (TOTEM)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1214.927978515625,
-    "sale_rate": 1390.0,
+    "purchase_rate": 1539.280029296875,
+    "sale_rate": 1690.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -47306,8 +47306,8 @@
   {
     "item_name": "DR 20MM X 2.5 TAP SET  HVY HSS (TOTEM)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 5445.080078125,
-    "sale_rate": 6200.0,
+    "purchase_rate": 4783.77880859375,
+    "sale_rate": 5900.0,
     "hsn_code": "82074090",
     "unit": "Nos"
   },
@@ -62194,7 +62194,7 @@
   {
     "item_name": "FL 2\" FLANGE WASER (ROUND)",
     "group_name": "PLUMBING",
-    "purchase_rate": 5.079999923706055,
+    "purchase_rate": 6.619999885559082,
     "sale_rate": 10.0,
     "hsn_code": "40169350",
     "unit": "Nos"
@@ -82410,8 +82410,8 @@
   {
     "item_name": "KARRUPU KAMBI (SIVA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 2200.0,
-    "sale_rate": 2400.0,
+    "purchase_rate": 2249.9599609375,
+    "sale_rate": 2500.0,
     "hsn_code": "721710",
     "unit": "Roll"
   },
@@ -82442,8 +82442,8 @@
   {
     "item_name": "KARUPU KAMBI (KG)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 88.0,
-    "sale_rate": 100.0,
+    "purchase_rate": 89.98999786376953,
+    "sale_rate": 105.0,
     "hsn_code": "72171010",
     "unit": "Kg"
   },
@@ -92722,8 +92722,8 @@
   {
     "item_name": "MA IMPACT WRENCH-DPB-16 (DONGCHENG)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 3406.118896484375,
-    "sale_rate": 3950.0,
+    "purchase_rate": 3831.239990234375,
+    "sale_rate": 4400.0,
     "hsn_code": "84672900",
     "unit": "Nos"
   },
@@ -95728,6 +95728,14 @@
     "unit": "Roll"
   },
   {
+    "item_name": "MOSQUITO NET (SS- 4FT X 100FT) ROLL",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 9650.0,
+    "sale_rate": 10615.0,
+    "hsn_code": "73141400",
+    "unit": "Roll"
+  },
+  {
     "item_name": "MOSQUITO NET (SS- 4FT X 50FT) ROLL",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 5400.0,
@@ -98154,8 +98162,8 @@
   {
     "item_name": "MRF EN 500ML GO BROWN-NEW (PU-GLSY-SPECTA)",
     "group_name": "PAINTS",
-    "purchase_rate": 162.4600067138672,
-    "sale_rate": 180.0,
+    "purchase_rate": 188.875,
+    "sale_rate": 210.0,
     "hsn_code": "32082090",
     "unit": "Nos"
   },
@@ -107530,7 +107538,7 @@
   {
     "item_name": "NUT ANGLE GRINDER - 4\" (B)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 26.450000762939453,
+    "purchase_rate": 22.489999771118164,
     "sale_rate": 50.0,
     "hsn_code": "84669310",
     "unit": "Nos"
@@ -110210,7 +110218,7 @@
   {
     "item_name": "PI 1\" PIPE CLIP (SCREW TYPE-137S/35A)",
     "group_name": "PLUMBING",
-    "purchase_rate": 15.949999809265137,
+    "purchase_rate": 13.6899995803833,
     "sale_rate": 20.0,
     "hsn_code": "73079990",
     "unit": "Nos"
@@ -117874,8 +117882,8 @@
   {
     "item_name": "PR 10KG  21/2\" PRESSURE GAUGE (150PSI) ECONOMY",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 206.5,
-    "sale_rate": 270.0,
+    "purchase_rate": 265.5,
+    "sale_rate": 350.0,
     "hsn_code": "90262000",
     "unit": "Nos"
   },
@@ -117922,8 +117930,8 @@
   {
     "item_name": "PR 14KG 21/2\" PRESSURE GAUGE(200PSI) ECONOM",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 221.25,
-    "sale_rate": 290.0,
+    "purchase_rate": 265.5,
+    "sale_rate": 350.0,
     "hsn_code": "90262000",
     "unit": "Nos"
   },
@@ -121378,7 +121386,7 @@
   {
     "item_name": "PVC MESH 6\" (BITUWELD)  (50MTR)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 194.6999969482422,
+    "purchase_rate": 238.4499969482422,
     "sale_rate": 400.0,
     "hsn_code": "70199000",
     "unit": "Roll"
@@ -121402,7 +121410,7 @@
   {
     "item_name": "PVC NRV 4\"",
     "group_name": "PLUMBING",
-    "purchase_rate": 51.61000061035156,
+    "purchase_rate": 50.060001373291016,
     "sale_rate": 70.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -121474,7 +121482,7 @@
   {
     "item_name": "PVC SW BOX (2+2)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 32.290000915527344,
+    "purchase_rate": 31.350000381469727,
     "sale_rate": 50.0,
     "hsn_code": "85389000",
     "unit": "Nos"
@@ -121786,8 +121794,8 @@
   {
     "item_name": "PW INDIAN BASIN ONLY (20\") NRML WHT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1724.989990234375,
-    "sale_rate": 2000.0,
+    "purchase_rate": 1874.989990234375,
+    "sale_rate": 2100.0,
     "hsn_code": "69101000",
     "unit": "Nos"
   },
@@ -121808,6 +121816,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "PW PILLAR COCK (LAPIS NEO)",
+    "group_name": "PLUMBING",
+    "purchase_rate": 2775.0,
+    "sale_rate": 3055.0,
+    "hsn_code": "8481",
+    "unit": "Nos"
+  },
+  {
     "item_name": "PW PILLAR COCK AUTO",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 2400.0,
@@ -121821,14 +121837,6 @@
     "purchase_rate": 1087.489990234375,
     "sale_rate": 1200.0,
     "hsn_code": "84818020",
-    "unit": "Nos"
-  },
-  {
-    "item_name": "PW PILLAR COCK PUSH TYPE",
-    "group_name": "PLUMBING",
-    "purchase_rate": 1687.0,
-    "sale_rate": 1920.0,
-    "hsn_code": "8481",
     "unit": "Nos"
   },
   {
@@ -122322,7 +122330,7 @@
   {
     "item_name": "PYE SUTHIYAL 652 (PYE)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 260.8900146484375,
+    "purchase_rate": 235.41000366210938,
     "sale_rate": 300.0,
     "hsn_code": "82052000",
     "unit": "Nos"
@@ -128218,8 +128226,8 @@
   {
     "item_name": "RR 6SQ WIRE (G/Y) 100MTR",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 7544.919921875,
-    "sale_rate": 8300.0,
+    "purchase_rate": 11841.0,
+    "sale_rate": 12600.0,
     "hsn_code": "85446020",
     "unit": "Nos"
   },
@@ -133874,7 +133882,7 @@
   {
     "item_name": "SC BOX 35 X 8 WOOD (100PS-RK)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 68.0,
+    "purchase_rate": 58.0,
     "sale_rate": 100.0,
     "hsn_code": "73181500",
     "unit": "Box"
@@ -134386,7 +134394,7 @@
   {
     "item_name": "SC BOX 60X8 STAR SCREW (200PS)WHITE",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 170.0,
+    "purchase_rate": 190.0,
     "sale_rate": 320.0,
     "hsn_code": "73181500",
     "unit": "Box"
@@ -139248,6 +139256,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "SP 38NO  SINGLE END SPANNER (EASTMAN)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 174.8699951171875,
+    "sale_rate": 200.0,
+    "hsn_code": "82041110",
+    "unit": "Nos"
+  },
+  {
     "item_name": "SP 38NO  SINGLE END SPANNER (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 268.3599853515625,
@@ -139994,8 +140010,8 @@
   {
     "item_name": "SP DE 24 X 26 SPANER (TAPARIA) DOUBLE END",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 95.1500015258789,
-    "sale_rate": 125.0,
+    "purchase_rate": 99.48999786376953,
+    "sale_rate": 130.0,
     "hsn_code": "82041110",
     "unit": "Nos"
   },
@@ -142714,8 +142730,8 @@
   {
     "item_name": "SS 11/4\" FLANGE CLASS 150",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 413.0,
-    "sale_rate": 520.0,
+    "purchase_rate": 472.0,
+    "sale_rate": 570.0,
     "hsn_code": "73072100",
     "unit": "Nos"
   },
@@ -146402,7 +146418,7 @@
   {
     "item_name": "STEEL SCALE 30CM KRISTEEL",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 67.95999908447266,
+    "purchase_rate": 69.66000366210938,
     "sale_rate": 80.0,
     "hsn_code": "90172010",
     "unit": "Nos"
@@ -157274,7 +157290,7 @@
   {
     "item_name": "TW 6\" TRAWLEY WHEEL 6\" X 2\" ROTATABLE BEST NYLON",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 688.280029296875,
+    "purchase_rate": 701.97998046875,
     "sale_rate": 850.0,
     "hsn_code": "83022000",
     "unit": "Nos"
@@ -164106,7 +164122,7 @@
   {
     "item_name": "UPVC 2 1/2\" X  2\" REDUCER (PRINCE)",
     "group_name": "PLUMBING",
-    "purchase_rate": 108.7300033569336,
+    "purchase_rate": 105.58999633789062,
     "sale_rate": 140.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -164154,8 +164170,8 @@
   {
     "item_name": "UPVC 2\" BEND (ASTRAL)",
     "group_name": "ASTRAL",
-    "purchase_rate": 78.94000244140625,
-    "sale_rate": 100.0,
+    "purchase_rate": 142.8000030517578,
+    "sale_rate": 160.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -164194,8 +164210,8 @@
   {
     "item_name": "UPVC 2\" COUPLING (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 46.900001525878906,
-    "sale_rate": 52.0,
+    "purchase_rate": 58.79999923706055,
+    "sale_rate": 68.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -164250,8 +164266,8 @@
   {
     "item_name": "UPVC 2\" FLANGE (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 383.4599914550781,
-    "sale_rate": 425.0,
+    "purchase_rate": 388.0799865722656,
+    "sale_rate": 430.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -164314,8 +164330,8 @@
   {
     "item_name": "UPVC 2\" PIPE (6MTR) ASTRAL",
     "group_name": "PLUMBING",
-    "purchase_rate": 1150.68994140625,
-    "sale_rate": 1240.0,
+    "purchase_rate": 1415.8800048828125,
+    "sale_rate": 1560.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
@@ -165778,8 +165794,8 @@
   {
     "item_name": "URINAL SPREADER VIKING",
     "group_name": "PLUMBING",
-    "purchase_rate": 416.1499938964844,
-    "sale_rate": 500.0,
+    "purchase_rate": 573.989990234375,
+    "sale_rate": 670.0,
     "hsn_code": "84818090",
     "unit": "Nos"
   },
@@ -172218,7 +172234,7 @@
   {
     "item_name": "WA 5/8\" WASER (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 120.0,
+    "purchase_rate": 118.0,
     "sale_rate": 135.0,
     "hsn_code": "73182100",
     "unit": "Kg"
@@ -173274,8 +173290,8 @@
   {
     "item_name": "WE 0.8MM MIG COIL CO2",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1475.5,
-    "sale_rate": 1600.0,
+    "purchase_rate": 1504.5999755859375,
+    "sale_rate": 1660.0,
     "hsn_code": "72299016",
     "unit": "COIL"
   },
@@ -176224,7 +176240,7 @@
     "unit": "Nos"
   },
   {
-    "item_name": "WELDING MACHINE 250A TOSHWELD MOSFET",
+    "item_name": "WELDING MACHINE 250A 1PH TOSHWELD MOSFET",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 10299.0400390625,
     "sale_rate": 11300.0,
@@ -178770,7 +178786,7 @@
   {
     "item_name": "YELLOW OXIDE 1KG (AGARAM)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 89.8740005493164,
+    "purchase_rate": 93.0,
     "sale_rate": 140.0,
     "hsn_code": "25309099",
     "unit": "Nos"
