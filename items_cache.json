@@ -50872,7 +50872,7 @@
     "unit": "Nos"
   },
   {
-    "item_name": "DU CRACK FILLER 1KG (10MM)",
+    "item_name": "DU CRACK FILLER 1KG (10MM)-DULUX",
     "group_name": "PAINTS",
     "purchase_rate": 343.0260009765625,
     "sale_rate": 360.0,
@@ -50880,10 +50880,18 @@
     "unit": "Nos"
   },
   {
-    "item_name": "DU CRACK FILLER 1KG (20MM)",
+    "item_name": "DU CRACK FILLER 1KG (20MM)-DULUX",
     "group_name": "PAINTS",
     "purchase_rate": 419.2539978027344,
     "sale_rate": 440.0,
+    "hsn_code": "38244010",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "DU CRACK FILLER 5KG (20MM)-DULUX",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 1901.25,
+    "sale_rate": 2000.0,
     "hsn_code": "38244010",
     "unit": "Nos"
   },
@@ -66844,7 +66852,7 @@
     "group_name": "PAINTS",
     "purchase_rate": 332.0,
     "sale_rate": 365.0,
-    "hsn_code": "32089021",
+    "hsn_code": "32089090",
     "unit": "Nos"
   },
   {
@@ -66860,7 +66868,7 @@
     "group_name": "PAINTS",
     "purchase_rate": 6218.60009765625,
     "sale_rate": 6840.0,
-    "hsn_code": "32089021",
+    "hsn_code": "32089090",
     "unit": "Nos"
   },
   {
@@ -66868,7 +66876,7 @@
     "group_name": "PAINTS",
     "purchase_rate": 1294.0,
     "sale_rate": 1430.0,
-    "hsn_code": "32089021",
+    "hsn_code": "32089090",
     "unit": "Nos"
   },
   {
