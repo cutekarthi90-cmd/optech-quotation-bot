@@ -4426,8 +4426,8 @@
   {
     "item_name": "AQUA BEST 2HP MONO BLOCK",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 10700.0,
-    "sale_rate": 11700.0,
+    "purchase_rate": 14010.0,
+    "sale_rate": 15450.0,
     "hsn_code": "84137010",
     "unit": "Nos"
   },
@@ -40754,7 +40754,7 @@
   {
     "item_name": "CPVC 3/4\" PIPE SDR 11 (5M)",
     "group_name": "PLUMBING",
-    "purchase_rate": 464.3599853515625,
+    "purchase_rate": 390.1000061035156,
     "sale_rate": 510.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
@@ -40818,8 +40818,8 @@
   {
     "item_name": "CPVC 3/4\" UNION",
     "group_name": "PLUMBING",
-    "purchase_rate": 84.95999908447266,
-    "sale_rate": 96.0,
+    "purchase_rate": 91.44999694824219,
+    "sale_rate": 100.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -43258,7 +43258,7 @@
   {
     "item_name": "CYLINDER KEY (OXYGEN) DESIGN",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 24.780000686645508,
+    "purchase_rate": 27.139999389648438,
     "sale_rate": 40.0,
     "hsn_code": "82041210",
     "unit": "Nos"
@@ -57130,7 +57130,7 @@
   {
     "item_name": "EV 200W LED FOCUS LIGHT (LEDURE)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 4835.0,
+    "purchase_rate": 4809.990234375,
     "sale_rate": 5400.0,
     "hsn_code": "94054090",
     "unit": "Nos"
@@ -80898,7 +80898,7 @@
   {
     "item_name": "JB WOOD HOLE SAW 64MM (2 1/2\")",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 174.0,
+    "purchase_rate": 180.0,
     "sale_rate": 250.0,
     "hsn_code": "82075000",
     "unit": "Nos"
@@ -162954,8 +162954,8 @@
   {
     "item_name": "UPVC 1 1/2\" FLANGE (ASHIRVAD-PIECE)",
     "group_name": "PLUMBING",
-    "purchase_rate": 156.47000122070312,
-    "sale_rate": 175.0,
+    "purchase_rate": 171.51300048828125,
+    "sale_rate": 190.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -163522,8 +163522,8 @@
   {
     "item_name": "UPVC 1\" NRV",
     "group_name": "PLUMBING",
-    "purchase_rate": 360.7900085449219,
-    "sale_rate": 410.0,
+    "purchase_rate": 395.4800109863281,
+    "sale_rate": 435.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -163954,8 +163954,8 @@
   {
     "item_name": "UPVC 11/4\" NRV",
     "group_name": "PLUMBING",
-    "purchase_rate": 723.219970703125,
-    "sale_rate": 830.0,
+    "purchase_rate": 763.4000244140625,
+    "sale_rate": 840.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -164346,8 +164346,8 @@
   {
     "item_name": "UPVC 2\" TEE (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 98.76000213623047,
-    "sale_rate": 110.0,
+    "purchase_rate": 104.25,
+    "sale_rate": 115.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -176637,6 +176637,14 @@
     "purchase_rate": 54.9900016784668,
     "sale_rate": 75.0,
     "hsn_code": "85366910",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "WES 8WAY DD DB",
+    "group_name": "ELECTRICALS",
+    "purchase_rate": 679.989990234375,
+    "sale_rate": 770.0,
+    "hsn_code": "85371000",
     "unit": "Nos"
   },
   {
