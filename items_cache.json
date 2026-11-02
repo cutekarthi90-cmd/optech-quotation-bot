@@ -8224,7 +8224,7 @@
     "unit": "Nos"
   },
   {
-    "item_name": "AS DAMP PROOF 20LT (ASIAN) GREY-K",
+    "item_name": "AS DAMP PROOF 20LT (ASIAN) GREY",
     "group_name": "PAINTS",
     "purchase_rate": 6165.5,
     "sale_rate": 6500.0,
@@ -13514,7 +13514,7 @@
   {
     "item_name": "AS ROYAL 20LT WHITE (ASIAN) GLITZ",
     "group_name": "PAINTS",
-    "purchase_rate": 12899.3466796875,
+    "purchase_rate": 12899.349609375,
     "sale_rate": 13580.0,
     "hsn_code": "32091010",
     "unit": "Nos"
@@ -13530,8 +13530,8 @@
   {
     "item_name": "AS ROYAL 20LT WHITE (ASIAN) SHYNE",
     "group_name": "PAINTS",
-    "purchase_rate": 12338.8466796875,
-    "sale_rate": 12990.0,
+    "purchase_rate": 12563.046875,
+    "sale_rate": 13220.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -99386,8 +99386,8 @@
   {
     "item_name": "MRF SA 4LT BLACK (PU-MAT-SPECTA)",
     "group_name": "PAINTS",
-    "purchase_rate": 1221.1729736328125,
-    "sale_rate": 1350.0,
+    "purchase_rate": 1395.2650146484375,
+    "sale_rate": 1535.0,
     "hsn_code": "32082090",
     "unit": "Nos"
   },
