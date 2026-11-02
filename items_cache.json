@@ -24146,7 +24146,7 @@
   {
     "item_name": "BL5\" JB CUT OFF WHEEL(1 MM )",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 21.329999923706055,
+    "purchase_rate": 18.420000076293945,
     "sale_rate": 25.0,
     "hsn_code": "68042220",
     "unit": "Nos"
@@ -61514,8 +61514,8 @@
   {
     "item_name": "FINOLEX 16SQMM X4C",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 1164.5,
-    "sale_rate": 1300.0,
+    "purchase_rate": 326.0,
+    "sale_rate": 342.0,
     "hsn_code": "85446020",
     "unit": "Meter"
   },
@@ -86242,8 +86242,8 @@
   {
     "item_name": "LE 1/2\" SHORT BODY (CORAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 143.11599731445312,
-    "sale_rate": 220.0,
+    "purchase_rate": 156.77999877929688,
+    "sale_rate": 230.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -86490,7 +86490,7 @@
   {
     "item_name": "LE CONNECTION TUBE 2 MTR (LEO)",
     "group_name": "PLUMBING",
-    "purchase_rate": 129.27000427246094,
+    "purchase_rate": 143.57000732421875,
     "sale_rate": 200.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -86546,7 +86546,7 @@
   {
     "item_name": "LE HEALTH FAUCET (LEO 1.5MTR) NRML",
     "group_name": "PLUMBING",
-    "purchase_rate": 254.4199981689453,
+    "purchase_rate": 264.04998779296875,
     "sale_rate": 380.0,
     "hsn_code": "39241090",
     "unit": "Nos"
@@ -87034,8 +87034,8 @@
   {
     "item_name": "LEG 18M OPEN BOX (METAL)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 405.7799987792969,
-    "sale_rate": 480.0,
+    "purchase_rate": 448.0199890136719,
+    "sale_rate": 510.0,
     "hsn_code": "85389000",
     "unit": "Nos"
   },
@@ -92004,6 +92004,14 @@
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 1899.4200439453125,
     "sale_rate": 2200.0,
+    "hsn_code": "84678100",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "MA DRILLING MACHINE  CORDLESS DONG CHENG DCJZ1202",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 2228.85009765625,
+    "sale_rate": 2550.0,
     "hsn_code": "84678100",
     "unit": "Nos"
   },
@@ -102186,8 +102194,8 @@
   {
     "item_name": "MY 18M COVER PLATE (MYLINC)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 412.0199890136719,
-    "sale_rate": 455.0,
+    "purchase_rate": 445.6199951171875,
+    "sale_rate": 500.0,
     "hsn_code": "85365020",
     "unit": "Nos"
   },
@@ -107434,8 +107442,8 @@
   {
     "item_name": "NU 5/16 NUT (GI)+",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 123.98999786376953,
-    "sale_rate": 140.0,
+    "purchase_rate": 130.0,
+    "sale_rate": 145.0,
     "hsn_code": "73181600",
     "unit": "Kg"
   },
@@ -113082,8 +113090,8 @@
   {
     "item_name": "PLATO TOWEL ROD 2FEET (6031-H)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1054.7430419921875,
-    "sale_rate": 1170.0,
+    "purchase_rate": 1096.8809814453125,
+    "sale_rate": 1180.0,
     "hsn_code": "74182010",
     "unit": "Nos"
   },
@@ -121828,7 +121836,7 @@
     "group_name": "PLUMBING",
     "purchase_rate": 2775.0,
     "sale_rate": 3055.0,
-    "hsn_code": "8481",
+    "hsn_code": "84818020",
     "unit": "Nos"
   },
   {
@@ -144856,6 +144864,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "SS BO 4MM X 50MM LKEY",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 5.699999809265137,
+    "sale_rate": 9.0,
+    "hsn_code": "73181500",
+    "unit": "Nos"
+  },
+  {
     "item_name": "SS BO 5 X 1/2 BOLT",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 49.310001373291016,
@@ -145314,7 +145330,7 @@
   {
     "item_name": "Ss Nu 10mm (nut)(304)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 5.110000133514404,
+    "purchase_rate": 5.239999771118164,
     "sale_rate": 10.0,
     "hsn_code": "73181600",
     "unit": "Nos"
@@ -145410,7 +145426,7 @@
   {
     "item_name": "SS NU 4MM NUT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 0.75,
+    "purchase_rate": 0.6050000190734863,
     "sale_rate": 3.5,
     "hsn_code": "73181500",
     "unit": "Nos"
@@ -145804,6 +145820,14 @@
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 2.240000009536743,
     "sale_rate": 5.0,
+    "hsn_code": "73182100",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "SS WA 5/32 WASER",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 0.5400000214576721,
+    "sale_rate": 1.5,
     "hsn_code": "73182100",
     "unit": "Nos"
   },
@@ -150106,7 +150130,7 @@
   {
     "item_name": "TAP BOLT CUTTER (BC14) (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 747.1170043945312,
+    "purchase_rate": 799.1500244140625,
     "sale_rate": 950.0,
     "hsn_code": "82034090",
     "unit": "Nos"
@@ -155474,7 +155498,7 @@
   {
     "item_name": "TVS 14MM X 50MM BOLT (L&KEY)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 39.540000915527344,
+    "purchase_rate": 35.66999816894531,
     "sale_rate": 55.0,
     "hsn_code": "73181500",
     "unit": "Nos"
@@ -170274,8 +170298,8 @@
   {
     "item_name": "VI 3\" 4KG PVC PIPE (VIJAY)",
     "group_name": "PLUMBING",
-    "purchase_rate": 502.84698486328125,
-    "sale_rate": 555.0,
+    "purchase_rate": 555.0499877929688,
+    "sale_rate": 610.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
@@ -170314,16 +170338,16 @@
   {
     "item_name": "VI 4\" 4KG PVC PIPE (VIJAY)",
     "group_name": "PLUMBING",
-    "purchase_rate": 830.6900024414062,
-    "sale_rate": 915.0,
+    "purchase_rate": 803.25,
+    "sale_rate": 885.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
   {
     "item_name": "VI 4\" 6KG PVC PIPE (VIJAY)",
     "group_name": "PLUMBING",
-    "purchase_rate": 1050.8299560546875,
-    "sale_rate": 1155.0,
+    "purchase_rate": 1063.3499755859375,
+    "sale_rate": 1170.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
@@ -175746,8 +175770,8 @@
   {
     "item_name": "WE SPARE FIRE BACK ARRESTOR (CUTTING TORCH)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 811.5449829101562,
-    "sale_rate": 890.0,
+    "purchase_rate": 862.8699951171875,
+    "sale_rate": 960.0,
     "hsn_code": "84819090",
     "unit": "Set"
   },
@@ -175762,8 +175786,8 @@
   {
     "item_name": "WE SPARE FIRE BACK ARRESTOR-SET (FOR REGULATOR) KASHMIR",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 781.4550170898438,
-    "sale_rate": 870.0,
+    "purchase_rate": 862.8699951171875,
+    "sale_rate": 980.0,
     "hsn_code": "84819090",
     "unit": "Set"
   },
