@@ -56,6 +56,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "1 1/4 \" NRV DISC TYPE",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 943.4099731445312,
+    "sale_rate": 1100.0,
+    "hsn_code": "84818030",
+    "unit": "Nos"
+  },
+  {
     "item_name": "1 1/4\" NRV (AJIT) HORIZONTAL",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 619.1400146484375,
@@ -21794,7 +21802,7 @@
   {
     "item_name": "BELT WRENCH (FILTER) YELLOW 9\" CHANGHON",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 133.281005859375,
+    "purchase_rate": 137.42999267578125,
     "sale_rate": 250.0,
     "hsn_code": "82042000",
     "unit": "Nos"
@@ -38362,7 +38370,7 @@
   {
     "item_name": "CORE BIT (A/C-HANDLE)300MM BULLET",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 243.0,
+    "purchase_rate": 248.6699981689453,
     "sale_rate": 460.0,
     "hsn_code": "82075000",
     "unit": "Nos"
@@ -42770,9 +42778,9 @@
   {
     "item_name": "CRI SMB 140-1PH",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 12056.7998046875,
-    "sale_rate": 13500.0,
-    "hsn_code": "8413",
+    "purchase_rate": 17110.0,
+    "sale_rate": 18850.0,
+    "hsn_code": "84138130",
     "unit": "Nos"
   },
   {
@@ -93362,7 +93370,7 @@
   {
     "item_name": "MAG 14MM MAGNETIC DRILL BIT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1776.199951171875,
+    "purchase_rate": 1786.550048828125,
     "sale_rate": 2200.0,
     "hsn_code": "82075000",
     "unit": "Nos"
@@ -93394,7 +93402,7 @@
   {
     "item_name": "MAG 17MM MAGNETIC DRILL BIT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1983.050048828125,
+    "purchase_rate": 1786.52001953125,
     "sale_rate": 2300.0,
     "hsn_code": "82075000",
     "unit": "Nos"
@@ -95976,6 +95984,14 @@
     "unit": "Roll"
   },
   {
+    "item_name": "MOTOR VARNISH 1 LTR",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 218.3000030517578,
+    "sale_rate": 290.0,
+    "hsn_code": "32089090",
+    "unit": "Nos"
+  },
+  {
     "item_name": "MOTOR VARNISH 200ML",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 50.0,
@@ -95986,17 +96002,9 @@
   {
     "item_name": "MOTOR VARNISH 500ML",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 100.0,
-    "sale_rate": 130.0,
-    "hsn_code": "32089090",
-    "unit": "Nos"
-  },
-  {
-    "item_name": "MOTOR VARNISH 900ML",
-    "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 256.0,
-    "sale_rate": 380.0,
-    "hsn_code": "32089090",
+    "purchase_rate": 120.36000061035156,
+    "sale_rate": 150.0,
+    "hsn_code": "32089041",
     "unit": "Nos"
   },
   {
@@ -101970,16 +101978,16 @@
   {
     "item_name": "MULAMATTAM 6\" (ENGINEER\"S)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 159.8300018310547,
-    "sale_rate": 190.0,
+    "purchase_rate": 166.02000427246094,
+    "sale_rate": 200.0,
     "hsn_code": "82055990",
     "unit": "Nos"
   },
   {
     "item_name": "MULAMATTAM 8\" (ENGINEER\"S)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 197.8800048828125,
-    "sale_rate": 280.0,
+    "purchase_rate": 205.5500030517578,
+    "sale_rate": 290.0,
     "hsn_code": "82055990",
     "unit": "Nos"
   },
@@ -107130,8 +107138,8 @@
   {
     "item_name": "NOOL KANDU (SIMCO 0/8 COTTON) 50 GRAMS",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 8.699999809265137,
-    "sale_rate": 20.0,
+    "purchase_rate": 25.0,
+    "sale_rate": 30.0,
     "hsn_code": "5206",
     "unit": "Nos"
   },
@@ -110234,8 +110242,8 @@
   {
     "item_name": "PI 1\" PIPE CLIP (SCREW TYPE-137S/35A)",
     "group_name": "PLUMBING",
-    "purchase_rate": 13.6899995803833,
-    "sale_rate": 20.0,
+    "purchase_rate": 24.780000686645508,
+    "sale_rate": 45.0,
     "hsn_code": "73079990",
     "unit": "Nos"
   },
@@ -110243,7 +110251,7 @@
     "item_name": "PI 1\" PIPE CLIP (SS)",
     "group_name": "PLUMBING",
     "purchase_rate": 24.780000686645508,
-    "sale_rate": 55.0,
+    "sale_rate": 50.0,
     "hsn_code": "73079990",
     "unit": "Nos"
   },
@@ -138706,8 +138714,8 @@
   {
     "item_name": "SP 22NO IMPACT DEEP SOCKET 1/2\" TAPARIA",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 166.52000427246094,
-    "sale_rate": 260.0,
+    "purchase_rate": 179.97000122070312,
+    "sale_rate": 270.0,
     "hsn_code": "82042000",
     "unit": "Nos"
   },
@@ -150138,7 +150146,7 @@
   {
     "item_name": "TAP BOLT CUTTER (BC18) (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 966.4199829101562,
+    "purchase_rate": 951.0800170898438,
     "sale_rate": 1130.0,
     "hsn_code": "82034090",
     "unit": "Nos"
@@ -171002,8 +171010,8 @@
   {
     "item_name": "VP 3 X 1B PULLEY (SOLID)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 173.30999755859375,
-    "sale_rate": 270.0,
+    "purchase_rate": 207.52999877929688,
+    "sale_rate": 280.0,
     "hsn_code": "84835090",
     "unit": "Nos"
   },
@@ -171322,8 +171330,8 @@
   {
     "item_name": "VP 5 X 2B PULLEY (SOLID)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 738.030029296875,
-    "sale_rate": 950.0,
+    "purchase_rate": 833.8400268554688,
+    "sale_rate": 970.0,
     "hsn_code": "84835090",
     "unit": "Nos"
   },
