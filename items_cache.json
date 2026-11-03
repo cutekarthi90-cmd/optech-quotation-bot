@@ -16554,7 +16554,7 @@
   {
     "item_name": "AST 1 1/2\" ELBOW-(HVY) ASTRAL",
     "group_name": "PLUMBING",
-    "purchase_rate": 35.54999923706055,
+    "purchase_rate": 36.0,
     "sale_rate": 50.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -16786,8 +16786,8 @@
   {
     "item_name": "AST 1\" X 1/2\" BR FTA (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 97.5,
-    "sale_rate": 110.0,
+    "purchase_rate": 104.0,
+    "sale_rate": 125.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -17026,7 +17026,7 @@
   {
     "item_name": "AST 2 1/2\" SHOE (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 60.58000183105469,
+    "purchase_rate": 61.31999969482422,
     "sale_rate": 75.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -18130,8 +18130,8 @@
   {
     "item_name": "AST 6\" X 4\" REDUCER (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 185.0240020751953,
-    "sale_rate": 250.0,
+    "purchase_rate": 255.1999969482422,
+    "sale_rate": 310.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -58346,7 +58346,7 @@
   {
     "item_name": "FAN CLAMP SQUAERE [4TYPE]",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 34.0,
+    "purchase_rate": 24.280000686645508,
     "sale_rate": 50.0,
     "hsn_code": "73079910",
     "unit": "Nos"
@@ -61522,8 +61522,8 @@
   {
     "item_name": "FINOLEX 16SQMM X4C",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 1220.0,
-    "sale_rate": 1250.0,
+    "purchase_rate": 1244.0,
+    "sale_rate": 1270.0,
     "hsn_code": "85446020",
     "unit": "Meter"
   },
@@ -63130,8 +63130,8 @@
   {
     "item_name": "FLOW VALVE 10 LT (APPOLO)",
     "group_name": "PLUMBING",
-    "purchase_rate": 166.85000610351562,
-    "sale_rate": 210.0,
+    "purchase_rate": 173.1999969482422,
+    "sale_rate": 220.0,
     "hsn_code": "84818010",
     "unit": "Nos"
   },
@@ -67010,7 +67010,7 @@
   {
     "item_name": "GI 1 1/2\" COUPLER",
     "group_name": "PLUMBING",
-    "purchase_rate": 60.869998931884766,
+    "purchase_rate": 61.599998474121094,
     "sale_rate": 90.0,
     "hsn_code": "73072200",
     "unit": "Nos"
@@ -67770,7 +67770,7 @@
   {
     "item_name": "GI 3\" COUPLER",
     "group_name": "PLUMBING",
-    "purchase_rate": 235.08999633789062,
+    "purchase_rate": 237.89999389648438,
     "sale_rate": 290.0,
     "hsn_code": "73072200",
     "unit": "Nos"
@@ -67794,8 +67794,8 @@
   {
     "item_name": "GI 3\" ELBOW",
     "group_name": "PLUMBING",
-    "purchase_rate": 325.7099914550781,
-    "sale_rate": 400.0,
+    "purchase_rate": 367.1000061035156,
+    "sale_rate": 430.0,
     "hsn_code": "73071900",
     "unit": "Nos"
   },
@@ -67970,9 +67970,9 @@
   {
     "item_name": "GI 4\" BEND (TATA)",
     "group_name": "PLUMBING",
-    "purchase_rate": 965.5900268554688,
+    "purchase_rate": 878.2999877929688,
     "sale_rate": 1150.0,
-    "hsn_code": "7307",
+    "hsn_code": "73063090",
     "unit": "Nos"
   },
   {
@@ -67986,8 +67986,8 @@
   {
     "item_name": "GI 4\" COUPLER (HVY)",
     "group_name": "PLUMBING",
-    "purchase_rate": 362.177001953125,
-    "sale_rate": 410.0,
+    "purchase_rate": 385.1000061035156,
+    "sale_rate": 462.0,
     "hsn_code": "73079210",
     "unit": "Nos"
   },
@@ -68018,15 +68018,15 @@
   {
     "item_name": "GI 4\" ELBOW",
     "group_name": "PLUMBING",
-    "purchase_rate": 592.4500122070312,
-    "sale_rate": 680.0,
+    "purchase_rate": 630.0,
+    "sale_rate": 700.0,
     "hsn_code": "73079210",
     "unit": "Nos"
   },
   {
     "item_name": "GI 4\" H. NIPPLE",
     "group_name": "PLUMBING",
-    "purchase_rate": 619.75,
+    "purchase_rate": 659.0,
     "sale_rate": 780.0,
     "hsn_code": "73071900",
     "unit": "Nos"
@@ -72482,8 +72482,8 @@
   {
     "item_name": "HA 1\" HAWSAW BLADE (STAR-BOX)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 449.989990234375,
-    "sale_rate": 550.0,
+    "purchase_rate": 480.0,
+    "sale_rate": 580.0,
     "hsn_code": "82029120",
     "unit": "Box"
   },
@@ -100978,8 +100978,8 @@
   {
     "item_name": "MS 3 X 11/2 REDUCER (WELDABLE)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 245.44000244140625,
-    "sale_rate": 290.0,
+    "purchase_rate": 299.1000061035156,
+    "sale_rate": 370.0,
     "hsn_code": "73079390",
     "unit": "Nos"
   },
@@ -104242,7 +104242,7 @@
   {
     "item_name": "NI 1/2\" X 4\" B.NIPPLE",
     "group_name": "PLUMBING",
-    "purchase_rate": 14.1899995803833,
+    "purchase_rate": 14.5,
     "sale_rate": 22.0,
     "hsn_code": "73063090",
     "unit": "Nos"
@@ -113122,8 +113122,8 @@
   {
     "item_name": "PLATO WALL SPOUT (KRATI) KR105",
     "group_name": "PLUMBING",
-    "purchase_rate": 915.0900268554688,
-    "sale_rate": 1010.0,
+    "purchase_rate": 993.0,
+    "sale_rate": 1100.0,
     "hsn_code": "84818090",
     "unit": "Nos"
   },
@@ -119650,8 +119650,8 @@
   {
     "item_name": "PR 7KG 21/2\" PRESSURE GAUGE(100PSI) ECONOMY",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 220.66000366210938,
-    "sale_rate": 280.0,
+    "purchase_rate": 265.5,
+    "sale_rate": 350.0,
     "hsn_code": "90262000",
     "unit": "Nos"
   },
@@ -127290,8 +127290,8 @@
   {
     "item_name": "ROFF 5LT (T 16) HEAVY DUTY TILES CLEANER (1BOX=3PS)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 625.4000244140625,
-    "sale_rate": 730.0,
+    "purchase_rate": 650.0,
+    "sale_rate": 750.0,
     "hsn_code": "38249900",
     "unit": "Nos"
   },
@@ -137866,7 +137866,7 @@
   {
     "item_name": "SO SOLINOID VALVE 5/2-1/4",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 886.1799926757812,
+    "purchase_rate": 451.1000061035156,
     "sale_rate": 1020.0,
     "hsn_code": "84818090",
     "unit": "Nos"
@@ -163706,8 +163706,8 @@
   {
     "item_name": "UPVC 1\" X 1/2\" BRASS ELBOW (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 115.97000122070312,
-    "sale_rate": 130.0,
+    "purchase_rate": 140.0,
+    "sale_rate": 155.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -164058,8 +164058,8 @@
   {
     "item_name": "UPVC 2 1/2\" COUPLING (PRINCE)",
     "group_name": "PLUMBING",
-    "purchase_rate": 84.58999633789062,
-    "sale_rate": 100.0,
+    "purchase_rate": 90.19999694824219,
+    "sale_rate": 120.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -164738,8 +164738,8 @@
   {
     "item_name": "UPVC 3\" COUPLING (PRINCE)",
     "group_name": "PLUMBING",
-    "purchase_rate": 108.30000305175781,
-    "sale_rate": 160.0,
+    "purchase_rate": 121.5999984741211,
+    "sale_rate": 170.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -165290,7 +165290,7 @@
   {
     "item_name": "UPVC 4\" FLANGE (PRINCE)",
     "group_name": "PLUMBING",
-    "purchase_rate": 408.2449951171875,
+    "purchase_rate": 466.6000061035156,
     "sale_rate": 570.0,
     "hsn_code": "73071900",
     "unit": "Nos"
@@ -165546,7 +165546,7 @@
   {
     "item_name": "UPVC 6\" X 4\" REDUCER PRINCE",
     "group_name": "PLUMBING",
-    "purchase_rate": 690.0,
+    "purchase_rate": 529.0,
     "sale_rate": 760.0,
     "hsn_code": "39174000",
     "unit": "Nos"
