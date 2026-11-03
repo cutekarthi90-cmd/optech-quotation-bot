@@ -97954,7 +97954,7 @@
   {
     "item_name": "MRF EN 20LT DUROTHANE-GLSY WHT (PU)-PRD",
     "group_name": "PAINTS",
-    "purchase_rate": 0.0,
+    "purchase_rate": 13848.5,
     "sale_rate": 12000.0,
     "hsn_code": "32082090",
     "unit": "Nos"
@@ -128546,8 +128546,8 @@
   {
     "item_name": "RU BLACK 4LT RUBBER PAINT-ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 1748.9010009765625,
-    "sale_rate": 1900.0,
+    "purchase_rate": 1783.6400146484375,
+    "sale_rate": 1940.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -128570,8 +128570,8 @@
   {
     "item_name": "RU G.YELLOW 4LT RUBBER PAINT-ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 1829.2359619140625,
-    "sale_rate": 1990.0,
+    "purchase_rate": 1907.3990478515625,
+    "sale_rate": 2070.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -128642,8 +128642,8 @@
   {
     "item_name": "RU SMK-GREY 4LT RUBBER PAINT-ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 1770.613037109375,
-    "sale_rate": 1930.0,
+    "purchase_rate": 1783.6409912109375,
+    "sale_rate": 1940.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -167051,7 +167051,7 @@
     "item_name": "VE B106 VEEHOLD BELT",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 508.0,
-    "sale_rate": 64.0,
+    "sale_rate": 640.0,
     "hsn_code": "40103999",
     "unit": "Nos"
   },
