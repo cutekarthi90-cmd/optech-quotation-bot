@@ -23056,14 +23056,6 @@
     "unit": "Nos"
   },
   {
-    "item_name": "BL 4\" GRINDING WHEEL (NORTON)",
-    "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 30.0,
-    "sale_rate": 35.0,
-    "hsn_code": "68042210",
-    "unit": "Nos"
-  },
-  {
     "item_name": "BL 4\" GRINDING WHEEL (POLYMAK)",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 39.90999984741211,
@@ -23077,6 +23069,14 @@
     "purchase_rate": 30.0,
     "sale_rate": 35.0,
     "hsn_code": "68042290",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "BL 4\" GRINDING WHEEL (ULTRA FAST)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 24.0,
+    "sale_rate": 30.0,
+    "hsn_code": "68042210",
     "unit": "Nos"
   },
   {
@@ -46418,7 +46418,7 @@
   {
     "item_name": "DR 12MM VEL BIT (JB)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 25.989999771118164,
+    "purchase_rate": 30.0,
     "sale_rate": 45.0,
     "hsn_code": "82075000",
     "unit": "Nos"
@@ -61226,16 +61226,16 @@
   {
     "item_name": "FILE 8\" HALF ROUND (JB)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 107.0,
-    "sale_rate": 150.0,
+    "purchase_rate": 123.0,
+    "sale_rate": 160.0,
     "hsn_code": "82032000",
     "unit": "Nos"
   },
   {
     "item_name": "FILE 8\" ROUND (JB)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 88.0,
-    "sale_rate": 145.0,
+    "purchase_rate": 98.0,
+    "sale_rate": 140.0,
     "hsn_code": "82032000",
     "unit": "Nos"
   },
@@ -76186,7 +76186,7 @@
   {
     "item_name": "HO 1/4X1/4(6MM) HOSE COLLER",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 17.700000762939453,
+    "purchase_rate": 28.299999237060547,
     "sale_rate": 40.0,
     "hsn_code": "74122012",
     "unit": "Nos"
@@ -97571,7 +97571,7 @@
     "item_name": "MRF DAMPGARDE-1LT-WHITE (AQUA FRESH)",
     "group_name": "PAINTS",
     "purchase_rate": 292.8080139160156,
-    "sale_rate": 320.0,
+    "sale_rate": 360.0,
     "hsn_code": "32091090",
     "unit": "Nos"
   },
@@ -142485,6 +142485,14 @@
     "purchase_rate": 59.058998107910156,
     "sale_rate": 120.0,
     "hsn_code": "73072900",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "SS 1/4\" BALLVALVE (LINTAS)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 404.20001220703125,
+    "sale_rate": 480.0,
+    "hsn_code": "84818030",
     "unit": "Nos"
   },
   {
