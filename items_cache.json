@@ -11554,8 +11554,8 @@
   {
     "item_name": "AS MEL MAT 1LT (ASIAN)+",
     "group_name": "PAINTS",
-    "purchase_rate": 367.69000244140625,
-    "sale_rate": 385.0,
+    "purchase_rate": 374.41400146484375,
+    "sale_rate": 395.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -23818,8 +23818,8 @@
   {
     "item_name": "BL 6\" MARBLE CUTTER ECO GREEN (BULLET)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 168.0500030517578,
-    "sale_rate": 230.0,
+    "purchase_rate": 183.39999389648438,
+    "sale_rate": 260.0,
     "hsn_code": "82022000",
     "unit": "Nos"
   },
@@ -45498,8 +45498,8 @@
   {
     "item_name": "DR (M-35) 12MM TOTEM DRILL BIT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 614.1599731445312,
-    "sale_rate": 740.0,
+    "purchase_rate": 748.8599853515625,
+    "sale_rate": 850.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -54482,7 +54482,7 @@
   {
     "item_name": "EMW 600NO EMERY PAPER (AJAX)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 15.34000015258789,
+    "purchase_rate": 16.75,
     "sale_rate": 25.0,
     "hsn_code": "68052010",
     "unit": "Nos"
@@ -60964,7 +60964,7 @@
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 312.2300109863281,
     "sale_rate": 360.0,
-    "hsn_code": "8203",
+    "hsn_code": "82032000",
     "unit": "Nos"
   },
   {
@@ -61538,8 +61538,8 @@
   {
     "item_name": "FINOLEX 1SQ FRLS (90MTR)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 1870.0,
-    "sale_rate": 1970.0,
+    "purchase_rate": 1917.989990234375,
+    "sale_rate": 2110.0,
     "hsn_code": "85446020",
     "unit": "COIL"
   },
@@ -61602,7 +61602,7 @@
   {
     "item_name": "FINOLEX 2.5 SQ MM FRLS (90-MTR)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 4482.990234375,
+    "purchase_rate": 4593.990234375,
     "sale_rate": 4710.0,
     "hsn_code": "85446020",
     "unit": "COIL"
@@ -61714,8 +61714,8 @@
   {
     "item_name": "FINOLEX 6SQMM X 3 CORE",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 338.5,
-    "sale_rate": 390.0,
+    "purchase_rate": 357.6099853515625,
+    "sale_rate": 395.0,
     "hsn_code": "85446020",
     "unit": "Nos"
   },
@@ -62410,7 +62410,7 @@
   {
     "item_name": "FL 60NO FLAP DISC (BULLET)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 28.59000015258789,
+    "purchase_rate": 29.1200008392334,
     "sale_rate": 35.0,
     "hsn_code": "68051010",
     "unit": "Nos"
@@ -83410,16 +83410,16 @@
   {
     "item_name": "KU 2.5 SQ X 2 CORE (KUNDAN) MTR",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 103.66999816894531,
-    "sale_rate": 113.0,
+    "purchase_rate": 106.33999633789062,
+    "sale_rate": 116.0,
     "hsn_code": "85446020",
     "unit": "Meter"
   },
   {
     "item_name": "KU 2.5 SQ X 2 CORE (KUNDAN) ROLL 100MTR",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 10367.76953125,
-    "sale_rate": 10890.0,
+    "purchase_rate": 10634.330078125,
+    "sale_rate": 11170.0,
     "hsn_code": "85446020",
     "unit": "Roll"
   },
@@ -83578,16 +83578,16 @@
   {
     "item_name": "KU 4SQ X 4CORE ROUND CABLE (KUNDAN) 100MTR-ROLL",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 30470.900390625,
-    "sale_rate": 31995.0,
+    "purchase_rate": 31254.12890625,
+    "sale_rate": 32850.0,
     "hsn_code": "85446020",
     "unit": "Roll"
   },
   {
     "item_name": "KU 4SQ X 4CORE ROUND CABLE (KUNDAN) MTR",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 304.70001220703125,
-    "sale_rate": 335.0,
+    "purchase_rate": 312.5400085449219,
+    "sale_rate": 345.0,
     "hsn_code": "85446020",
     "unit": "Meter"
   },
@@ -83626,16 +83626,16 @@
   {
     "item_name": "KU 6 SQ X 4CORE (KUNDAN) MTR",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 406.32000732421875,
-    "sale_rate": 455.0,
+    "purchase_rate": 477.29998779296875,
+    "sale_rate": 525.0,
     "hsn_code": "85446020",
     "unit": "Meter"
   },
   {
     "item_name": "KU 6 SQ X 4CORE (KUNDAN) ROLL",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 40632.12109375,
-    "sale_rate": 44700.0,
+    "purchase_rate": 47730.51953125,
+    "sale_rate": 50120.0,
     "hsn_code": "85446020",
     "unit": "Roll"
   },
@@ -144050,7 +144050,7 @@
   {
     "item_name": "SS BO 12 X 50MM (BOLT)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 24.209999084472656,
+    "purchase_rate": 24.389999389648438,
     "sale_rate": 32.0,
     "hsn_code": "73181500",
     "unit": "Nos"
@@ -146042,7 +146042,7 @@
   {
     "item_name": "ST 20W STREET LIGHT (LEDURE)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 470.0,
+    "purchase_rate": 498.989990234375,
     "sale_rate": 750.0,
     "hsn_code": "940540",
     "unit": "Nos"
@@ -152874,8 +152874,8 @@
   {
     "item_name": "THREAD ROD 12MM 1MTR (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 76.69999694824219,
-    "sale_rate": 140.0,
+    "purchase_rate": 123.9000015258789,
+    "sale_rate": 150.0,
     "hsn_code": "73181900",
     "unit": "Kg"
   },
@@ -152922,8 +152922,8 @@
   {
     "item_name": "THREAD ROD 16MM 1MTR (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 79.05999755859375,
-    "sale_rate": 145.0,
+    "purchase_rate": 123.9000015258789,
+    "sale_rate": 150.0,
     "hsn_code": "73181900",
     "unit": "Kg"
   },
@@ -162410,7 +162410,7 @@
   {
     "item_name": "UL  PEDESTAL FAN 18\"METAL (ULTRON)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 3250.0,
+    "purchase_rate": 3100.0,
     "sale_rate": 3600.0,
     "hsn_code": "84145130",
     "unit": "Nos"
@@ -170218,7 +170218,7 @@
   {
     "item_name": "VI 1 1/2\" 6KG PVC PIPE (VIJAY)",
     "group_name": "PLUMBING",
-    "purchase_rate": 280.79998779296875,
+    "purchase_rate": 277.0899963378906,
     "sale_rate": 310.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
@@ -170250,7 +170250,7 @@
   {
     "item_name": "VI 1\" 15KG PVC PIPE (VIJAY)",
     "group_name": "PLUMBING",
-    "purchase_rate": 315.0,
+    "purchase_rate": 318.75,
     "sale_rate": 350.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
@@ -171178,8 +171178,8 @@
   {
     "item_name": "VP 4 X 2B PULLEY (SOLID)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 523.9199829101562,
-    "sale_rate": 620.0,
+    "purchase_rate": 541.0499877929688,
+    "sale_rate": 640.0,
     "hsn_code": "84835090",
     "unit": "Nos"
   },
