@@ -98602,8 +98602,8 @@
   {
     "item_name": "MRF MTL CT CLEAR (1LTR) MAT+",
     "group_name": "PAINTS",
-    "purchase_rate": 890.5,
-    "sale_rate": 980.0,
+    "purchase_rate": 922.5499877929688,
+    "sale_rate": 1015.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -102610,7 +102610,7 @@
   {
     "item_name": "MYK EPOXY 1.25Kg RESIN KIT (SP-100)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 2295.277099609375,
+    "purchase_rate": 2299.9970703125,
     "sale_rate": 2600.0,
     "hsn_code": "32141000",
     "unit": "Nos"
@@ -121356,7 +121356,7 @@
     "group_name": "PLUMBING",
     "purchase_rate": 9.0,
     "sale_rate": 21.0,
-    "hsn_code": "3917",
+    "hsn_code": "39174000",
     "unit": "Nos"
   },
   {
@@ -149570,7 +149570,7 @@
   {
     "item_name": "TANK 2000 LTRS (VECTUS-WHITE) SILK",
     "group_name": "PLUMBING",
-    "purchase_rate": 11200.0,
+    "purchase_rate": 11400.0,
     "sale_rate": 13000.0,
     "hsn_code": "39251000",
     "unit": "Nos"
