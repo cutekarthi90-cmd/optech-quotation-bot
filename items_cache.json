@@ -418,8 +418,8 @@
   {
     "item_name": "2\" NRV FLANGE DISC",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 633.6599731445312,
-    "sale_rate": 1100.0,
+    "purchase_rate": 738.969970703125,
+    "sale_rate": 1150.0,
     "hsn_code": "84813000",
     "unit": "Nos"
   },
@@ -1979,7 +1979,7 @@
     "item_name": "AD EN 4LT GO.YELLOW (SPL) (ADDITION)+",
     "group_name": "PAINTS",
     "purchase_rate": 1169.3800048828125,
-    "sale_rate": 1290.0,
+    "sale_rate": 1310.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -19474,8 +19474,8 @@
   {
     "item_name": "BA 1/2\" BALLVALVE (SEAL MECH-CI)",
     "group_name": "PLUMBING",
-    "purchase_rate": 262.7030029296875,
-    "sale_rate": 300.0,
+    "purchase_rate": 301.739990234375,
+    "sale_rate": 340.0,
     "hsn_code": "84818010",
     "unit": "Nos"
   },
@@ -25218,15 +25218,15 @@
   {
     "item_name": "BO 2 X 5/8TH BOLT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 123.98999786376953,
-    "sale_rate": 140.0,
+    "purchase_rate": 112.01000213623047,
+    "sale_rate": 130.0,
     "hsn_code": "73181500",
     "unit": "Kg"
   },
   {
     "item_name": "BO 2 X 5/8TH BOLT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 119.98999786376953,
+    "purchase_rate": 122.0,
     "sale_rate": 135.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -25658,8 +25658,8 @@
   {
     "item_name": "BO 4 X 3/8 BOLT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 110.0,
-    "sale_rate": 125.0,
+    "purchase_rate": 112.01000213623047,
+    "sale_rate": 130.0,
     "hsn_code": "73181500",
     "unit": "Kg"
   },
@@ -25834,7 +25834,7 @@
   {
     "item_name": "BO 50MM X 10MM (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 126.26000213623047,
+    "purchase_rate": 128.6199951171875,
     "sale_rate": 145.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -25898,7 +25898,7 @@
   {
     "item_name": "BO 50MM X 8MM BOLT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 126.26000213623047,
+    "purchase_rate": 129.8000030517578,
     "sale_rate": 145.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -26018,7 +26018,7 @@
   {
     "item_name": "BO 65MM X 8MM (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 123.9000015258789,
+    "purchase_rate": 129.8000030517578,
     "sale_rate": 145.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -42398,6 +42398,14 @@
     "sale_rate": 0.0,
     "hsn_code": "",
     "unit": "Nos"
+  },
+  {
+    "item_name": "CRI 7/20 VIR (MTR)",
+    "group_name": "ELECTRICALS",
+    "purchase_rate": 83.27999877929688,
+    "sale_rate": 93.0,
+    "hsn_code": "85446090",
+    "unit": "Meter"
   },
   {
     "item_name": "CRI ACM 28 1.5HP",
@@ -87586,7 +87594,7 @@
   {
     "item_name": "LEX 40A 30MA 4P RCCB (LEXIC) S",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 3712.89990234375,
+    "purchase_rate": 3550.097900390625,
     "sale_rate": 4100.0,
     "hsn_code": "85369090",
     "unit": "Nos"
@@ -87610,7 +87618,7 @@
   {
     "item_name": "LEX 40A 4P MCB (LEXIC) S",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 2441.820068359375,
+    "purchase_rate": 2334.75,
     "sale_rate": 2690.0,
     "hsn_code": "85361090",
     "unit": "Nos"
@@ -87666,7 +87674,7 @@
   {
     "item_name": "LEX 63A 4P MCB (LEXIC)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 2441.820068359375,
+    "purchase_rate": 2334.75,
     "sale_rate": 2700.0,
     "hsn_code": "85369090",
     "unit": "Nos"
@@ -96018,8 +96026,8 @@
   {
     "item_name": "MPCB 1.6-2.4A (SIEMENS)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 5029.6298828125,
-    "sale_rate": 5560.0,
+    "purchase_rate": 5169.33984375,
+    "sale_rate": 5690.0,
     "hsn_code": "85362090",
     "unit": "Nos"
   },
@@ -107426,7 +107434,7 @@
   {
     "item_name": "NU 3/8\" C.F NUT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 119.98999786376953,
+    "purchase_rate": 118.0,
     "sale_rate": 132.0,
     "hsn_code": "73181600",
     "unit": "Kg"
@@ -117586,7 +117594,7 @@
   {
     "item_name": "PR 1\" UNION PLAIN (PRINCE)",
     "group_name": "PLUMBING",
-    "purchase_rate": 35.689998626708984,
+    "purchase_rate": 37.790000915527344,
     "sale_rate": 70.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -146762,7 +146770,7 @@
   {
     "item_name": "STR Push Button w & w/o",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 49.560001373291016,
+    "purchase_rate": 47.20000076293945,
     "sale_rate": 70.0,
     "hsn_code": "85365090",
     "unit": "Nos"
@@ -148562,7 +148570,7 @@
   {
     "item_name": "T BOLT 4\" (SEALED)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 12.5,
+    "purchase_rate": 13.899999618530273,
     "sale_rate": 20.0,
     "hsn_code": "73181500",
     "unit": "Nos"
@@ -149931,7 +149939,7 @@
     "item_name": "TAP \"L\" ROD 189MM C1734-N (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 129.35000610351562,
-    "sale_rate": 160.0,
+    "sale_rate": 180.0,
     "hsn_code": "82042000",
     "unit": "Nos"
   },
@@ -164914,7 +164922,7 @@
   {
     "item_name": "UPVC 3\" X 2\" R.BUSH (PRINCE)",
     "group_name": "PLUMBING",
-    "purchase_rate": 104.98999786376953,
+    "purchase_rate": 112.0,
     "sale_rate": 150.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -172202,7 +172210,7 @@
   {
     "item_name": "WA 3/8\" WASER (MS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 110.0,
+    "purchase_rate": 108.01000213623047,
     "sale_rate": 130.0,
     "hsn_code": "73182200",
     "unit": "Kg"
