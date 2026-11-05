@@ -48810,8 +48810,8 @@
   {
     "item_name": "DR 5MM TOTEM DRILL BIT (HSS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 63.65999984741211,
-    "sale_rate": 85.0,
+    "purchase_rate": 92.02999877929688,
+    "sale_rate": 105.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -131138,7 +131138,7 @@
   {
     "item_name": "SC 19 X 6 SDS SCREW",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 0.4000000059604645,
+    "purchase_rate": 0.3799999952316284,
     "sale_rate": 0.85,
     "hsn_code": "73181500",
     "unit": "Nos"
