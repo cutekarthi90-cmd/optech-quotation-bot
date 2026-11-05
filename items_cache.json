@@ -2232,14 +2232,6 @@
     "unit": "Nos"
   },
   {
-    "item_name": "ADAPTOR FOR COREBIT",
-    "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 198.52000427246094,
-    "sale_rate": 240.0,
-    "hsn_code": "82079090",
-    "unit": "Nos"
-  },
-  {
     "item_name": "ADAPTOR FOR MAG DRILL BIT",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 206.5,
@@ -57789,6 +57781,14 @@
     "purchase_rate": 141.60000610351562,
     "sale_rate": 173.25,
     "hsn_code": "8467",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "Extention For Granite Corebit",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 198.52000427246094,
+    "sale_rate": 260.0,
+    "hsn_code": "82079090",
     "unit": "Nos"
   },
   {
