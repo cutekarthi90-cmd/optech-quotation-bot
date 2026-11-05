@@ -570,7 +570,7 @@
   {
     "item_name": "2TON X 3MTR LIFTING BELT KANVEE",
     "group_name": "Acessoires",
-    "purchase_rate": 377.5,
+    "purchase_rate": 374.3399963378906,
     "sale_rate": 550.0,
     "hsn_code": "59113190",
     "unit": "Nos"
@@ -3157,6 +3157,14 @@
     "purchase_rate": 9309.169921875,
     "sale_rate": 10900.0,
     "hsn_code": "84148090",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "AIR COMPRESSOR PUMP",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 1629.0,
+    "sale_rate": 0.0,
+    "hsn_code": "84144090",
     "unit": "Nos"
   },
   {
@@ -15962,10 +15970,10 @@
   {
     "item_name": "ASBESTOS ROPE 12MM(BULLET)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 225.5,
-    "sale_rate": 280.0,
+    "purchase_rate": 275.69000244140625,
+    "sale_rate": 320.0,
     "hsn_code": "68129990",
-    "unit": "Roll"
+    "unit": "Kg"
   },
   {
     "item_name": "ASBESTOS ROPE 14MM(BULLET)",
@@ -22755,7 +22763,7 @@
     "item_name": "BL 14\" WOOD CUTTER (120 TEETH) JB CLASSIC",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 2289.780029296875,
-    "sale_rate": 2550.0,
+    "sale_rate": 2500.0,
     "hsn_code": "82023100",
     "unit": "Nos"
   },
@@ -60994,8 +61002,8 @@
   {
     "item_name": "FILE 12\" ROUND (JB)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 122.0,
-    "sale_rate": 180.0,
+    "purchase_rate": 141.0,
+    "sale_rate": 190.0,
     "hsn_code": "82032000",
     "unit": "Nos"
   },
@@ -76706,8 +76714,8 @@
   {
     "item_name": "HOLE SAW SET (BIG 12PS-JB) FOR WOOD",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 205.0,
-    "sale_rate": 300.0,
+    "purchase_rate": 230.00999450683594,
+    "sale_rate": 310.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -91476,7 +91484,7 @@
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 3800.0,
     "sale_rate": 4200.0,
-    "hsn_code": "8467",
+    "hsn_code": "84678100",
     "unit": "Nos"
   },
   {
@@ -170370,8 +170378,8 @@
   {
     "item_name": "VI 4\" 6KG PVC PIPE (VIJAY)",
     "group_name": "PLUMBING",
-    "purchase_rate": 1063.3499755859375,
-    "sale_rate": 1170.0,
+    "purchase_rate": 1146.5999755859375,
+    "sale_rate": 1260.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
