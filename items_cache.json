@@ -1536,6 +1536,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "ABRO PU FORM SPRAY (750ML)",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 330.0,
+    "sale_rate": 420.0,
+    "hsn_code": "32141000",
+    "unit": "Nos"
+  },
+  {
     "item_name": "ABRO SHIEFING BLUE (SP-219) SPRAY PAINT",
     "group_name": "PAINTS",
     "purchase_rate": 129.60000610351562,
@@ -6330,8 +6338,8 @@
   {
     "item_name": "AS AB11S-4LT APEX (ASIAN)+",
     "group_name": "PAINTS",
-    "purchase_rate": 1356.4100341796875,
-    "sale_rate": 1430.0,
+    "purchase_rate": 1374.345947265625,
+    "sale_rate": 1445.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -8658,8 +8666,8 @@
   {
     "item_name": "AS EB10-4LT (GLSY-ENAMEL)-ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 1064.949951171875,
-    "sale_rate": 1120.0,
+    "purchase_rate": 1082.885986328125,
+    "sale_rate": 1140.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -8746,8 +8754,8 @@
   {
     "item_name": "AS EB20-4LT (GLSY-ENAMEL)-ASIAN+",
     "group_name": "PAINTS",
-    "purchase_rate": 1011.1400146484375,
-    "sale_rate": 1065.0,
+    "purchase_rate": 1030.0,
+    "sale_rate": 1085.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -9274,7 +9282,7 @@
   {
     "item_name": "AS EN 1LT PHIROZI (GLSY-ENAMEL)-ASIAN+",
     "group_name": "PAINTS",
-    "purchase_rate": 276.8900146484375,
+    "purchase_rate": 281.3710021972656,
     "sale_rate": 295.0,
     "hsn_code": "32089021",
     "unit": "Nos"
@@ -17546,8 +17554,8 @@
   {
     "item_name": "AST 3/4\" DUMMY (PLAIN-ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 4.379000186920166,
-    "sale_rate": 7.0,
+    "purchase_rate": 4.800000190734863,
+    "sale_rate": 8.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -17594,7 +17602,7 @@
   {
     "item_name": "AST 3/4\" TEE-HVY (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 13.029999732971191,
+    "purchase_rate": 13.1899995803833,
     "sale_rate": 20.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -22763,7 +22771,7 @@
     "item_name": "BL 14\" WOOD CUTTER (120 TEETH) JB CLASSIC",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 2289.780029296875,
-    "sale_rate": 2500.0,
+    "sale_rate": 2450.0,
     "hsn_code": "82023100",
     "unit": "Nos"
   },
@@ -56594,8 +56602,8 @@
   {
     "item_name": "EPOXY WHITE 1LTR (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 487.42999267578125,
-    "sale_rate": 530.0,
+    "purchase_rate": 496.1189880371094,
+    "sale_rate": 540.0,
     "hsn_code": "32089090",
     "unit": "Nos"
   },
@@ -56666,8 +56674,8 @@
   {
     "item_name": "EPOXY WHITE 4LTR (ASIAN)+",
     "group_name": "PAINTS",
-    "purchase_rate": 1758.6700439453125,
-    "sale_rate": 1910.0,
+    "purchase_rate": 1771.698974609375,
+    "sale_rate": 1925.0,
     "hsn_code": "32089090",
     "unit": "Nos"
   },
@@ -66714,8 +66722,8 @@
   {
     "item_name": "GEM 32A KIT KAT FUSE (HANDLE TYPE)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 151.97999572753906,
-    "sale_rate": 180.0,
+    "purchase_rate": 168.27000427246094,
+    "sale_rate": 190.0,
     "hsn_code": "85371000",
     "unit": "Nos"
   },
@@ -86618,8 +86626,8 @@
   {
     "item_name": "LE SHOWER (LEO)",
     "group_name": "PLUMBING",
-    "purchase_rate": 132.5,
-    "sale_rate": 190.0,
+    "purchase_rate": 137.5,
+    "sale_rate": 180.0,
     "hsn_code": "39221000",
     "unit": "Nos"
   },
@@ -90292,6 +90300,14 @@
     "group_name": "ELECTRICALS",
     "purchase_rate": 1095.0,
     "sale_rate": 1250.0,
+    "hsn_code": "84145190",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "LU EXHAUST FAN  300MM",
+    "group_name": "ELECTRICALS",
+    "purchase_rate": 1579.989990234375,
+    "sale_rate": 1790.0,
     "hsn_code": "84145190",
     "unit": "Nos"
   },
