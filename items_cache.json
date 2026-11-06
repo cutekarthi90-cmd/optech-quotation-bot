@@ -33192,6 +33192,14 @@
     "unit": "Roll"
   },
   {
+    "item_name": "CATALYST (MEKP)",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 472.0,
+    "sale_rate": 0.0,
+    "hsn_code": "29096000",
+    "unit": "Kg"
+  },
+  {
     "item_name": "CATER PIN ONLY",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 0.0,
@@ -45358,6 +45366,14 @@
     "sale_rate": 75.0,
     "hsn_code": "",
     "unit": "Nos"
+  },
+  {
+    "item_name": "DOLOMITE POWDER",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 18.899999618530273,
+    "sale_rate": 0.0,
+    "hsn_code": "25181000",
+    "unit": "Kg"
   },
   {
     "item_name": "DOOR BUSH (3NO) 3/4\" S",
