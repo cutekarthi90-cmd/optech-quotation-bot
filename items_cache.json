@@ -11794,7 +11794,7 @@
   {
     "item_name": "AS PR 10LT EXT PRIMER (ADV)-ASIAN+",
     "group_name": "PAINTS",
-    "purchase_rate": 1832.8299560546875,
+    "purchase_rate": 1844.666015625,
     "sale_rate": 1930.0,
     "hsn_code": "32091010",
     "unit": "Nos"
@@ -37576,6 +37576,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "COBALT OCTOATE 6%",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 1227.199951171875,
+    "sale_rate": 0.0,
+    "hsn_code": "32110000",
+    "unit": "Kg"
+  },
+  {
     "item_name": "COCKROACH TRAP (ROUND-9405-XEN- 5\")",
     "group_name": "PLUMBING",
     "purchase_rate": 155.0,
@@ -43054,6 +43062,14 @@
     "sale_rate": 2250.0,
     "hsn_code": "8536",
     "unit": "Nos"
+  },
+  {
+    "item_name": "CSM EM1011.450.100 BST CTC",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 131.0,
+    "sale_rate": 0.0,
+    "hsn_code": "70191500",
+    "unit": "Kg"
   },
   {
     "item_name": "CT COIL 100/5",
@@ -71030,6 +71046,14 @@
     "sale_rate": 80.0,
     "hsn_code": "32091010",
     "unit": "Nos"
+  },
+  {
+    "item_name": "GP RESIN FOR FIBER GLASS",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 255.0,
+    "sale_rate": 0.0,
+    "hsn_code": "39079120",
+    "unit": "Kg"
   },
   {
     "item_name": "GR 1 1/2\" SONA FLEX (FEET)",
