@@ -38042,16 +38042,16 @@
   {
     "item_name": "CONE RODE (BRIGHT SHADE)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 324.5,
-    "sale_rate": 430.0,
+    "purchase_rate": 377.6000061035156,
+    "sale_rate": 450.0,
     "hsn_code": "39269099",
     "unit": "Nos"
   },
   {
     "item_name": "CONE RODE (DARK SHADE)",
     "group_name": "Primary",
-    "purchase_rate": 247.8000030517578,
-    "sale_rate": 320.0,
+    "purchase_rate": 377.6000061035156,
+    "sale_rate": 450.0,
     "hsn_code": "39269099",
     "unit": "Nos"
   },
@@ -38186,8 +38186,8 @@
   {
     "item_name": "COOLING FAN 6\"",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 531.0,
-    "sale_rate": 850.0,
+    "purchase_rate": 855.5,
+    "sale_rate": 950.0,
     "hsn_code": "841459",
     "unit": "Nos"
   },
@@ -64634,8 +64634,8 @@
   {
     "item_name": "FUSE KAMBI 400A",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 277.29998779296875,
-    "sale_rate": 320.0,
+    "purchase_rate": 324.5,
+    "sale_rate": 390.0,
     "hsn_code": "85371000",
     "unit": "Nos"
   },
@@ -74594,8 +74594,8 @@
   {
     "item_name": "HEAT SLEEVE 25MM (BLACK)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 38.27000045776367,
-    "sale_rate": 60.0,
+    "purchase_rate": 45.2599983215332,
+    "sale_rate": 70.0,
     "hsn_code": "85469090",
     "unit": "Meter"
   },
@@ -89602,8 +89602,8 @@
   {
     "item_name": "LU 10SQ MM LUGS (COPPER-PIN)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 3.9600000381469727,
-    "sale_rate": 9.5,
+    "purchase_rate": 7.329999923706055,
+    "sale_rate": 15.0,
     "hsn_code": "85369090",
     "unit": "Nos"
   },
@@ -89674,8 +89674,8 @@
   {
     "item_name": "LU 120SQ MM LUGS HVY ](COPPER-ROUND)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 82.18000030517578,
-    "sale_rate": 140.0,
+    "purchase_rate": 114.66000366210938,
+    "sale_rate": 150.0,
     "hsn_code": "85369090",
     "unit": "Nos"
   },
@@ -89842,8 +89842,8 @@
   {
     "item_name": "LU 2.5SQ MM LUGS (COPPER-PIN)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 1.2200000286102295,
-    "sale_rate": 4.0,
+    "purchase_rate": 2.319999933242798,
+    "sale_rate": 5.0,
     "hsn_code": "85369090",
     "unit": "Nos"
   },
@@ -89914,7 +89914,7 @@
   {
     "item_name": "LU 25SQ MM  ALUMINIUM PIN TYPE",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 13.569999694824219,
+    "purchase_rate": 8.039999961853027,
     "sale_rate": 20.0,
     "hsn_code": "85369090",
     "unit": "Nos"
@@ -115810,7 +115810,7 @@
   {
     "item_name": "PORTABLE OVEN",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1947.0,
+    "purchase_rate": 2183.0,
     "sale_rate": 2770.0,
     "hsn_code": "8514",
     "unit": "Nos"
@@ -175330,8 +175330,8 @@
   {
     "item_name": "WE ROD 10KG [7018] 3.15 X 350MM",
     "group_name": "GENRAL 18%",
-    "purchase_rate": 672.5999755859375,
-    "sale_rate": 710.0,
+    "purchase_rate": 755.2000122070312,
+    "sale_rate": 840.0,
     "hsn_code": "8311",
     "unit": "Nos"
   },
@@ -175434,8 +175434,8 @@
   {
     "item_name": "WE ROD 12KG ADOR 6013 (1CASE -6PKT)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 454.29998779296875,
-    "sale_rate": 540.0,
+    "purchase_rate": 570.3300170898438,
+    "sale_rate": 650.0,
     "hsn_code": "83111000",
     "unit": "Nos"
   },
@@ -175610,8 +175610,8 @@
   {
     "item_name": "WE ROD 8KG ADOR 6013(1CASE -6PKT)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 477.8999938964844,
-    "sale_rate": 550.0,
+    "purchase_rate": 497.80999755859375,
+    "sale_rate": 570.0,
     "hsn_code": "83111000",
     "unit": "Pocket"
   },
