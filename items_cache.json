@@ -8306,8 +8306,8 @@
   {
     "item_name": "AS DAMP PROOF 4LT (ASIAN) SUPFLX",
     "group_name": "PAINTS",
-    "purchase_rate": 1255.52001953125,
-    "sale_rate": 1320.0,
+    "purchase_rate": 1268.9720458984375,
+    "sale_rate": 1335.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -11946,7 +11946,7 @@
   {
     "item_name": "AS PR 20LT EXT PRIMER (ADV) ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 3542.5,
+    "purchase_rate": 3487.43896484375,
     "sale_rate": 3400.0,
     "hsn_code": "32091010",
     "unit": "Nos"
@@ -14810,8 +14810,8 @@
   {
     "item_name": "AS TE22N-1LT TRAC EML (ASIAN)+",
     "group_name": "PAINTS",
-    "purchase_rate": 177.1179962158203,
-    "sale_rate": 185.0,
+    "purchase_rate": 179.36000061035156,
+    "sale_rate": 190.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -32708,6 +32708,14 @@
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 8745.349609375,
     "sale_rate": 9500.0,
+    "hsn_code": "84243000",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "CAR WASER BT 1150(190BAR) TROLLEY TYPE",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 10653.7001953125,
+    "sale_rate": 11800.0,
     "hsn_code": "84243000",
     "unit": "Nos"
   },
@@ -50922,16 +50930,16 @@
   {
     "item_name": "DU CRACK FILLER 1KG (10MM)-DULUX",
     "group_name": "PAINTS",
-    "purchase_rate": 343.0260009765625,
-    "sale_rate": 360.0,
+    "purchase_rate": 354.2359924316406,
+    "sale_rate": 390.0,
     "hsn_code": "38244010",
     "unit": "Nos"
   },
   {
     "item_name": "DU CRACK FILLER 1KG (20MM)-DULUX",
     "group_name": "PAINTS",
-    "purchase_rate": 419.2539978027344,
-    "sale_rate": 440.0,
+    "purchase_rate": 430.4639892578125,
+    "sale_rate": 475.0,
     "hsn_code": "38244010",
     "unit": "Nos"
   },
@@ -51898,8 +51906,8 @@
   {
     "item_name": "DUCO CLEAR 1LTR",
     "group_name": "PAINTS",
-    "purchase_rate": 486.4549865722656,
-    "sale_rate": 535.0,
+    "purchase_rate": 485.989990234375,
+    "sale_rate": 550.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -52058,16 +52066,16 @@
   {
     "item_name": "DUCO PS-GREY 4LTR",
     "group_name": "PAINTS",
-    "purchase_rate": 1402.5,
-    "sale_rate": 1540.0,
+    "purchase_rate": 1511.0,
+    "sale_rate": 1660.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
   {
     "item_name": "DUCO PS-WHITE 1LTR",
     "group_name": "PAINTS",
-    "purchase_rate": 388.0,
-    "sale_rate": 440.0,
+    "purchase_rate": 418.0,
+    "sale_rate": 460.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -54274,7 +54282,7 @@
   {
     "item_name": "EMW 120NO EMERY PAPER (WTR) AJAX",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 17.360000610351562,
+    "purchase_rate": 18.399999618530273,
     "sale_rate": 20.0,
     "hsn_code": "68052010",
     "unit": "Nos"
@@ -61562,8 +61570,8 @@
   {
     "item_name": "FINOLEX 16SQMM X4C",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 1244.0,
-    "sale_rate": 1270.0,
+    "purchase_rate": 1244.0030517578125,
+    "sale_rate": 1310.0,
     "hsn_code": "85446020",
     "unit": "Meter"
   },
@@ -61684,6 +61692,14 @@
     "group_name": "ELECTRICALS",
     "purchase_rate": 1828.969970703125,
     "sale_rate": 2080.0,
+    "hsn_code": "85446020",
+    "unit": "Meter"
+  },
+  {
+    "item_name": "FINOLEX 35SQMM",
+    "group_name": "ELECTRICALS",
+    "purchase_rate": 680.3099975585938,
+    "sale_rate": 730.0,
     "hsn_code": "85446020",
     "unit": "Meter"
   },
@@ -103610,8 +103626,8 @@
   {
     "item_name": "NC 500ML NC THINNER (SHEENLAC) DX13 (20NOS=1BOX)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 103.8280029296875,
-    "sale_rate": 110.0,
+    "purchase_rate": 110.90799713134766,
+    "sale_rate": 120.0,
     "hsn_code": "38140010",
     "unit": "Nos"
   },
@@ -128746,7 +128762,7 @@
   {
     "item_name": "RUBBER BAND 500GM",
     "group_name": "Acessoires",
-    "purchase_rate": 210.0,
+    "purchase_rate": 350.0,
     "sale_rate": 0.0,
     "hsn_code": "",
     "unit": "Pocket"
@@ -135842,7 +135858,7 @@
   {
     "item_name": "SH ROSE WOOD- WOOD STAIN 100ML-SHEENLAC",
     "group_name": "PAINTS",
-    "purchase_rate": 47.189998626708984,
+    "purchase_rate": 49.54800033569336,
     "sale_rate": 60.0,
     "hsn_code": "34052000",
     "unit": "Nos"
