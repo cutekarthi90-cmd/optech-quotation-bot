@@ -1448,7 +1448,7 @@
     "unit": "Nos"
   },
   {
-    "item_name": "ABRO FRESH SPRAY PAINT GREEN (SP-12)",
+    "item_name": "ABRO FRESH GREEN SPRAY PAINT  (SP-12)",
     "group_name": "PAINTS",
     "purchase_rate": 129.63999938964844,
     "sale_rate": 160.0,
@@ -26346,8 +26346,8 @@
   {
     "item_name": "BONDTITE 1.8KG",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 949.989990234375,
-    "sale_rate": 1050.0,
+    "purchase_rate": 1032.52001953125,
+    "sale_rate": 1140.0,
     "hsn_code": "35069190",
     "unit": "Nos"
   },
@@ -37282,8 +37282,8 @@
   {
     "item_name": "CO 4\" LONG COUPLER (FINOLEX)",
     "group_name": "PLUMBING",
-    "purchase_rate": 73.83999633789062,
-    "sale_rate": 130.0,
+    "purchase_rate": 93.18000030517578,
+    "sale_rate": 140.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -70450,8 +70450,8 @@
   {
     "item_name": "GO 12M METAL BOX (GOLDMEDAL)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 125.0199966430664,
-    "sale_rate": 150.0,
+    "purchase_rate": 145.37600708007812,
+    "sale_rate": 160.0,
     "hsn_code": "85389000",
     "unit": "Nos"
   },
@@ -70570,8 +70570,8 @@
   {
     "item_name": "GO 2M METAL BOX(GOLDMEDAL)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 34.0,
-    "sale_rate": 42.0,
+    "purchase_rate": 44.720001220703125,
+    "sale_rate": 55.0,
     "hsn_code": "85381090",
     "unit": "Nos"
   },
@@ -70618,8 +70618,8 @@
   {
     "item_name": "GO 3M METAL BOX (GOLDMEDAL)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 51.0,
-    "sale_rate": 60.0,
+    "purchase_rate": 56.04999923706055,
+    "sale_rate": 70.0,
     "hsn_code": "85381090",
     "unit": "Nos"
   },
@@ -70778,8 +70778,8 @@
   {
     "item_name": "GO 8M METAL BOX (GOLDMEDAL)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 95.0,
-    "sale_rate": 110.0,
+    "purchase_rate": 113.0999984741211,
+    "sale_rate": 130.0,
     "hsn_code": "85381090",
     "unit": "Nos"
   },
@@ -177002,7 +177002,7 @@
   {
     "item_name": "WI BEND 1\" 2MM",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 8.850000381469727,
+    "purchase_rate": 8.130000114440918,
     "sale_rate": 11.0,
     "hsn_code": "39172390",
     "unit": "Nos"
