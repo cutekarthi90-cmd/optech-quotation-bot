@@ -13986,8 +13986,8 @@
   {
     "item_name": "AS SA 4LT BLACK (SATIN-ENAMEL) ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 1284.666015625,
-    "sale_rate": 1350.0,
+    "purchase_rate": 1311.5699462890625,
+    "sale_rate": 1380.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -15397,6 +15397,14 @@
     "purchase_rate": 0.0,
     "sale_rate": 100.0,
     "hsn_code": "",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "AS TRI BLOCK EPOXY (FOOD GRADE) ASIAN 1KG",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 497.7239990234375,
+    "sale_rate": 525.0,
+    "hsn_code": "32149000",
     "unit": "Nos"
   },
   {
@@ -51186,8 +51194,8 @@
   {
     "item_name": "DU EN 20LT SMOKE GREY-GLSY ENAMEL (DULUX)-PROMISE",
     "group_name": "PAINTS",
-    "purchase_rate": 4092.77099609375,
-    "sale_rate": 4300.0,
+    "purchase_rate": 4272.130859375,
+    "sale_rate": 4500.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
