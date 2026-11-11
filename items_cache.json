@@ -5890,8 +5890,8 @@
   {
     "item_name": "AS 20LT ALUMI PAINT (HIGH HEAT 500 C) 0189 ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 9542.419921875,
-    "sale_rate": 10370.0,
+    "purchase_rate": 9694.408203125,
+    "sale_rate": 10540.0,
     "hsn_code": "32089090",
     "unit": "Nos"
   },
@@ -18002,8 +18002,8 @@
   {
     "item_name": "AST 5\" ELBOW (HVY) ASTRAL",
     "group_name": "PLUMBING",
-    "purchase_rate": 325.70001220703125,
-    "sale_rate": 380.0,
+    "purchase_rate": 338.3999938964844,
+    "sale_rate": 390.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -47354,8 +47354,8 @@
   {
     "item_name": "DR 20MM TAPER SHANK (TOTEM)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1354.719970703125,
-    "sale_rate": 1650.0,
+    "purchase_rate": 2019.2099609375,
+    "sale_rate": 2300.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -48962,8 +48962,8 @@
   {
     "item_name": "DR 600X18 DRILL BIT TAPARIA",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 460.8999938964844,
-    "sale_rate": 530.0,
+    "purchase_rate": 599.1799926757812,
+    "sale_rate": 670.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -60210,8 +60210,8 @@
   {
     "item_name": "FI 1\" 2MM FINOLEX PIPE",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 104.0,
-    "sale_rate": 114.0,
+    "purchase_rate": 107.26000213623047,
+    "sale_rate": 117.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
@@ -80979,7 +80979,7 @@
     "item_name": "JB WOOD HOLE SAW 25MM (1\")",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 114.0,
-    "sale_rate": 190.0,
+    "sale_rate": 170.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -90434,8 +90434,8 @@
   {
     "item_name": "LU WALL FAN (PENTOS) LUMINOUS",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 1995.0,
-    "sale_rate": 2350.0,
+    "purchase_rate": 2250.0,
+    "sale_rate": 2480.0,
     "hsn_code": "84145150",
     "unit": "Nos"
   },
@@ -102418,8 +102418,8 @@
   {
     "item_name": "MY 9M COVER PLATE (MYLINC)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 215.2100067138672,
-    "sale_rate": 235.0,
+    "purchase_rate": 232.80999755859375,
+    "sale_rate": 260.0,
     "hsn_code": "85389000",
     "unit": "Nos"
   },
@@ -128058,8 +128058,8 @@
   {
     "item_name": "RR 15LTR WATER HEATER (RUDRAM)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 6684.990234375,
-    "sale_rate": 7500.0,
+    "purchase_rate": 7054.990234375,
+    "sale_rate": 7750.0,
     "hsn_code": "85161000",
     "unit": "Nos"
   },
@@ -129778,7 +129778,7 @@
   {
     "item_name": "SAL PASTE (SALDRING) WEL FIX (15GM)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 10.6899995803833,
+    "purchase_rate": 10.84000015258789,
     "sale_rate": 20.0,
     "hsn_code": "85151100",
     "unit": "Nos"
@@ -136152,39 +136152,7 @@
     "unit": "Nos"
   },
   {
-    "item_name": "SH WOOD POLISH 1 LT (WATER BASE) GLSY",
-    "group_name": "PAINTS",
-    "purchase_rate": 366.9599914550781,
-    "sale_rate": 400.0,
-    "hsn_code": "32089021",
-    "unit": "Nos"
-  },
-  {
-    "item_name": "SH WOOD POLISH 1 LT (WATER BASE) MAT",
-    "group_name": "PAINTS",
-    "purchase_rate": 366.9599914550781,
-    "sale_rate": 390.0,
-    "hsn_code": "32089021",
-    "unit": "Nos"
-  },
-  {
-    "item_name": "SH WOOD POLISH 1 LT COLOUR",
-    "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 235.99000549316406,
-    "sale_rate": 260.0,
-    "hsn_code": "34052000",
-    "unit": "Nos"
-  },
-  {
-    "item_name": "SH WOOD POLISH 1 LT COLOUR LESS",
-    "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 235.99000549316406,
-    "sale_rate": 280.0,
-    "hsn_code": "34052000",
-    "unit": "Nos"
-  },
-  {
-    "item_name": "SH WOOD POLISH 1/2 LT COLOUR",
+    "item_name": "SH WOOD POLISH 1/2LT COLOUR",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 115.52999877929688,
     "sale_rate": 140.0,
@@ -136200,6 +136168,38 @@
     "unit": "Nos"
   },
   {
+    "item_name": "SH WOOD POLISH 1LT (WATER BASE) GLSY",
+    "group_name": "PAINTS",
+    "purchase_rate": 366.9599914550781,
+    "sale_rate": 400.0,
+    "hsn_code": "32089021",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "SH WOOD POLISH 1LT (WATER BASE) MAT",
+    "group_name": "PAINTS",
+    "purchase_rate": 366.9599914550781,
+    "sale_rate": 390.0,
+    "hsn_code": "32089021",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "SH WOOD POLISH 1LT COLOUR",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 235.99000549316406,
+    "sale_rate": 260.0,
+    "hsn_code": "34052000",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "SH WOOD POLISH 1LT COLOUR LESS",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 235.99000549316406,
+    "sale_rate": 280.0,
+    "hsn_code": "34052000",
+    "unit": "Nos"
+  },
+  {
     "item_name": "SH WOOD POLISH 20LTR (SHEENLAC) COLOUR",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 3234.0,
@@ -136208,7 +136208,7 @@
     "unit": "Nos"
   },
   {
-    "item_name": "SH WOOD POLISH 3 LT COLOUR",
+    "item_name": "SH WOOD POLISH 3LT COLOUR",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 607.6900024414062,
     "sale_rate": 640.0,
@@ -140778,7 +140778,7 @@
   {
     "item_name": "SP RINGS 24 X 26 (VENUS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 131.8300018310547,
+    "purchase_rate": 141.60000610351562,
     "sale_rate": 170.0,
     "hsn_code": "82041110",
     "unit": "Nos"
@@ -162653,6 +162653,14 @@
     "purchase_rate": 105.05999755859375,
     "sale_rate": 145.0,
     "hsn_code": "82053000",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "UL 11/4\" JB ULI WITH HANDLE",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 210.0,
+    "sale_rate": 280.0,
+    "hsn_code": "82021020",
     "unit": "Nos"
   },
   {
