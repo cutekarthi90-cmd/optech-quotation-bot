@@ -25874,7 +25874,7 @@
   {
     "item_name": "BO 50MM X 12MM BOLT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 126.26000213623047,
+    "purchase_rate": 127.44000244140625,
     "sale_rate": 145.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -26018,7 +26018,7 @@
   {
     "item_name": "BO 65MM X 20MM (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 125.08000183105469,
+    "purchase_rate": 128.6199951171875,
     "sale_rate": 145.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -80674,7 +80674,7 @@
   {
     "item_name": "JB KAMBI BRUSH (3\"-TWISTED)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 96.47000122070312,
+    "purchase_rate": 81.0,
     "sale_rate": 120.0,
     "hsn_code": "96035000",
     "unit": "Nos"
@@ -93106,7 +93106,7 @@
   {
     "item_name": "MA ROTARY HAMMER  (BOSCH-GBH 220)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 4814.39990234375,
+    "purchase_rate": 4720.0,
     "sale_rate": 5300.0,
     "hsn_code": "84672100",
     "unit": "Nos"
@@ -107426,7 +107426,7 @@
   {
     "item_name": "NU 16MM CF NUT(GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 133.33999633789062,
+    "purchase_rate": 134.52000427246094,
     "sale_rate": 145.0,
     "hsn_code": "73181600",
     "unit": "Kg"
@@ -107442,7 +107442,7 @@
   {
     "item_name": "NU 20MM CF NUT(GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 134.52000427246094,
+    "purchase_rate": 138.05999755859375,
     "sale_rate": 150.0,
     "hsn_code": "73181600",
     "unit": "Kg"
@@ -118722,8 +118722,8 @@
   {
     "item_name": "PR 28KG 21/2\" PRESSURE GAUGE(400PSI) ECO",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 200.60000610351562,
-    "sale_rate": 280.0,
+    "purchase_rate": 265.5,
+    "sale_rate": 330.0,
     "hsn_code": "90262000",
     "unit": "Nos"
   },
@@ -143360,6 +143360,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "SS 3/4\" COUPLING (LINTAS)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 166.3800048828125,
+    "sale_rate": 200.0,
+    "hsn_code": "73072900",
+    "unit": "Nos"
+  },
+  {
     "item_name": "SS 3/4\" DUMMY",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 72.08999633789062,
@@ -146906,7 +146914,7 @@
   {
     "item_name": "STRECH FLIM 12\"",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 230.0,
+    "purchase_rate": 230.10000610351562,
     "sale_rate": 290.0,
     "hsn_code": "39201019",
     "unit": "Kg"
@@ -167186,7 +167194,7 @@
   {
     "item_name": "VE B106 VEEHOLD BELT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 508.0,
+    "purchase_rate": 538.6400146484375,
     "sale_rate": 640.0,
     "hsn_code": "40103999",
     "unit": "Nos"
@@ -176274,7 +176282,7 @@
   {
     "item_name": "WE WELDING TIP 5 NO",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 46.02000045776367,
+    "purchase_rate": 48.380001068115234,
     "sale_rate": 80.0,
     "hsn_code": "85159000",
     "unit": "Nos"
@@ -176986,8 +176994,8 @@
   {
     "item_name": "WI 3/4\" 1.5MM PIPE(VIJAY)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 39.290000915527344,
-    "sale_rate": 44.0,
+    "purchase_rate": 39.75,
+    "sale_rate": 45.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
