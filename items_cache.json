@@ -9050,8 +9050,8 @@
   {
     "item_name": "AS EN 1LT AD GREY (GLSY-ENAMEL)-ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 280.25,
-    "sale_rate": 295.0,
+    "purchase_rate": 284.7340087890625,
+    "sale_rate": 300.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -9266,8 +9266,8 @@
   {
     "item_name": "AS EN 1LT OX BLUE (GLSY-ENAMEL)-ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 280.25,
-    "sale_rate": 295.0,
+    "purchase_rate": 284.7340087890625,
+    "sale_rate": 300.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -9834,8 +9834,8 @@
   {
     "item_name": "AS EN 20LT SMK GREY (GLSY-ENAMEL)-ASIAN+",
     "group_name": "PAINTS",
-    "purchase_rate": 5146.509765625,
-    "sale_rate": 5415.0,
+    "purchase_rate": 5236.19091796875,
+    "sale_rate": 5510.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -9994,8 +9994,8 @@
   {
     "item_name": "AS EN 4LT GO YELLOW (GLSY-ENAMEL)-ASIAN+",
     "group_name": "PAINTS",
-    "purchase_rate": 1194.989990234375,
-    "sale_rate": 1260.0,
+    "purchase_rate": 1212.9219970703125,
+    "sale_rate": 1275.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -11930,8 +11930,8 @@
   {
     "item_name": "AS PR 1LT YELL METAL PRIMER (ASIAN)+",
     "group_name": "PAINTS",
-    "purchase_rate": 257.8299865722656,
-    "sale_rate": 270.0,
+    "purchase_rate": 264.5559997558594,
+    "sale_rate": 280.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -13802,8 +13802,8 @@
   {
     "item_name": "AS RS 4LT BLACK (GLSY-ENAMEL)-ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 1100.822021484375,
-    "sale_rate": 1160.0,
+    "purchase_rate": 1141.177978515625,
+    "sale_rate": 1200.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -14402,8 +14402,8 @@
   {
     "item_name": "AS SKPS GREY-1LT (1K-EPOXY) ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 288.1000061035156,
-    "sale_rate": 300.0,
+    "purchase_rate": 344.1470031738281,
+    "sale_rate": 360.0,
     "hsn_code": "32082010",
     "unit": "Nos"
   },
@@ -56650,8 +56650,8 @@
   {
     "item_name": "EPOXY THINNER 5LTR (MRF) 1110 +",
     "group_name": "PAINTS",
-    "purchase_rate": 1619.6099853515625,
-    "sale_rate": 1780.0,
+    "purchase_rate": 1648.2249755859375,
+    "sale_rate": 1815.0,
     "hsn_code": "38140010",
     "unit": "Nos"
   },
