@@ -25498,8 +25498,8 @@
   {
     "item_name": "BO 3 X 3/8 BOLT (CIPL)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 122.0,
-    "sale_rate": 135.0,
+    "purchase_rate": 124.0,
+    "sale_rate": 138.0,
     "hsn_code": "73181500",
     "unit": "Kg"
   },
@@ -39618,8 +39618,8 @@
   {
     "item_name": "CPVC 1 1/4\" PIPE SDR 11(5M) ASHIRVAD",
     "group_name": "PLUMBING",
-    "purchase_rate": 932.1400146484375,
-    "sale_rate": 1090.0,
+    "purchase_rate": 1033.0,
+    "sale_rate": 1140.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
@@ -58658,7 +58658,7 @@
   {
     "item_name": "FAN PIPE 2 FEET (BROWN)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 69.98999786376953,
+    "purchase_rate": 72.0,
     "sale_rate": 100.0,
     "hsn_code": "73061011",
     "unit": "Nos"
@@ -58666,7 +58666,7 @@
   {
     "item_name": "FAN PIPE 2 FEET (WHT)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 69.98999786376953,
+    "purchase_rate": 72.0,
     "sale_rate": 100.0,
     "hsn_code": "73069090",
     "unit": "Nos"
@@ -65018,8 +65018,8 @@
   {
     "item_name": "FY 6A 2WAY SWITCH (FYBROS)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 16.09000015258789,
-    "sale_rate": 20.0,
+    "purchase_rate": 26.25,
+    "sale_rate": 30.0,
     "hsn_code": "85365020",
     "unit": "Nos"
   },
@@ -67690,7 +67690,7 @@
   {
     "item_name": "GI 2\" COUPLER",
     "group_name": "PLUMBING",
-    "purchase_rate": 93.61100006103516,
+    "purchase_rate": 98.0,
     "sale_rate": 130.0,
     "hsn_code": "73072200",
     "unit": "Nos"
@@ -74746,7 +74746,7 @@
   {
     "item_name": "HELMET (YELLOW) HEAVY (SPEED)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 50.7400016784668,
+    "purchase_rate": 50.0,
     "sale_rate": 100.0,
     "hsn_code": "65061010",
     "unit": "Nos"
@@ -83882,9 +83882,9 @@
   {
     "item_name": "KU BED SWITCH (BELL PUSH)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 20.0,
-    "sale_rate": 30.0,
-    "hsn_code": "8536",
+    "purchase_rate": 34.0,
+    "sale_rate": 45.0,
+    "hsn_code": "85365020",
     "unit": "Nos"
   },
   {
@@ -107504,6 +107504,14 @@
     "unit": "Kg"
   },
   {
+    "item_name": "NU 3/4 C.F NUT  (GI)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 131.99000549316406,
+    "sale_rate": 145.0,
+    "hsn_code": "73181500",
+    "unit": "Kg"
+  },
+  {
     "item_name": "NU 3/4\" DF NUT",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 122.0,
@@ -107610,8 +107618,8 @@
   {
     "item_name": "NU 5/8 NUT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 130.0,
-    "sale_rate": 145.0,
+    "purchase_rate": 132.0,
+    "sale_rate": 147.0,
     "hsn_code": "73181600",
     "unit": "Kg"
   },
@@ -111010,8 +111018,8 @@
   {
     "item_name": "PIN BOLT 10 X 125 (5\") AF",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 16.75,
-    "sale_rate": 24.0,
+    "purchase_rate": 11.0,
+    "sale_rate": 20.0,
     "hsn_code": "73181900",
     "unit": "Nos"
   },
@@ -111082,7 +111090,7 @@
   {
     "item_name": "PIN BOLT 12 X 100 (4\") AF",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 19.350000381469727,
+    "purchase_rate": 13.0,
     "sale_rate": 26.0,
     "hsn_code": "73181900",
     "unit": "Nos"
@@ -111098,8 +111106,8 @@
   {
     "item_name": "PIN BOLT 12 X 125 (5\") AF",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 22.649999618530273,
-    "sale_rate": 34.0,
+    "purchase_rate": 16.229999542236328,
+    "sale_rate": 30.0,
     "hsn_code": "73181900",
     "unit": "Nos"
   },
@@ -111154,8 +111162,8 @@
   {
     "item_name": "PIN BOLT 16 X 100 (4\") AF",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 37.0,
-    "sale_rate": 50.0,
+    "purchase_rate": 25.0,
+    "sale_rate": 40.0,
     "hsn_code": "73181500",
     "unit": "Nos"
   },
@@ -111194,7 +111202,7 @@
   {
     "item_name": "PIN BOLT 16X 200 (8\") AF",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 73.0,
+    "purchase_rate": 46.0,
     "sale_rate": 90.0,
     "hsn_code": "73181500",
     "unit": "Nos"
@@ -124234,8 +124242,8 @@
   {
     "item_name": "RASAMATTAM (FREEMANS) RED MAGNET",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 181.60000610351562,
-    "sale_rate": 240.0,
+    "purchase_rate": 220.0,
+    "sale_rate": 280.0,
     "hsn_code": "90261020",
     "unit": "Nos"
   },
@@ -151778,7 +151786,7 @@
   {
     "item_name": "TE 1/2\" TEFLON TAPE (PLUMTEK)",
     "group_name": "PLUMBING",
-    "purchase_rate": 11.220000267028809,
+    "purchase_rate": 12.0,
     "sale_rate": 15.0,
     "hsn_code": "39209942",
     "unit": "Nos"
@@ -152994,7 +153002,7 @@
   {
     "item_name": "THREAD ROD 10MM 1MTR (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 124.0,
+    "purchase_rate": 85.0,
     "sale_rate": 145.0,
     "hsn_code": "73181900",
     "unit": "Kg"
@@ -163338,8 +163346,8 @@
   {
     "item_name": "UPVC 1 1/4\" BEND (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 93.87999725341797,
-    "sale_rate": 103.0,
+    "purchase_rate": 102.91000366210938,
+    "sale_rate": 115.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -163402,8 +163410,8 @@
   {
     "item_name": "UPVC 1 1/4\" ELBOW (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 40.779998779296875,
-    "sale_rate": 45.0,
+    "purchase_rate": 43.0,
+    "sale_rate": 50.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -163466,8 +163474,8 @@
   {
     "item_name": "UPVC 1 1/4\" SHOE (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 26.600000381469727,
-    "sale_rate": 30.0,
+    "purchase_rate": 34.0,
+    "sale_rate": 40.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -164930,8 +164938,8 @@
   {
     "item_name": "UPVC 3\" FLANGE (PRINCE)",
     "group_name": "PLUMBING",
-    "purchase_rate": 248.60000610351562,
-    "sale_rate": 330.0,
+    "purchase_rate": 285.0,
+    "sale_rate": 340.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -164970,7 +164978,7 @@
   {
     "item_name": "UPVC 3\" PIPE (6M) (PRINCE)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 2190.0,
+    "purchase_rate": 2156.659912109375,
     "sale_rate": 2500.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
