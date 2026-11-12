@@ -86676,7 +86676,7 @@
     "group_name": "PLUMBING",
     "purchase_rate": 82.51799774169922,
     "sale_rate": 120.0,
-    "hsn_code": "39170000",
+    "hsn_code": "39174000",
     "unit": "Nos"
   },
   {
@@ -132068,7 +132068,7 @@
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 4.079999923706055,
     "sale_rate": 5.5,
-    "hsn_code": "7318",
+    "hsn_code": "73181500",
     "unit": "Nos"
   },
   {
@@ -176843,7 +176843,7 @@
     "item_name": "WES 40A 4POLE RCCB",
     "group_name": "ELECTRICALS",
     "purchase_rate": 1103.0,
-    "sale_rate": 1230.0,
+    "sale_rate": 1300.0,
     "hsn_code": "85362030",
     "unit": "Nos"
   },
