@@ -128443,7 +128443,7 @@
     "item_name": "RR EXHAUSTER FAN 9\"",
     "group_name": "ELECTRICALS",
     "purchase_rate": 1015.0,
-    "sale_rate": 1250.0,
+    "sale_rate": 1450.0,
     "hsn_code": "8513",
     "unit": "Nos"
   },
@@ -166634,7 +166634,7 @@
   {
     "item_name": "VE A39 VEEHOLD BELT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 143.2899932861328,
+    "purchase_rate": 151.7899932861328,
     "sale_rate": 190.0,
     "hsn_code": "40103999",
     "unit": "Nos"
@@ -167058,8 +167058,8 @@
   {
     "item_name": "VE A92 VEEHOLD BELT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 272.5799865722656,
-    "sale_rate": 354.4,
+    "purchase_rate": 326.239990234375,
+    "sale_rate": 430.0,
     "hsn_code": "40103999",
     "unit": "Nos"
   },
@@ -167378,8 +167378,8 @@
   {
     "item_name": "VE B129 VEEHOLD BELT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 552.8300170898438,
-    "sale_rate": 761.6,
+    "purchase_rate": 662.1199951171875,
+    "sale_rate": 780.0,
     "hsn_code": "40103999",
     "unit": "Nos"
   },
@@ -167498,8 +167498,8 @@
   {
     "item_name": "VE B25 VEEHOLD BELT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 142.16000366210938,
-    "sale_rate": 180.0,
+    "purchase_rate": 150.66000366210938,
+    "sale_rate": 190.0,
     "hsn_code": "40103999",
     "unit": "Nos"
   },
@@ -167594,7 +167594,7 @@
   {
     "item_name": "VE B37 VEEHOLD BELT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 171.0500030517578,
+    "purchase_rate": 181.24000549316406,
     "sale_rate": 230.0,
     "hsn_code": "40103999",
     "unit": "Nos"
@@ -167642,16 +167642,16 @@
   {
     "item_name": "VE B43 VEEHOLD BELT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 188.0399932861328,
-    "sale_rate": 240.0,
+    "purchase_rate": 199.3699951171875,
+    "sale_rate": 290.0,
     "hsn_code": "40103999",
     "unit": "Nos"
   },
   {
     "item_name": "VE B44 VEEHOLD BELT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 192.0,
-    "sale_rate": 250.0,
+    "purchase_rate": 203.3300018310547,
+    "sale_rate": 270.0,
     "hsn_code": "40103999",
     "unit": "Nos"
   },
@@ -167930,8 +167930,8 @@
   {
     "item_name": "VE B76 VEEHOLD BELT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 309.82000732421875,
-    "sale_rate": 420.0,
+    "purchase_rate": 328.510009765625,
+    "sale_rate": 430.0,
     "hsn_code": "40103999",
     "unit": "Nos"
   },
@@ -167994,8 +167994,8 @@
   {
     "item_name": "VE B84 VEEHOLD BELT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 343.2300109863281,
-    "sale_rate": 450.0,
+    "purchase_rate": 363.6199951171875,
+    "sale_rate": 460.0,
     "hsn_code": "40103999",
     "unit": "Nos"
   },
@@ -168034,8 +168034,8 @@
   {
     "item_name": "VE B89 VEEHOLD BELT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 391.3800048828125,
-    "sale_rate": 510.0,
+    "purchase_rate": 414.6000061035156,
+    "sale_rate": 520.0,
     "hsn_code": "40103999",
     "unit": "Nos"
   },
@@ -168266,7 +168266,7 @@
   {
     "item_name": "VE C122  VEEHOLD BELT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 897.739990234375,
+    "purchase_rate": 951.5499877929688,
     "sale_rate": 1200.0,
     "hsn_code": "40103999",
     "unit": "Nos"
