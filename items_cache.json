@@ -110370,8 +110370,8 @@
   {
     "item_name": "PI 1\" PIPE CLIP (SCREW TYPE-137S/35A)",
     "group_name": "PLUMBING",
-    "purchase_rate": 24.780000686645508,
-    "sale_rate": 45.0,
+    "purchase_rate": 15.0,
+    "sale_rate": 25.0,
     "hsn_code": "73079990",
     "unit": "Nos"
   },
