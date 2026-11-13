@@ -61816,6 +61816,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "FINOLEX 6SQMM X 4C",
+    "group_name": "ELECTRICALS",
+    "purchase_rate": 553.0,
+    "sale_rate": 610.0,
+    "hsn_code": "85446020",
+    "unit": "Meter"
+  },
+  {
     "item_name": "FINOLEX CAT 6 CABLE",
     "group_name": "ELECTRICALS",
     "purchase_rate": 13311.0,
@@ -99858,8 +99866,8 @@
   {
     "item_name": "MRF ZAMEEN 2K PU FLOOR COAT-1LT -GO YELLOW",
     "group_name": "PAINTS",
-    "purchase_rate": 715.489990234375,
-    "sale_rate": 790.0,
+    "purchase_rate": 788.6290283203125,
+    "sale_rate": 870.0,
     "hsn_code": "32082090",
     "unit": "Nos"
   },
@@ -103330,7 +103338,7 @@
   {
     "item_name": "NA 3\" X 8 NAIL +",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 74.0,
+    "purchase_rate": 72.98999786376953,
     "sale_rate": 82.0,
     "hsn_code": "73170013",
     "unit": "Kg"
