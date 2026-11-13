@@ -39218,16 +39218,16 @@
   {
     "item_name": "COTTER 6MM",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 15.479999542236328,
-    "sale_rate": 25.0,
+    "purchase_rate": 64.9000015258789,
+    "sale_rate": 80.0,
     "hsn_code": "73182400",
     "unit": "Nos"
   },
   {
     "item_name": "COTTER 8MM",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 24.149999618530273,
-    "sale_rate": 45.0,
+    "purchase_rate": 94.4000015258789,
+    "sale_rate": 120.0,
     "hsn_code": "73182400",
     "unit": "Nos"
   },
@@ -71930,7 +71930,7 @@
   {
     "item_name": "GRASS CUTTER (JB) 21\" WOOD",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 274.0,
+    "purchase_rate": 298.0,
     "sale_rate": 400.0,
     "hsn_code": "82015000",
     "unit": "Nos"
@@ -76202,8 +76202,8 @@
   {
     "item_name": "HO 1/4\" DUMMY (BRASS) OUTER THREAD",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 19.81999969482422,
-    "sale_rate": 30.0,
+    "purchase_rate": 26.43000030517578,
+    "sale_rate": 35.0,
     "hsn_code": "74122090",
     "unit": "Nos"
   },
@@ -102994,7 +102994,7 @@
   {
     "item_name": "MYK TILES JOING POWDER (BLACK)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 48.0,
+    "purchase_rate": 49.99700164794922,
     "sale_rate": 60.0,
     "hsn_code": "32141000",
     "unit": "Nos"
@@ -110578,7 +110578,7 @@
   {
     "item_name": "PI 2\" PIPE CLIP  (SS)",
     "group_name": "PLUMBING",
-    "purchase_rate": 37.0,
+    "purchase_rate": 37.189998626708984,
     "sale_rate": 60.0,
     "hsn_code": "73079990",
     "unit": "Nos"
@@ -115970,8 +115970,8 @@
   {
     "item_name": "PP 1\" ROD",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 40.81999969482422,
-    "sale_rate": 70.0,
+    "purchase_rate": 51.72999954223633,
+    "sale_rate": 80.0,
     "hsn_code": "39161010",
     "unit": "Feet"
   },
@@ -116010,7 +116010,7 @@
   {
     "item_name": "PP 21/2\" ROD",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 262.2300109863281,
+    "purchase_rate": 298.6300048828125,
     "sale_rate": 400.0,
     "hsn_code": "39161010",
     "unit": "Feet"
@@ -118098,8 +118098,8 @@
   {
     "item_name": "PR 14 KG 4\" PRESSURE GAUGE (GLYSERIN)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 759.9199829101562,
-    "sale_rate": 900.0,
+    "purchase_rate": 868.47998046875,
+    "sale_rate": 960.0,
     "hsn_code": "90262000",
     "unit": "Nos"
   },
@@ -137242,7 +137242,7 @@
   {
     "item_name": "SILENCER 1/2\" (BSLM04)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 36.9900016784668,
+    "purchase_rate": 42.47999954223633,
     "sale_rate": 70.0,
     "hsn_code": "84819090",
     "unit": "Nos"
@@ -137482,7 +137482,7 @@
   {
     "item_name": "SILICON GUN (JB) LW",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 119.98999786376953,
+    "purchase_rate": 113.0,
     "sale_rate": 180.0,
     "hsn_code": "82055910",
     "unit": "Nos"
@@ -153418,7 +153418,7 @@
   {
     "item_name": "TIGER 6 NO LOREX",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 934.5,
+    "purchase_rate": 882.0,
     "sale_rate": 1050.0,
     "hsn_code": "64034000",
     "unit": "Nos"
@@ -153434,7 +153434,7 @@
   {
     "item_name": "TIGER 7 NO LOREX",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 934.5,
+    "purchase_rate": 882.0,
     "sale_rate": 1050.0,
     "hsn_code": "64034000",
     "unit": "Nos"
@@ -157298,7 +157298,7 @@
   {
     "item_name": "TW 2\" TRALLEY WHEEL (STRAIGHT)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 88.5,
+    "purchase_rate": 94.4000015258789,
     "sale_rate": 140.0,
     "hsn_code": "83022000",
     "unit": "Nos"
@@ -174226,8 +174226,8 @@
   {
     "item_name": "WE FILLER ROD 309 2MM  (SUPERON) SS-MS",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 507.3999938964844,
-    "sale_rate": 630.0,
+    "purchase_rate": 483.79998779296875,
+    "sale_rate": 610.0,
     "hsn_code": "72230010",
     "unit": "Kg"
   },
@@ -174474,7 +174474,7 @@
   {
     "item_name": "WE GAS WELDING TORCH(MONKEY TORCH)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1510.4000244140625,
+    "purchase_rate": 1557.5999755859375,
     "sale_rate": 2100.0,
     "hsn_code": "84681000",
     "unit": "Nos"
@@ -174866,7 +174866,7 @@
   {
     "item_name": "WE NOZZLE 6NO (CERAMIC NOZZLE IMPORTED TYPE)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 25.959999084472656,
+    "purchase_rate": 33.040000915527344,
     "sale_rate": 50.0,
     "hsn_code": "85159000",
     "unit": "Nos"
@@ -174882,7 +174882,7 @@
   {
     "item_name": "WE NOZZLE 8NO (CERAMIC NOZZLE IMPORTED TYPE)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 22.420000076293945,
+    "purchase_rate": 25.959999084472656,
     "sale_rate": 40.0,
     "hsn_code": "85159000",
     "unit": "Nos"
