@@ -55330,8 +55330,8 @@
   {
     "item_name": "EPOXY GOLDEN YELLOW 1LTR (ASIAN) +",
     "group_name": "PAINTS",
-    "purchase_rate": 663.8699951171875,
-    "sale_rate": 730.0,
+    "purchase_rate": 508.0610046386719,
+    "sale_rate": 560.0,
     "hsn_code": "32089090",
     "unit": "Nos"
   },
@@ -55378,8 +55378,8 @@
   {
     "item_name": "EPOXY GOLDEN YELLOW 4LTR (ASIAN) NRML-PPG",
     "group_name": "PAINTS",
-    "purchase_rate": 1968.18994140625,
-    "sale_rate": 2140.0,
+    "purchase_rate": 1981.219970703125,
+    "sale_rate": 2150.0,
     "hsn_code": "32089090",
     "unit": "Nos"
   },
@@ -72098,8 +72098,8 @@
   {
     "item_name": "GREESE 100GM (HIGH HEAT) MP3",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 21.829999923706055,
-    "sale_rate": 40.0,
+    "purchase_rate": 27.847999572753906,
+    "sale_rate": 50.0,
     "hsn_code": "27101980",
     "unit": "Nos"
   },
@@ -72186,8 +72186,8 @@
   {
     "item_name": "GREESE 500GM HIGH HEAT MP3",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 76.69999694824219,
-    "sale_rate": 120.0,
+    "purchase_rate": 114.45999908447266,
+    "sale_rate": 150.0,
     "hsn_code": "27101980",
     "unit": "Nos"
   },
@@ -111530,9 +111530,9 @@
   {
     "item_name": "PIPE WRENCH 14\" HVY- 1276 (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 947.0900268554688,
-    "sale_rate": 1050.0,
-    "hsn_code": "8204",
+    "purchase_rate": 1101.050048828125,
+    "sale_rate": 1280.0,
+    "hsn_code": "82041220",
     "unit": "Nos"
   },
   {
@@ -111546,7 +111546,7 @@
   {
     "item_name": "PIPE WRENCH 18\" (TAPARIA) 1275",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 614.7899780273438,
+    "purchase_rate": 605.030029296875,
     "sale_rate": 710.0,
     "hsn_code": "82041220",
     "unit": "Nos"
