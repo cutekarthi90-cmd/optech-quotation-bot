@@ -122,7 +122,7 @@
   {
     "item_name": "1\" NRV (YASH) VERTICAL",
     "group_name": "PLUMBING",
-    "purchase_rate": 332.2699890136719,
+    "purchase_rate": 336.0,
     "sale_rate": 420.0,
     "hsn_code": "84818020",
     "unit": "Nos"
@@ -442,7 +442,7 @@
   {
     "item_name": "2\" NRV VERTICAL (YASH)",
     "group_name": "PLUMBING",
-    "purchase_rate": 1561.2900390625,
+    "purchase_rate": 1539.2900390625,
     "sale_rate": 1750.0,
     "hsn_code": "84818020",
     "unit": "Nos"
@@ -16626,8 +16626,8 @@
   {
     "item_name": "AST 1 1/4 X 1 REDUCER (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 16.940000534057617,
-    "sale_rate": 22.0,
+    "purchase_rate": 17.59000015258789,
+    "sale_rate": 25.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -17354,7 +17354,7 @@
   {
     "item_name": "AST 3 FLANGE (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 260.0,
+    "purchase_rate": 263.20001220703125,
     "sale_rate": 310.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -19338,8 +19338,8 @@
   {
     "item_name": "BA 1\" BALLVALVE (SEAL MEC-CI)",
     "group_name": "PLUMBING",
-    "purchase_rate": 422.45001220703125,
-    "sale_rate": 490.0,
+    "purchase_rate": 477.3999938964844,
+    "sale_rate": 540.0,
     "hsn_code": "84818010",
     "unit": "Nos"
   },
@@ -19458,8 +19458,8 @@
   {
     "item_name": "BA 1/2\" BALL VALVE (PLATO)",
     "group_name": "PLUMBING",
-    "purchase_rate": 375.94000244140625,
-    "sale_rate": 420.0,
+    "purchase_rate": 408.8699951171875,
+    "sale_rate": 450.0,
     "hsn_code": "84818090",
     "unit": "Nos"
   },
@@ -19482,7 +19482,7 @@
   {
     "item_name": "BA 1/2\" BALLVALVE (MATRIX)",
     "group_name": "PLUMBING",
-    "purchase_rate": 364.239990234375,
+    "purchase_rate": 359.1000061035156,
     "sale_rate": 410.0,
     "hsn_code": "84818090",
     "unit": "Nos"
@@ -35666,9 +35666,9 @@
   {
     "item_name": "CI 12XA CIRCLIP",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1.1299999952316284,
+    "purchase_rate": 1.2879999876022339,
     "sale_rate": 10.0,
-    "hsn_code": "731811",
+    "hsn_code": "73182910",
     "unit": "Nos"
   },
   {
@@ -63520,6 +63520,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "FOOT VALVE 1 1/4 \" (WATER TEC)",
+    "group_name": "PLUMBING",
+    "purchase_rate": 103.94000244140625,
+    "sale_rate": 120.0,
+    "hsn_code": "39172390",
+    "unit": "Nos"
+  },
+  {
     "item_name": "FOOT VALVE 1 1/4\" (GAJANAND)",
     "group_name": "PLUMBING",
     "purchase_rate": 35.08000183105469,
@@ -69594,8 +69602,8 @@
   {
     "item_name": "GLOVES (SURGICAL) SET",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 2.700000047683716,
-    "sale_rate": 6.0,
+    "purchase_rate": 3.0,
+    "sale_rate": 7.0,
     "hsn_code": "40151900",
     "unit": "Pair"
   },
@@ -69978,8 +69986,8 @@
   {
     "item_name": "GLOVES SURGERY EXAMINATION LATEX WHITE",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 283.20001220703125,
-    "sale_rate": 350.0,
+    "purchase_rate": 300.8999938964844,
+    "sale_rate": 360.0,
     "hsn_code": "40151900",
     "unit": "Box"
   },
@@ -88770,7 +88778,7 @@
   {
     "item_name": "LO 50MM HITCO LOCK (3KEY)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 72.0,
+    "purchase_rate": 78.0,
     "sale_rate": 100.0,
     "hsn_code": "83011000",
     "unit": "Nos"
@@ -100186,7 +100194,7 @@
   {
     "item_name": "MS 1 1/4\" BEND (WELD TYPE)",
     "group_name": "PLUMBING",
-    "purchase_rate": 35.400001525878906,
+    "purchase_rate": 38.349998474121094,
     "sale_rate": 60.0,
     "hsn_code": "73079390",
     "unit": "Nos"
@@ -102602,8 +102610,8 @@
   {
     "item_name": "MYK 325L GREY TILES PASTE-20KG-EXT",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 820.0059814453125,
-    "sale_rate": 870.0,
+    "purchase_rate": 870.0020141601562,
+    "sale_rate": 920.0,
     "hsn_code": "32141000",
     "unit": "Bags"
   },
@@ -110498,8 +110506,8 @@
   {
     "item_name": "PI 11/4\" PIPE CLIP (SS)",
     "group_name": "PLUMBING",
-    "purchase_rate": 26.0,
-    "sale_rate": 45.0,
+    "purchase_rate": 26.43000030517578,
+    "sale_rate": 40.0,
     "hsn_code": "73079990",
     "unit": "Nos"
   },
@@ -112322,7 +112330,7 @@
   {
     "item_name": "PLATO ANGLE COCK (OS004) OSCAR",
     "group_name": "PLUMBING",
-    "purchase_rate": 681.0,
+    "purchase_rate": 681.4500122070312,
     "sale_rate": 750.0,
     "hsn_code": "84818090",
     "unit": "Nos"
@@ -115994,8 +116002,8 @@
   {
     "item_name": "PP 2\" BALLVALVE 50MM",
     "group_name": "PLUMBING",
-    "purchase_rate": 1103.0,
-    "sale_rate": 1400.0,
+    "purchase_rate": 1239.0,
+    "sale_rate": 1420.0,
     "hsn_code": "84818030",
     "unit": "Nos"
   },
@@ -130962,8 +130970,8 @@
   {
     "item_name": "SC 12 X55 PATTA-FT (BOX-250PS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 800.0,
-    "sale_rate": 1050.0,
+    "purchase_rate": 925.0,
+    "sale_rate": 1090.0,
     "hsn_code": "73181500",
     "unit": "Box"
   },
@@ -133082,8 +133090,8 @@
   {
     "item_name": "SC BOX  50 X 8 SS SCREW (200PS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 260.0,
-    "sale_rate": 350.0,
+    "purchase_rate": 450.0,
+    "sale_rate": 550.0,
     "hsn_code": "7318",
     "unit": "Box"
   },
@@ -145178,7 +145186,7 @@
   {
     "item_name": "SS BO 6 X 25MM (BOLT) 304",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 3.130000114440918,
+    "purchase_rate": 3.0,
     "sale_rate": 8.0,
     "hsn_code": "73181500",
     "unit": "Nos"
@@ -145904,6 +145912,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "SS WA 1/4\"X 1/2  (304)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 0.9399999976158142,
+    "sale_rate": 2.0,
+    "hsn_code": "73182100",
+    "unit": "Nos"
+  },
+  {
     "item_name": "SS WA 1/4\"X1MM (202)",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 4.800000190734863,
@@ -145954,7 +145970,7 @@
   {
     "item_name": "SS WA 3/8 X 1MM WASER (304)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1.7200000286102295,
+    "purchase_rate": 1.909999966621399,
     "sale_rate": 5.0,
     "hsn_code": "73182100",
     "unit": "Nos"
@@ -153194,7 +153210,7 @@
   {
     "item_name": "THREAD ROD 8MM 1MTR (SS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 106.19999694824219,
+    "purchase_rate": 141.60000610351562,
     "sale_rate": 300.0,
     "hsn_code": "73181500",
     "unit": "Nos"
@@ -156610,8 +156626,8 @@
   {
     "item_name": "TVS 4MM X 20MM BOLT (L&KEY)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 2.890000104904175,
-    "sale_rate": 4.73,
+    "purchase_rate": 3.1600000858306885,
+    "sale_rate": 5.0,
     "hsn_code": "73181500",
     "unit": "Nos"
   },
@@ -165426,7 +165442,7 @@
   {
     "item_name": "UPVC 4\" COUPLING (PRINCE)",
     "group_name": "PLUMBING",
-    "purchase_rate": 170.99000549316406,
+    "purchase_rate": 189.0,
     "sale_rate": 220.0,
     "hsn_code": "39172390",
     "unit": "Nos"
@@ -170514,8 +170530,8 @@
   {
     "item_name": "VI 3/4\" 15KG PVC PIPE (VIJAY)",
     "group_name": "PLUMBING",
-    "purchase_rate": 199.0800018310547,
-    "sale_rate": 220.0,
+    "purchase_rate": 201.4499969482422,
+    "sale_rate": 221.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
@@ -170562,8 +170578,8 @@
   {
     "item_name": "VI 6\" 4KG PVC PIPE (VIJAY)",
     "group_name": "PLUMBING",
-    "purchase_rate": 1693.4200439453125,
-    "sale_rate": 1865.0,
+    "purchase_rate": 1713.5899658203125,
+    "sale_rate": 1885.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
@@ -172698,8 +172714,8 @@
   {
     "item_name": "WALL PACE 1LTR EXT.PRIMER (YEL)",
     "group_name": "PAINTS",
-    "purchase_rate": 114.45999908447266,
-    "sale_rate": 150.0,
+    "purchase_rate": 132.16000366210938,
+    "sale_rate": 170.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -174714,8 +174730,8 @@
   {
     "item_name": "WE HOSE 8MM (GAS WELDING-MTR)DUNLOP",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 44.84000015258789,
-    "sale_rate": 60.0,
+    "purchase_rate": 50.7400016784668,
+    "sale_rate": 65.0,
     "hsn_code": "39172390",
     "unit": "Meter"
   },
@@ -175338,7 +175354,7 @@
   {
     "item_name": "WE ROD (C.I) MACHINABLE 10KG-PKT-1KG",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1463.199951171875,
+    "purchase_rate": 1630.760009765625,
     "sale_rate": 1800.0,
     "hsn_code": "83111000",
     "unit": "Kg"
@@ -177794,7 +177810,7 @@
   {
     "item_name": "WOODEN STABLER ONLY (TP-10H) WOOD",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 560.0,
+    "purchase_rate": 475.0,
     "sale_rate": 680.0,
     "hsn_code": "84729010",
     "unit": "Nos"
@@ -178066,8 +178082,8 @@
   {
     "item_name": "WP KANNAL 1LT (WALL PACE)",
     "group_name": "PAINTS",
-    "purchase_rate": 165.1999969482422,
-    "sale_rate": 180.0,
+    "purchase_rate": 200.60000610351562,
+    "sale_rate": 220.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -178090,8 +178106,8 @@
   {
     "item_name": "WP KANNAL 4LT (WALL PACE)",
     "group_name": "PAINTS",
-    "purchase_rate": 660.7999877929688,
-    "sale_rate": 725.0,
+    "purchase_rate": 708.0,
+    "sale_rate": 780.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
