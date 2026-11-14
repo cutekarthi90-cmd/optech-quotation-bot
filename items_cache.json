@@ -3722,7 +3722,7 @@
   {
     "item_name": "AN 666 T + ANABOND (100GM)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 165.1999969482422,
+    "purchase_rate": 159.3000030517578,
     "sale_rate": 190.0,
     "hsn_code": "34070090",
     "unit": "Nos"
@@ -15923,7 +15923,7 @@
     "item_name": "AS WHITE TILES JOINING POWDER-1KG",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 48.00199890136719,
-    "sale_rate": 65.0,
+    "sale_rate": 60.0,
     "hsn_code": "32149010",
     "unit": "Nos"
   },
@@ -41474,7 +41474,7 @@
   {
     "item_name": "CR EXT FAN 12\" (TRANS AIR-CROMPTON)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 2350.0,
+    "purchase_rate": 2124.0,
     "sale_rate": 2590.0,
     "hsn_code": "84145190",
     "unit": "Nos"
@@ -87612,7 +87612,7 @@
     "group_name": "ELECTRICALS",
     "purchase_rate": 779.1179809570312,
     "sale_rate": 870.0,
-    "hsn_code": "853610",
+    "hsn_code": "85361090",
     "unit": "Nos"
   },
   {
@@ -102992,7 +102992,15 @@
     "unit": "Nos"
   },
   {
-    "item_name": "MYK TILES JOING POWDER (BLACK)",
+    "item_name": "MYK TILES JOING POWDER (WHITE)",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 48.0,
+    "sale_rate": 60.0,
+    "hsn_code": "32141000",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "MYK TILES JOING POWDER 1KG (BLACK)",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 49.99700164794922,
     "sale_rate": 60.0,
@@ -103000,7 +103008,7 @@
     "unit": "Nos"
   },
   {
-    "item_name": "MYK TILES JOING POWDER (GREY)",
+    "item_name": "MYK TILES JOING POWDER 1KG (GREY)",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 48.0,
     "sale_rate": 60.0,
@@ -103008,7 +103016,7 @@
     "unit": "Nos"
   },
   {
-    "item_name": "MYK TILES JOING POWDER (IVORY)",
+    "item_name": "MYK TILES JOING POWDER 1KG (IVORY)",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 48.0,
     "sale_rate": 60.0,
@@ -103016,7 +103024,7 @@
     "unit": "Nos"
   },
   {
-    "item_name": "MYK TILES JOING POWDER (RED)",
+    "item_name": "MYK TILES JOING POWDER 1KG (RED)",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 48.0,
     "sale_rate": 60.0,
@@ -103024,9 +103032,9 @@
     "unit": "Nos"
   },
   {
-    "item_name": "MYK TILES JOING POWDER (WHITE)",
+    "item_name": "MYK TILES JOINING POWDER-1KG (WHITE)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 48.0,
+    "purchase_rate": 49.99700164794922,
     "sale_rate": 60.0,
     "hsn_code": "32141000",
     "unit": "Nos"
@@ -103070,14 +103078,6 @@
     "sale_rate": 950.0,
     "hsn_code": "32141000",
     "unit": "Set"
-  },
-  {
-    "item_name": "MYK WHITE TILES JOINING POWDER-1KG (NORMAL)",
-    "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 49.99700164794922,
-    "sale_rate": 60.0,
-    "hsn_code": "32141000",
-    "unit": "Nos"
   },
   {
     "item_name": "NA 1 1/2\" STEEL NAIL",
