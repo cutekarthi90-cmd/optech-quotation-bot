@@ -578,8 +578,8 @@
   {
     "item_name": "2TON X 4MTR LIFTING BELT KANVEE",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 406.9800109863281,
-    "sale_rate": 550.0,
+    "purchase_rate": 454.2300109863281,
+    "sale_rate": 570.0,
     "hsn_code": "59113190",
     "unit": "Nos"
   },
@@ -1122,7 +1122,7 @@
   {
     "item_name": "5TON X 3MTR LIFTING BELT KANVEE",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 869.02001953125,
+    "purchase_rate": 880.8099975585938,
     "sale_rate": 1100.0,
     "hsn_code": "59113190",
     "unit": "Nos"
@@ -15682,8 +15682,8 @@
   {
     "item_name": "AS UP-10 10LT (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 4528.83984375,
-    "sale_rate": 4770.0,
+    "purchase_rate": 4909.97998046875,
+    "sale_rate": 5170.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -18386,8 +18386,8 @@
   {
     "item_name": "AST PVC PIPE 2 -4KG (ASTROL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 0.0,
-    "sale_rate": 475.0,
+    "purchase_rate": 476.0,
+    "sale_rate": 535.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -18716,6 +18716,14 @@
     "group_name": "ELECTRICALS",
     "purchase_rate": 3286.989990234375,
     "sale_rate": 3600.0,
+    "hsn_code": "84145120",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "ATOM BERG RENESA PRIME PEBBLE GREY",
+    "group_name": "ELECTRICALS",
+    "purchase_rate": 3564.0,
+    "sale_rate": 3950.0,
     "hsn_code": "84145120",
     "unit": "Nos"
   },
@@ -24738,7 +24746,7 @@
   {
     "item_name": "BO 1 X 3/8 BOLT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 121.0,
+    "purchase_rate": 119.98999786376953,
     "sale_rate": 135.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -48226,8 +48234,8 @@
   {
     "item_name": "DR 310 X 24 DRILL BIT (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 520.3800048828125,
-    "sale_rate": 650.0,
+    "purchase_rate": 665.75,
+    "sale_rate": 750.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -49888,26 +49896,26 @@
     "unit": "Nos"
   },
   {
-    "item_name": "DRILL CHUCK 5/8\"",
+    "item_name": "DRILL CHUCK 5/8\" (JP)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 899.489990234375,
+    "purchase_rate": 1073.4599609375,
+    "sale_rate": 1200.0,
+    "hsn_code": "82078000",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "DRILL CHUCK 5/8\" (JP)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 1073.4599609375,
+    "sale_rate": 1200.0,
+    "hsn_code": "82078000",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "DRILL CHUCK 5/8\" SUMMIT",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 936.0399780273438,
     "sale_rate": 1300.0,
-    "hsn_code": "82078000",
-    "unit": "Nos"
-  },
-  {
-    "item_name": "DRILL CHUCK 5/8\" (JP)",
-    "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1073.4599609375,
-    "sale_rate": 1200.0,
-    "hsn_code": "82078000",
-    "unit": "Nos"
-  },
-  {
-    "item_name": "DRILL CHUCK 5/8\" (JP)",
-    "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1073.4599609375,
-    "sale_rate": 1200.0,
     "hsn_code": "82078000",
     "unit": "Nos"
   },
@@ -128362,7 +128370,7 @@
   {
     "item_name": "RR 5.9LTR WATER HEATER",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 3350.0,
+    "purchase_rate": 3450.0,
     "sale_rate": 4000.0,
     "hsn_code": "85161000",
     "unit": "Nos"
@@ -163274,7 +163282,7 @@
   {
     "item_name": "UPVC 1 1/2\" X 1 1/4\" R.BUSH (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 15.289999961853027,
+    "purchase_rate": 16.139999389648438,
     "sale_rate": 20.0,
     "hsn_code": "39172390",
     "unit": "Nos"
@@ -163434,8 +163442,8 @@
   {
     "item_name": "UPVC 1 1/4\" FTA PLASTIC (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 25.479999542236328,
-    "sale_rate": 30.0,
+    "purchase_rate": 33.630001068115234,
+    "sale_rate": 45.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -163538,8 +163546,8 @@
   {
     "item_name": "UPVC 1 1/4\" X 1\" R BUSH (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 11.680000305175781,
-    "sale_rate": 20.0,
+    "purchase_rate": 15.460000038146973,
+    "sale_rate": 25.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -164362,8 +164370,8 @@
   {
     "item_name": "UPVC 2\" BALL VALVE (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 1290.3299560546875,
-    "sale_rate": 1380.0,
+    "purchase_rate": 1362.0150146484375,
+    "sale_rate": 1500.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
