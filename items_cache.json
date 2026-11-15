@@ -14274,8 +14274,8 @@
   {
     "item_name": "AS SEMI GLOSSY ENAMEL 20LT (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 7390.7529296875,
-    "sale_rate": 7780.0,
+    "purchase_rate": 7502.85302734375,
+    "sale_rate": 7900.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -87506,8 +87506,8 @@
   {
     "item_name": "LEX 16A 1P MCB (LEXIC) S",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 206.6300048828125,
-    "sale_rate": 230.0,
+    "purchase_rate": 217.37100219726562,
+    "sale_rate": 240.0,
     "hsn_code": "85361090",
     "unit": "Nos"
   },
@@ -87604,7 +87604,7 @@
     "group_name": "ELECTRICALS",
     "purchase_rate": 1716.0899658203125,
     "sale_rate": 1900.0,
-    "hsn_code": "853610",
+    "hsn_code": "85369090",
     "unit": "Nos"
   },
   {
@@ -87626,7 +87626,7 @@
   {
     "item_name": "LEX 32A 2P MCB (LEXIC) S",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 779.1179809570312,
+    "purchase_rate": 744.9559936523438,
     "sale_rate": 870.0,
     "hsn_code": "85361090",
     "unit": "Nos"
@@ -87738,7 +87738,7 @@
   {
     "item_name": "LEX 63A 2P MCB (LEXIC)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 1225.5140380859375,
+    "purchase_rate": 1171.77001953125,
     "sale_rate": 1400.0,
     "hsn_code": "85362030",
     "unit": "Nos"
@@ -156603,7 +156603,7 @@
     "item_name": "TVS 4MM X 12MM BOLT (L & KEY)",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 3.1600000858306885,
-    "sale_rate": 6.0,
+    "sale_rate": 5.0,
     "hsn_code": "73181500",
     "unit": "Nos"
   },
@@ -156635,7 +156635,7 @@
     "item_name": "TVS 4MM X 25MM BOLT (L & KEY)",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 3.109999895095825,
-    "sale_rate": 5.5,
+    "sale_rate": 6.0,
     "hsn_code": "73181500",
     "unit": "Nos"
   },
