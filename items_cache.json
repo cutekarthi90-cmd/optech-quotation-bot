@@ -568,6 +568,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "2TON X 2MTR LIFTING BELT KEPRO",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 293.0,
+    "sale_rate": 420.0,
+    "hsn_code": "59119090",
+    "unit": "Nos"
+  },
+  {
     "item_name": "2TON X 3MTR LIFTING BELT KANVEE",
     "group_name": "Acessoires",
     "purchase_rate": 374.3399963378906,
@@ -952,7 +960,7 @@
     "unit": "Nos"
   },
   {
-    "item_name": "3TON X 2 METRE LIFTING BELT",
+    "item_name": "3TON X 2 METRE LIFTING BELT KANVE",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 425.2799987792969,
     "sale_rate": 650.0,
@@ -981,6 +989,14 @@
     "purchase_rate": 778.0,
     "sale_rate": 1220.0,
     "hsn_code": "59113190",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "3TON X2 MTR LIFTING BELT KEPRO",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 440.05499267578125,
+    "sale_rate": 670.0,
+    "hsn_code": "59119090",
     "unit": "Nos"
   },
   {
@@ -1149,6 +1165,14 @@
     "purchase_rate": 1624.3900146484375,
     "sale_rate": 2000.0,
     "hsn_code": "59113190",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "5TON X 6MTR LIFTING BELT KEPRO",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 1904.010009765625,
+    "sale_rate": 2300.0,
+    "hsn_code": "59119090",
     "unit": "Nos"
   },
   {
@@ -22578,7 +22602,7 @@
   {
     "item_name": "BL 14\" BOSCH CUTOFF WHEEL( STANDARD)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 129.0,
+    "purchase_rate": 128.6199951171875,
     "sale_rate": 150.0,
     "hsn_code": "68042210",
     "unit": "Nos"
@@ -92440,6 +92464,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "MA EN 100ML BLACK (MAXBEN)",
+    "group_name": "PAINTS",
+    "purchase_rate": 34.39699935913086,
+    "sale_rate": 45.0,
+    "hsn_code": "32081010",
+    "unit": "Nos"
+  },
+  {
     "item_name": "MA EN 100ML BR WHITE (MAXBEN)",
     "group_name": "PAINTS",
     "purchase_rate": 34.39799880981445,
@@ -92676,6 +92708,14 @@
     "group_name": "PAINTS",
     "purchase_rate": 61.7140007019043,
     "sale_rate": 70.0,
+    "hsn_code": "32081010",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "MA EN 200ML SIG RED (MAXBEN)",
+    "group_name": "PAINTS",
+    "purchase_rate": 64.74800109863281,
+    "sale_rate": 75.0,
     "hsn_code": "32081010",
     "unit": "Nos"
   },
