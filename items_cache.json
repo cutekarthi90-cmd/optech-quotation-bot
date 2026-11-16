@@ -40650,8 +40650,8 @@
   {
     "item_name": "CPVC 3\" COUPLING (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 730.0,
-    "sale_rate": 810.0,
+    "purchase_rate": 789.0,
+    "sale_rate": 870.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -40674,8 +40674,8 @@
   {
     "item_name": "CPVC 3\" FLANGE (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 1186.0,
-    "sale_rate": 1310.0,
+    "purchase_rate": 1282.0,
+    "sale_rate": 1410.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -40696,6 +40696,14 @@
     "unit": "LENGTH"
   },
   {
+    "item_name": "CPVC 3\" SHOE",
+    "group_name": "PLUMBING",
+    "purchase_rate": 1100.0,
+    "sale_rate": 1210.0,
+    "hsn_code": "39172390",
+    "unit": "Nos"
+  },
+  {
     "item_name": "CPVC 3\" TEE (ASTRAL",
     "group_name": "PLUMBING",
     "purchase_rate": 1647.0,
@@ -40706,8 +40714,8 @@
   {
     "item_name": "CPVC 3\" X 2\" RBUSH (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 372.0,
-    "sale_rate": 410.0,
+    "purchase_rate": 402.0,
+    "sale_rate": 450.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -63739,8 +63747,8 @@
     "item_name": "FOOT VALVE 3/4\" (GAJANAND) SPRING",
     "group_name": "PLUMBING",
     "purchase_rate": 24.0,
-    "sale_rate": 47.25,
-    "hsn_code": "3917",
+    "sale_rate": 50.0,
+    "hsn_code": "39174000",
     "unit": "Nos"
   },
   {
@@ -130178,8 +130186,8 @@
   {
     "item_name": "Sanai Kal 8\" X 1\" (black/)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 648.47998046875,
-    "sale_rate": 780.0,
+    "purchase_rate": 722.8699951171875,
+    "sale_rate": 800.0,
     "hsn_code": "68042220",
     "unit": "Nos"
   },
@@ -138418,7 +138426,7 @@
   {
     "item_name": "SP 13MM COMBINATION SPANNER(VENUS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 32.70000076293945,
+    "purchase_rate": 29.5,
     "sale_rate": 50.0,
     "hsn_code": "82041110",
     "unit": "Nos"
@@ -138458,7 +138466,7 @@
   {
     "item_name": "SP 13NO IMPACT SOCKET 1/2\" TAPARIA",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 81.77400207519531,
+    "purchase_rate": 85.58999633789062,
     "sale_rate": 140.0,
     "hsn_code": "82042000",
     "unit": "Nos"
@@ -141946,7 +141954,7 @@
   {
     "item_name": "SPRAY GUN (TRISTAR)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 826.0900268554688,
+    "purchase_rate": 729.9199829101562,
     "sale_rate": 1000.0,
     "hsn_code": "84242000",
     "unit": "Nos"
@@ -151786,8 +151794,8 @@
   {
     "item_name": "TE 1\" TEFLON GASKET",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 30.450000762939453,
-    "sale_rate": 60.0,
+    "purchase_rate": 30.8799991607666,
+    "sale_rate": 40.0,
     "hsn_code": "39269099",
     "unit": "Nos"
   },
@@ -151802,8 +151810,8 @@
   {
     "item_name": "TE 1/2 TEFLON GASKET",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 21.780000686645508,
-    "sale_rate": 40.0,
+    "purchase_rate": 23.540000915527344,
+    "sale_rate": 35.0,
     "hsn_code": "39269099",
     "unit": "Nos"
   },
@@ -151835,7 +151843,7 @@
     "item_name": "TE 11/2 TEFLON GASKET",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 48.66999816894531,
-    "sale_rate": 90.0,
+    "sale_rate": 60.0,
     "hsn_code": "39269099",
     "unit": "Nos"
   },
@@ -151851,22 +151859,22 @@
     "item_name": "TE 2 TEFLON GASKET",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 70.62999725341797,
-    "sale_rate": 130.0,
+    "sale_rate": 100.0,
     "hsn_code": "39269099",
     "unit": "Nos"
   },
   {
     "item_name": "TE 21/2 TEFLON GASKET",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 115.75,
-    "sale_rate": 150.0,
+    "purchase_rate": 112.93000030517578,
+    "sale_rate": 130.0,
     "hsn_code": "39269099",
     "unit": "Nos"
   },
   {
     "item_name": "TE 3 TEFLON GASKET",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 114.87000274658203,
+    "purchase_rate": 124.1500015258789,
     "sale_rate": 170.0,
     "hsn_code": "39269099",
     "unit": "Nos"
@@ -151875,7 +151883,7 @@
     "item_name": "TE 3/4 TEFLON GASKET",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 35.400001525878906,
-    "sale_rate": 60.0,
+    "sale_rate": 50.0,
     "hsn_code": "39269099",
     "unit": "Nos"
   },
@@ -154650,7 +154658,7 @@
   {
     "item_name": "TUNGSTEN ROD 2.4MM",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 392.95001220703125,
+    "purchase_rate": 391.2799987792969,
     "sale_rate": 480.0,
     "hsn_code": "81019400",
     "unit": "Nos"
@@ -154666,8 +154674,8 @@
   {
     "item_name": "TUNGSTEN ROD 2MM",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 69.62000274658203,
-    "sale_rate": 100.0,
+    "purchase_rate": 302.8299865722656,
+    "sale_rate": 340.0,
     "hsn_code": "85151900",
     "unit": "Nos"
   },
