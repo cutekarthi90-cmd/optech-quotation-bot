@@ -394,7 +394,7 @@
   {
     "item_name": "2\" COTTON (ROLLER ONLY)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 16.299999237060547,
+    "purchase_rate": 16.308000564575195,
     "sale_rate": 25.0,
     "hsn_code": "96034020",
     "unit": "Nos"
@@ -994,7 +994,7 @@
   {
     "item_name": "4\" COTTON (ROLLER ONLY)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 20.0,
+    "purchase_rate": 17.759000778198242,
     "sale_rate": 35.0,
     "hsn_code": "96034020",
     "unit": "Nos"
@@ -11546,8 +11546,8 @@
   {
     "item_name": "AS MEL GLOSSY 4LT (ASIAN)-",
     "group_name": "PAINTS",
-    "purchase_rate": 1358.6500244140625,
-    "sale_rate": 1430.0,
+    "purchase_rate": 1385.5560302734375,
+    "sale_rate": 1460.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -11586,8 +11586,8 @@
   {
     "item_name": "AS MEL MAT 4LT (ASIAN) +",
     "group_name": "PAINTS",
-    "purchase_rate": 1418.06005859375,
-    "sale_rate": 1500.0,
+    "purchase_rate": 1444.968994140625,
+    "sale_rate": 1520.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
