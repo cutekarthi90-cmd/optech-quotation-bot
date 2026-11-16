@@ -6482,16 +6482,16 @@
   {
     "item_name": "AS AB2-10LT APEX (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 3281.169921875,
-    "sale_rate": 3450.0,
+    "purchase_rate": 3326.007080078125,
+    "sale_rate": 3500.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
   {
     "item_name": "AS AB21G-10LT APEX (ASIAN)-K",
     "group_name": "PAINTS",
-    "purchase_rate": 3198.212890625,
-    "sale_rate": 3365.0,
+    "purchase_rate": 3243.052978515625,
+    "sale_rate": 3415.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -6514,8 +6514,8 @@
   {
     "item_name": "AS AB21G-4LT APEX (ASIAN)+",
     "group_name": "PAINTS",
-    "purchase_rate": 1325.02001953125,
-    "sale_rate": 1395.0,
+    "purchase_rate": 1342.9580078125,
+    "sale_rate": 1415.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -6714,8 +6714,8 @@
   {
     "item_name": "AS AC2G-20LT ACE EML (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 3821.489990234375,
-    "sale_rate": 4020.0,
+    "purchase_rate": 3866.3291015625,
+    "sale_rate": 4070.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -6786,8 +6786,8 @@
   {
     "item_name": "AS AC9G-20LT ACE EML (ASIAN) +",
     "group_name": "PAINTS",
-    "purchase_rate": 3804.669921875,
-    "sale_rate": 4005.0,
+    "purchase_rate": 3849.513916015625,
+    "sale_rate": 4050.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -7210,8 +7210,8 @@
   {
     "item_name": "AS ALL PROTECK 10LT WHITE EML(ASIAN)-SHYNE",
     "group_name": "PAINTS",
-    "purchase_rate": 3778.889892578125,
-    "sale_rate": 3980.0,
+    "purchase_rate": 3902.200927734375,
+    "sale_rate": 4100.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -7578,8 +7578,8 @@
   {
     "item_name": "AS AV2-4LT APEX ADV (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 1289.1500244140625,
-    "sale_rate": 1360.0,
+    "purchase_rate": 1374.345947265625,
+    "sale_rate": 1445.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -8770,8 +8770,8 @@
   {
     "item_name": "AS EB6-10LT (GLSY-ENAMEL)-ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 2718.429931640625,
-    "sale_rate": 2860.0,
+    "purchase_rate": 2763.264892578125,
+    "sale_rate": 2910.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -8794,8 +8794,8 @@
   {
     "item_name": "AS EB6-4LT (GLSY-ENAMEL)-ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 1117.6400146484375,
-    "sale_rate": 1175.0,
+    "purchase_rate": 1135.572998046875,
+    "sale_rate": 1195.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -10914,8 +10914,8 @@
   {
     "item_name": "AS GL3N-10LT ROYAL GLITZ (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 5906.5498046875,
-    "sale_rate": 6220.0,
+    "purchase_rate": 6590.35888671875,
+    "sale_rate": 6935.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -10930,8 +10930,8 @@
   {
     "item_name": "AS GL3N-20LT ROYAL GLITZ (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 12899.3466796875,
-    "sale_rate": 13580.0,
+    "purchase_rate": 13078.70703125,
+    "sale_rate": 13765.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -14082,8 +14082,8 @@
   {
     "item_name": "AS SANDING SEALER 4LT (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 1058.2239990234375,
-    "sale_rate": 1110.0,
+    "purchase_rate": 1125.4840087890625,
+    "sale_rate": 1185.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -14826,8 +14826,8 @@
   {
     "item_name": "AS TE2-4LT TRAC EML (ASIAN)+",
     "group_name": "PAINTS",
-    "purchase_rate": 712.9559936523438,
-    "sale_rate": 750.0,
+    "purchase_rate": 721.9240112304688,
+    "sale_rate": 760.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -15586,8 +15586,8 @@
   {
     "item_name": "AS ULTIMA 4LT-WHITE (ASIAN)+",
     "group_name": "PAINTS",
-    "purchase_rate": 2078.333984375,
-    "sale_rate": 2190.0,
+    "purchase_rate": 2109.721923828125,
+    "sale_rate": 2220.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -19170,8 +19170,8 @@
   {
     "item_name": "BA 1 1/4\" BALL VALVE (MATRIX)",
     "group_name": "PLUMBING",
-    "purchase_rate": 1067.1300048828125,
-    "sale_rate": 1200.0,
+    "purchase_rate": 1213.0989990234375,
+    "sale_rate": 1340.0,
     "hsn_code": "84818090",
     "unit": "Nos"
   },
@@ -19362,7 +19362,7 @@
   {
     "item_name": "BA 1\" BALLVALVE UNION TYPE",
     "group_name": "PLUMBING",
-    "purchase_rate": 65.31999969482422,
+    "purchase_rate": 64.4000015258789,
     "sale_rate": 105.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -19730,7 +19730,7 @@
   {
     "item_name": "BA 2\" BALL VALVE (MATRIX)",
     "group_name": "PLUMBING",
-    "purchase_rate": 2740.590087890625,
+    "purchase_rate": 2701.989990234375,
     "sale_rate": 2990.0,
     "hsn_code": "84818090",
     "unit": "Nos"
@@ -21514,7 +21514,7 @@
   {
     "item_name": "BED BOLT 1 X 5/8",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 68.0,
+    "purchase_rate": 70.0,
     "sale_rate": 85.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -21546,7 +21546,7 @@
   {
     "item_name": "BED BOLT 2 X 5/8",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 68.0,
+    "purchase_rate": 70.0,
     "sale_rate": 95.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -21690,7 +21690,7 @@
   {
     "item_name": "BELT 2\"",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 107.91999816894531,
+    "purchase_rate": 105.69999694824219,
     "sale_rate": 125.0,
     "hsn_code": "40103912",
     "unit": "Meter"
@@ -42162,8 +42162,8 @@
   {
     "item_name": "CRI 2.5 SQ FLEX WIRE (90-MTR COIL)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 4427.97998046875,
-    "sale_rate": 4660.0,
+    "purchase_rate": 4355.39013671875,
+    "sale_rate": 4600.0,
     "hsn_code": "85446020",
     "unit": "COIL"
   },
@@ -42451,7 +42451,7 @@
     "item_name": "CRI 6/60 SUB PUMP SET",
     "group_name": "ELECTRICALS",
     "purchase_rate": 48000.0,
-    "sale_rate": 0.0,
+    "sale_rate": 50000.0,
     "hsn_code": "84138910",
     "unit": "Nos"
   },
@@ -45514,8 +45514,8 @@
   {
     "item_name": "DPM VALVE 1/2\" (BRASS) 2W-160-15B",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1005.9500122070312,
-    "sale_rate": 1180.0,
+    "purchase_rate": 1249.3199462890625,
+    "sale_rate": 1400.0,
     "hsn_code": "84818090",
     "unit": "Nos"
   },
@@ -52624,12 +52624,20 @@
     "unit": "Nos"
   },
   {
-    "item_name": "EARTH ROD 1 MTR (LEGREEN) COPPER",
+    "item_name": "EARTH ROD 1 MTR (25MM)  COPPER",
+    "group_name": "ELECTRICALS",
+    "purchase_rate": 1044.300048828125,
+    "sale_rate": 1400.0,
+    "hsn_code": "72159090",
+    "unit": "Set"
+  },
+  {
+    "item_name": "EARTH ROD 1 MTR (50MM)  COPPER",
     "group_name": "ELECTRICALS",
     "purchase_rate": 875.5599975585938,
     "sale_rate": 1300.0,
     "hsn_code": "72159090",
-    "unit": "Set"
+    "unit": "Nos"
   },
   {
     "item_name": "EARTH ROD 1 MTR (LEGREEN) GI",
@@ -63579,7 +63587,7 @@
     "item_name": "FOOT VALVE 1\" (DIANA)",
     "group_name": "PLUMBING",
     "purchase_rate": 73.83999633789062,
-    "sale_rate": 90.0,
+    "sale_rate": 100.0,
     "hsn_code": "84811000",
     "unit": "Nos"
   },
@@ -104170,7 +104178,7 @@
   {
     "item_name": "NI 1 1/2\" X 6\" B.NIPPLE",
     "group_name": "PLUMBING",
-    "purchase_rate": 55.369998931884766,
+    "purchase_rate": 56.0,
     "sale_rate": 110.0,
     "hsn_code": "73063090",
     "unit": "Nos"
@@ -143378,7 +143386,7 @@
   {
     "item_name": "SS 3/4\" BALLVALVE",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 410.6400146484375,
+    "purchase_rate": 428.3399963378906,
     "sale_rate": 760.0,
     "hsn_code": "84818030",
     "unit": "Nos"
@@ -143674,7 +143682,7 @@
   {
     "item_name": "SS 4\" FLANGE CLASS 150",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1534.0,
+    "purchase_rate": 1696.25,
     "sale_rate": 2000.0,
     "hsn_code": "73072100",
     "unit": "Nos"
@@ -157722,7 +157730,7 @@
   {
     "item_name": "UBOLT 6\"",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 46.25,
+    "purchase_rate": 40.599998474121094,
     "sale_rate": 65.0,
     "hsn_code": "73181500",
     "unit": "Nos"
@@ -176618,8 +176626,8 @@
   {
     "item_name": "WELDING MACHINE TOSHON IGBT 400AMS",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 20077.76953125,
-    "sale_rate": 23500.0,
+    "purchase_rate": 22805.0,
+    "sale_rate": 25100.0,
     "hsn_code": "85153990",
     "unit": "Nos"
   },
@@ -176634,8 +176642,8 @@
   {
     "item_name": "WELDING MACHINE TOSHON MOSFET 300AMS 3PH",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 14149.3798828125,
-    "sale_rate": 15500.0,
+    "purchase_rate": 14664.0,
+    "sale_rate": 16130.0,
     "hsn_code": "85153990",
     "unit": "Nos"
   },
