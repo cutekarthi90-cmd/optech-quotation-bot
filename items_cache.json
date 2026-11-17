@@ -79346,8 +79346,8 @@
   {
     "item_name": "JA 10MM X 1/2 MALE ELBOW (JANATICS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 118.0,
-    "sale_rate": 150.0,
+    "purchase_rate": 129.32000732421875,
+    "sale_rate": 145.0,
     "hsn_code": "84879000",
     "unit": "Nos"
   },
@@ -107324,7 +107324,7 @@
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 25.0,
     "sale_rate": 30.0,
-    "hsn_code": "5206",
+    "hsn_code": "61112000",
     "unit": "Nos"
   },
   {
@@ -170490,7 +170490,7 @@
   {
     "item_name": "VI 1 1/2\" 15KG PVC PIPE (VIJAY)",
     "group_name": "PLUMBING",
-    "purchase_rate": 524.989990234375,
+    "purchase_rate": 531.2000122070312,
     "sale_rate": 580.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
@@ -170666,8 +170666,8 @@
   {
     "item_name": "VI 6\" 4KG PVC PIPE (VIJAY)",
     "group_name": "PLUMBING",
-    "purchase_rate": 1713.5899658203125,
-    "sale_rate": 1885.0,
+    "purchase_rate": 1755.0,
+    "sale_rate": 1930.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
