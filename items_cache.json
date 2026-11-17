@@ -1434,8 +1434,8 @@
   {
     "item_name": "ABRO FLO GREEN SPRAY PAINT (SP-1003)",
     "group_name": "PAINTS",
-    "purchase_rate": 166.0,
-    "sale_rate": 200.0,
+    "purchase_rate": 173.6999969482422,
+    "sale_rate": 210.0,
     "hsn_code": "32082090",
     "unit": "Nos"
   },
@@ -6554,8 +6554,8 @@
   {
     "item_name": "AS AB2-20LT APEX (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 6356.06982421875,
-    "sale_rate": 6690.0,
+    "purchase_rate": 6445.75,
+    "sale_rate": 6785.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -7330,8 +7330,8 @@
   {
     "item_name": "AS APEX 20LT WHITE (ASIAN) NRML",
     "group_name": "PAINTS",
-    "purchase_rate": 6356.06982421875,
-    "sale_rate": 6690.0,
+    "purchase_rate": 6445.75,
+    "sale_rate": 6780.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -7930,8 +7930,8 @@
   {
     "item_name": "AS BW22N-1LT  PRE EML (ASIAN)+",
     "group_name": "PAINTS",
-    "purchase_rate": 307.1499938964844,
-    "sale_rate": 325.0,
+    "purchase_rate": 319.4849853515625,
+    "sale_rate": 335.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -9210,8 +9210,8 @@
   {
     "item_name": "AS EN 1LT GO BROWN (GLSY-ENAMEL)-ASIAN+",
     "group_name": "PAINTS",
-    "purchase_rate": 276.8900146484375,
-    "sale_rate": 290.0,
+    "purchase_rate": 281.3710021972656,
+    "sale_rate": 295.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -10778,8 +10778,8 @@
   {
     "item_name": "AS FG2C-1LT FLOOR GUARD (ASIAN) +",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 392.3500061035156,
-    "sale_rate": 415.0,
+    "purchase_rate": 404.6809997558594,
+    "sale_rate": 425.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -11634,8 +11634,8 @@
   {
     "item_name": "AS MEL SEALER 4LT (ASIAN) +",
     "group_name": "PAINTS",
-    "purchase_rate": 1423.6700439453125,
-    "sale_rate": 1500.0,
+    "purchase_rate": 1450.573974609375,
+    "sale_rate": 1525.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -13778,8 +13778,8 @@
   {
     "item_name": "AS RS 1LT GO BROWN (GLSY-ENAMEL)-ASIAN+",
     "group_name": "PAINTS",
-    "purchase_rate": 282.49200439453125,
-    "sale_rate": 320.0,
+    "purchase_rate": 292.58099365234375,
+    "sale_rate": 310.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -14250,8 +14250,8 @@
   {
     "item_name": "AS SE-2-1LT (SATIN-ENAMEL) ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 339.6629943847656,
-    "sale_rate": 360.0,
+    "purchase_rate": 346.3890075683594,
+    "sale_rate": 365.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -14474,8 +14474,8 @@
   {
     "item_name": "AS SN2 ROYAL SHYNE 4LT (ASIAN)+",
     "group_name": "PAINTS",
-    "purchase_rate": 2546.912109375,
-    "sale_rate": 2680.0,
+    "purchase_rate": 2582.783935546875,
+    "sale_rate": 2720.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -14810,8 +14810,8 @@
   {
     "item_name": "AS TE2-10LT TRAC EML (ASIAN)+",
     "group_name": "PAINTS",
-    "purchase_rate": 1691.5889892578125,
-    "sale_rate": 1780.0,
+    "purchase_rate": 1714.009033203125,
+    "sale_rate": 1800.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -96507,7 +96507,7 @@
     "item_name": "MR 8M COVER PLATE (MYRIUS)",
     "group_name": "ELECTRICALS",
     "purchase_rate": 253.5800018310547,
-    "sale_rate": 310.0,
+    "sale_rate": 280.0,
     "hsn_code": "85389000",
     "unit": "Nos"
   },
@@ -129360,6 +129360,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "S0598 STENCILS-1 1/2\" X 2\" (SHREE)",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 170.0,
+    "sale_rate": 250.0,
+    "hsn_code": "32169000",
+    "unit": "Nos"
+  },
+  {
     "item_name": "S0674 STENCILS-1 1/2\" X 2\" (SHREE)",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 170.0,
@@ -129393,6 +129401,14 @@
   },
   {
     "item_name": "S0832 STENCILS-1 1/2\" X 2\" (SHREE)",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 170.0,
+    "sale_rate": 250.0,
+    "hsn_code": "32169000",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "S0844 STENCILS-1 1/2\" X 2\" (SHREE)",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 170.0,
     "sale_rate": 250.0,
@@ -170660,6 +170676,14 @@
     "group_name": "PLUMBING",
     "purchase_rate": 2457.0,
     "sale_rate": 2750.0,
+    "hsn_code": "39172390",
+    "unit": "LENGTH"
+  },
+  {
+    "item_name": "VI 8\" 4KG PIPE",
+    "group_name": "PLUMBING",
+    "purchase_rate": 2925.0,
+    "sale_rate": 3400.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
