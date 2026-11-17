@@ -970,7 +970,7 @@
   {
     "item_name": "3TON X 3MTR LIFTING BELT KANVEE",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 616.4340209960938,
+    "purchase_rate": 632.3699951171875,
     "sale_rate": 890.0,
     "hsn_code": "59113190",
     "unit": "Nos"
@@ -1154,7 +1154,7 @@
   {
     "item_name": "5TON X 5MTR LIFTING BELT KANVEE",
     "group_name": "Acessoires",
-    "purchase_rate": 1355.0,
+    "purchase_rate": 1378.5400390625,
     "sale_rate": 1800.0,
     "hsn_code": "59113190",
     "unit": "Nos"
@@ -4450,8 +4450,8 @@
   {
     "item_name": "AQUA BEST 1HP (OPENWELL)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 6700.0,
-    "sale_rate": 7300.0,
+    "purchase_rate": 6800.0,
+    "sale_rate": 7450.0,
     "hsn_code": "84135029",
     "unit": "Nos"
   },
@@ -19410,7 +19410,7 @@
   {
     "item_name": "BA 1\" PVC BALL VALVE (PL) FLO",
     "group_name": "PLUMBING",
-    "purchase_rate": 93.11000061035156,
+    "purchase_rate": 103.66999816894531,
     "sale_rate": 150.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -26787,7 +26787,7 @@
     "item_name": "BR 10NO FLAT BRUSH (ITZU) (12N0=1BOX)",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 28.469999313354492,
-    "sale_rate": 60.0,
+    "sale_rate": 50.0,
     "hsn_code": "96033010",
     "unit": "Nos"
   },
@@ -39778,8 +39778,8 @@
   {
     "item_name": "CPVC 1\" BALL VALVE (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 291.0,
-    "sale_rate": 330.0,
+    "purchase_rate": 291.4599914550781,
+    "sale_rate": 340.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -40706,8 +40706,8 @@
   {
     "item_name": "CPVC 3\" PIPE 5M (ASTRAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 8710.0,
-    "sale_rate": 9581.0,
+    "purchase_rate": 7524.0,
+    "sale_rate": 9580.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
@@ -42146,8 +42146,8 @@
   {
     "item_name": "CRI 1SQ WIRE (45MTR)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 924.1500244140625,
-    "sale_rate": 980.0,
+    "purchase_rate": 909.0,
+    "sale_rate": 970.0,
     "hsn_code": "85442010",
     "unit": "COIL"
   },
@@ -67738,7 +67738,7 @@
   {
     "item_name": "GI 2\" BEND (B CLASS)",
     "group_name": "PLUMBING",
-    "purchase_rate": 178.9199981689453,
+    "purchase_rate": 186.89999389648438,
     "sale_rate": 230.0,
     "hsn_code": "73063090",
     "unit": "Nos"
@@ -72770,7 +72770,7 @@
   {
     "item_name": "HA 10W  LED TUBE LIGHT 2FEET",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 115.0,
+    "purchase_rate": 119.98999786376953,
     "sale_rate": 150.0,
     "hsn_code": "94054090",
     "unit": "Nos"
@@ -76378,7 +76378,7 @@
   {
     "item_name": "HO 1/8\" DUMMY",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 11.680000305175781,
+    "purchase_rate": 15.569999694824219,
     "sale_rate": 30.0,
     "hsn_code": "74122090",
     "unit": "Nos"
@@ -103816,7 +103816,7 @@
     "unit": "Nos"
   },
   {
-    "item_name": "NC PUTTI 1KG (ASIAN-PPG) BILUX-PU",
+    "item_name": "NC PUTTY 1KG (ASIAN-PPG) BILUX-PU",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 403.0,
     "sale_rate": 500.0,
@@ -103856,18 +103856,18 @@
     "unit": "Nos"
   },
   {
-    "item_name": "NC PUTTY 1KG (TARA)",
-    "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 207.38499450683594,
-    "sale_rate": 230.0,
-    "hsn_code": "32141000",
-    "unit": "Nos"
-  },
-  {
     "item_name": "NC PUTTY 1KG (TARA) POLYESTER",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 213.0,
     "sale_rate": 240.0,
+    "hsn_code": "32141000",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "NC PUTTY 1KG (TARA)=1KG-6PS",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 207.38499450683594,
+    "sale_rate": 230.0,
     "hsn_code": "32141000",
     "unit": "Nos"
   },
@@ -104618,7 +104618,7 @@
   {
     "item_name": "NI 2 1/2\" X 6\" B.NIPPLE",
     "group_name": "PLUMBING",
-    "purchase_rate": 110.75,
+    "purchase_rate": 114.0999984741211,
     "sale_rate": 180.0,
     "hsn_code": "73063090",
     "unit": "Nos"
@@ -112085,6 +112085,14 @@
     "purchase_rate": 214.1699981689453,
     "sale_rate": 260.0,
     "hsn_code": "84818030",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "PLATO 1/2\" H NIPPLE (ORBIT)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 60.95000076293945,
+    "sale_rate": 80.0,
+    "hsn_code": "84818020",
     "unit": "Nos"
   },
   {
@@ -136626,7 +136634,7 @@
   {
     "item_name": "SHELLOC (1BOX=20NO)",
     "group_name": "PLUMBING",
-    "purchase_rate": 12.170000076293945,
+    "purchase_rate": 12.0,
     "sale_rate": 15.0,
     "hsn_code": "38244090",
     "unit": "Nos"
@@ -142058,8 +142066,8 @@
   {
     "item_name": "SPRAY GUN MACHINE-SET (PAINTER) EGH 11",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 2877.179931640625,
-    "sale_rate": 3200.0,
+    "purchase_rate": 3103.919921875,
+    "sale_rate": 3500.0,
     "hsn_code": "84242000",
     "unit": "Nos"
   },
@@ -171450,7 +171458,7 @@
   {
     "item_name": "VP 4 X 3 B   PULLEY SOLID",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1062.0,
+    "purchase_rate": 762.4600219726562,
     "sale_rate": 1200.0,
     "hsn_code": "84835090",
     "unit": "Nos"
@@ -177026,7 +177034,7 @@
   {
     "item_name": "WI 1\" 1.5MM PIPE (VIJAY)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 64.0,
+    "purchase_rate": 65.29000091552734,
     "sale_rate": 72.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
@@ -177034,8 +177042,8 @@
   {
     "item_name": "WI 1\" 2MM WIRING PIPE (VIJAY)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 75.95999908447266,
-    "sale_rate": 85.0,
+    "purchase_rate": 77.8499984741211,
+    "sale_rate": 86.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
@@ -177130,8 +177138,8 @@
   {
     "item_name": "WI 3/4\" 2MM PIPE(VIJAY)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 50.029998779296875,
-    "sale_rate": 55.0,
+    "purchase_rate": 52.72999954223633,
+    "sale_rate": 58.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
