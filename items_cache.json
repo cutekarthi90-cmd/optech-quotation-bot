@@ -2522,8 +2522,8 @@
   {
     "item_name": "AGM 20LT-ANTI CORROSIVE BLACK-AGARAM",
     "group_name": "PAINTS",
-    "purchase_rate": 6600.0,
-    "sale_rate": 7300.0,
+    "purchase_rate": 6712.0,
+    "sale_rate": 7380.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -33530,7 +33530,7 @@
   {
     "item_name": "CEMENT 50KG (PRIYA)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 310.0,
+    "purchase_rate": 320.0,
     "sale_rate": 0.0,
     "hsn_code": "25232100",
     "unit": "Nos"
