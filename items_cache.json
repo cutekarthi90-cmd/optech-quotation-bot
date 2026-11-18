@@ -11035,7 +11035,7 @@
     "item_name": "AS GREY TILES JOINING POWDER-1KG",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 48.00199890136719,
-    "sale_rate": 65.0,
+    "sale_rate": 60.0,
     "hsn_code": "32149010",
     "unit": "Nos"
   },
@@ -15314,8 +15314,8 @@
   {
     "item_name": "AS TRAC 20LT WHITE (ADV) ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 2821.556884765625,
-    "sale_rate": 2970.0,
+    "purchase_rate": 0.0,
+    "sale_rate": 3440.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -26954,7 +26954,7 @@
   {
     "item_name": "BR 12NO FLAT BRUSH (ITZU) (12N0=1BOX)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 32.5,
+    "purchase_rate": 38.41999816894531,
     "sale_rate": 60.0,
     "hsn_code": "96034010",
     "unit": "Nos"
@@ -43418,7 +43418,7 @@
   {
     "item_name": "DAMP GUARD 1KG (DR FIX IT)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 506.50299072265625,
+    "purchase_rate": 510.0,
     "sale_rate": 560.0,
     "hsn_code": "32141000",
     "unit": "Kg"
@@ -87642,8 +87642,8 @@
   {
     "item_name": "LEX 25A 4P MCB (LEXIC) S",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 1716.0899658203125,
-    "sale_rate": 1900.0,
+    "purchase_rate": 1640.8399658203125,
+    "sale_rate": 1820.0,
     "hsn_code": "85369090",
     "unit": "Nos"
   },
@@ -87819,7 +87819,7 @@
     "item_name": "LEX 63A 4P MCB (LEXIC)",
     "group_name": "ELECTRICALS",
     "purchase_rate": 2334.75,
-    "sale_rate": 2700.0,
+    "sale_rate": 2600.0,
     "hsn_code": "85369090",
     "unit": "Nos"
   },
@@ -98074,8 +98074,8 @@
   {
     "item_name": "MRF EN 1LT STEEL GREY (PU-GLSY-SPECTA)",
     "group_name": "PAINTS",
-    "purchase_rate": 349.7330017089844,
-    "sale_rate": 385.0,
+    "purchase_rate": 360.54998779296875,
+    "sale_rate": 395.0,
     "hsn_code": "32082090",
     "unit": "Nos"
   },
@@ -98428,6 +98428,14 @@
     "group_name": "PAINTS",
     "purchase_rate": 164.25,
     "sale_rate": 180.0,
+    "hsn_code": "32082090",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "MRF EN 500ML STEEL GREY (PU-GLSY-SPECTA)",
+    "group_name": "PAINTS",
+    "purchase_rate": 188.86000061035156,
+    "sale_rate": 210.0,
     "hsn_code": "32082090",
     "unit": "Nos"
   },
@@ -108346,7 +108354,7 @@
   {
     "item_name": "PA 3MM PACKING SHEET (METALLIC) SAMSONITE",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 330.6700134277344,
+    "purchase_rate": 336.0,
     "sale_rate": 400.0,
     "hsn_code": "68129922",
     "unit": "Kg"
@@ -109468,6 +109476,14 @@
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 389.2099914550781,
     "sale_rate": 490.0,
+    "hsn_code": "35069999",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "PF 90-HV-50GM (POLYFIX)",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 99.75,
+    "sale_rate": 120.0,
     "hsn_code": "35069999",
     "unit": "Nos"
   },
@@ -151026,8 +151042,8 @@
   {
     "item_name": "TAP RATCHET HANDLE 1/2\" (1715N)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 686.1500244140625,
-    "sale_rate": 750.0,
+    "purchase_rate": 675.5,
+    "sale_rate": 780.0,
     "hsn_code": "82042000",
     "unit": "Nos"
   },
@@ -153658,7 +153674,7 @@
   {
     "item_name": "TILES BEADING (10MM X 7FEET) - WHITE",
     "group_name": "Primary",
-    "purchase_rate": 60.9900016784668,
+    "purchase_rate": 60.0,
     "sale_rate": 90.0,
     "hsn_code": "39253000",
     "unit": "Nos"
@@ -170578,8 +170594,8 @@
   {
     "item_name": "VI 2 1/2\" 6KG PVC PIPE (VIJAY)",
     "group_name": "PLUMBING",
-    "purchase_rate": 548.52001953125,
-    "sale_rate": 610.0,
+    "purchase_rate": 549.1099853515625,
+    "sale_rate": 600.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
@@ -170594,8 +170610,8 @@
   {
     "item_name": "VI 2\" 6KG PVC PIPE (VIJAY)",
     "group_name": "PLUMBING",
-    "purchase_rate": 444.5,
-    "sale_rate": 490.0,
+    "purchase_rate": 434.7099914550781,
+    "sale_rate": 480.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
@@ -177066,7 +177082,7 @@
   {
     "item_name": "WI 1\" 1.5MM PIPE (VIJAY)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 65.29000091552734,
+    "purchase_rate": 63.84400177001953,
     "sale_rate": 72.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
