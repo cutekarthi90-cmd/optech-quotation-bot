@@ -87016,9 +87016,17 @@
     "unit": "Nos"
   },
   {
+    "item_name": "LED 4WAY IBALL (COLUR) VENITAS",
+    "group_name": "ELECTRICALS",
+    "purchase_rate": 320.0,
+    "sale_rate": 450.0,
+    "hsn_code": "94054090",
+    "unit": "Nos"
+  },
+  {
     "item_name": "LED 4WAY IBALL (WARM WHITE) VENITAS",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 239.97999572753906,
+    "purchase_rate": 280.0,
     "sale_rate": 400.0,
     "hsn_code": "94054090",
     "unit": "Nos"
