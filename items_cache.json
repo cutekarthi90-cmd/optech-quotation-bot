@@ -16480,6 +16480,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "ASPA 1LT SIG RED ENAMEL",
+    "group_name": "PAINTS",
+    "purchase_rate": 535.0,
+    "sale_rate": 630.0,
+    "hsn_code": "32081010",
+    "unit": "Nos"
+  },
+  {
     "item_name": "ASPA 1LT SILVER GREY ENAMEL-0615",
     "group_name": "PAINTS",
     "purchase_rate": 487.0,
@@ -32698,7 +32706,7 @@
   {
     "item_name": "CAR CLOTH",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 0.0,
+    "purchase_rate": 60.0,
     "sale_rate": 80.0,
     "hsn_code": "61112000",
     "unit": "Nos"
@@ -54282,7 +54290,7 @@
   {
     "item_name": "EMW 1000NO EMERY PAPER (PPG)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 26.0,
+    "purchase_rate": 20.5,
     "sale_rate": 40.0,
     "hsn_code": "68052010",
     "unit": "Nos"
@@ -54504,10 +54512,10 @@
     "unit": "Nos"
   },
   {
-    "item_name": "EMW 2000NO EMERY PAPER (WTR-3M)",
+    "item_name": "EMW 2000NO EMERY PAPER (WTR-PPG)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 20.770000457763672,
-    "sale_rate": 30.0,
+    "purchase_rate": 29.0,
+    "sale_rate": 40.0,
     "hsn_code": "68052010",
     "unit": "Nos"
   },
@@ -129082,8 +129090,8 @@
   {
     "item_name": "RUBY MET GREY 1LT",
     "group_name": "PAINTS",
-    "purchase_rate": 282.0199890136719,
-    "sale_rate": 360.0,
+    "purchase_rate": 371.0,
+    "sale_rate": 440.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
