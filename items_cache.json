@@ -15154,8 +15154,8 @@
   {
     "item_name": "AS TOUCH WOOD GLSY 1LT (2IN1)-ASIAN+",
     "group_name": "PAINTS",
-    "purchase_rate": 317.2430114746094,
-    "sale_rate": 335.0,
+    "purchase_rate": 323.968994140625,
+    "sale_rate": 340.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -92496,6 +92496,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "MA EN 100ML D.ORANGE (MAXBEN)",
+    "group_name": "PAINTS",
+    "purchase_rate": 34.39699935913086,
+    "sale_rate": 40.0,
+    "hsn_code": "32081010",
+    "unit": "Nos"
+  },
+  {
     "item_name": "MA EN 100ML GO BROWN (MAXBEN)",
     "group_name": "PAINTS",
     "purchase_rate": 34.39799880981445,
@@ -92708,6 +92716,14 @@
     "group_name": "PAINTS",
     "purchase_rate": 57.66699981689453,
     "sale_rate": 80.0,
+    "hsn_code": "32081010",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "MA EN 200ML PHIROZI  (MAXBEN)",
+    "group_name": "PAINTS",
+    "purchase_rate": 61.709999084472656,
+    "sale_rate": 70.0,
     "hsn_code": "32081010",
     "unit": "Nos"
   },
