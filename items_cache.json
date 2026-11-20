@@ -152160,6 +152160,14 @@
     "unit": "SqrFeet"
   },
   {
+    "item_name": "TEFLON SHEET 5MM",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 638.6099853515625,
+    "sale_rate": 750.0,
+    "hsn_code": "39207312",
+    "unit": "Nos"
+  },
+  {
     "item_name": "TEFLON WASER 1/2\"",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 24.0,
