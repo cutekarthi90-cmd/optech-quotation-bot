@@ -6354,8 +6354,8 @@
   {
     "item_name": "AS AB11S-20LT APEX (ASIAN)+",
     "group_name": "PAINTS",
-    "purchase_rate": 6356.06982421875,
-    "sale_rate": 6690.0,
+    "purchase_rate": 6445.75,
+    "sale_rate": 6785.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -9370,8 +9370,8 @@
   {
     "item_name": "AS EN 1LT SKY BLUE (GLSY-ENAMEL)-ASIAN+",
     "group_name": "PAINTS",
-    "purchase_rate": 280.25,
-    "sale_rate": 295.0,
+    "purchase_rate": 284.7340087890625,
+    "sale_rate": 300.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
