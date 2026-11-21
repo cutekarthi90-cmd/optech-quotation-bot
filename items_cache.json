@@ -6890,8 +6890,8 @@
   {
     "item_name": "AS ACE 20LT WHITE (ASIAN) NRML",
     "group_name": "PAINTS",
-    "purchase_rate": 3821.489990234375,
-    "sale_rate": 4020.0,
+    "purchase_rate": 3866.3291015625,
+    "sale_rate": 4070.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -7282,8 +7282,8 @@
   {
     "item_name": "AS APEX 10LT WHITE (ASIAN) NRML",
     "group_name": "PAINTS",
-    "purchase_rate": 3281.169921875,
-    "sale_rate": 3450.0,
+    "purchase_rate": 3326.007080078125,
+    "sale_rate": 3500.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -8074,8 +8074,8 @@
   {
     "item_name": "AS CRACK SEAL 900GM (ASIAN)-NRML",
     "group_name": "PAINTS",
-    "purchase_rate": 325.0899963378906,
-    "sale_rate": 340.0,
+    "purchase_rate": 329.5740051269531,
+    "sale_rate": 345.0,
     "hsn_code": "32149090",
     "unit": "Nos"
   },
@@ -9250,7 +9250,7 @@
   {
     "item_name": "AS EN 1LT MERS RED (GLSY-ENAMEL)-ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 280.25,
+    "purchase_rate": 284.7340087890625,
     "sale_rate": 300.0,
     "hsn_code": "32089021",
     "unit": "Nos"
@@ -15546,8 +15546,8 @@
   {
     "item_name": "AS ULTIMA 1LT -WHITE (ASIAN)+",
     "group_name": "PAINTS",
-    "purchase_rate": 526.8699951171875,
-    "sale_rate": 555.0,
+    "purchase_rate": 534.7169799804688,
+    "sale_rate": 560.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -25162,7 +25162,7 @@
   {
     "item_name": "BO 2 1/2 X 5/8 BOLT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 114.0,
+    "purchase_rate": 112.0,
     "sale_rate": 130.0,
     "hsn_code": "73181500",
     "unit": "Kg"
@@ -38370,8 +38370,8 @@
   {
     "item_name": "CORE BIT (A/C) 2 1/2\" 65MM BULLET",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 298.177001953125,
-    "sale_rate": 580.0,
+    "purchase_rate": 496.5199890136719,
+    "sale_rate": 600.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -43154,8 +43154,8 @@
   {
     "item_name": "CT COIL 200/5A",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 271.3999938964844,
-    "sale_rate": 350.0,
+    "purchase_rate": 377.62701416015625,
+    "sale_rate": 450.0,
     "hsn_code": "85043100",
     "unit": "Nos"
   },
@@ -46722,7 +46722,7 @@
   {
     "item_name": "DR 14MM TAPER SHANK (TOTEM)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 981.280029296875,
+    "purchase_rate": 997.1699829101562,
     "sale_rate": 1200.0,
     "hsn_code": "82075000",
     "unit": "Nos"
@@ -47130,7 +47130,7 @@
   {
     "item_name": "DR 18 X 400MM ( POINT) BULLET",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 172.0,
+    "purchase_rate": 175.3800048828125,
     "sale_rate": 300.0,
     "hsn_code": "82079090",
     "unit": "Nos"
@@ -64690,8 +64690,8 @@
   {
     "item_name": "FUSE KAMBI 150A -100GM",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 324.5,
-    "sale_rate": 360.0,
+    "purchase_rate": 342.20001220703125,
+    "sale_rate": 380.0,
     "hsn_code": "85369090",
     "unit": "Roll"
   },
@@ -69488,7 +69488,7 @@
     "unit": "Nos"
   },
   {
-    "item_name": "GLASS CLEANER-500ML (O2)",
+    "item_name": "GLASS CLEANER-500ML (O2)-1BOX-25NO",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 75.5199966430664,
     "sale_rate": 100.0,
@@ -72618,8 +72618,8 @@
   {
     "item_name": "GUM BOOT 15\" (CONCRETE) ATLANTIC",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 333.1600036621094,
-    "sale_rate": 480.0,
+    "purchase_rate": 361.69000244140625,
+    "sale_rate": 500.0,
     "hsn_code": "64019110",
     "unit": "Nos"
   },
@@ -74258,8 +74258,8 @@
   {
     "item_name": "HAWSAW FRAME (PVC - VENUS) RECTANGULAR",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 150.4499969482422,
-    "sale_rate": 180.0,
+    "purchase_rate": 162.25,
+    "sale_rate": 200.0,
     "hsn_code": "82029910",
     "unit": "Nos"
   },
@@ -74298,9 +74298,9 @@
   {
     "item_name": "HAWSAW FRAME (WOOD-JP)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 81.0,
-    "sale_rate": 115.5,
-    "hsn_code": "8202",
+    "purchase_rate": 159.64999389648438,
+    "sale_rate": 200.0,
+    "hsn_code": "82029910",
     "unit": "Nos"
   },
   {
@@ -86602,16 +86602,16 @@
   {
     "item_name": "LE 5/16 X 1/16 (HVY-ROLL)S-30MTR LEVEL TUBE",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 310.0,
-    "sale_rate": 370.0,
+    "purchase_rate": 370.0,
+    "sale_rate": 450.0,
     "hsn_code": "39173290",
     "unit": "Roll"
   },
   {
     "item_name": "LE 5/16\" X 3/64 (LW-MTR)S-LEVEL TUBE",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 8.65999984741211,
-    "sale_rate": 14.0,
+    "purchase_rate": 12.329999923706055,
+    "sale_rate": 18.0,
     "hsn_code": "39173290",
     "unit": "Meter"
   },
@@ -87890,8 +87890,8 @@
   {
     "item_name": "LEX 6A 4P MCB (LEXIC) S",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 1283.0999755859375,
-    "sale_rate": 1420.0,
+    "purchase_rate": 1640.8399658203125,
+    "sale_rate": 1850.0,
     "hsn_code": "853610",
     "unit": "Nos"
   },
@@ -96420,7 +96420,7 @@
     "group_name": "ELECTRICALS",
     "purchase_rate": 220.16000366210938,
     "sale_rate": 242.18,
-    "hsn_code": "",
+    "hsn_code": "85360000",
     "unit": "Nos"
   },
   {
@@ -96458,8 +96458,8 @@
   {
     "item_name": "MR 2M COVER PLATE (MYRIUS)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 103.19999694824219,
-    "sale_rate": 120.0,
+    "purchase_rate": 113.9800033569336,
+    "sale_rate": 130.0,
     "hsn_code": "85389000",
     "unit": "Nos"
   },
@@ -96482,8 +96482,8 @@
   {
     "item_name": "MR 3M COVER PLATE (MYRIUS)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 108.80000305175781,
-    "sale_rate": 126.0,
+    "purchase_rate": 119.7699966430664,
+    "sale_rate": 130.0,
     "hsn_code": "85389000",
     "unit": "Nos"
   },
@@ -96538,8 +96538,8 @@
   {
     "item_name": "MR 6A UNIVERSAL SOCKET (MYRIUS) 2M",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 165.75999450683594,
-    "sale_rate": 185.0,
+    "purchase_rate": 122.23999786376953,
+    "sale_rate": 180.0,
     "hsn_code": "85366910",
     "unit": "Nos"
   },
@@ -102106,8 +102106,8 @@
   {
     "item_name": "MULAMATTAM 1/2 FEET X 1FEET (SONY)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 140.27000427246094,
-    "sale_rate": 180.0,
+    "purchase_rate": 151.97999572753906,
+    "sale_rate": 200.0,
     "hsn_code": "82055990",
     "unit": "Nos"
   },
@@ -102178,7 +102178,7 @@
   {
     "item_name": "MULAMATTAM 2 FEET X 1 FEET (HVY) JP",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 181.36000061035156,
+    "purchase_rate": 195.0500030517578,
     "sale_rate": 300.0,
     "hsn_code": "82055990",
     "unit": "Nos"
@@ -107458,7 +107458,7 @@
   {
     "item_name": "NU 1/2 C.F NUT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 119.98999786376953,
+    "purchase_rate": 118.0,
     "sale_rate": 132.0,
     "hsn_code": "73181600",
     "unit": "Kg"
@@ -110530,7 +110530,7 @@
   {
     "item_name": "PI 1\" PIPE CLIP (SS)",
     "group_name": "PLUMBING",
-    "purchase_rate": 24.780000686645508,
+    "purchase_rate": 25.479999542236328,
     "sale_rate": 50.0,
     "hsn_code": "73079990",
     "unit": "Nos"
@@ -112170,7 +112170,7 @@
   {
     "item_name": "PLATO 1/2\" H NIPPLE SS (HVY)",
     "group_name": "PLUMBING",
-    "purchase_rate": 87.61000061035156,
+    "purchase_rate": 91.0,
     "sale_rate": 120.0,
     "hsn_code": "84818090",
     "unit": "Nos"
@@ -114450,7 +114450,7 @@
   {
     "item_name": "PN 8MM CONTROL UNION",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 99.12000274658203,
+    "purchase_rate": 106.19999694824219,
     "sale_rate": 140.0,
     "hsn_code": "84799090",
     "unit": "Nos"
@@ -116090,8 +116090,8 @@
   {
     "item_name": "POTENTIAL METER",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 106.19999694824219,
-    "sale_rate": 200.0,
+    "purchase_rate": 94.4000015258789,
+    "sale_rate": 130.0,
     "hsn_code": "85334010",
     "unit": "Nos"
   },
@@ -120026,8 +120026,8 @@
   {
     "item_name": "PR AUTO START WITH PREVENTER",
     "group_name": "PLUMBING",
-    "purchase_rate": 660.7999877929688,
-    "sale_rate": 750.0,
+    "purchase_rate": 944.0,
+    "sale_rate": 1050.0,
     "hsn_code": "85044090",
     "unit": "Nos"
   },
@@ -129436,7 +129436,7 @@
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 580.0,
     "sale_rate": 750.0,
-    "hsn_code": "32169000",
+    "hsn_code": "32139000",
     "unit": "Nos"
   },
   {
@@ -129922,8 +129922,8 @@
   {
     "item_name": "SAL MACHINE (HOKI) 25W",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 136.9199981689453,
-    "sale_rate": 160.0,
+    "purchase_rate": 139.94000244140625,
+    "sale_rate": 170.0,
     "hsn_code": "85151100",
     "unit": "Nos"
   },
@@ -132666,7 +132666,7 @@
   {
     "item_name": "SC 50 X 6 STAR SCREW",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 0.5600000023841858,
+    "purchase_rate": 0.5299999713897705,
     "sale_rate": 2.0,
     "hsn_code": "73181500",
     "unit": "Nos"
@@ -133042,8 +133042,8 @@
   {
     "item_name": "SC 75 X 10 COACH SCREW",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 4.980000019073486,
-    "sale_rate": 7.0,
+    "purchase_rate": 5.599999904632568,
+    "sale_rate": 8.0,
     "hsn_code": "73181190",
     "unit": "Nos"
   },
@@ -134274,8 +134274,8 @@
   {
     "item_name": "SC BOX 38 X 6 COACH SCREW (PKT-150PS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 162.0,
-    "sale_rate": 240.0,
+    "purchase_rate": 180.0,
+    "sale_rate": 250.0,
     "hsn_code": "73181110",
     "unit": "Box"
   },
@@ -134554,7 +134554,7 @@
   {
     "item_name": "SC BOX 50 X 8 COACH SCREW (PKT-150PS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 325.0,
+    "purchase_rate": 364.0,
     "sale_rate": 430.0,
     "hsn_code": "73181110",
     "unit": "Box"
@@ -134818,8 +134818,8 @@
   {
     "item_name": "SC BOX 75 X 10 COACH SCREW (75PC)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 374.0,
-    "sale_rate": 470.0,
+    "purchase_rate": 420.0,
+    "sale_rate": 520.0,
     "hsn_code": "73181110",
     "unit": "Box"
   },
@@ -138346,8 +138346,8 @@
   {
     "item_name": "SP  ADAPTOR 3/4\"(RACHET) X 1/2\"(BOX)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 179.14999389648438,
-    "sale_rate": 220.0,
+    "purchase_rate": 193.8699951171875,
+    "sale_rate": 250.0,
     "hsn_code": "82042000",
     "unit": "Nos"
   },
@@ -138602,7 +138602,7 @@
   {
     "item_name": "SP 13NO BOX SPANNER (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 52.779998779296875,
+    "purchase_rate": 54.79999923706055,
     "sale_rate": 70.0,
     "hsn_code": "82042000",
     "unit": "Nos"
@@ -147224,6 +147224,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "STRIP TIGHTNER 1/2\" ,3/4\"",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 982.22998046875,
+    "sale_rate": 1130.0,
+    "hsn_code": "84223000",
+    "unit": "Set"
+  },
+  {
     "item_name": "STRIP TIGHTNER 3/4\"",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 965.8499755859375,
@@ -149266,7 +149274,7 @@
   {
     "item_name": "TA 100M MEASURING TAPE",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1714.5899658203125,
+    "purchase_rate": 1799.5,
     "sale_rate": 2100.0,
     "hsn_code": "90178010",
     "unit": "Nos"
@@ -149514,7 +149522,7 @@
   {
     "item_name": "TA 5MTR MESURING TAPE (IKON)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 103.54499816894531,
+    "purchase_rate": 111.51000213623047,
     "sale_rate": 130.0,
     "hsn_code": "90178010",
     "unit": "Nos"
@@ -152205,7 +152213,7 @@
     "purchase_rate": 638.6099853515625,
     "sale_rate": 750.0,
     "hsn_code": "39207312",
-    "unit": "Nos"
+    "unit": "SqrFeet"
   },
   {
     "item_name": "TEFLON WASER 1/2\"",
@@ -163394,8 +163402,8 @@
   {
     "item_name": "UPVC 1 1/2\" FLANGE (ASTRAL-PIECE)",
     "group_name": "PLUMBING",
-    "purchase_rate": 171.9199981689453,
-    "sale_rate": 190.0,
+    "purchase_rate": 257.8800048828125,
+    "sale_rate": 290.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -172314,7 +172322,7 @@
   {
     "item_name": "WA 1/2\" WASER (MS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 110.0,
+    "purchase_rate": 108.01000213623047,
     "sale_rate": 125.0,
     "hsn_code": "73182100",
     "unit": "Kg"
@@ -172666,7 +172674,7 @@
   {
     "item_name": "WA 5/8\" WASER (MS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 112.01000213623047,
+    "purchase_rate": 108.01000213623047,
     "sale_rate": 130.0,
     "hsn_code": "73182200",
     "unit": "Kg"
@@ -172770,7 +172778,7 @@
   {
     "item_name": "WA NAIL WASER",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 104.01000213623047,
+    "purchase_rate": 108.01000213623047,
     "sale_rate": 130.0,
     "hsn_code": "73182100",
     "unit": "Kg"
