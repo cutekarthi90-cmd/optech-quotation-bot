@@ -19882,7 +19882,7 @@
   {
     "item_name": "BA 2\" UNION BALL VALVE",
     "group_name": "PLUMBING",
-    "purchase_rate": 154.77999877929688,
+    "purchase_rate": 145.0,
     "sale_rate": 200.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -42986,7 +42986,7 @@
   {
     "item_name": "CRIMPING TOOL (COMPUTER/PHONE)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 191.44000244140625,
+    "purchase_rate": 198.99000549316406,
     "sale_rate": 350.0,
     "hsn_code": "84672900",
     "unit": "Nos"
@@ -44490,7 +44490,7 @@
   {
     "item_name": "DIGITAL CLAMP METER SPARE WIRE",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 45.84000015258789,
+    "purchase_rate": 91.68000030517578,
     "sale_rate": 100.0,
     "hsn_code": "90269000",
     "unit": "Nos"
@@ -44554,7 +44554,7 @@
   {
     "item_name": "DIGITAL MULTIMETER METER (HAQYUE)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 174.5399932861328,
+    "purchase_rate": 177.0800018310547,
     "sale_rate": 240.0,
     "hsn_code": "90303200",
     "unit": "Nos"
@@ -46426,8 +46426,8 @@
   {
     "item_name": "DR 110 X 8  DRILL BIT (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 59.470001220703125,
-    "sale_rate": 80.0,
+    "purchase_rate": 76.08000183105469,
+    "sale_rate": 90.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -46442,7 +46442,7 @@
   {
     "item_name": "DR 110X 6 DRILL BIT (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 60.95000076293945,
+    "purchase_rate": 59.9900016784668,
     "sale_rate": 80.0,
     "hsn_code": "82075000",
     "unit": "Nos"
@@ -46908,6 +46908,14 @@
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 64.66999816894531,
     "sale_rate": 80.0,
+    "hsn_code": "82075000",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "DR 160X16 DRILL BIT (JB)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 103.16000366210938,
+    "sale_rate": 140.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -47530,7 +47538,7 @@
   {
     "item_name": "DR 210 X 13 DRILL BIT (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 119.68000030517578,
+    "purchase_rate": 117.77999877929688,
     "sale_rate": 150.0,
     "hsn_code": "82075000",
     "unit": "Nos"
@@ -47596,6 +47604,14 @@
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 81.7699966430664,
     "sale_rate": 100.0,
+    "hsn_code": "82075000",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "DR 210X10 DRILL BIT (JB)",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 56.0,
+    "sale_rate": 70.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -48170,8 +48186,8 @@
   {
     "item_name": "DR 3/8\" TOTEM DRILL BIT (HSS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 200.6300048828125,
-    "sale_rate": 230.0,
+    "purchase_rate": 321.7200012207031,
+    "sale_rate": 390.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -48634,8 +48650,8 @@
   {
     "item_name": "DR 4MM X .7 CST TAP SET HVY HSS (TOTEM)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 869.77001953125,
-    "sale_rate": 980.0,
+    "purchase_rate": 956.75,
+    "sale_rate": 1100.0,
     "hsn_code": "82074090",
     "unit": "Nos"
   },
@@ -48938,8 +48954,8 @@
   {
     "item_name": "DR 5MM X .8 CST TAP SET HVY HSS (TOTEM)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 934.4500122070312,
-    "sale_rate": 1060.0,
+    "purchase_rate": 1028.1199951171875,
+    "sale_rate": 1150.0,
     "hsn_code": "82074090",
     "unit": "Nos"
   },
@@ -49874,8 +49890,8 @@
   {
     "item_name": "DRILL CHUCK (JB-13MM)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 119.98999786376953,
-    "sale_rate": 190.0,
+    "purchase_rate": 142.0,
+    "sale_rate": 200.0,
     "hsn_code": "82078000",
     "unit": "Nos"
   },
@@ -86562,8 +86578,8 @@
   {
     "item_name": "LE 3/8 X 3/64 (HVY-ROLL)L-30MTR-LEVEL TUBE",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 304.5899963378906,
-    "sale_rate": 370.0,
+    "purchase_rate": 321.0,
+    "sale_rate": 400.0,
     "hsn_code": "39173290",
     "unit": "Roll"
   },
@@ -93026,8 +93042,8 @@
   {
     "item_name": "MA PATTI MACHINE (ASIAN) SERIES M-02",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 3026.699951171875,
-    "sale_rate": 3250.0,
+    "purchase_rate": 3363.0,
+    "sale_rate": 3540.0,
     "hsn_code": "84672900",
     "unit": "Nos"
   },
@@ -102754,7 +102770,7 @@
   {
     "item_name": "MYK BLACK 750gm POCKET (722)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 124.99700164794922,
+    "purchase_rate": 127.00299835205078,
     "sale_rate": 150.0,
     "hsn_code": "32141000",
     "unit": "Nos"
@@ -110634,8 +110650,8 @@
   {
     "item_name": "PI 2 1/2\" PIPE CLAMP",
     "group_name": "PLUMBING",
-    "purchase_rate": 7.230000019073486,
-    "sale_rate": 15.0,
+    "purchase_rate": 11.0,
+    "sale_rate": 16.0,
     "hsn_code": "73079910",
     "unit": "Nos"
   },
@@ -121234,8 +121250,8 @@
   {
     "item_name": "PUSH COCK (SATHYAM) MALE",
     "group_name": "PLUMBING",
-    "purchase_rate": 432.29998779296875,
-    "sale_rate": 500.0,
+    "purchase_rate": 476.0,
+    "sale_rate": 540.0,
     "hsn_code": "84818020",
     "unit": "Nos"
   },
@@ -122642,8 +122658,8 @@
   {
     "item_name": "PYE SCREW DRIVER SET (595)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 240.1300048828125,
-    "sale_rate": 290.0,
+    "purchase_rate": 275.6400146484375,
+    "sale_rate": 320.0,
     "hsn_code": "82054000",
     "unit": "Nos"
   },
@@ -129210,8 +129226,8 @@
   {
     "item_name": "RUSTLICK 370ML",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 274.6499938964844,
-    "sale_rate": 320.0,
+    "purchase_rate": 327.01300048828125,
+    "sale_rate": 360.0,
     "hsn_code": "34031900",
     "unit": "Nos"
   },
@@ -130194,8 +130210,8 @@
   {
     "item_name": "SANAI KAL (CUP TYPE) 8\" BLK",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1996.739990234375,
-    "sale_rate": 2150.0,
+    "purchase_rate": 2015.25,
+    "sale_rate": 2200.0,
     "hsn_code": "68042210",
     "unit": "Nos"
   },
@@ -138786,7 +138802,7 @@
   {
     "item_name": "SP 17NO BOX SPANNER (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 61.95000076293945,
+    "purchase_rate": 60.720001220703125,
     "sale_rate": 80.0,
     "hsn_code": "82042000",
     "unit": "Nos"
@@ -139082,7 +139098,7 @@
   {
     "item_name": "SP 24 COMBINATION SPANNER (VENUS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 114.80000305175781,
+    "purchase_rate": 106.79000091552734,
     "sale_rate": 150.0,
     "hsn_code": "82042000",
     "unit": "Nos"
@@ -140322,7 +140338,7 @@
   {
     "item_name": "SP DE 21 X 23 SPANNER (TAPARIA) DOUBLE END",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 81.7699966430664,
+    "purchase_rate": 80.47000122070312,
     "sale_rate": 100.0,
     "hsn_code": "82041110",
     "unit": "Nos"
@@ -140890,7 +140906,7 @@
   {
     "item_name": "SP RINGS 18X19 (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 110.76000213623047,
+    "purchase_rate": 109.0,
     "sale_rate": 140.0,
     "hsn_code": "82041110",
     "unit": "Nos"
@@ -143754,8 +143770,8 @@
   {
     "item_name": "SS 32MM HOLESAW (BIPCO)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 405.3399963378906,
-    "sale_rate": 500.0,
+    "purchase_rate": 445.8699951171875,
+    "sale_rate": 520.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -144802,8 +144818,8 @@
   {
     "item_name": "SS BO 21/2 X 5/8 BOLT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 48.81999969482422,
-    "sale_rate": 65.0,
+    "purchase_rate": 58.599998474121094,
+    "sale_rate": 70.0,
     "hsn_code": "73181500",
     "unit": "Nos"
   },
@@ -145330,7 +145346,7 @@
   {
     "item_name": "SS BO 6 X 20MM (BOLT)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1.840000033378601,
+    "purchase_rate": 2.799999952316284,
     "sale_rate": 5.0,
     "hsn_code": "73181500",
     "unit": "Nos"
@@ -145514,8 +145530,8 @@
   {
     "item_name": "SS BO 8 X 40MM (BOLT) 304",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 7.690000057220459,
-    "sale_rate": 17.0,
+    "purchase_rate": 8.210000038146973,
+    "sale_rate": 12.0,
     "hsn_code": "73181500",
     "unit": "Nos"
   },
@@ -145786,7 +145802,7 @@
   {
     "item_name": "SS NU 5/8 NUT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 20.610000610351562,
+    "purchase_rate": 20.920000076293945,
     "sale_rate": 25.0,
     "hsn_code": "73181600",
     "unit": "Nos"
@@ -145826,7 +145842,7 @@
   {
     "item_name": "SS NU 8MM (NUT) 304",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 2.1500000953674316,
+    "purchase_rate": 2.385999917984009,
     "sale_rate": 4.0,
     "hsn_code": "73181600",
     "unit": "Nos"
@@ -146146,7 +146162,7 @@
   {
     "item_name": "SS WA 5/16 X 1MM (WASER)(304)  BIG",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 3.380000114440918,
+    "purchase_rate": 4.800000190734863,
     "sale_rate": 8.0,
     "hsn_code": "73182100",
     "unit": "Nos"
@@ -146186,7 +146202,7 @@
   {
     "item_name": "SS WA 5/8 WASER",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 8.010000228881836,
+    "purchase_rate": 8.75,
     "sale_rate": 12.0,
     "hsn_code": "73181600",
     "unit": "Nos"
@@ -155274,7 +155290,7 @@
   {
     "item_name": "TVS 10MM X 30MM BOLT (L&KEY BOLT)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 7.239999771118164,
+    "purchase_rate": 7.460000038146973,
     "sale_rate": 12.0,
     "hsn_code": "73181500",
     "unit": "Nos"
@@ -170786,8 +170802,8 @@
   {
     "item_name": "VIBRATER  BULLET MACHINE ONLY",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1649.280029296875,
-    "sale_rate": 1830.0,
+    "purchase_rate": 1678.300048828125,
+    "sale_rate": 1860.0,
     "hsn_code": "84678100",
     "unit": "Nos"
   },
@@ -170834,8 +170850,8 @@
   {
     "item_name": "VIBRATOR MACHINE (BULLET) 2MTR (6FEET)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 2340.0,
-    "sale_rate": 3100.0,
+    "purchase_rate": 2932.39990234375,
+    "sale_rate": 3460.0,
     "hsn_code": "84678100",
     "unit": "Nos"
   },
@@ -174914,7 +174930,7 @@
   {
     "item_name": "WE MALE CONNECTOR (BIG 35-50) SET",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 87.43000030517578,
+    "purchase_rate": 93.6500015258789,
     "sale_rate": 200.0,
     "hsn_code": "85151900",
     "unit": "Set"
@@ -176762,8 +176778,8 @@
   {
     "item_name": "WELDING MACHINE TOSHON IGBT 200AMS",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 5659.27978515625,
-    "sale_rate": 6300.0,
+    "purchase_rate": 5787.89990234375,
+    "sale_rate": 6400.0,
     "hsn_code": "85152190",
     "unit": "Nos"
   },
