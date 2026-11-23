@@ -6802,7 +6802,7 @@
   {
     "item_name": "AS AC9G-1LT ACE EML (ASIAN)+",
     "group_name": "PAINTS",
-    "purchase_rate": 208.50999450683594,
+    "purchase_rate": 210.7480010986328,
     "sale_rate": 220.0,
     "hsn_code": "32091010",
     "unit": "Nos"
@@ -7906,8 +7906,8 @@
   {
     "item_name": "AS BW1A-20LT PRE EML (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 6518.6201171875,
-    "sale_rate": 6860.0,
+    "purchase_rate": 6630.71484375,
+    "sale_rate": 6980.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -8272,6 +8272,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "AS DAMP PROOF 20LT (ASIAN) SALTSHIELD",
+    "group_name": "PAINTS",
+    "purchase_rate": 5977.171875,
+    "sale_rate": 6290.0,
+    "hsn_code": "32091010",
+    "unit": "Nos"
+  },
+  {
     "item_name": "AS DAMP PROOF 20LT (ASIAN) SUP FLEX-ADV",
     "group_name": "PAINTS",
     "purchase_rate": 5909.91015625,
@@ -8292,14 +8300,6 @@
     "group_name": "PAINTS",
     "purchase_rate": 6524.22021484375,
     "sale_rate": 6850.0,
-    "hsn_code": "32091010",
-    "unit": "Nos"
-  },
-  {
-    "item_name": "AS DAMP PROOF 20LT (ASIAN) XTREME-NRML",
-    "group_name": "PAINTS",
-    "purchase_rate": 5909.91015625,
-    "sale_rate": 6220.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -8674,8 +8674,8 @@
   {
     "item_name": "AS EB10-1LT (GLSY-ENAMEL)-ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 273.5199890136719,
-    "sale_rate": 285.0,
+    "purchase_rate": 278.00799560546875,
+    "sale_rate": 295.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -11618,8 +11618,8 @@
   {
     "item_name": "AS MEL SEALER 1LT (ASIAN)+",
     "group_name": "PAINTS",
-    "purchase_rate": 371.04998779296875,
-    "sale_rate": 390.0,
+    "purchase_rate": 377.7770080566406,
+    "sale_rate": 400.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -13754,16 +13754,16 @@
   {
     "item_name": "AS RS 1LT BLACK (GLSY-ENAMEL)-ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 282.49200439453125,
-    "sale_rate": 300.0,
+    "purchase_rate": 292.58099365234375,
+    "sale_rate": 310.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
   {
     "item_name": "AS RS 1LT BR WHITE (GLSY-ENAMEL)-ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 309.39599609375,
-    "sale_rate": 325.0,
+    "purchase_rate": 319.4849853515625,
+    "sale_rate": 335.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -14704,14 +14704,6 @@
     "unit": "Nos"
   },
   {
-    "item_name": "AS TA1-4LT TRAC ADV (ASIAN)-",
-    "group_name": "PAINTS",
-    "purchase_rate": 623.2760009765625,
-    "sale_rate": 660.0,
-    "hsn_code": "32091010",
-    "unit": "Nos"
-  },
-  {
     "item_name": "AS TA15-4LT TRAC ADV (ASIAN)",
     "group_name": "PAINTS",
     "purchase_rate": 799.27001953125,
@@ -14740,6 +14732,14 @@
     "group_name": "PAINTS",
     "purchase_rate": 576.1939697265625,
     "sale_rate": 640.0,
+    "hsn_code": "32091010",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "AS TA2-4LT TRAC ADV (ASIAN)-",
+    "group_name": "PAINTS",
+    "purchase_rate": 721.9240112304688,
+    "sale_rate": 760.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -15594,8 +15594,8 @@
   {
     "item_name": "AS ULTIMA 20LT-WHITE (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 9986.9892578125,
-    "sale_rate": 10500.0,
+    "purchase_rate": 10143.9287109375,
+    "sale_rate": 10680.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -35363,7 +35363,7 @@
     "item_name": "CHALK PEICE (BOX)",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 28.31999969482422,
-    "sale_rate": 55.0,
+    "sale_rate": 50.0,
     "hsn_code": "96099030",
     "unit": "Box"
   },
@@ -69490,7 +69490,7 @@
   {
     "item_name": "GLASS CLEANER-500ML (O2)-1BOX-25NO",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 75.5199966430664,
+    "purchase_rate": 82.5999984741211,
     "sale_rate": 100.0,
     "hsn_code": "34022090",
     "unit": "Nos"
@@ -102962,7 +102962,7 @@
   {
     "item_name": "MYK IVORY 3.750Kg POCKET (744)-SILK",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 577.9990234375,
+    "purchase_rate": 579.9940185546875,
     "sale_rate": 700.0,
     "hsn_code": "32141000",
     "unit": "Nos"
@@ -146396,7 +146396,7 @@
     "group_name": "ELECTRICALS",
     "purchase_rate": 498.989990234375,
     "sale_rate": 750.0,
-    "hsn_code": "940540",
+    "hsn_code": "94054090",
     "unit": "Nos"
   },
   {
@@ -177224,7 +177224,7 @@
     "unit": "Nos"
   },
   {
-    "item_name": "WI 25 PG-11 WIRING GLAND PVC",
+    "item_name": "WI 25 PG-25 WIRING GLAND PVC",
     "group_name": "ELECTRICALS",
     "purchase_rate": 28.31999969482422,
     "sale_rate": 42.0,
