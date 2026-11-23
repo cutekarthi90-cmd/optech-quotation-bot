@@ -970,7 +970,7 @@
   {
     "item_name": "3TON X 3MTR LIFTING BELT KANVEE",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 632.3699951171875,
+    "purchase_rate": 616.5999755859375,
     "sale_rate": 890.0,
     "hsn_code": "59113190",
     "unit": "Nos"
@@ -23114,8 +23114,8 @@
   {
     "item_name": "BL 4\" GRINDING WHEEL (POLYMAK)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 39.90999984741211,
-    "sale_rate": 45.0,
+    "purchase_rate": 33.79999923706055,
+    "sale_rate": 40.0,
     "hsn_code": "68042210",
     "unit": "Nos"
   },
@@ -24210,7 +24210,7 @@
   {
     "item_name": "BL5\" JB CUT OFF WHEEL(1 MM )",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 19.0,
+    "purchase_rate": 21.329999923706055,
     "sale_rate": 25.0,
     "hsn_code": "68042220",
     "unit": "Nos"
@@ -32338,7 +32338,7 @@
   {
     "item_name": "CABLE TIE 350 SQMM SS",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 430.70001220703125,
+    "purchase_rate": 410.6499938964844,
     "sale_rate": 850.0,
     "hsn_code": "73269060",
     "unit": "Pocket"
@@ -32418,7 +32418,7 @@
   {
     "item_name": "CABLE TIE 450MM  PKT (100PS) WHITE",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 200.1199951171875,
+    "purchase_rate": 190.1199951171875,
     "sale_rate": 340.0,
     "hsn_code": "39239090",
     "unit": "Pocket"
@@ -32522,8 +32522,8 @@
   {
     "item_name": "CABLE TROLLY 6MM",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 25.959999084472656,
-    "sale_rate": 50.0,
+    "purchase_rate": 29.5,
+    "sale_rate": 60.0,
     "hsn_code": "84313990",
     "unit": "Nos"
   },
@@ -38602,7 +38602,7 @@
   {
     "item_name": "CORE BIT 10MM SILVER BULLET",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 193.25,
+    "purchase_rate": 149.6999969482422,
     "sale_rate": 250.0,
     "hsn_code": "82075000",
     "unit": "Nos"
@@ -39058,7 +39058,7 @@
   {
     "item_name": "CORE BIT 8.5MM(SILVER BULLET)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 152.64999389648438,
+    "purchase_rate": 135.1999969482422,
     "sale_rate": 230.0,
     "hsn_code": "82075000",
     "unit": "Nos"
@@ -43002,8 +43002,8 @@
   {
     "item_name": "CRIMPING TOOL 16MM  CHAKRA",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1300.3599853515625,
-    "sale_rate": 1490.0,
+    "purchase_rate": 1345.199951171875,
+    "sale_rate": 1520.0,
     "hsn_code": "84672900",
     "unit": "Nos"
   },
@@ -47810,7 +47810,7 @@
   {
     "item_name": "DR 260 X 18 DRILL BIT (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 315.94500732421875,
+    "purchase_rate": 310.95001220703125,
     "sale_rate": 350.0,
     "hsn_code": "82075000",
     "unit": "Nos"
@@ -52594,7 +52594,7 @@
   {
     "item_name": "EARTH CLIP 2 1/2\"(63 MM)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 22.65999984741211,
+    "purchase_rate": 23.600000381469727,
     "sale_rate": 50.0,
     "hsn_code": "85389000",
     "unit": "Nos"
@@ -58994,7 +58994,7 @@
   {
     "item_name": "FE 185SQ ALUMINIUM FERRULE",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 25.579999923706055,
+    "purchase_rate": 39.709999084472656,
     "sale_rate": 60.0,
     "hsn_code": "85369090",
     "unit": "Nos"
@@ -59138,7 +59138,7 @@
   {
     "item_name": "FE 240SQ FERRULE (LONG)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 59.470001220703125,
+    "purchase_rate": 65.5999984741211,
     "sale_rate": 85.0,
     "hsn_code": "85369090",
     "unit": "Nos"
@@ -62946,8 +62946,8 @@
   {
     "item_name": "FLEX HOSE 11MM (POLYAMIDE)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 23.56999969482422,
-    "sale_rate": 35.0,
+    "purchase_rate": 26.799999237060547,
+    "sale_rate": 38.0,
     "hsn_code": "39173100",
     "unit": "Meter"
   },
@@ -62986,7 +62986,7 @@
   {
     "item_name": "FLEX HOSE 3/4\" (PVC-20MM-ROLL) 50MTR",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 531.0,
+    "purchase_rate": 554.5999755859375,
     "sale_rate": 630.0,
     "hsn_code": "39172110",
     "unit": "Roll"
@@ -62994,8 +62994,8 @@
   {
     "item_name": "FLEX HOSE 3/4\" (PVC-20MM-ROLL) 50MTR-BLK",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 554.5999755859375,
-    "sale_rate": 640.0,
+    "purchase_rate": 531.0,
+    "sale_rate": 680.0,
     "hsn_code": "39173100",
     "unit": "Roll"
   },
@@ -67850,7 +67850,7 @@
   {
     "item_name": "GI 2\" UNION",
     "group_name": "PLUMBING",
-    "purchase_rate": 241.6999969482422,
+    "purchase_rate": 253.92999267578125,
     "sale_rate": 320.0,
     "hsn_code": "73072200",
     "unit": "Nos"
@@ -74442,8 +74442,8 @@
   {
     "item_name": "HDPE COLLER 2\"",
     "group_name": "PLUMBING",
-    "purchase_rate": 80.22000122070312,
-    "sale_rate": 110.0,
+    "purchase_rate": 93.79000091552734,
+    "sale_rate": 120.0,
     "hsn_code": "73079910",
     "unit": "Nos"
   },
@@ -75970,7 +75970,7 @@
   {
     "item_name": "HO 1 1/2\" HOSE COLLER (CI)",
     "group_name": "PLUMBING",
-    "purchase_rate": 39.040000915527344,
+    "purchase_rate": 42.689998626708984,
     "sale_rate": 55.0,
     "hsn_code": "73071110",
     "unit": "Nos"
@@ -77250,7 +77250,7 @@
   {
     "item_name": "HRC 63A FUSE HN (SIZE 000)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 302.6700134277344,
+    "purchase_rate": 123.9000015258789,
     "sale_rate": 400.0,
     "hsn_code": "85361090",
     "unit": "Nos"
@@ -81074,7 +81074,7 @@
   {
     "item_name": "JB WOOD HOLE SAW 25MM (1\")",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 114.0,
+    "purchase_rate": 115.0,
     "sale_rate": 170.0,
     "hsn_code": "82075000",
     "unit": "Nos"
@@ -87484,7 +87484,7 @@
     "group_name": "ELECTRICALS",
     "purchase_rate": 759.0800170898438,
     "sale_rate": 950.0,
-    "hsn_code": "8538",
+    "hsn_code": "85311090",
     "unit": "Nos"
   },
   {
@@ -90250,7 +90250,7 @@
   {
     "item_name": "LU 4SQ MM LUGS (COPPER-PIN)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 3.940000057220459,
+    "purchase_rate": 4.409999847412109,
     "sale_rate": 8.0,
     "hsn_code": "85369090",
     "unit": "Nos"
@@ -90338,8 +90338,8 @@
   {
     "item_name": "LU 6SQ MM LUGS (COPPER-PIN)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 2.440000057220459,
-    "sale_rate": 5.0,
+    "purchase_rate": 4.639999866485596,
+    "sale_rate": 8.0,
     "hsn_code": "85369090",
     "unit": "Nos"
   },
@@ -90466,7 +90466,7 @@
   {
     "item_name": "LU EXHAUST 200MM FAN",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 1095.0,
+    "purchase_rate": 1090.0,
     "sale_rate": 1250.0,
     "hsn_code": "84145190",
     "unit": "Nos"
@@ -94506,7 +94506,7 @@
   {
     "item_name": "MARKER PEN (CD)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 7.0,
+    "purchase_rate": 8.0,
     "sale_rate": 10.0,
     "hsn_code": "96081092",
     "unit": "Nos"
@@ -94522,7 +94522,7 @@
   {
     "item_name": "MARKER PEN (PERMANENT)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 12.489999771118164,
+    "purchase_rate": 14.0,
     "sale_rate": 20.0,
     "hsn_code": "96081092",
     "unit": "Nos"
@@ -103120,14 +103120,6 @@
     "unit": "Nos"
   },
   {
-    "item_name": "MYK TILES JOING LIQUID-200ML",
-    "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 105.0,
-    "sale_rate": 125.0,
-    "hsn_code": "32141000",
-    "unit": "Nos"
-  },
-  {
     "item_name": "MYK TILES JOING POWDER (WHITE)",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 48.0,
@@ -103136,7 +103128,15 @@
     "unit": "Nos"
   },
   {
-    "item_name": "MYK TILES JOING POWDER 1KG (BLACK)",
+    "item_name": "MYK TILES JOINING LIQUID-200ML",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 105.0,
+    "sale_rate": 125.0,
+    "hsn_code": "32141000",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "MYK TILES JOINING POWDER 1KG (BLACK)",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 49.99700164794922,
     "sale_rate": 60.0,
@@ -103144,7 +103144,7 @@
     "unit": "Nos"
   },
   {
-    "item_name": "MYK TILES JOING POWDER 1KG (GREY)",
+    "item_name": "MYK TILES JOINING POWDER 1KG (GREY)",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 48.0,
     "sale_rate": 60.0,
@@ -103152,7 +103152,7 @@
     "unit": "Nos"
   },
   {
-    "item_name": "MYK TILES JOING POWDER 1KG (IVORY)",
+    "item_name": "MYK TILES JOINING POWDER 1KG (IVORY)",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 48.0,
     "sale_rate": 60.0,
@@ -103160,7 +103160,7 @@
     "unit": "Nos"
   },
   {
-    "item_name": "MYK TILES JOING POWDER 1KG (RED)",
+    "item_name": "MYK TILES JOINING POWDER 1KG (RED)",
     "group_name": "PAINT ACCESORIES",
     "purchase_rate": 48.0,
     "sale_rate": 60.0,
@@ -109458,7 +109458,7 @@
   {
     "item_name": "PENCIL (COLOUR-APSARA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 5.0,
+    "purchase_rate": 5.5,
     "sale_rate": 8.0,
     "hsn_code": "960990",
     "unit": "Nos"
@@ -110690,8 +110690,8 @@
   {
     "item_name": "PI 2\" PIPE CLAMP",
     "group_name": "PLUMBING",
-    "purchase_rate": 6.389999866485596,
-    "sale_rate": 12.0,
+    "purchase_rate": 9.789999961853027,
+    "sale_rate": 14.0,
     "hsn_code": "73079910",
     "unit": "Nos"
   },
@@ -120509,6 +120509,14 @@
     "purchase_rate": 329.79998779296875,
     "sale_rate": 420.0,
     "hsn_code": "32141000",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "PU SEALENT GUN BCG-04 (GOLDEN BULLET)-600MM",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 710.0,
+    "sale_rate": 850.0,
+    "hsn_code": "82055990",
     "unit": "Nos"
   },
   {
@@ -134924,8 +134932,8 @@
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 181.99000549316406,
     "sale_rate": 220.5,
-    "hsn_code": "7318",
-    "unit": "Box"
+    "hsn_code": "73181500",
+    "unit": "Nos"
   },
   {
     "item_name": "SC BOX 75 X 8 COACH SCREW (75PC)",
@@ -137685,14 +137693,6 @@
     "purchase_rate": 142.77999877929688,
     "sale_rate": 200.0,
     "hsn_code": "8205",
-    "unit": "Nos"
-  },
-  {
-    "item_name": "SILICON GUN BCG-04 (GOLDEN BULLET)-600MM",
-    "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 710.0,
-    "sale_rate": 850.0,
-    "hsn_code": "82055990",
     "unit": "Nos"
   },
   {
@@ -146786,8 +146786,8 @@
   {
     "item_name": "STEEL ROPE 12MM",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 108.55999755859375,
-    "sale_rate": 140.0,
+    "purchase_rate": 112.0999984741211,
+    "sale_rate": 160.0,
     "hsn_code": "73121020",
     "unit": "Meter"
   },
@@ -150034,7 +150034,7 @@
   {
     "item_name": "TANK 5000LT ASTRAL",
     "group_name": "PLUMBING",
-    "purchase_rate": 47025.0,
+    "purchase_rate": 47500.0,
     "sale_rate": 53000.0,
     "hsn_code": "39251000",
     "unit": "Nos"
@@ -164546,7 +164546,7 @@
   {
     "item_name": "UPVC 2 1/2\" X  2\" REDUCER (PRINCE)",
     "group_name": "PLUMBING",
-    "purchase_rate": 105.58999633789062,
+    "purchase_rate": 103.94000244140625,
     "sale_rate": 140.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -165138,7 +165138,7 @@
   {
     "item_name": "UPVC 3\" ELBOW (PRINCE)",
     "group_name": "PLUMBING",
-    "purchase_rate": 214.0,
+    "purchase_rate": 210.41700744628906,
     "sale_rate": 300.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -165242,7 +165242,7 @@
   {
     "item_name": "UPVC 3\" TEE (PRINCE)",
     "group_name": "PLUMBING",
-    "purchase_rate": 289.0,
+    "purchase_rate": 284.1300048828125,
     "sale_rate": 350.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -171402,7 +171402,7 @@
   {
     "item_name": "VP 3 X 1B PULLEY (SOLID)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 207.52999877929688,
+    "purchase_rate": 175.89999389648438,
     "sale_rate": 280.0,
     "hsn_code": "84835090",
     "unit": "Nos"
@@ -176306,7 +176306,7 @@
   {
     "item_name": "WE SPARE MIG CONTACT TIP 1.2MM",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 21.239999771118164,
+    "purchase_rate": 27.100000381469727,
     "sale_rate": 40.0,
     "hsn_code": "85159000",
     "unit": "Nos"
