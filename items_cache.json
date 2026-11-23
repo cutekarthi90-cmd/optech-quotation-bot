@@ -129234,7 +129234,7 @@
   {
     "item_name": "RUSTLICK 370ML",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 327.01300048828125,
+    "purchase_rate": 294.0,
     "sale_rate": 360.0,
     "hsn_code": "34031900",
     "unit": "Nos"
@@ -174090,8 +174090,8 @@
   {
     "item_name": "WE CABLE 95SQ",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 424.79998779296875,
-    "sale_rate": 490.0,
+    "purchase_rate": 442.5,
+    "sale_rate": 500.0,
     "hsn_code": "85446030",
     "unit": "Meter"
   },
