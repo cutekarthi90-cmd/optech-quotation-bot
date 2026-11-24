@@ -133154,9 +133154,9 @@
   {
     "item_name": "SC 75 X 6 WOOD SCREW",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1.6100000143051147,
-    "sale_rate": 1.89,
-    "hsn_code": "",
+    "purchase_rate": 1.7400000095367432,
+    "sale_rate": 2.0,
+    "hsn_code": "73181500",
     "unit": "Nos"
   },
   {
@@ -134946,8 +134946,8 @@
   {
     "item_name": "SC BOX 75 X 6 WOOD SCREW (100PS-GOWRI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 181.99000549316406,
-    "sale_rate": 220.5,
+    "purchase_rate": 174.0,
+    "sale_rate": 240.0,
     "hsn_code": "73181500",
     "unit": "Nos"
   },
@@ -134986,9 +134986,9 @@
   {
     "item_name": "SC BOX 75 X 8 WOOD SCREW (100PS-GOWRI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 206.3800048828125,
+    "purchase_rate": 174.0,
     "sale_rate": 260.0,
-    "hsn_code": "7318",
+    "hsn_code": "73181500",
     "unit": "Pocket"
   },
   {
@@ -178237,6 +178237,30 @@
     "purchase_rate": 998.280029296875,
     "sale_rate": 1100.0,
     "hsn_code": "32091010",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "WP BITU COVER - 1LT (WALL PACE)",
+    "group_name": "PAINTS",
+    "purchase_rate": 177.0,
+    "sale_rate": 200.0,
+    "hsn_code": "32100090",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "WP BITU COVER - 20LT (WALL PACE)",
+    "group_name": "PAINTS",
+    "purchase_rate": 2537.0,
+    "sale_rate": 2800.0,
+    "hsn_code": "32100090",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "WP BITU COVER - 4LT (WALL PACE)",
+    "group_name": "PAINTS",
+    "purchase_rate": 654.9000244140625,
+    "sale_rate": 720.0,
+    "hsn_code": "32100090",
     "unit": "Nos"
   },
   {
