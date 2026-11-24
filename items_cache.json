@@ -65442,8 +65442,8 @@
   {
     "item_name": "FY MALE FEMALE TOP (FYBROS)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 25.110000610351562,
-    "sale_rate": 30.0,
+    "purchase_rate": 28.760000228881836,
+    "sale_rate": 35.0,
     "hsn_code": "85366910",
     "unit": "Nos"
   },
@@ -88874,7 +88874,7 @@
   {
     "item_name": "LO 50MM HITCO LOCK (3KEY)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 78.0,
+    "purchase_rate": 72.0,
     "sale_rate": 100.0,
     "hsn_code": "83011000",
     "unit": "Nos"
@@ -89090,7 +89090,7 @@
   {
     "item_name": "LO EUROPA 3KEY (1.5-TON) BRASS-58MM",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 583.0,
+    "purchase_rate": 644.0,
     "sale_rate": 780.0,
     "hsn_code": "83011000",
     "unit": "Nos"
