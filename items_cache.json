@@ -37378,7 +37378,7 @@
   {
     "item_name": "CO 40/60MFD CONDENSOR(HAVELLS)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 106.0,
+    "purchase_rate": 109.0,
     "sale_rate": 140.0,
     "hsn_code": "85322100",
     "unit": "Nos"
@@ -62234,8 +62234,8 @@
   {
     "item_name": "FL 1\" FLANGE WASER (OVAL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 3.380000114440918,
-    "sale_rate": 6.3,
+    "purchase_rate": 6.119999885559082,
+    "sale_rate": 10.0,
     "hsn_code": "40169350",
     "unit": "Nos"
   },
@@ -65594,8 +65594,8 @@
   {
     "item_name": "G HOSE 1 1/2\" SONA FLEX",
     "group_name": "PLUMBING",
-    "purchase_rate": 2933.010986328125,
-    "sale_rate": 3250.0,
+    "purchase_rate": 3134.64990234375,
+    "sale_rate": 3500.0,
     "hsn_code": "39172390",
     "unit": "Roll"
   },
@@ -71186,8 +71186,8 @@
   {
     "item_name": "GR 1 1/2\" SONA FLEX (FEET)",
     "group_name": "PLUMBING",
-    "purchase_rate": 29.329999923706055,
-    "sale_rate": 36.0,
+    "purchase_rate": 31.34000015258789,
+    "sale_rate": 38.0,
     "hsn_code": "39174000",
     "unit": "Feet"
   },
@@ -75562,9 +75562,9 @@
   {
     "item_name": "HIFI ANGLE HOLDER",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 33.599998474121094,
-    "sale_rate": 45.0,
-    "hsn_code": "",
+    "purchase_rate": 39.56999969482422,
+    "sale_rate": 60.0,
+    "hsn_code": "85366110",
     "unit": "Nos"
   },
   {
@@ -76458,7 +76458,7 @@
   {
     "item_name": "HO 2\" HOSE COLLER (CI)",
     "group_name": "PLUMBING",
-    "purchase_rate": 108.62999725341797,
+    "purchase_rate": 87.48999786376953,
     "sale_rate": 140.0,
     "hsn_code": "84818010",
     "unit": "Nos"
@@ -164474,8 +164474,8 @@
   {
     "item_name": "UPVC 2 1/2\" ELBOW (PRINCE)",
     "group_name": "PLUMBING",
-    "purchase_rate": 81.98999786376953,
-    "sale_rate": 140.0,
+    "purchase_rate": 126.0,
+    "sale_rate": 150.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -177834,15 +177834,15 @@
   {
     "item_name": "WIRING PIN (25MM) PKT-100PS",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 140.0,
-    "sale_rate": 210.0,
+    "purchase_rate": 195.0,
+    "sale_rate": 230.0,
     "hsn_code": "82142010",
     "unit": "Pocket"
   },
   {
     "item_name": "WIRING PIN (25MM) PS",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 1.600000023841858,
+    "purchase_rate": 1.9500000476837158,
     "sale_rate": 2.5,
     "hsn_code": "82142010",
     "unit": "Nos"
