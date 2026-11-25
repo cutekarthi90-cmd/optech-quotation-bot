@@ -8730,8 +8730,8 @@
   {
     "item_name": "AS EB15-1LT (GLSY-ENAMEL)-ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 273.5199890136719,
-    "sale_rate": 290.0,
+    "purchase_rate": 278.00799560546875,
+    "sale_rate": 295.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -11690,8 +11690,8 @@
   {
     "item_name": "AS MEL THINNER 3LT (SD-BRUSH) ASIAN-106",
     "group_name": "PAINTS",
-    "purchase_rate": 929.3099975585938,
-    "sale_rate": 980.0,
+    "purchase_rate": 962.9390258789062,
+    "sale_rate": 1015.0,
     "hsn_code": "38140010",
     "unit": "Nos"
   },
@@ -13746,8 +13746,8 @@
   {
     "item_name": "AS RS 1LT AD GREY (GLSY-ENAMEL)-ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 280.04998779296875,
-    "sale_rate": 295.0,
+    "purchase_rate": 290.3389892578125,
+    "sale_rate": 305.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -13890,8 +13890,8 @@
   {
     "item_name": "AS RS 500ML BROWN (GLSY-ENAMEL)-ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 155.25900268554688,
-    "sale_rate": 165.0,
+    "purchase_rate": 160.30299377441406,
+    "sale_rate": 170.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -15866,8 +15866,8 @@
   {
     "item_name": "AS VARNISH 1LT (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 328.4530029296875,
-    "sale_rate": 345.0,
+    "purchase_rate": 332.93701171875,
+    "sale_rate": 350.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
