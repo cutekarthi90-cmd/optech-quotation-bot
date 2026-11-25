@@ -16464,6 +16464,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "ASPA 1LT MILK WHITE ENAMEL",
+    "group_name": "PAINTS",
+    "purchase_rate": 559.989990234375,
+    "sale_rate": 590.0,
+    "hsn_code": "32081010",
+    "unit": "Nos"
+  },
+  {
     "item_name": "ASPA 1LT OX BLUE ENAMEL",
     "group_name": "PAINTS",
     "purchase_rate": 482.6199951171875,
@@ -173029,6 +173037,14 @@
     "purchase_rate": 558.0,
     "sale_rate": 700.0,
     "hsn_code": "32089010",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "WANDA HARDNER 500ML",
+    "group_name": "PAINT ACCESORIES",
+    "purchase_rate": 1114.9959716796875,
+    "sale_rate": 1170.0,
+    "hsn_code": "38249090",
     "unit": "Nos"
   },
   {
