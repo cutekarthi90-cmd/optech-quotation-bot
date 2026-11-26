@@ -82,7 +82,7 @@
   {
     "item_name": "1 1/4\" NRV (YASH) HORIZONTAL",
     "group_name": "PLUMBING",
-    "purchase_rate": 1035.8800048828125,
+    "purchase_rate": 1021.2999877929688,
     "sale_rate": 1150.0,
     "hsn_code": "84818020",
     "unit": "Nos"
@@ -6138,8 +6138,8 @@
   {
     "item_name": "AS 4LT ALUMINIUM PAINT (ASIAN) 3MANGOS",
     "group_name": "PAINTS",
-    "purchase_rate": 1529.0439453125,
-    "sale_rate": 1610.0,
+    "purchase_rate": 1573.884033203125,
+    "sale_rate": 1660.0,
     "hsn_code": "32089090",
     "unit": "Nos"
   },
@@ -6650,8 +6650,8 @@
   {
     "item_name": "AS AC17G-1LT ACE EML (ASIAN)+",
     "group_name": "PAINTS",
-    "purchase_rate": 233.1699981689453,
-    "sale_rate": 245.0,
+    "purchase_rate": 238.7729949951172,
+    "sale_rate": 250.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -9146,8 +9146,8 @@
   {
     "item_name": "AS EN 1LT BUS GREEN (GLSY-ENAMEL)-ASIAN+",
     "group_name": "PAINTS",
-    "purchase_rate": 280.25,
-    "sale_rate": 295.0,
+    "purchase_rate": 289.2179870605469,
+    "sale_rate": 305.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -9474,8 +9474,8 @@
   {
     "item_name": "AS EN 200ML GO YELLOW (GLSY-ENAMEL)-ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 71.18000030517578,
-    "sale_rate": 75.0,
+    "purchase_rate": 80.1520004272461,
+    "sale_rate": 85.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -9538,7 +9538,7 @@
   {
     "item_name": "AS EN 200ML SKY BLUE (GLSY-ENAMEL)-ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 71.18000030517578,
+    "purchase_rate": 77.91000366210938,
     "sale_rate": 80.0,
     "hsn_code": "32089021",
     "unit": "Nos"
@@ -15690,8 +15690,8 @@
   {
     "item_name": "AS UP-1 20LT (ASIAN) PROTEK",
     "group_name": "PAINTS",
-    "purchase_rate": 10673.0400390625,
-    "sale_rate": 11235.0,
+    "purchase_rate": 10993.09765625,
+    "sale_rate": 11570.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -42066,7 +42066,7 @@
   {
     "item_name": "CRI 1.5 SQ FLEX WIRE (90MTR-COIL)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 2732.7900390625,
+    "purchase_rate": 2688.0,
     "sale_rate": 2890.0,
     "hsn_code": "85446020",
     "unit": "COIL"
@@ -46826,7 +46826,7 @@
   {
     "item_name": "DR 160 X 12 DRILL BIT (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 118.94000244140625,
+    "purchase_rate": 117.05000305175781,
     "sale_rate": 140.0,
     "hsn_code": "82075000",
     "unit": "Nos"
@@ -55176,6 +55176,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "EPOXY BLACK 1LTR (ASIAN) - 2 PACK",
+    "group_name": "PAINTS",
+    "purchase_rate": 346.3890075683594,
+    "sale_rate": 365.0,
+    "hsn_code": "32089090",
+    "unit": "Nos"
+  },
+  {
     "item_name": "EPOXY BLACK 1LTR (ASIAN)+",
     "group_name": "PAINTS",
     "purchase_rate": 458.1199951171875,
@@ -55202,8 +55210,8 @@
   {
     "item_name": "EPOXY BLACK 4LTR (ASIAN) - 2 PACK",
     "group_name": "PAINTS",
-    "purchase_rate": 1214.0400390625,
-    "sale_rate": 1280.0,
+    "purchase_rate": 1258.883056640625,
+    "sale_rate": 1325.0,
     "hsn_code": "32089090",
     "unit": "Nos"
   },
@@ -55642,8 +55650,8 @@
   {
     "item_name": "EPOXY OX.BLUE 4LTR (MRF)+HARDNER",
     "group_name": "PAINTS",
-    "purchase_rate": 2452.8701171875,
-    "sale_rate": 2700.0,
+    "purchase_rate": 2590.22998046875,
+    "sale_rate": 2850.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -56816,6 +56824,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "EPOXY WHITE 4LTR (ASIAN) - 2 PACK",
+    "group_name": "PAINTS",
+    "purchase_rate": 1325.02197265625,
+    "sale_rate": 1395.0,
+    "hsn_code": "32089090",
+    "unit": "Nos"
+  },
+  {
     "item_name": "EPOXY WHITE 4LTR (ASIAN)+",
     "group_name": "PAINTS",
     "purchase_rate": 1771.698974609375,
@@ -57210,7 +57226,7 @@
   {
     "item_name": "EV 10W LED FLOOD LIGHT (LEDURE)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 434.989990234375,
+    "purchase_rate": 465.0,
     "sale_rate": 600.0,
     "hsn_code": "94054090",
     "unit": "Nos"
@@ -65842,8 +65858,8 @@
   {
     "item_name": "G HOSE 3/4\" TRANSPERENT HOSE (100FT-ROLL)",
     "group_name": "PLUMBING",
-    "purchase_rate": 1106.1800537109375,
-    "sale_rate": 1300.0,
+    "purchase_rate": 1227.0899658203125,
+    "sale_rate": 1400.0,
     "hsn_code": "39172390",
     "unit": "Roll"
   },
@@ -67306,7 +67322,7 @@
   {
     "item_name": "GI 1 1/4\" BEND",
     "group_name": "PLUMBING",
-    "purchase_rate": 63.88999938964844,
+    "purchase_rate": 68.5999984741211,
     "sale_rate": 90.0,
     "hsn_code": "73063090",
     "unit": "Nos"
@@ -67834,8 +67850,8 @@
   {
     "item_name": "GI 2\" ELBOW",
     "group_name": "PLUMBING",
-    "purchase_rate": 130.38999938964844,
-    "sale_rate": 165.0,
+    "purchase_rate": 136.97999572753906,
+    "sale_rate": 170.0,
     "hsn_code": "73072200",
     "unit": "Nos"
   },
@@ -71586,8 +71602,8 @@
   {
     "item_name": "GR 20MM BRAIDED HOSE ( ROLL-30MTR)",
     "group_name": "PLUMBING",
-    "purchase_rate": 2879.0,
-    "sale_rate": 3300.0,
+    "purchase_rate": 2940.0,
+    "sale_rate": 3350.0,
     "hsn_code": "39170000",
     "unit": "Nos"
   },
@@ -71738,8 +71754,8 @@
   {
     "item_name": "GR 3/4\" TRANSPARENT HOSE (RAKSHA) FT",
     "group_name": "PLUMBING",
-    "purchase_rate": 11.779999732971191,
-    "sale_rate": 15.0,
+    "purchase_rate": 12.270000457763672,
+    "sale_rate": 16.0,
     "hsn_code": "39174000",
     "unit": "Feet"
   },
@@ -97938,8 +97954,8 @@
   {
     "item_name": "MRF EN 1LT BL-BE-WHITE (PU-GLSY-SPECTA)",
     "group_name": "PAINTS",
-    "purchase_rate": 345.54998779296875,
-    "sale_rate": 380.0,
+    "purchase_rate": 385.260009765625,
+    "sale_rate": 420.0,
     "hsn_code": "32082090",
     "unit": "Nos"
   },
@@ -100210,8 +100226,8 @@
   {
     "item_name": "MS 1 1/2\" ELBOW",
     "group_name": "PLUMBING",
-    "purchase_rate": 360.489990234375,
-    "sale_rate": 550.0,
+    "purchase_rate": 424.4460144042969,
+    "sale_rate": 570.0,
     "hsn_code": "73079990",
     "unit": "Nos"
   },
@@ -114594,7 +114610,7 @@
   {
     "item_name": "PN 8MM X 1/2\" MALE CONECTOR (LW)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 36.34000015258789,
+    "purchase_rate": 46.720001220703125,
     "sale_rate": 60.0,
     "hsn_code": "84799090",
     "unit": "Nos"
@@ -130066,7 +130082,7 @@
   {
     "item_name": "SAL WIRE  50GM (HOKI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 243.1300048828125,
+    "purchase_rate": 245.02000427246094,
     "sale_rate": 270.0,
     "hsn_code": "85151100",
     "unit": "Nos"
@@ -139082,7 +139098,7 @@
   {
     "item_name": "SP 22NO IMPACT SOCKET 1/2\" TAPARIA",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 104.81999969482422,
+    "purchase_rate": 109.0,
     "sale_rate": 230.0,
     "hsn_code": "82042000",
     "unit": "Nos"
@@ -140810,8 +140826,8 @@
   {
     "item_name": "SP RINGS  36 X 38 (VENUS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 471.4100036621094,
-    "sale_rate": 600.0,
+    "purchase_rate": 534.5399780273438,
+    "sale_rate": 610.0,
     "hsn_code": "82041110",
     "unit": "Nos"
   },
@@ -140826,7 +140842,7 @@
   {
     "item_name": "SP RINGS 10 X 11 (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 63.93000030517578,
+    "purchase_rate": 62.88999938964844,
     "sale_rate": 80.0,
     "hsn_code": "82041110",
     "unit": "Nos"
@@ -142392,6 +142408,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "SS 1 1/2\" X1 1/4\" REDUCER THREADED",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 300.8999938964844,
+    "sale_rate": 380.0,
+    "hsn_code": "73072200",
+    "unit": "Nos"
+  },
+  {
     "item_name": "SS 1 1/4 \" Bend (weldable)",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 140.17999267578125,
@@ -142578,7 +142602,7 @@
   {
     "item_name": "SS 1\" X 1/2\" R BUSH",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 127.31999969482422,
+    "purchase_rate": 133.19000244140625,
     "sale_rate": 180.0,
     "hsn_code": "73072900",
     "unit": "Nos"
@@ -142602,7 +142626,7 @@
   {
     "item_name": "SS 1\" X 3/4 REDUCER",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 164.89999389648438,
+    "purchase_rate": 172.50999450683594,
     "sale_rate": 320.0,
     "hsn_code": "73072900",
     "unit": "Nos"
@@ -142610,7 +142634,7 @@
   {
     "item_name": "SS 1\" X 3/4\" BUSH",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 127.31999969482422,
+    "purchase_rate": 133.19000244140625,
     "sale_rate": 180.0,
     "hsn_code": "73072900",
     "unit": "Nos"
@@ -142650,7 +142674,7 @@
   {
     "item_name": "SS 1/2\" BALL VALVE (AICQ DECO)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 466.1000061035156,
+    "purchase_rate": 380.54998779296875,
     "sale_rate": 530.0,
     "hsn_code": "84818030",
     "unit": "Nos"
@@ -143170,7 +143194,7 @@
   {
     "item_name": "SS 11/4\" X 1\" R BUSH",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 193.44000244140625,
+    "purchase_rate": 203.0,
     "sale_rate": 300.0,
     "hsn_code": "73072900",
     "unit": "Nos"
@@ -143482,7 +143506,7 @@
   {
     "item_name": "SS 22MM HOLESAW (BULLET)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 218.50999450683594,
+    "purchase_rate": 192.9600067138672,
     "sale_rate": 300.0,
     "hsn_code": "82075000",
     "unit": "Nos"
@@ -143514,7 +143538,7 @@
   {
     "item_name": "SS 28MM HOLESAW (BULLET)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 277.5299987792969,
+    "purchase_rate": 221.1699981689453,
     "sale_rate": 320.0,
     "hsn_code": "82075000",
     "unit": "Nos"
@@ -143682,7 +143706,7 @@
   {
     "item_name": "SS 3/4\" X 1/2\" R BUSH",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 96.33000183105469,
+    "purchase_rate": 101.0999984741211,
     "sale_rate": 140.0,
     "hsn_code": "73072900",
     "unit": "Nos"
@@ -143818,8 +143842,8 @@
   {
     "item_name": "SS 38MM HOLESAW (BULLET)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 376.95098876953125,
-    "sale_rate": 500.0,
+    "purchase_rate": 334.3599853515625,
+    "sale_rate": 480.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -145570,8 +145594,8 @@
   {
     "item_name": "SS BO 8 X 60MM (BOLT)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 10.779999732971191,
-    "sale_rate": 23.0,
+    "purchase_rate": 10.960000038146973,
+    "sale_rate": 20.0,
     "hsn_code": "73181500",
     "unit": "Nos"
   },
@@ -147354,7 +147378,7 @@
   {
     "item_name": "SU 1 1/2LB  METRO(PVC HANDLE)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 229.60000610351562,
+    "purchase_rate": 235.77000427246094,
     "sale_rate": 290.0,
     "hsn_code": "82052000",
     "unit": "Nos"
@@ -153120,6 +153144,14 @@
     "unit": "Nos"
   },
   {
+    "item_name": "THERMOMETER 550 C SKOLE",
+    "group_name": "HARDWARE ACCESSORIES",
+    "purchase_rate": 1315.280029296875,
+    "sale_rate": 1600.0,
+    "hsn_code": "90251910",
+    "unit": "Nos"
+  },
+  {
     "item_name": "THERMOSTAT 7\" VENUS",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 190.0,
@@ -155314,7 +155346,7 @@
   {
     "item_name": "TVS 10MM X 30MM BOLT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 6.28000020980835,
+    "purchase_rate": 6.809999942779541,
     "sale_rate": 12.0,
     "hsn_code": "73181500",
     "unit": "Nos"
@@ -176114,8 +176146,8 @@
   {
     "item_name": "WE SHIELD GAUDI FACE MASK (LONG)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 115.63999938964844,
-    "sale_rate": 190.0,
+    "purchase_rate": 129.8000030517578,
+    "sale_rate": 200.0,
     "hsn_code": "65061090",
     "unit": "Nos"
   },
