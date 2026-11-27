@@ -87859,7 +87859,7 @@
     "item_name": "LEX 63A 2P MCB (LEXIC)",
     "group_name": "ELECTRICALS",
     "purchase_rate": 1171.77001953125,
-    "sale_rate": 1400.0,
+    "sale_rate": 1300.0,
     "hsn_code": "85362030",
     "unit": "Nos"
   },
@@ -141834,7 +141834,7 @@
   {
     "item_name": "SPONGE BUNDLE (WHITE-18PS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 219.47999572753906,
+    "purchase_rate": 220.66000366210938,
     "sale_rate": 260.0,
     "hsn_code": "39211310",
     "unit": "Bundle"
@@ -150468,7 +150468,7 @@
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 31.860000610351562,
     "sale_rate": 40.0,
-    "hsn_code": "8205",
+    "hsn_code": "82054000",
     "unit": "Nos"
   },
   {
@@ -151100,7 +151100,7 @@
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 40.880001068115234,
     "sale_rate": 52.5,
-    "hsn_code": "8205",
+    "hsn_code": "82054000",
     "unit": "Nos"
   },
   {
@@ -157893,7 +157893,7 @@
     "purchase_rate": 16.0,
     "sale_rate": 22.0,
     "hsn_code": "73181500",
-    "unit": "Kg"
+    "unit": "Nos"
   },
   {
     "item_name": "U BOLT 3/4\"",
