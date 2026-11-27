@@ -25018,8 +25018,8 @@
   {
     "item_name": "BO 12 X 1/2 BOLT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 112.01000213623047,
-    "sale_rate": 130.0,
+    "purchase_rate": 122.0,
+    "sale_rate": 140.0,
     "hsn_code": "73181500",
     "unit": "Kg"
   },
@@ -25698,8 +25698,8 @@
   {
     "item_name": "BO 4 X 1/2 BOLT+",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 102.0,
-    "sale_rate": 120.0,
+    "purchase_rate": 110.0,
+    "sale_rate": 130.0,
     "hsn_code": "73181500",
     "unit": "Kg"
   },
@@ -31898,7 +31898,7 @@
   {
     "item_name": "CA 25MM-CASING PIPE BLUE( 3/4\") BOX",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 44.650001525878906,
+    "purchase_rate": 40.5,
     "sale_rate": 55.0,
     "hsn_code": "39162019",
     "unit": "Nos"
@@ -31954,7 +31954,7 @@
   {
     "item_name": "CA 40MM-BOX CASING PIPE ( 1 1/2\")",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 71.25,
+    "purchase_rate": 76.48999786376953,
     "sale_rate": 110.0,
     "hsn_code": "39162019",
     "unit": "Nos"
@@ -31986,7 +31986,7 @@
   {
     "item_name": "CA 50MM CASINGN PIPE (2\")",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 86.0,
+    "purchase_rate": 82.80000305175781,
     "sale_rate": 115.0,
     "hsn_code": "39162019",
     "unit": "Nos"
@@ -72994,7 +72994,7 @@
   {
     "item_name": "HA 20W LED BATTERN CW",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 96.0,
+    "purchase_rate": 100.0,
     "sale_rate": 130.0,
     "hsn_code": "94054090",
     "unit": "Nos"
@@ -85048,10 +85048,10 @@
     "unit": "Nos"
   },
   {
-    "item_name": "L & T 2HP STARTER (SP) 11-18A",
+    "item_name": "L & T 2HP STARTER (SP) 9-14A",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 2001.300048828125,
-    "sale_rate": 2300.0,
+    "purchase_rate": 2640.60009765625,
+    "sale_rate": 2950.0,
     "hsn_code": "8536",
     "unit": "Nos"
   },
@@ -107546,7 +107546,7 @@
   {
     "item_name": "NU 1/4\" NUT (GI)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 122.0,
+    "purchase_rate": 130.0,
     "sale_rate": 145.0,
     "hsn_code": "73181600",
     "unit": "Kg"
@@ -137768,18 +137768,18 @@
     "unit": "Nos"
   },
   {
-    "item_name": "SILK WIRE (HVY-COIL-100MTR) (KUNDAN-40/0052)",
+    "item_name": "SILK WIRE (HVY-COIL-90MTR) (KUNDAN-40/0052)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 2519.590087890625,
-    "sale_rate": 2700.0,
+    "purchase_rate": 2676.77001953125,
+    "sale_rate": 2950.0,
     "hsn_code": "85446020",
     "unit": "COIL"
   },
   {
     "item_name": "SILK WIRE (HVY-MTR)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 25.440000534057617,
-    "sale_rate": 30.0,
+    "purchase_rate": 29.739999771118164,
+    "sale_rate": 34.0,
     "hsn_code": "85446020",
     "unit": "Meter"
   },
@@ -141130,8 +141130,8 @@
   {
     "item_name": "SP RINGS 34 X 36 (VENUS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 428.3399963378906,
-    "sale_rate": 650.0,
+    "purchase_rate": 485.57000732421875,
+    "sale_rate": 600.0,
     "hsn_code": "82041110",
     "unit": "Nos"
   },
@@ -141170,8 +141170,8 @@
   {
     "item_name": "SP RINGS 36 X 41 SPANER (VENUS)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 544.27001953125,
-    "sale_rate": 650.0,
+    "purchase_rate": 438.9599914550781,
+    "sale_rate": 630.0,
     "hsn_code": "82041110",
     "unit": "Nos"
   },
@@ -149346,8 +149346,8 @@
   {
     "item_name": "TA 15MTR FREEMENS (FIBER)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 189.55999755859375,
-    "sale_rate": 250.0,
+    "purchase_rate": 199.1199951171875,
+    "sale_rate": 260.0,
     "hsn_code": "90178010",
     "unit": "Nos"
   },
@@ -152786,7 +152786,7 @@
   {
     "item_name": "THAR POI 12 X 9 (90-GSM)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 345.6000061035156,
+    "purchase_rate": 351.0,
     "sale_rate": 510.0,
     "hsn_code": "63062990",
     "unit": "Nos"
@@ -152970,8 +152970,8 @@
   {
     "item_name": "THAR SHEET (20MTR -ROLL)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 2000.0,
-    "sale_rate": 2350.0,
+    "purchase_rate": 2149.989990234375,
+    "sale_rate": 2450.0,
     "hsn_code": "68071010",
     "unit": "Roll"
   },
