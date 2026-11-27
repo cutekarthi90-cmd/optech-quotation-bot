@@ -39370,8 +39370,8 @@
   {
     "item_name": "CPVC 1 1/2\" BEND (ASHIRVAD)",
     "group_name": "PLUMBING",
-    "purchase_rate": 247.64999389648438,
-    "sale_rate": 282.0,
+    "purchase_rate": 253.6999969482422,
+    "sale_rate": 285.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -39490,8 +39490,8 @@
   {
     "item_name": "CPVC 1 1/2\" PIPE SDR 11 (5M)",
     "group_name": "PLUMBING",
-    "purchase_rate": 1410.6600341796875,
-    "sale_rate": 1550.0,
+    "purchase_rate": 1417.3900146484375,
+    "sale_rate": 1560.0,
     "hsn_code": "39172390",
     "unit": "LENGTH"
   },
@@ -67858,8 +67858,8 @@
   {
     "item_name": "GI 2\" H.NIPPLE",
     "group_name": "PLUMBING",
-    "purchase_rate": 117.4800033569336,
-    "sale_rate": 150.0,
+    "purchase_rate": 130.85000610351562,
+    "sale_rate": 160.0,
     "hsn_code": "73079210",
     "unit": "Nos"
   },
@@ -85048,14 +85048,6 @@
     "unit": "Nos"
   },
   {
-    "item_name": "L & T 2HP STARTER (3P) 4-6.5A",
-    "group_name": "ELECTRICALS",
-    "purchase_rate": 3075.429931640625,
-    "sale_rate": 3400.0,
-    "hsn_code": "85369010",
-    "unit": "Nos"
-  },
-  {
     "item_name": "L & T 2HP STARTER (SP) 11-18A",
     "group_name": "ELECTRICALS",
     "purchase_rate": 2001.300048828125,
@@ -86005,6 +85997,14 @@
     "purchase_rate": 1167.1300048828125,
     "sale_rate": 1300.0,
     "hsn_code": "85362030",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "L&T 2HP STARTER (3P) 4-6.5A",
+    "group_name": "ELECTRICALS",
+    "purchase_rate": 3075.429931640625,
+    "sale_rate": 3400.0,
+    "hsn_code": "85369010",
     "unit": "Nos"
   },
   {
@@ -87458,8 +87458,8 @@
   {
     "item_name": "LEG 9M OPEN BOX (LEGRAND)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 183.0,
-    "sale_rate": 210.0,
+    "purchase_rate": 202.5,
+    "sale_rate": 230.0,
     "hsn_code": "85389000",
     "unit": "Nos"
   },
@@ -87802,8 +87802,8 @@
   {
     "item_name": "LEX 40A 300MA 4P RCCB (LEXIC) S",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 2790.719970703125,
-    "sale_rate": 3130.0,
+    "purchase_rate": 3550.10009765625,
+    "sale_rate": 3950.0,
     "hsn_code": "853610",
     "unit": "Nos"
   },
@@ -150419,7 +150419,7 @@
     "item_name": "TAP 901 SCREW DRIVER (TAPARIA)",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 34.380001068115234,
-    "sale_rate": 45.0,
+    "sale_rate": 40.0,
     "hsn_code": "82054000",
     "unit": "Nos"
   },
