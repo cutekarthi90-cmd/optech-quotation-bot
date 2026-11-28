@@ -24595,7 +24595,7 @@
     "item_name": "BO 1 1/2 X 5/16 BOLT",
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 107.0,
-    "sale_rate": 123.0,
+    "sale_rate": 130.0,
     "hsn_code": "73181500",
     "unit": "Kg"
   },
@@ -125932,7 +125932,7 @@
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 0.5,
     "sale_rate": 0.89,
-    "hsn_code": "7616",
+    "hsn_code": "76161000",
     "unit": "Nos"
   },
   {
