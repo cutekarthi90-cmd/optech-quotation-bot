@@ -5442,7 +5442,7 @@
   {
     "item_name": "AS 1KG PATTI AGRILIC (PASTE-ASIAN)+",
     "group_name": "PAINTS",
-    "purchase_rate": 81.83000183105469,
+    "purchase_rate": 82.9540023803711,
     "sale_rate": 90.0,
     "hsn_code": "32141000",
     "unit": "Nos"
@@ -6738,8 +6738,8 @@
   {
     "item_name": "AS AC2G-20LT ACE EML (ASIAN)",
     "group_name": "PAINTS",
-    "purchase_rate": 3866.3291015625,
-    "sale_rate": 4070.0,
+    "purchase_rate": 3933.589111328125,
+    "sale_rate": 4140.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -6810,8 +6810,8 @@
   {
     "item_name": "AS AC9G-20LT ACE EML (ASIAN) +",
     "group_name": "PAINTS",
-    "purchase_rate": 3849.513916015625,
-    "sale_rate": 4050.0,
+    "purchase_rate": 3916.77392578125,
+    "sale_rate": 4125.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -8170,8 +8170,8 @@
   {
     "item_name": "AS DAM SHEATH-EXT 1LT (ADV) ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 236.52999877929688,
-    "sale_rate": 250.0,
+    "purchase_rate": 247.74099731445312,
+    "sale_rate": 260.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -15186,8 +15186,8 @@
   {
     "item_name": "AS TOUCH WOOD SILKY MAT 1LT (2IN1)-ASIAN+",
     "group_name": "PAINTS",
-    "purchase_rate": 375.5350036621094,
-    "sale_rate": 395.0,
+    "purchase_rate": 388.98699951171875,
+    "sale_rate": 410.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -103874,8 +103874,8 @@
   {
     "item_name": "NC 5LTR NC THINNER (NRML) 6NO=1BOX",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 550.469970703125,
-    "sale_rate": 850.0,
+    "purchase_rate": 700.3300170898438,
+    "sale_rate": 900.0,
     "hsn_code": "38140010",
     "unit": "Nos"
   },
