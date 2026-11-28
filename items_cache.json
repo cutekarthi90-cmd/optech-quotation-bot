@@ -2498,16 +2498,16 @@
   {
     "item_name": "AGM 1LT FLOOR COAT-RED-AGARAM",
     "group_name": "PAINTS",
-    "purchase_rate": 322.0,
-    "sale_rate": 355.0,
+    "purchase_rate": 332.1520080566406,
+    "sale_rate": 365.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
   {
     "item_name": "AGM 1LT FLOOR COAT-YELLOW-AGARAM",
     "group_name": "PAINTS",
-    "purchase_rate": 348.07000732421875,
-    "sale_rate": 385.0,
+    "purchase_rate": 359.281005859375,
+    "sale_rate": 395.0,
     "hsn_code": "32089029",
     "unit": "Nos"
   },
@@ -9170,8 +9170,8 @@
   {
     "item_name": "AS EN 1LT DARK GREEN (GLSY-ENAMEL)-ASIAN",
     "group_name": "PAINTS",
-    "purchase_rate": 307.1499938964844,
-    "sale_rate": 325.0,
+    "purchase_rate": 316.12200927734375,
+    "sale_rate": 330.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -38275,7 +38275,7 @@
     "item_name": "COPPER  8SWG",
     "group_name": "ELECTRICALS",
     "purchase_rate": 1583.56005859375,
-    "sale_rate": 1760.0,
+    "sale_rate": 1950.0,
     "hsn_code": "74081990",
     "unit": "Kg"
   },
@@ -38307,7 +38307,7 @@
     "item_name": "COPPER 12SWG",
     "group_name": "ELECTRICALS",
     "purchase_rate": 1711.0,
-    "sale_rate": 1890.0,
+    "sale_rate": 1950.0,
     "hsn_code": "74081990",
     "unit": "Kg"
   },
@@ -43594,8 +43594,8 @@
   {
     "item_name": "DDL PISTA DISTEMPER 1KG",
     "group_name": "PAINTS",
-    "purchase_rate": 56.154998779296875,
-    "sale_rate": 65.0,
+    "purchase_rate": 60.79999923706055,
+    "sale_rate": 70.0,
     "hsn_code": "32100011",
     "unit": "Nos"
   },
@@ -125322,8 +125322,8 @@
   {
     "item_name": "RED OXIDE 1KG SILKY TOUCH (AGARAM)-1KG=15SQ.FT",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 136.75,
-    "sale_rate": 185.0,
+    "purchase_rate": 147.9720001220703,
+    "sale_rate": 200.0,
     "hsn_code": "26011290",
     "unit": "Nos"
   },
@@ -137476,7 +137476,7 @@
     "group_name": "HARDWARE ACCESSORIES",
     "purchase_rate": 225.85000610351562,
     "sale_rate": 330.0,
-    "hsn_code": "7412",
+    "hsn_code": "84799090",
     "unit": "Nos"
   },
   {
