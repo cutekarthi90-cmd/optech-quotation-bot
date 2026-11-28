@@ -6354,8 +6354,8 @@
   {
     "item_name": "AS AB11S-20LT APEX (ASIAN)+",
     "group_name": "PAINTS",
-    "purchase_rate": 6445.75,
-    "sale_rate": 6785.0,
+    "purchase_rate": 6535.43017578125,
+    "sale_rate": 6880.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
@@ -12194,8 +12194,8 @@
   {
     "item_name": "AS PRE EML 10LT WHITE (NRML) ASIAN-+",
     "group_name": "PAINTS",
-    "purchase_rate": 3334.97998046875,
-    "sale_rate": 3510.0,
+    "purchase_rate": 3435.864990234375,
+    "sale_rate": 3580.0,
     "hsn_code": "32091010",
     "unit": "Nos"
   },
