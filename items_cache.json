@@ -11954,8 +11954,8 @@
   {
     "item_name": "AS PR 1LT YELL METAL PRIMER (ASIAN)+",
     "group_name": "PAINTS",
-    "purchase_rate": 264.5559997558594,
-    "sale_rate": 280.0,
+    "purchase_rate": 271.2820129394531,
+    "sale_rate": 285.0,
     "hsn_code": "32089021",
     "unit": "Nos"
   },
@@ -17842,8 +17842,8 @@
   {
     "item_name": "AST 4\" GALI TRAP (ASTRAL)",
     "group_name": "ASTRAL",
-    "purchase_rate": 0.0,
-    "sale_rate": 390.0,
+    "purchase_rate": 867.0,
+    "sale_rate": 1050.0,
     "hsn_code": "39174000",
     "unit": "Nos"
   },
@@ -18018,9 +18018,9 @@
   {
     "item_name": "AST 5 ELBOW (LW)",
     "group_name": "PLUMBING",
-    "purchase_rate": 235.38999938964844,
-    "sale_rate": 290.0,
-    "hsn_code": "3917",
+    "purchase_rate": 270.5,
+    "sale_rate": 320.0,
+    "hsn_code": "39174000",
     "unit": "Nos"
   },
   {
@@ -19818,7 +19818,7 @@
   {
     "item_name": "BA 2\" PVC BALL VALVE (PL) FLO",
     "group_name": "PLUMBING",
-    "purchase_rate": 287.5199890136719,
+    "purchase_rate": 320.6000061035156,
     "sale_rate": 430.0,
     "hsn_code": "39174000",
     "unit": "Nos"
@@ -25546,8 +25546,8 @@
   {
     "item_name": "BO 3 X 3/8 BOLT (CIPL)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 124.0,
-    "sale_rate": 138.0,
+    "purchase_rate": 126.0,
+    "sale_rate": 140.0,
     "hsn_code": "73181500",
     "unit": "Kg"
   },
@@ -25874,8 +25874,8 @@
   {
     "item_name": "BO 5\" X 3/8\" BOLT",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 108.0999984741211,
-    "sale_rate": 125.0,
+    "purchase_rate": 115.0,
+    "sale_rate": 130.0,
     "hsn_code": "73181500",
     "unit": "Kg"
   },
@@ -44466,7 +44466,7 @@
   {
     "item_name": "DIGITAL CLAMP METER (WORK ZONE)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 886.2899780273438,
+    "purchase_rate": 899.0,
     "sale_rate": 1100.0,
     "hsn_code": "90269000",
     "unit": "Nos"
@@ -46954,8 +46954,8 @@
   {
     "item_name": "DR 16MM TAPER SHANK (TOTEM)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 1144.050048828125,
-    "sale_rate": 1350.0,
+    "purchase_rate": 1219.0,
+    "sale_rate": 1400.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -49786,8 +49786,8 @@
   {
     "item_name": "DR VEL BIT (6PSC SET) JB",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 140.0,
-    "sale_rate": 210.0,
+    "purchase_rate": 181.0,
+    "sale_rate": 220.0,
     "hsn_code": "82075000",
     "unit": "Nos"
   },
@@ -82650,8 +82650,8 @@
   {
     "item_name": "KARRUPU KAMBI (SIVA)",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 2249.9599609375,
-    "sale_rate": 2500.0,
+    "purchase_rate": 2212.5,
+    "sale_rate": 2450.0,
     "hsn_code": "721710",
     "unit": "Roll"
   },
@@ -102082,8 +102082,8 @@
   {
     "item_name": "MU 2M SURFACE BOX (MUSK)",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 37.810001373291016,
-    "sale_rate": 55.0,
+    "purchase_rate": 44.0,
+    "sale_rate": 60.0,
     "hsn_code": "85389000",
     "unit": "Nos"
   },
@@ -103442,8 +103442,8 @@
   {
     "item_name": "NA 2 1/2\" X 10 NAIL +",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 74.0,
-    "sale_rate": 82.0,
+    "purchase_rate": 73.0,
+    "sale_rate": 81.0,
     "hsn_code": "73170013",
     "unit": "Kg"
   },
@@ -103482,8 +103482,8 @@
   {
     "item_name": "NA 2\" X 12 NAIL",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 74.0,
-    "sale_rate": 82.0,
+    "purchase_rate": 75.0,
+    "sale_rate": 83.0,
     "hsn_code": "73170013",
     "unit": "Kg"
   },
@@ -129274,7 +129274,7 @@
   {
     "item_name": "RUSTLICK 133ML",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 176.0,
+    "purchase_rate": 186.0,
     "sale_rate": 210.0,
     "hsn_code": "34031900",
     "unit": "Nos"
@@ -152146,7 +152146,7 @@
   {
     "item_name": "TE 4\" TEFLON GASKET",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 180.9199981689453,
+    "purchase_rate": 161.0,
     "sale_rate": 230.0,
     "hsn_code": "39269099",
     "unit": "Nos"
@@ -152522,9 +152522,9 @@
   {
     "item_name": "TESTER (CONTUNITY) S",
     "group_name": "ELECTRICALS",
-    "purchase_rate": 43.0,
-    "sale_rate": 60.0,
-    "hsn_code": "",
+    "purchase_rate": 50.0,
+    "sale_rate": 65.0,
+    "hsn_code": "82054000",
     "unit": "Nos"
   },
   {
@@ -163466,8 +163466,8 @@
   {
     "item_name": "UPVC 1 1/2\" FLANGE (ASTRAL-PIECE)",
     "group_name": "PLUMBING",
-    "purchase_rate": 257.8800048828125,
-    "sale_rate": 290.0,
+    "purchase_rate": 267.0,
+    "sale_rate": 300.0,
     "hsn_code": "39172390",
     "unit": "Nos"
   },
@@ -173962,7 +173962,7 @@
   {
     "item_name": "WE ARC HOLDER 600A (KASHMIR)FASTOSPARK",
     "group_name": "HARDWARE ACCESSORIES",
-    "purchase_rate": 457.5400085449219,
+    "purchase_rate": 443.0,
     "sale_rate": 530.0,
     "hsn_code": "85159000",
     "unit": "Nos"
