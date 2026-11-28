@@ -54186,8 +54186,8 @@
   {
     "item_name": "EMR 220NO-4\" EMERY ROLL (MTR)",
     "group_name": "PAINT ACCESORIES",
-    "purchase_rate": 47.0,
-    "sale_rate": 55.0,
+    "purchase_rate": 70.13999938964844,
+    "sale_rate": 75.0,
     "hsn_code": "68052010",
     "unit": "Meter"
   },
@@ -56525,6 +56525,14 @@
     "purchase_rate": 2386.14990234375,
     "sale_rate": 2600.0,
     "hsn_code": "32089090",
+    "unit": "Nos"
+  },
+  {
+    "item_name": "EPOXY SM GREY 1LTR (ASIAN) - 2 PACK",
+    "group_name": "PAINTS",
+    "purchase_rate": 350.87298583984375,
+    "sale_rate": 370.0,
+    "hsn_code": "320890",
     "unit": "Nos"
   },
   {
